@@ -84,7 +84,7 @@ Basic info about all Energized Protection packs.
 
 | PACK NAME | DESCRIPTION | BEST USE DEVICE | UNIQUE ENTRIES | SIZE (AVG.) | SOURCE |
 |:---------:|:-----------:|:---------------:|:--------------:|:-----------:|:------:|
-| Basic | Basic list of whitelisted domains. | ANY | _basict_ | _basics_ | [/basic](https://github.com/EnergizedProtection/unblock/tree/master/basic) |
+| Basic | Basic list of whitelisted domains. | ANY | _basict_ | _basiccs_ | [/basic](https://github.com/EnergizedProtection/unblock/tree/master/basic) |
 
 
 ## Formats

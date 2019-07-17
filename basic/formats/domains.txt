@@ -24,12 +24,12 @@
 # Title: Energized Basic Protection - Whitelist
 # Description: Basic list of whitelisted domains.
 # Format: domain list
-# Version: 19.07.197
-# Release: 197
+# Version: 19.07.198
+# Release: 198
 # Entries: 9,635
 # Pack Code: E84S1C-W
 # License: MIT, https://energized.pro/license
-# Updated: Tue, 16 Jul 19 20:26:33
+# Updated: Wed, 17 Jul 19 04:58:01
 # RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/domains.txt
 # --------------------------------------------
 #

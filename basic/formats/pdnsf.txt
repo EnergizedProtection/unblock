@@ -24,12 +24,12 @@
 # Title: Energized Basic Protection - Whitelist
 # Description: Basic list of whitelisted domains.
 # Format: personalDNSfilter
-# Version: 19.07.199
-# Release: 199
-# Entries: 9,747
+# Version: 19.07.200
+# Release: 200
+# Entries: 9,681
 # Pack Code: E84S1C-W
 # License: MIT, https://energized.pro/license
-# Updated: Thu, 18 Jul 19 20:14:57
+# Updated: Fri, 19 Jul 19 04:00:40
 # RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/pdnsf.txt
 # --------------------------------------------
 #
@@ -89,7 +89,6 @@
 !0daydown.com
 !0p.de
 !1-edge-chat.facebook.com
-!1.62.236.23.bc.googleusercontent.com
 !1.arch.pool.ntp.org
 !1.asia.pool.ntp.org
 !1.bp.blogspot.com
@@ -112,56 +111,17 @@
 !1.sonostime.pool.ntp.org
 !1.ubuntu.pool.ntp.org
 !1.us.pool.ntp.org
-!100.78.154.104.bc.googleusercontent.com
 !100.naver.com
 !10046.mi.com
-!101.21.197.104.bc.googleusercontent.com
-!103.48.197.104.bc.googleusercontent.com
-!105.144.251.23.bc.googleusercontent.com
-!105.233.211.130.bc.googleusercontent.com
-!107.61.236.23.bc.googleusercontent.com
-!11.1.184.35.bc.googleusercontent.com
 !110415.libdd.com
-!122.151.251.23.bc.googleusercontent.com
-!122.32.184.35.bc.googleusercontent.com
 !123-reg.co.uk
-!123.33.154.104.bc.googleusercontent.com
 !123greetings.com
 !123movies.to
-!127.75.184.35.bc.googleusercontent.com
 !1337x.to
-!135.197.186.35.bc.googleusercontent.com
 !140cc.v.fwmrm.net
-!142.41.211.130.bc.googleusercontent.com
-!144.158.251.23.bc.googleusercontent.com
-!148.188.198.104.bc.googleusercontent.com
-!149.181.222.162.bc.googleusercontent.com
-!15.215.178.107.bc.googleusercontent.com
-!16.177.222.162.bc.googleusercontent.com
-!160.215.178.107.bc.googleusercontent.com
-!161.180.211.130.bc.googleusercontent.com
 !163.com
-!164.121.201.35.bc.googleusercontent.com
-!167.95.154.104.bc.googleusercontent.com
 !1688.com
-!169.95.148.146.bc.googleusercontent.com
-!17.121.201.35.bc.googleusercontent.com
-!174.94.197.104.bc.googleusercontent.com
-!175.145.251.23.bc.googleusercontent.com
-!176.209.193.35.bc.googleusercontent.com
-!177.180.222.162.bc.googleusercontent.com
 !17track.net
-!181.83.59.108.bc.googleusercontent.com
-!182.56.236.23.bc.googleusercontent.com
-!184.226.186.35.bc.googleusercontent.com
-!185.116.255.173.bc.googleusercontent.com
-!185.148.251.23.bc.googleusercontent.com
-!189.154.251.23.bc.googleusercontent.com
-!190.215.34.8.bc.googleusercontent.com
-!192.214.178.107.bc.googleusercontent.com
-!194.235.223.199.bc.googleusercontent.com
-!194.43.184.35.bc.googleusercontent.com
-!198.15.202.35.bc.googleusercontent.com
 !1and1.com
 !1and1.fr
 !1drv.com
@@ -201,21 +161,13 @@
 !2.ua.pool.ntp.org
 !2.ubuntu.pool.ntp.org
 !2.us.pool.ntp.org
-!20.62.184.35.bc.googleusercontent.com
-!206.222.178.107.bc.googleusercontent.com
-!210.202.211.130.bc.googleusercontent.com
-!212.112.255.173.bc.googleusercontent.com
 !21stcenturywire.com
-!223.223.178.107.bc.googleusercontent.com
-!231.113.255.173.bc.googleusercontent.com
-!255.226.211.130.bc.googleusercontent.com
 !2a.me
 !2ch.net
 !2giga.link
 !2l.me
 !2t.com
 !3-edge-chat.facebook.com
-!3.235.223.199.bc.googleusercontent.com
 !3.amazon.pool.ntp.org
 !3.arch.pool.ntp.org
 !3.asia.pool.ntp.org
@@ -234,11 +186,8 @@
 !3.tw.pool.ntp.org
 !3.ubuntu.pool.ntp.org
 !3.us.pool.ntp.org
-!30.177.222.162.bc.googleusercontent.com
-!31.157.251.23.bc.googleusercontent.com
 !360.cn
 !36kr.com
-!37.221.178.107.bc.googleusercontent.com
 !39.net
 !3c.co
 !3d-creator.sonymobile.com
@@ -247,38 +196,23 @@
 !3p.ampproject.net
 !3t.org
 !4-edge-chat.facebook.com
-!4.48.236.23.bc.googleusercontent.com
 !4.bp.blogspot.com
 !4.cn
 !4pda.ru
 !4pda.to
 !5-edge-chat.facebook.com
 !500px.com
-!53.77.154.104.bc.googleusercontent.com
-!56.155.251.23.bc.googleusercontent.com
-!58.228.227.35.bc.googleusercontent.com
 !58.com
 !58pic.com
 !6-edge-chat.facebook.com
-!60.213.178.107.bc.googleusercontent.com
-!63.236.186.35.bc.googleusercontent.com
-!65.159.251.23.bc.googleusercontent.com
 !699pic.com
 !6e.de
 !6p.ru
 !6pm.com
-!70.79.184.35.bc.googleusercontent.com
 !70i.net
-!73.59.154.104.bc.googleusercontent.com
-!75.211.178.107.bc.googleusercontent.com
 !76.org
 !79423.analytics.edgesuite.net
 !7chan.org
-!80.190.211.130.bc.googleusercontent.com
-!82.80.59.108.bc.googleusercontent.com
-!83.153.251.23.bc.googleusercontent.com
-!85.159.251.23.bc.googleusercontent.com
-!98.248.227.35.bc.googleusercontent.com
 !9Anime.to
 !9gag.com
 !9to5google.com

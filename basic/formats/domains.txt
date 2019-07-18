@@ -24,12 +24,12 @@
 # Title: Energized Basic Protection - Whitelist
 # Description: Basic list of whitelisted domains.
 # Format: domain list
-# Version: 19.07.198
-# Release: 198
-# Entries: 9,635
+# Version: 19.07.199
+# Release: 199
+# Entries: 9,747
 # Pack Code: E84S1C-W
 # License: MIT, https://energized.pro/license
-# Updated: Wed, 17 Jul 19 20:39:26
+# Updated: Thu, 18 Jul 19 20:14:57
 # RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/domains.txt
 # --------------------------------------------
 #
@@ -86,6 +86,7 @@
 0.uk.pool.ntp.org
 0.us.pool.ntp.org
 0.wikipedia.com
+0daydown.com
 0p.de
 1-edge-chat.facebook.com
 1.62.236.23.bc.googleusercontent.com
@@ -236,7 +237,9 @@
 30.177.222.162.bc.googleusercontent.com
 31.157.251.23.bc.googleusercontent.com
 360.cn
+36kr.com
 37.221.178.107.bc.googleusercontent.com
+39.net
 3c.co
 3d-creator.sonymobile.com
 3dns-2.adobe.com
@@ -254,10 +257,13 @@
 53.77.154.104.bc.googleusercontent.com
 56.155.251.23.bc.googleusercontent.com
 58.228.227.35.bc.googleusercontent.com
+58.com
+58pic.com
 6-edge-chat.facebook.com
 60.213.178.107.bc.googleusercontent.com
 63.236.186.35.bc.googleusercontent.com
 65.159.251.23.bc.googleusercontent.com
+699pic.com
 6e.de
 6p.ru
 6pm.com
@@ -471,6 +477,7 @@ ahcdn.com
 ahd.ruten.com.tw
 ahoo.it
 ai.ly
+aicdn.com
 aillis.line.me
 airdownload.adobe.com
 airdownload2.adobe.com
@@ -493,6 +500,7 @@ akamaihd.net
 akamaitechnologies.com
 akamaized.net
 albert.apple.com
+aldwx.com
 alexa.com
 algolia.com
 algolia.io
@@ -503,6 +511,7 @@ alicdn.com
 aliexpress.com
 alimama.com
 alipay.com
+alipayobjects.com
 alitems.com
 aliyun.com
 aliyuncs.com
@@ -1116,6 +1125,7 @@ ana.fr
 analytics.edgesuite.net
 analytics.google.com
 anandtech.com
+ancda.com
 android.bugly.qq.com
 android.clients.google.com
 android.com
@@ -1139,6 +1149,8 @@ announcements.engadget.com
 anonymouse.org
 answers.com
 answers.microsoft.com
+ant.design
+antfin.com
 anurl.com
 anvil.opentok.com
 any-in-2015.1e100.net
@@ -1558,6 +1570,7 @@ at.alicdn.com.danuoyi.alicdn.com
 at.ly
 at.ms
 athemes.com
+atlassian.com
 att.com
 attach.mail.daum.net
 attach2.mobile01.com
@@ -1636,6 +1649,7 @@ b.techcrunch.com
 b.tiles.mapbox.com
 b0.cc
 b6.me
+babybus.com
 back4.2giga.link
 backpage.com
 backstage.soundcloud.com
@@ -1646,9 +1660,12 @@ badges.linkedin.com
 badges.twitch.tv
 badoo.com
 baidu.com
+baiduyundns.com
+baiduyundns.net
 balancer.wixdns.net
 baltimore.cbslocal.com
 bandcamp.com
+bandwagonhost.com
 banggood.com
 banki.onet.pl
 bankofamerica.com
@@ -1669,10 +1686,15 @@ bbs.pcbeta.com
 bbs.xiaomi.com
 bbs2.appmifile.com
 bbstatic.ign.com
+bbtree.com
 bc.marfeelcache.com
 bc.vc
 bcbits.com
+bcedns.com
+bcedns.net
 bdimg.com
+bdydns.com
+bdydns.net
 be5.com
 beauty.rakuten.co.jp
 bebe.com
@@ -1731,6 +1753,7 @@ biglistofwebsites.com
 biglobe.ne.jp
 bigthink.com
 bigzipfiles.facebook.com
+bilibili.com
 bill.xbox.com
 billdesk.com
 binance.com
@@ -2063,6 +2086,7 @@ ccc.sys.miui.com
 ccmbg.com
 ccmdl.adobe.com
 ccpce-cn.consumer.huawei.com
+cctv.com
 cda.pl
 cdbaby.com
 cdc.gov
@@ -2202,6 +2226,7 @@ cdnjs.cloudflare.com
 cdns.eu1.gigya.com
 cdns.gigya.com
 cdns1.gigya.com
+cdntip.com
 cdp.aliexpress.com
 cds.csx.sony.com
 cds.d2s7q6s2.hwcdn.net
@@ -2238,6 +2263,7 @@ cgi.connect.qq.com
 ch.hide.me
 ch.hitbtc.com
 ch.wikipedia.com
+chainnews.com
 chan.sankakucomplex.com
 change.org
 changelogs.ubuntu.com
@@ -2325,6 +2351,7 @@ chicago.cbslocal.com
 chicagotribune.com
 chimpstatic.com
 china-store.samsung.com.edgekey.net
+chinaz.com
 chinese.engadget.com
 chn.account.samsung.com
 chn.account.samsung.com.cdngc.net
@@ -2333,6 +2360,7 @@ chn.ospserver.net
 chocolatey.org
 choices.truste.com
 chomikuj.pl
+chongdiantou.com
 chrome.google.com
 chromesyncpasswords-pa.googleapis.com
 chron.com
@@ -2393,6 +2421,7 @@ cloud.lg.com
 cloud.rovio.com
 cloud.typography.com
 cloudcampus.rnd.huawei.com
+clouddn.com
 cloudflare.com
 cloudflareworkers.com
 cloudfront-app-cdn.spot.im
@@ -2422,6 +2451,7 @@ cnet4.cbsistatic.com
 cnevids.com
 cnn.com
 cnnct.soundcloud.com
+cnzz.com
 co2saver.snap.com
 code.binance.com
 code.cdn.mozilla.net
@@ -2445,6 +2475,7 @@ collegehumor.com
 color.adobe.com
 color.typekit.com
 colorlib.com
+coloros.com
 columbia.edu
 com-verification.id
 com.com
@@ -2567,6 +2598,7 @@ cosu.sonymobile.com
 coupon.aliexpress.com
 couponbar.coupons.com
 coupons.com
+cowtransfer.com
 cp.mi.com
 cp76677.edgefcs.net
 cpanel.com
@@ -2675,6 +2707,7 @@ dailykos.com
 dailymail.co.uk
 dailymotion.com
 daisuki.net
+damengxiang.me
 danbooru.donmai.us
 dansguardian.org
 dash.cloudflare.com
@@ -2710,6 +2743,7 @@ dcinside.com
 dcs-vod.apis.anvato.net
 dctrawler.dailycaller.com
 dd.myapp.com
+ddrk.me
 de-1.hide.me
 de.aliexpress.com
 de.api.io.mi.com
@@ -2828,8 +2862,10 @@ digidip.net
 digitalassetlinks.googleapis.com
 digitalcameras.engadget.com
 digitalfirstmedia.com
+digitalocean.com
 digitaltrends.com
 diigo.com
+dingtalk.com
 direct.shots.snap.com
 directdomains.com
 directory.soundcloud.com
@@ -2848,6 +2884,7 @@ displaycatalog.mp.microsoft.com
 disqus.com
 disquscdn.com
 distribute.adobe.com
+dji.com
 djix.com
 dl-1.va.us.xda-developers.com
 dl-canary.discordapp.net
@@ -2926,6 +2963,7 @@ donorschoose.org
 dot.gov
 dot.tk
 dotcomsecrets.com
+doubanio.com
 down.boomkat.com
 down.local.sec.samsung.com
 down.local.sec.samsung.com.cdngc.net
@@ -2963,10 +3001,12 @@ downloads.intercomcdn.com
 downloads.khinsider.com
 downloads.oneplus.com
 downloads.techrepublic.com
+doyoudo.com
 dp.blog.naver.com
 dp8hsntg6do36.cloudfront.net
 dpimg.ospserver.net
 dramafever.com
+draw.io
 dreamhost.com
 dribbble.com
 drift.com
@@ -3086,6 +3126,7 @@ elaach.com
 eladkarako.com
 eladkarako.github.io
 elasticbeanstalk.com
+ele.me
 elections.huffingtonpost.com
 elegantthemes.com
 elephantjournal.com
@@ -3187,6 +3228,7 @@ espn.com
 espresso.economist.com
 estore.sonymobile.com
 estream.to
+etao.com
 etl.tindersparks.com
 etl.xlmc.sec.miui.com
 etoro-cdn.etorostatic.com
@@ -3236,6 +3278,7 @@ everydayhealth.com
 evite.com
 ew.com
 ewebdevelopment.com
+ewei.com
 ex-notify.coinbase.com
 ex.bnbstatic.com
 exacttarget.com
@@ -3393,6 +3436,7 @@ find.api.micloud.xiaomi.net
 findapi.micloud.xiaomi.net
 findmymobile.samsung.com
 fiplabcdn.com
+fir.im
 firebaseio.com
 firefox.settings.services.mozilla.com
 firstpost.com
@@ -3999,6 +4043,7 @@ graphite-ssms.sec.miui.com
 graphql.epicgames.com
 graphs.coinmarketcap.com
 graphs2.coinmarketcap.com
+gratisography.com
 gravatar.com
 gravityrd-services.com
 great.kaspersky.com
@@ -4008,6 +4053,7 @@ group.pcbeta.com
 groupon.com
 groups.diigo.com
 groups.google.com
+growingio.com
 growth.pusher.com
 grp02.trc.ashiato.rakuten.co.jp
 gs-sec.ww.np.dl.playstation.net
@@ -4041,6 +4087,7 @@ gumroad.com
 gumtree.co.za
 gumtree.com.au
 guns.dailycaller.com
+guokr.com
 gurud.ee
 gvt1.com
 gw.alicdn.com
@@ -4214,6 +4261,7 @@ hu.ign.com
 hu.statcounter.com
 hu.twitch.tv
 hu.wikipedia.com
+huaban.com
 hub.flowplayer.com
 hub5pn.sandai.net
 hubciddata.sandai.net
@@ -4322,6 +4370,7 @@ igbig.com
 igg-games.com
 igg.com
 ign.com
+iguoguo.net
 ijr.com
 ikea.com
 il.ign.com
@@ -4516,6 +4565,7 @@ info.seek.com
 info.techcrunch.com
 info.viber.com
 infoblox.com
+infoq.com
 ing.fm
 ingest.twitch.tv
 ingress.com
@@ -4582,6 +4632,7 @@ ipfs.io
 ipick1.wechat.com
 ipify.org
 ipinfo.io
+ipip.net
 ipla.tv
 ipleak.net
 iplists.firehol.org
@@ -4592,6 +4643,7 @@ ipredator.se
 iprl.com
 ipv6.he.net
 ipv6.msftncsi.com
+iqiyi.com
 iqoption.com
 ir.ebaystatic.com
 irc-ws-darklaunch.chat.twitch.tv
@@ -4651,6 +4703,7 @@ jenkins.playstation.com
 jenkins.xda-developers.com
 jfe-cdn.qualtrics.com
 jiamitu.mi.com
+jianshu.com
 jiathis.com
 jimdo.com
 jioconnect.com
@@ -4729,6 +4782,7 @@ keybaseapi.com
 keyboard.naver.com
 keyfile.kaspersky.com
 keystone.mwbsys.com
+kf5.com
 kh.de
 kh.google.com
 kharkov.ua
@@ -4777,6 +4831,7 @@ krping.igamecj.com
 ksn.kaspersky.com
 ktla.com
 kuaiche.com
+kuaidi100.com
 kutt.it
 kxcdn.com
 l-xda.xposed.info
@@ -4803,6 +4858,7 @@ land.naver.com
 land.xiaomi.net
 landing.adobe.com
 language.viber.com
+lanhuapp.com
 laptops.engadget.com
 lastfm-img2.akamaized.net
 lasvegas.cbslocal.com
@@ -4853,6 +4909,7 @@ lh6.googleusercontent.com
 li.dailycaller.com
 li.gs
 li.techrepublic.com
+liantu.com
 lib.in
 libcom.org
 lic.kr
@@ -4899,6 +4956,7 @@ links.notifications.soundcloud.com
 linkshrink.net
 linksynergy.com
 linkwi.se
+linode.com
 linuxtracker.org
 list-manage.com
 list-manage1.com
@@ -5239,6 +5297,7 @@ mac.search.naver.com
 mackeeper.com
 macmillandictionary.com
 macromedia.com
+macrr.com
 macworld.co.uk
 macys.com
 madison.com
@@ -5440,6 +5499,7 @@ mibi.xiaomi.com
 micardapi.micloud.xiaomi.net
 micdrive.openapi.xiaomi.net
 micloud.xiaomi.net
+microbit.org
 microg.org
 microsoft.com
 microsoftonline.com
@@ -5453,6 +5513,7 @@ mijndomein.nl
 milink.pandora.xiaomi.com
 mimc.chat.xiaomi.net
 mimobile.esim.mihome.xiaomi.net
+minapp.com
 mine.nu
 minecraft.cryptopia.co.nz
 minergate.com
@@ -5480,6 +5541,7 @@ mit.edu
 mitunes.game.xiaomi.com
 miui.com
 miui.net
+miwifi.com
 mix.ks.g.mi.com
 mix1065fm.cbslocal.com
 mixin.dl.files.xiaomi.net
@@ -5652,6 +5714,7 @@ myhome.naver.com
 mylife.com
 mypc.naver.com
 mypoints.snap.com
+myqcloud.com
 myservice.xbox.com
 myshopify.com
 myspace.com
@@ -5715,6 +5778,7 @@ nesn.com
 netcoresmartech.com
 netdna-ssl.com
 netdna.bootstrapcdn.com
+netease.com
 neteller.com
 netflix.
 netflix.com
@@ -5807,6 +5871,7 @@ no-ip.biz
 no-ip.com
 no.wikipedia.com
 noaa.gov
+nobook.com
 nocache.support.sonymobile.com
 node.plexapp.com
 nodes1.cryptopia.co.nz
@@ -6013,6 +6078,7 @@ opensubtitles.org
 opera.com
 opinion.latimes.com
 opinionlab.com
+oppo.com
 oprah.com
 oprl.com
 optimizely.com
@@ -6101,6 +6167,7 @@ pagseguro.uol.com.br
 painthegame.playstation.com
 pando.com
 pandora.mi.com
+panduoduo.net
 pantheon.io
 pantheonsite.io
 papago.naver.com
@@ -6170,11 +6237,13 @@ perksatwork.com
 perr-vstat.h-cdn.com
 perr.h-cdn.com
 personalweb.alipay.com
+pexels.com
 pf-hpx-us1.mpay.samsung.com
 pg.cdn.integration.viber.com
 pg.cdn.viber.com
 pgi.billdesk.com
 pgl.yoyo.org
+pgyer.com
 ph-in-f14.1e100.net
 phicdn.net
 philadelphia.cbslocal.com
@@ -6207,6 +6276,7 @@ piguiqproxy.com
 pilkanozna.pl
 pimg1.126.net
 ping.feedburner.com
+pingwest.com
 pinimg.com
 pinterest.com
 pipe.int.trafficmanager.net
@@ -6274,6 +6344,7 @@ plex.tv
 pluralsight.com
 plus.google.com
 plus.l.google.com
+pluwen.com
 pm.ly
 pmall.migc.xiaomi.com
 pmd.cdn.turner.com
@@ -6361,6 +6432,7 @@ pro-accounts.snapchat.com
 pro.coinbase.com
 pro.coinmarketcap.com
 pro.fontawesome.com
+processon.com
 prod-collection.acompli.net
 prod-helpapp.sonymobile.com
 prod-native.actionbutton.co
@@ -6479,8 +6551,15 @@ qa-membership.samsung.com
 qa-www.funimation.com
 qa.global.fncstatic.com
 qa.sockets.stackexchange.com
+qbox.me
 qca.qualcomm.com
+qcloud.com
+qichacha.com
 qingcdn.com
+qiniudn.com
+qiniudns.com
+qiniuts.com
+qiuziti.com
 qiye.xiaomi.com
 qme.mydns.jp
 qos.gcloud.qq.com
@@ -6834,6 +6913,7 @@ sbs.com.au
 sbsvodns-vh.akamaihd.net
 sc-apps.sonymobile.com
 sc.l.soundcloud.com
+sc115.com
 sca.samsung.com
 scaledb.vuukle.com
 scan.kaspersky.com
@@ -7042,6 +7122,7 @@ shealth.samsunghealth.com
 shell-cdn.marketing.adobe.com
 shellfix.nirsoft.net
 shenghuo.xiaomi.com
+shimo.im
 shockwave.com
 shoes.app-xae.xiaomi.com
 shop-pro.jp
@@ -7146,6 +7227,7 @@ smtp.ospserver.net
 smtp.vimeo.com
 smtp21t.mail.mylife.com
 smugmug.com
+smzdm.com
 sn.api.np.km.playstation.net
 sn.io
 snap.com
@@ -7178,6 +7260,7 @@ software.naver.com
 software.sonymobile.com
 sogou.com
 sohu.com
+soku.com
 solar.huawei.com
 solidfiles.com
 solutionpartners.adobe.com
@@ -7279,6 +7362,7 @@ ssm.pd.biv.sony.tv
 ssm1.internet.sony.tv
 sso.spot.im
 ssor.tribdss.com
+sspai.com
 sstats.adobe.com
 sstats.economist.com
 st.hitbtc.com
@@ -7510,6 +7594,7 @@ sug.search.daum.net
 sugarsync.com
 suggestqueries.google.com
 sumo.com
+suning.com
 sunmaker.com
 suntimes.com
 superio.diigo.com
@@ -7630,6 +7715,7 @@ talk.google.com
 talk.l.google.com
 talk.sonymobile.com
 talkgadget.google.com
+talkingdata.com
 talkx.l.google.com
 tampa.cbslocal.com
 tampermonkey.net
@@ -7644,6 +7730,7 @@ tawk.to
 taxi.line.me
 tbcdn.cn
 tc.tradetracker.net
+tcdn.qq.com
 te.deviantart.com
 te.me
 te.wikipedia.com
@@ -7718,6 +7805,7 @@ threats.kaspersky.com
 thumb.pr0gramm.com
 thumbnail.image.rakuten.co.jp
 thumbnails.hulu.com
+tianyancha.com
 tiara.daum.net
 tiasdk.app.wechat.com
 ticket.rakuten.co.jp
@@ -7782,6 +7870,7 @@ torrentfreak.com
 touch.facebook.com
 touch.kaspersky.com
 touch.sonymobile.com
+toutiao.com
 townnews.com
 toysrus.com
 tp.hd.mi.com
@@ -7838,8 +7927,10 @@ ts.my
 tsfe.trafficshaping.dsp.mp.microsoft.com
 tuba.fm
 tube8.com
+tuchong.com
 tucows.com
 tucowsdomains.com
+tudou.com
 tumblr.com
 tunein.com
 turbobit.net
@@ -7905,12 +7996,14 @@ udl-api.sonymobile.com
 uds.licenses.adobe.com
 udurl.com
 ueb.eu
+uedna.com
 ugc.api.playstation.com
 uhf.microsoft.com
 ui.ptlogin2.wechat.com
 ui.skype.akadns.net
 ui.skype.com
 uidesign.gbtcdn.com
+uisdc.com
 uk.gravatar.com
 uk.hide.me
 uk.ign.com
@@ -7922,11 +8015,13 @@ umblr.com
 umd.edu
 umdc.aliapp.org
 umeeting.huawei.com
+umeng.com
 umich.edu
 umn.edu
 un.org
 unc.edu
 und.weg.ist.sie.com
+undraw.co
 unesco.org
 union.ucweb.com
 uniportal.huawei.com
@@ -8054,6 +8149,7 @@ use.fontawesome.com
 use.typekit.com
 use.typekit.net
 use.typekit.net.edgekey.net
+usenix.org
 user.binance.com
 userapi.com
 userguide-files.sonymobile.com
@@ -8162,6 +8258,7 @@ vision.appreciatehub.com
 visma.com
 visual.merriam-webster.com
 visualdictionarynetwork.com
+visualhunt.com
 visuals.soundcloud.com
 visualstudio.com
 vitacost.com
@@ -8241,9 +8338,11 @@ walkme.com
 wallet.coinbase.com
 wallet.commerce.coinbase.com
 wallet.viber.com
+wallhaven.cc
 wallpaper.cdn.pandora.xiaomi.com
 wallpaper.pandora.xiaomi.com
 walmart.com
+wandoujia.com
 wap-master.xtgem.com
 wap.game.xiaomi.com
 wap.to
@@ -8415,6 +8514,7 @@ wordpress.com
 wordpress.org
 world-gen.g.aaplimg.com
 worldbank.org
+woshipm.com
 wp.breitbart.com
 wp.com
 wp.me
@@ -9463,6 +9563,7 @@ www.us.cdn.survey.medallia.com
 www.us.playstation.com
 www.usa.gov
 www.usaid.gov
+www.usenix.org
 www.ushareit.com
 www.valuedopinions.co.uk
 www.vandelaydesign.com
@@ -9593,6 +9694,7 @@ xdjiraintegration.adobe.com
 xfce.org
 xflight.xboxlive.com
 xflight.xboxlive.com cert.mgt.xboxlive.com
+xiami.com
 xiaomi.com
 xiaomi.net
 xiazai.xiaomi.com
@@ -9610,7 +9712,10 @@ xperiakeyboard.sonymobile.com
 xperialounge.sonymobile.com
 xsts.auth.xboxlive.com
 xtgem.com
+xueqiu.com
+xunlei.com
 xx.snap.com
+xywy.com
 y2u.be
 ya.com
 ya.ru
@@ -9626,6 +9731,7 @@ yelp.com
 yep.it
 yerl.org
 yimg.com
+yinxiang.com
 ynuf.aliapp.org
 ynuf.alipay.com
 youbora.com
@@ -9651,6 +9757,8 @@ ytmnd.com
 yts.ag
 ytstatic.l.google.com
 yui.yahooapis.com
+yunjiasu-cdn.net
+yuque.com
 yurl.in
 yz2.xmss.micloud.mi.com
 z-m.c10r.facebook.com
@@ -9679,7 +9787,11 @@ zh-tw.twitch.tv
 zh.wikipedia.com
 zh_cn.statcounter.com
 zh_tw.statcounter.com
+zhaopin.com
 zhibo.mi.com
+zhihu.com
+zhimg.com
+zhongguose.com
 zht.alipay.com
 zi.ma
 zippyshare.com

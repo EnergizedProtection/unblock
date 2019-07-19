@@ -26,10 +26,10 @@
 # Format: domain list
 # Version: 19.07.200
 # Release: 200
-# Entries: 9,681
+# Entries: 9,689
 # Pack Code: E84S1C-W
 # License: MIT, https://energized.pro/license
-# Updated: Fri, 19 Jul 19 04:00:40
+# Updated: Fri, 19 Jul 19 20:13:54
 # RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/domains.txt
 # --------------------------------------------
 #
@@ -3358,6 +3358,8 @@ files.stripe.com
 fileserve.com
 filetrans.blog.naver.com
 filetransfer.coinbase.com
+fili.cc
+fili.tv
 filmweb.pl
 filmyhd.net
 filson.com
@@ -4799,6 +4801,7 @@ lasvegas.cbslocal.com
 latam.ign.com
 latam.playstation.com
 late.me
+latesthackingnews.com
 latimes.com
 latimesblogs.latimes.com
 launcher.nirsoft.net
@@ -6171,6 +6174,7 @@ perksatwork.com
 perr-vstat.h-cdn.com
 perr.h-cdn.com
 personalweb.alipay.com
+petapixel.com
 pexels.com
 pf-hpx-us1.mpay.samsung.com
 pg.cdn.integration.viber.com
@@ -8305,7 +8309,7 @@ weather.naver.com
 weather.pandora.xiaomi.com
 weatherapi.market.xiaomi.com
 web-client.prod.us-west2.twitch.tv
-web-development-blog.com0-edge-chat.facebook.com
+web-development-blog.comcontent-storage-upload.googleapis.com
 web-service.halo.xbox.com
 web.archive.org
 web.beta.facebook.com
@@ -9146,6 +9150,7 @@ www.knowyourmeme.com
 www.kongregate.com
 www.kopimi.com
 www.kutt.it
+www.latesthackingnews.com
 www.lds.org
 www.lds.org.edgekey.net
 www.leanplum.com
@@ -9291,6 +9296,7 @@ www.pcbeta.com
 www.pcmag.com
 www.pendo.io
 www.perksatwork.com
+www.petapixel.com
 www.phonearena.com
 www.photobucket.com
 www.picupload.ebay.com
@@ -9557,6 +9563,7 @@ www.xboxlive.com
 www.xda-developers.com
 www.xfce.org
 www.xinhuanet.com
+www.xmr.to
 www.xposed.info
 www.ya.com
 www.ya.ru
@@ -9641,6 +9648,7 @@ xkms.xboxlive.com
 xl7xml.client.xunlei.com
 xmcs.mi.com
 xmpp-server.l.google.com
+xmr.to
 xpdll.nirsoft.net
 xperiakeyboard.sonymobile.com
 xperialounge.sonymobile.com

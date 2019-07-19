@@ -84,7 +84,7 @@ Basic info about all Energized Protection packs.
 
 | PACK NAME | DESCRIPTION | BEST USE DEVICE | UNIQUE ENTRIES | SIZE (AVG.) | SOURCE |
 |:---------:|:-----------:|:---------------:|:--------------:|:-----------:|:------:|
-| Basic | Basic list of whitelisted domains. | ANY | 9,681 | 333K | [/basic](https://github.com/EnergizedProtection/unblock/tree/master/basic) |
+| Basic | Basic list of whitelisted domains. | ANY | 9,689 | 333K | [/basic](https://github.com/EnergizedProtection/unblock/tree/master/basic) |
 
 
 ## Formats
@@ -95,7 +95,7 @@ Different formats for various devices and extensions.
 
 | PACKAGE | ENTRIES | ADBLOCK FILTER | DOMAINS | DNSMASQ| DNSMASQ IPV6 | UNBOUND | RPZ | pDNSf |
 |:-------:|:-------:|:--------------:|:-------:|:------:|:------------:|:-------:|:---:|:-----:|
-| Basic | **9,681** | [FILTER](https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/filter) (219K) | [LIST](https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/domains.txt) (172K) | [CONF](https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/dnsmasq.conf) (333K) | [CONF IPV6](https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/dnsmasq-ipv6.conf) (456K) | [CONF](https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/unbound.conf) (418K) | [TXT](https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt) (361K) | [TXT](https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/pdnsf.txt) (181K) |
+| Basic | **9,689** | [FILTER](https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/filter) (219K) | [LIST](https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/domains.txt) (172K) | [CONF](https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/dnsmasq.conf) (333K) | [CONF IPV6](https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/dnsmasq-ipv6.conf) (456K) | [CONF](https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/unbound.conf) (418K) | [TXT](https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt) (361K) | [TXT](https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/pdnsf.txt) (181K) |
 
 
 ## Sources

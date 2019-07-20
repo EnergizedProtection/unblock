@@ -24,12 +24,12 @@
 # Title: Energized Basic Protection - Whitelist
 # Description: Basic list of whitelisted domains.
 # Format: personalDNSfilter
-# Version: 19.07.200
-# Release: 200
-# Entries: 9,681
+# Version: 19.07.201
+# Release: 201
+# Entries: 9,691
 # Pack Code: E84S1C-W
 # License: MIT, https://energized.pro/license
-# Updated: Fri, 19 Jul 19 20:50:25
+# Updated: Sat, 20 Jul 19 20:14:10
 # RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/pdnsf.txt
 # --------------------------------------------
 #
@@ -2489,6 +2489,7 @@
 !contactapi.micloud.xiaomi.net
 !contactus.netflix.com
 !contactus.samsung.com
+!content-storage-upload.googleapis.com
 !content.chia-anime.tv
 !content.cloudflare.com
 !content.erabu.sonymobile.com
@@ -3358,6 +3359,8 @@
 !fileserve.com
 !filetrans.blog.naver.com
 !filetransfer.coinbase.com
+!fili.cc
+!fili.tv
 !filmweb.pl
 !filmyhd.net
 !filson.com
@@ -4799,6 +4802,7 @@
 !latam.ign.com
 !latam.playstation.com
 !late.me
+!latesthackingnews.com
 !latimes.com
 !latimesblogs.latimes.com
 !launcher.nirsoft.net
@@ -6171,6 +6175,7 @@
 !perr-vstat.h-cdn.com
 !perr.h-cdn.com
 !personalweb.alipay.com
+!petapixel.com
 !pexels.com
 !pf-hpx-us1.mpay.samsung.com
 !pg.cdn.integration.viber.com
@@ -6234,6 +6239,7 @@
 !placehold.it
 !placeholdit.imgix.net
 !places-manager-api.snapchat.com
+!platform-lookaside.fbsbx.com
 !platform.bing.com
 !platform.instagram.com
 !platform.linkedin.com
@@ -8305,7 +8311,7 @@
 !weather.pandora.xiaomi.com
 !weatherapi.market.xiaomi.com
 !web-client.prod.us-west2.twitch.tv
-!web-development-blog.com0-edge-chat.facebook.com
+!web-development-blog.com
 !web-service.halo.xbox.com
 !web.archive.org
 !web.beta.facebook.com
@@ -9146,6 +9152,7 @@
 !www.kongregate.com
 !www.kopimi.com
 !www.kutt.it
+!www.latesthackingnews.com
 !www.lds.org
 !www.lds.org.edgekey.net
 !www.leanplum.com
@@ -9291,6 +9298,7 @@
 !www.pcmag.com
 !www.pendo.io
 !www.perksatwork.com
+!www.petapixel.com
 !www.phonearena.com
 !www.photobucket.com
 !www.picupload.ebay.com
@@ -9557,6 +9565,7 @@
 !www.xda-developers.com
 !www.xfce.org
 !www.xinhuanet.com
+!www.xmr.to
 !www.xposed.info
 !www.ya.com
 !www.ya.ru
@@ -9641,6 +9650,7 @@
 !xl7xml.client.xunlei.com
 !xmcs.mi.com
 !xmpp-server.l.google.com
+!xmr.to
 !xpdll.nirsoft.net
 !xperiakeyboard.sonymobile.com
 !xperialounge.sonymobile.com

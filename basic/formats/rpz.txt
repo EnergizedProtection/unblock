@@ -24,12 +24,12 @@
 ; Title: Energized Basic Protection - Whitelist
 ; Description: Basic list of whitelisted domains.
 ; Format: rpz
-; Version: 19.07.200
-; Release: 200
-; Entries: 9,681
+; Version: 19.07.201
+; Release: 201
+; Entries: 9,691
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Fri, 19 Jul 19 20:50:25
+; Updated: Sat, 20 Jul 19 20:14:10
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -2497,6 +2497,7 @@ contact.line.me CNAME rpz-passthru.
 contactapi.micloud.xiaomi.net CNAME rpz-passthru.
 contactus.netflix.com CNAME rpz-passthru.
 contactus.samsung.com CNAME rpz-passthru.
+content-storage-upload.googleapis.com CNAME rpz-passthru.
 content.chia-anime.tv CNAME rpz-passthru.
 content.cloudflare.com CNAME rpz-passthru.
 content.erabu.sonymobile.com CNAME rpz-passthru.
@@ -3366,6 +3367,8 @@ files.stripe.com CNAME rpz-passthru.
 fileserve.com CNAME rpz-passthru.
 filetrans.blog.naver.com CNAME rpz-passthru.
 filetransfer.coinbase.com CNAME rpz-passthru.
+fili.cc CNAME rpz-passthru.
+fili.tv CNAME rpz-passthru.
 filmweb.pl CNAME rpz-passthru.
 filmyhd.net CNAME rpz-passthru.
 filson.com CNAME rpz-passthru.
@@ -4807,6 +4810,7 @@ lasvegas.cbslocal.com CNAME rpz-passthru.
 latam.ign.com CNAME rpz-passthru.
 latam.playstation.com CNAME rpz-passthru.
 late.me CNAME rpz-passthru.
+latesthackingnews.com CNAME rpz-passthru.
 latimes.com CNAME rpz-passthru.
 latimesblogs.latimes.com CNAME rpz-passthru.
 launcher.nirsoft.net CNAME rpz-passthru.
@@ -6179,6 +6183,7 @@ perksatwork.com CNAME rpz-passthru.
 perr-vstat.h-cdn.com CNAME rpz-passthru.
 perr.h-cdn.com CNAME rpz-passthru.
 personalweb.alipay.com CNAME rpz-passthru.
+petapixel.com CNAME rpz-passthru.
 pexels.com CNAME rpz-passthru.
 pf-hpx-us1.mpay.samsung.com CNAME rpz-passthru.
 pg.cdn.integration.viber.com CNAME rpz-passthru.
@@ -6242,6 +6247,7 @@ pl.wikipedia.com CNAME rpz-passthru.
 placehold.it CNAME rpz-passthru.
 placeholdit.imgix.net CNAME rpz-passthru.
 places-manager-api.snapchat.com CNAME rpz-passthru.
+platform-lookaside.fbsbx.com CNAME rpz-passthru.
 platform.bing.com CNAME rpz-passthru.
 platform.instagram.com CNAME rpz-passthru.
 platform.linkedin.com CNAME rpz-passthru.
@@ -8313,7 +8319,7 @@ weather.naver.com CNAME rpz-passthru.
 weather.pandora.xiaomi.com CNAME rpz-passthru.
 weatherapi.market.xiaomi.com CNAME rpz-passthru.
 web-client.prod.us-west2.twitch.tv CNAME rpz-passthru.
-web-development-blog.com0-edge-chat.facebook.com CNAME rpz-passthru.
+web-development-blog.com CNAME rpz-passthru.
 web-service.halo.xbox.com CNAME rpz-passthru.
 web.archive.org CNAME rpz-passthru.
 web.beta.facebook.com CNAME rpz-passthru.
@@ -9154,6 +9160,7 @@ www.knowyourmeme.com CNAME rpz-passthru.
 www.kongregate.com CNAME rpz-passthru.
 www.kopimi.com CNAME rpz-passthru.
 www.kutt.it CNAME rpz-passthru.
+www.latesthackingnews.com CNAME rpz-passthru.
 www.lds.org CNAME rpz-passthru.
 www.lds.org.edgekey.net CNAME rpz-passthru.
 www.leanplum.com CNAME rpz-passthru.
@@ -9299,6 +9306,7 @@ www.pcbeta.com CNAME rpz-passthru.
 www.pcmag.com CNAME rpz-passthru.
 www.pendo.io CNAME rpz-passthru.
 www.perksatwork.com CNAME rpz-passthru.
+www.petapixel.com CNAME rpz-passthru.
 www.phonearena.com CNAME rpz-passthru.
 www.photobucket.com CNAME rpz-passthru.
 www.picupload.ebay.com CNAME rpz-passthru.
@@ -9565,6 +9573,7 @@ www.xboxlive.com CNAME rpz-passthru.
 www.xda-developers.com CNAME rpz-passthru.
 www.xfce.org CNAME rpz-passthru.
 www.xinhuanet.com CNAME rpz-passthru.
+www.xmr.to CNAME rpz-passthru.
 www.xposed.info CNAME rpz-passthru.
 www.ya.com CNAME rpz-passthru.
 www.ya.ru CNAME rpz-passthru.
@@ -9649,6 +9658,7 @@ xkms.xboxlive.com CNAME rpz-passthru.
 xl7xml.client.xunlei.com CNAME rpz-passthru.
 xmcs.mi.com CNAME rpz-passthru.
 xmpp-server.l.google.com CNAME rpz-passthru.
+xmr.to CNAME rpz-passthru.
 xpdll.nirsoft.net CNAME rpz-passthru.
 xperiakeyboard.sonymobile.com CNAME rpz-passthru.
 xperialounge.sonymobile.com CNAME rpz-passthru.

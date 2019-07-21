@@ -24,12 +24,12 @@
 # Title: Energized Basic Protection - Whitelist
 # Description: Basic list of whitelisted domains.
 # Format: domain list
-# Version: 19.07.201
-# Release: 201
-# Entries: 9,691
+# Version: 19.07.202
+# Release: 202
+# Entries: 9,723
 # Pack Code: E84S1C-W
 # License: MIT, https://energized.pro/license
-# Updated: Sat, 20 Jul 19 20:14:10
+# Updated: Sun, 21 Jul 19 20:14:14
 # RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/domains.txt
 # --------------------------------------------
 #
@@ -1125,6 +1125,7 @@ api-partners.soundcloud.com
 api-rangers.line.me
 api-ssl.bit.ly
 api-staging-embedded.soundcloud.com
+api-stream.twitter.com
 api-tv.spotify.com
 api-us1.mpay.samsung.com
 api-v2.soundcloud.com
@@ -1136,6 +1137,7 @@ api.account.xiaomi
 api.account.xiaomi.com
 api.accuweather.com
 api.actionbutton.co
+api.adguard.com
 api.ai.xiaomi.com
 api.airfind.com
 api.am.coinbase.com
@@ -1270,6 +1272,7 @@ api.soundcloud.com
 api.spot.im
 api.squareup.com
 api.stacksocial.com
+api.steampowered.com
 api.stumbleupon.com
 api.suggest.search.rakuten.co.jp
 api.syndicaster.tv
@@ -1531,6 +1534,7 @@ audio-sp-fra2.pscdn.co
 audio-sp.spotify.com
 auditrecording-pa.googleapis.com
 aus5.mozilla.org
+auth-prod.ros.rockstargames.com
 auth.api.np.ac.playstation.net
 auth.be.sec.miui.com
 auth.gfx.ms
@@ -1555,6 +1559,8 @@ avast.com
 avataaars.io
 avatar.skype.com
 avatars0.githubusercontent.com
+avatars1.githubusercontent.com
+avatars2.githubusercontent.com
 avatars3.githubusercontent.com
 avsforum.com
 awards.netflix.com
@@ -2109,6 +2115,7 @@ cdn.samsung.com
 cdn.samsung.com.edgekey.net
 cdn.samsungcloudsolution.com
 cdn.samsungcloudsolution.net
+cdn.sc.rockstargames.com
 cdn.segment.io
 cdn.sstatic.net
 cdn.stumbleupon.com
@@ -2326,6 +2333,7 @@ clicknupload.org
 clicksfly.com
 clicktale.net
 clien.net
+client-download.steampowered.com
 client-event-reporter.twitch.tv
 client-gateway-30.xperialounge.sonymobile.com
 client-gateway-ncm.xperialounge.sonymobile.com
@@ -2334,6 +2342,7 @@ client.dropbox.com
 client.hip.live.com
 client.reactrjs.com
 client.update.sandai.net
+clientconfig.akamai.steamstatic.com
 clientconfig.passport.net
 clients.binance.com
 clients.l.google.com
@@ -2367,6 +2376,15 @@ clova.line.me
 clu.sonymobile.com
 club.huawei.com
 clubedohardware.com.br
+cm-01-ams1.cm.steampowered.com
+cm-02-ams1.cm.steampowered.com
+cm-03-ams1.cm.steampowered.com
+cm-04-ams1.cm.steampowered.com
+cm1-par1.cm.steampowered.com
+cm1-sto1.cm.steampowered.com
+cm2-par1.cm.steampowered.com
+cm2-tyo1.cm.steampowered.com
+cm3-sto1.cm.steampowered.com
 cmail.daum.net
 cms-portal.qualcomm.com
 cms.breitbart.com
@@ -2453,6 +2471,7 @@ completion.amazon.com
 complex.com
 computer.howstuffworks.com
 concertads-configs.vox-cdn.com
+conductor-prod.ros.rockstargames.com
 conduit.mailchimpapp.com
 confib.ifmo.ru
 config.edge.skype.com
@@ -3029,6 +3048,7 @@ eccmp.com
 echannel.huawei.com
 echo.edge.messenger.live.com
 ecn.dev.virtualearth.net
+ecom.dutchbanglabank.com
 ecom.us.samsung.com
 ecomm.mpay.samsung.com
 ecomm.pre.mpay.samsung.com
@@ -4858,6 +4878,7 @@ licensebuttons.net
 licensedpackages.chocolatey.org
 licensing.adobe.com
 licensing.funimation.com
+licensing.mp.microsoft.com
 licensing.xboxlive.com
 lids.com
 life.wechat.com
@@ -5900,6 +5921,7 @@ nus1-urlp.secure.skypeassets.com
 nv.veta.naver.com
 nxeassets-ssl.xbox.com
 nxeassets.xbox.com
+nxpay.dutchbanglabank.com
 ny.com
 ny1.com
 nydailynews.com
@@ -5986,6 +6008,7 @@ onet.pl
 onet.rakuten.co.jp
 onhax.me
 onhax.net
+onlinevideoconverter.com
 onmpeg.com
 oo.gl
 ootit.com
@@ -6378,8 +6401,12 @@ prod-helpapp.sonymobile.com
 prod-native.actionbutton.co
 prod-upload-service.getmore.sonymobile.com
 prod.appnexus.map.fastly.net
+prod.cloud.rockstargames.com
 prod.disqus.map.fastlylb.net
+prod.p02ams.pod.rockstargames.com
+prod.realtimevc.ros.rockstargames.com
 prod.registrar.skype.com
+prod.ros.rockstargames.com
 prod.telemetry.ros.rockstargames.com
 prod6-files.acompli.net
 prodmg2.blob.core.windows.net
@@ -7011,6 +7038,7 @@ serverfault.com
 service.biv.sony.tv
 service.marketing.adobe.com
 service.oneplus.com
+service.weather.microsoft.com
 serviceapi.rmcnmv.naver.com
 servicenetwork.sonymobile.com
 services.addons.mozilla.org
@@ -7196,6 +7224,7 @@ sofascore.com
 sofe.ebay.com
 soft98.ir
 softonic.com
+software-download.microsoft.com
 software.naver.com
 software.sonymobile.com
 sogou.com
@@ -7442,6 +7471,7 @@ status.typekit.com
 status.vimeo.com
 statusapi.micloud.xiaomi.net
 statuspage.io
+steam-chat.com
 steamcommunity.com
 stg-account-samsung-com-1073842004.eu-west-1.elb.amazonaws.com
 stg-account.samsung.com
@@ -8840,6 +8870,7 @@ www.ghacks.net
 www.ghostbin.com
 www.gigapurbalingga.net
 www.ginjfo.com
+www.githubstatus.com
 www.gizbot.com
 www.gizmodo.com
 www.glb.paypal.com
@@ -9221,6 +9252,7 @@ www.mormon.org
 www.movie2k.to
 www.movielabs.com
 www.mozilla.org
+www.msftconnecttest.com
 www.msftncsi.com
 www.msn.com
 www.msnbc.com

@@ -24,12 +24,12 @@
 ; Title: Energized Basic Protection - Whitelist
 ; Description: Basic list of whitelisted domains.
 ; Format: rpz
-; Version: 19.07.202
-; Release: 202
-; Entries: 9,723
+; Version: 19.07.203
+; Release: 203
+; Entries: 9,732
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Sun, 21 Jul 19 20:14:14
+; Updated: Mon, 22 Jul 19 20:14:13
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -1121,6 +1121,7 @@ api-item.daum.net CNAME rpz-passthru.
 api-launcher.spot.im CNAME rpz-passthru.
 api-m.paypal.com CNAME rpz-passthru.
 api-manga.crunchyroll.com CNAME rpz-passthru.
+api-mifit-us.huami.com CNAME rpz-passthru.
 api-mifit.huami.com CNAME rpz-passthru.
 api-mobi.soundcloud.com CNAME rpz-passthru.
 api-mobile-beta.soundcloud.com CNAME rpz-passthru.
@@ -2212,6 +2213,7 @@ cgi.connect.qq.com CNAME rpz-passthru.
 ch.hide.me CNAME rpz-passthru.
 ch.hitbtc.com CNAME rpz-passthru.
 ch.wikipedia.com CNAME rpz-passthru.
+chadmayfield.com CNAME rpz-passthru.
 chainnews.com CNAME rpz-passthru.
 chan.sankakucomplex.com CNAME rpz-passthru.
 change.org CNAME rpz-passthru.
@@ -4066,6 +4068,7 @@ h.facebook.com CNAME rpz-passthru.
 h5.m.taobao.com CNAME rpz-passthru.
 h5.mi.com CNAME rpz-passthru.
 hackaday.com CNAME rpz-passthru.
+hackernoon.com CNAME rpz-passthru.
 hackerone.com CNAME rpz-passthru.
 hackthissite.org CNAME rpz-passthru.
 halo.part.xbox.com CNAME rpz-passthru.
@@ -4334,6 +4337,7 @@ igamecj.com CNAME rpz-passthru.
 igbig.com CNAME rpz-passthru.
 igg-games.com CNAME rpz-passthru.
 igg.com CNAME rpz-passthru.
+igludostats.moonfroglabs.com CNAME rpz-passthru.
 ign.com CNAME rpz-passthru.
 iguoguo.net CNAME rpz-passthru.
 ijr.com CNAME rpz-passthru.
@@ -4550,6 +4554,7 @@ inspector.twitch.tv CNAME rpz-passthru.
 instagram.c10r.facebook.com CNAME rpz-passthru.
 instagram.com CNAME rpz-passthru.
 instalog-prod.sc-prod.net CNAME rpz-passthru.
+instant.page CNAME rpz-passthru.
 instantmessaging-pa.googleapis.com CNAME rpz-passthru.
 instantssl.com CNAME rpz-passthru.
 institutional.coinbase.com CNAME rpz-passthru.
@@ -6158,6 +6163,7 @@ passport.baidu.com CNAME rpz-passthru.
 passport.twitch.tv CNAME rpz-passthru.
 password.kaspersky.com CNAME rpz-passthru.
 pastebin.com CNAME rpz-passthru.
+pasted.co CNAME rpz-passthru.
 path.qualcomm.com CNAME rpz-passthru.
 patheos.com CNAME rpz-passthru.
 paulfredrick.com CNAME rpz-passthru.
@@ -6614,6 +6620,7 @@ redbullmediahouse.origin.typekit.com CNAME rpz-passthru.
 redcross.org CNAME rpz-passthru.
 redd.it CNAME rpz-passthru.
 reddestdream.github.io CNAME rpz-passthru.
+reddit.app.link CNAME rpz-passthru.
 reddit.com CNAME rpz-passthru.
 redditmedia.com CNAME rpz-passthru.
 redditstatic.com CNAME rpz-passthru.
@@ -8138,6 +8145,7 @@ userstream.twitter.com CNAME rpz-passthru.
 usgs.gov CNAME rpz-passthru.
 ushareit.com CNAME rpz-passthru.
 usher.twitch.tv CNAME rpz-passthru.
+usis.bracu.ac.bd CNAME rpz-passthru.
 usnews.com CNAME rpz-passthru.
 ustream.tv CNAME rpz-passthru.
 ut.by CNAME rpz-passthru.
@@ -8673,6 +8681,7 @@ www.boldchat.com CNAME rpz-passthru.
 www.boomkat.com CNAME rpz-passthru.
 www.bootstrapcdn.com CNAME rpz-passthru.
 www.bostonglobe.com CNAME rpz-passthru.
+www.bracu.ac.bd CNAME rpz-passthru.
 www.brands.medium.com CNAME rpz-passthru.
 www.breitbart.com CNAME rpz-passthru.
 www.brightcove.com CNAME rpz-passthru.

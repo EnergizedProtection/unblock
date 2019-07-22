@@ -24,13 +24,13 @@
 ! Title: Energized Basic Protection - Whitelist
 ! Description: Basic list of whitelisted domains.
 ! Format: adblock
-! Version: 19.07.202
-! Release: 202
+! Version: 19.07.203
+! Release: 203
 ! Expires: 7 days (update frequency)
-! Entries: 9,723
+! Entries: 9,732
 ! Pack Code: E84S1C-W
 ! License: MIT, https://energized.pro/license
-! Updated: Sun, 21 Jul 19 20:14:14
+! Updated: Mon, 22 Jul 19 20:14:13
 ! RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/filter
 ! --------------------------------------------
 !
@@ -1114,6 +1114,7 @@
 @@||api-launcher.spot.im^
 @@||api-m.paypal.com^
 @@||api-manga.crunchyroll.com^
+@@||api-mifit-us.huami.com^
 @@||api-mifit.huami.com^
 @@||api-mobi.soundcloud.com^
 @@||api-mobile-beta.soundcloud.com^
@@ -2205,6 +2206,7 @@
 @@||ch.hide.me^
 @@||ch.hitbtc.com^
 @@||ch.wikipedia.com^
+@@||chadmayfield.com^
 @@||chainnews.com^
 @@||chan.sankakucomplex.com^
 @@||change.org^
@@ -4059,6 +4061,7 @@
 @@||h5.m.taobao.com^
 @@||h5.mi.com^
 @@||hackaday.com^
+@@||hackernoon.com^
 @@||hackerone.com^
 @@||hackthissite.org^
 @@||halo.part.xbox.com^
@@ -4327,6 +4330,7 @@
 @@||igbig.com^
 @@||igg-games.com^
 @@||igg.com^
+@@||igludostats.moonfroglabs.com^
 @@||ign.com^
 @@||iguoguo.net^
 @@||ijr.com^
@@ -4543,6 +4547,7 @@
 @@||instagram.c10r.facebook.com^
 @@||instagram.com^
 @@||instalog-prod.sc-prod.net^
+@@||instant.page^
 @@||instantmessaging-pa.googleapis.com^
 @@||instantssl.com^
 @@||institutional.coinbase.com^
@@ -6151,6 +6156,7 @@
 @@||passport.twitch.tv^
 @@||password.kaspersky.com^
 @@||pastebin.com^
+@@||pasted.co^
 @@||path.qualcomm.com^
 @@||patheos.com^
 @@||paulfredrick.com^
@@ -6607,6 +6613,7 @@
 @@||redcross.org^
 @@||redd.it^
 @@||reddestdream.github.io^
+@@||reddit.app.link^
 @@||reddit.com^
 @@||redditmedia.com^
 @@||redditstatic.com^
@@ -8131,6 +8138,7 @@
 @@||usgs.gov^
 @@||ushareit.com^
 @@||usher.twitch.tv^
+@@||usis.bracu.ac.bd^
 @@||usnews.com^
 @@||ustream.tv^
 @@||ut.by^
@@ -8666,6 +8674,7 @@
 @@||www.boomkat.com^
 @@||www.bootstrapcdn.com^
 @@||www.bostonglobe.com^
+@@||www.bracu.ac.bd^
 @@||www.brands.medium.com^
 @@||www.breitbart.com^
 @@||www.brightcove.com^

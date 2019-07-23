@@ -24,12 +24,12 @@
 ; Title: Energized Basic Protection - Whitelist
 ; Description: Basic list of whitelisted domains.
 ; Format: rpz
-; Version: 19.07.203
-; Release: 203
-; Entries: 9,732
+; Version: 19.07.204
+; Release: 204
+; Entries: 9,733
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Mon, 22 Jul 19 20:14:13
+; Updated: Tue, 23 Jul 19 20:14:19
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -1702,6 +1702,7 @@ biglistofwebsites.com CNAME rpz-passthru.
 biglobe.ne.jp CNAME rpz-passthru.
 bigthink.com CNAME rpz-passthru.
 bigzipfiles.facebook.com CNAME rpz-passthru.
+bilder-upload.eu CNAME rpz-passthru.
 bilibili.com CNAME rpz-passthru.
 bill.xbox.com CNAME rpz-passthru.
 billdesk.com CNAME rpz-passthru.

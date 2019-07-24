@@ -24,12 +24,12 @@
 ; Title: Energized Basic Protection - Whitelist
 ; Description: Basic list of whitelisted domains.
 ; Format: rpz
-; Version: 19.07.204
-; Release: 204
-; Entries: 9,733
+; Version: 19.07.205
+; Release: 205
+; Entries: 9,735
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Tue, 23 Jul 19 20:14:19
+; Updated: Wed, 24 Jul 19 20:14:30
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -2570,6 +2570,7 @@ cpanel.com CNAME rpz-passthru.
 cpanel.net CNAME rpz-passthru.
 cpms.spop10.ams.plex.bz CNAME rpz-passthru.
 cpms35.spop10.ams.plex.bz CNAME rpz-passthru.
+cpy-crack.com CNAME rpz-passthru.
 cr.naver.com CNAME rpz-passthru.
 cr2.shopping.naver.com CNAME rpz-passthru.
 crackberry.com CNAME rpz-passthru.
@@ -8741,6 +8742,7 @@ www.commonsensemedia.org CNAME rpz-passthru.
 www.complex.com CNAME rpz-passthru.
 www.computer.howstuffworks.com CNAME rpz-passthru.
 www.computerlanguage.com CNAME rpz-passthru.
+www.consent.cookiebot.com CNAME rpz-passthru.
 www.consent.truste.com CNAME rpz-passthru.
 www.conversantmedia.com CNAME rpz-passthru.
 www.coolrom.com CNAME rpz-passthru.

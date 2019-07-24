@@ -24,13 +24,13 @@
 ! Title: Energized Basic Protection - Whitelist
 ! Description: Basic list of whitelisted domains.
 ! Format: adblock
-! Version: 19.07.204
-! Release: 204
+! Version: 19.07.205
+! Release: 205
 ! Expires: 7 days (update frequency)
-! Entries: 9,733
+! Entries: 9,735
 ! Pack Code: E84S1C-W
 ! License: MIT, https://energized.pro/license
-! Updated: Tue, 23 Jul 19 20:14:19
+! Updated: Wed, 24 Jul 19 20:14:30
 ! RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/filter
 ! --------------------------------------------
 !
@@ -2563,6 +2563,7 @@
 @@||cpanel.net^
 @@||cpms.spop10.ams.plex.bz^
 @@||cpms35.spop10.ams.plex.bz^
+@@||cpy-crack.com^
 @@||cr.naver.com^
 @@||cr2.shopping.naver.com^
 @@||crackberry.com^
@@ -8734,6 +8735,7 @@
 @@||www.complex.com^
 @@||www.computer.howstuffworks.com^
 @@||www.computerlanguage.com^
+@@||www.consent.cookiebot.com^
 @@||www.consent.truste.com^
 @@||www.conversantmedia.com^
 @@||www.coolrom.com^

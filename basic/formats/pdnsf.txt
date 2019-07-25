@@ -24,12 +24,12 @@
 # Title: Energized Basic Protection - Whitelist
 # Description: Basic list of whitelisted domains.
 # Format: personalDNSfilter
-# Version: 19.07.205
-# Release: 205
-# Entries: 9,735
+# Version: 19.07.206
+# Release: 206
+# Entries: 9,787
 # Pack Code: E84S1C-W
 # License: MIT, https://energized.pro/license
-# Updated: Wed, 24 Jul 19 20:14:30
+# Updated: Thu, 25 Jul 19 20:14:33
 # RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/pdnsf.txt
 # --------------------------------------------
 #
@@ -1079,6 +1079,7 @@
 !animeheaven.eu
 !animeseason.com
 !anninhthudo.vn
+!announce.xxx-tracker.com
 !announcements.engadget.com
 !anonymouse.org
 !answers.com
@@ -1142,6 +1143,8 @@
 !api.ai.xiaomi.com
 !api.airfind.com
 !api.am.coinbase.com
+!api.amazon.com
+!api.amazon.in
 !api.amplitude.com
 !api.apk.v-mate.mobi
 !api.appmetadata.sonymobile.com
@@ -1264,6 +1267,7 @@
 !api.segment.io
 !api.setting.intl.miui.com
 !api.similarweb.com
+!api.simplisafe.com
 !api.skype.com
 !api.snapchat.com
 !api.sndcdn.com
@@ -1278,6 +1282,7 @@
 !api.suggest.search.rakuten.co.jp
 !api.syndicaster.tv
 !api.target.com
+!api.tastyworks.com
 !api.teams.skype.com
 !api.thetvdb.com
 !api.tiles.mapbox.com
@@ -1326,6 +1331,7 @@
 !apk.v-mate.mobi
 !apkmb.com
 !apkmirror.com
+!apkpure.com
 !apm.wetest.qq.com
 !apnupdate.sonymobile.com
 !apo.st
@@ -1414,6 +1420,8 @@
 !appstore.pandora.xiaomi.com
 !appsumo.com
 !apptimize.com
+!appx.transient.amazon.com
+!appx.transient.amazon.in
 !apresolve.spotify.com
 !apt.izzysoft.de
 !apt.sonarr.tv
@@ -1441,6 +1449,7 @@
 !articles.chicagotribune.com
 !articles.latimes.com
 !arv.us
+!asahi.com
 !ascii.co.uk
 !ash.to
 !ashampoo.com
@@ -1479,6 +1488,7 @@
 !assets.huffingtonpost.com
 !assets.hulu.com
 !assets.ign.com
+!assets.inshorts.com
 !assets.nflxext.com
 !assets.pinterest.com
 !assets.roar.media
@@ -1616,6 +1626,7 @@
 !banners.spiceworks.com
 !barnesandnoble.com
 !battle.net
+!battlelog.battlefield.com
 !bb.biv.sony.tv
 !bbb.org
 !bbc.co.uk
@@ -2984,6 +2995,7 @@
 !dsp.brand.sogou.com
 !dts.podtrac.com
 !du1gtm004.adobe.com
+!duck.co
 !duckdns.org
 !duckduckgo.com
 !duo.nl
@@ -3185,6 +3197,7 @@
 !esearch.rakuten.co.jp
 !espn.com
 !espresso.economist.com
+!esquire.com
 !estore.sonymobile.com
 !estream.to
 !etao.com
@@ -3361,6 +3374,7 @@
 !fi.wikipedia.com
 !fifthplay.com
 !filament.io
+!file-extensions.org
 !file-igamecj.akamaized.net
 !file.igamecj.com
 !file.market.xiaomi.com
@@ -3417,6 +3431,8 @@
 !flipp.com
 !flixcart.com
 !flowplayer.com
+!fls-eu.amazon.com
+!fls-eu.amazon.de
 !fls-na.amazon.com
 !fm.tuba.pl
 !fncstatic.com
@@ -3651,6 +3667,7 @@
 !geo-prod.do.dsp.mp.microsoft.com
 !geo.nabstudio.com
 !geo.nbcsports.com
+!geo.paypalobjects.com.akadns.net
 !geo.settings.data.microsoft.com.akadns.net
 !geo2.adobe.com
 !geo3.ggpht.com
@@ -3716,6 +3733,7 @@
 !gl.gravatar.com
 !gl.statcounter.com
 !glass.twitch.tv
+!glb.paypal.com
 !gleam.io
 !global-download.acer.com
 !global-nvapis.line.me
@@ -3760,6 +3778,7 @@
 !go.trouter.skype.com
 !go.twitch.tv
 !go.wechat.com
+!gob.pe
 !godaddy.com
 !godofwar.playstation.com
 !gofundme.com
@@ -4319,6 +4338,7 @@
 !ideone.com
 !idg.com
 !idg.me
+!idroid.taobao.com
 !ids.indevice.sonymobile.com
 !ie.ign.com
 !ieee.org
@@ -4394,6 +4414,7 @@
 !images.fotmob.com
 !images.gotinder.com
 !images.huffingtonpost.com
+!images.opencollective.com
 !images.performgroup.com
 !images.pluto.tv
 !images.preprod.vudu.com
@@ -4438,6 +4459,7 @@
 !img.investorwords.com
 !img.mediaset.it
 !img.onesignal.com
+!img.over-blog-kiwi.com
 !img.pr0gramm.com
 !img.purch.com
 !img.rapidvideo.com
@@ -4522,6 +4544,7 @@
 !indystar.com
 !inference.location.live.net
 !info.binance.com
+!info.internet.org
 !info.recode.net
 !info.sec.miui.com
 !info.seek.com
@@ -4566,6 +4589,7 @@
 !intervista.youdao.com
 !intl.fusionsolar.huawei.com
 !intranet.xiaomi.com
+!intuit.com
 !inu.me
 !inventory.dealersocket.com
 !invest.ameritrade.com
@@ -4721,6 +4745,7 @@
 !js1.t.sinajs.cn
 !jsdelivr.net
 !jsfiddle.net
+!jssocdn.indiatimes.com
 !jugem.jp
 !jumia.com.ng
 !jwpcdn.com
@@ -5028,6 +5053,7 @@
 !login.wikimedia.org
 !loginpoll.wechat.com
 !logins.daum.net
+!logitech.com
 !logmein-gateway.com
 !logmein.com
 !logmeinrescue.com
@@ -5080,6 +5106,7 @@
 !m.amazon.fr
 !m.america.net
 !m.angelfire.com
+!m.apkpure.com
 !m.app.mi.com
 !m.articles.chicagotribune.com
 !m.articles.latimes.com
@@ -5165,6 +5192,7 @@
 !m.ibtimes.com
 !m.ign.com
 !m.inc.com
+!m.intl.taobao.com
 !m.investopedia.com
 !m.irishtimes.com
 !m.jr.mi.com
@@ -6034,6 +6062,7 @@
 !openapi.naver.com
 !openapi.samsung.com
 !openapp.io.mi.com
+!opencollective.com
 !openconnect.netflix.com
 !openlibrary.org
 !openload.co
@@ -6043,6 +6072,7 @@
 !opensource.samsung.com
 !openstreetmap.org
 !opensubtitles.org
+!openwall.com
 !opera.com
 !opinion.latimes.com
 !opinionlab.com
@@ -6352,6 +6382,7 @@
 !post.naver.com
 !post.net.playstation.net
 !posta.co.tz
+!postimg.org
 !postoffice.adobe.com
 !potplayer.daum.net
 !powerreviews.com
@@ -6585,6 +6616,7 @@
 !ranking.rakuten.co.jp
 !ransomwaretracker.abuse.ch
 !rapidgator.net
+!rapidshare.com
 !rapidvideo.com
 !rat.rakuten.co.jp
 !rates.viber.com
@@ -6655,6 +6687,7 @@
 !repair-info.sonymobile.com
 !replies.io
 !repo.xposed.info
+!report-uri.cloudflare.com
 !reports.boldchat.com
 !reports.exodus-privacy.eu.org
 !republika.onet.pl
@@ -6714,6 +6747,7 @@
 !road.adblock.ro
 !roadandtrack.com
 !roar.media
+!rochester.edu
 !rockstargames.com
 !roku.com
 !rollingstone.com
@@ -7085,6 +7119,7 @@
 !sgsg.samsung.com
 !shacknews.com
 !shaken.rakuten.co.jp
+!shang.qq.com
 !share.adobe.com
 !share.cdn.integration.viber.com
 !share.cdn.viber.com
@@ -7735,6 +7770,7 @@
 !telegraph.co.uk
 !telemetry-incoming.r53-2.services.mozilla.com
 !telemetry.soundcloud.com
+!tencent.com
 !tencentgames.helpshift.com
 !tenforums.com
 !terasi.net
@@ -7749,6 +7785,7 @@
 !test.cryptopia.co.nz
 !test.vuukle.com
 !testkitchen.huffingtonpost.com
+!texas.gov
 !text.getpocket.com
 !textshot.medium.com
 !tg1.premium.db4.wix.com
@@ -7962,6 +7999,7 @@
 !u.nu
 !u.to
 !u.wechat.com
+!ualberta.ca
 !uaprof.sonymobile.com
 !uarel.com
 !ublock.org
@@ -8045,6 +8083,7 @@
 !uploaded.net
 !uploading.com
 !uppit.com
+!uptime.com
 !uptimerobot.com
 !uptobox.com
 !uptostream.com
@@ -8270,6 +8309,7 @@
 !vod-storyboards.twitch.tv
 !vod.pl
 !vod.tvp.pl
+!vogue.com
 !voice.gcloudcs.com
 !voice.wechat.com
 !void.gr
@@ -8310,6 +8350,7 @@
 !w3.org
 !w3m.huawei.com
 !w3schools.com
+!w88.espn.com
 !wa.huawei.com
 !wac.edgecastcdn.net
 !waiting.bithumb.com
@@ -8442,6 +8483,7 @@
 !wiki.dcinside.com
 !wiki.mozilla.org
 !wikia.com
+!wikibooks.org
 !wikihow.com
 !wikimedia.org
 !wikipedia.org
@@ -8555,6 +8597,7 @@
 !www.4pda.ru
 !www.9Anime.to
 !www.9apps.com
+!www.a.espncdn.com
 !www.a.shifen.com
 !www.abbreviations.com
 !www.about.com
@@ -8610,6 +8653,7 @@
 !www.ap.cdn.survey.medallia.com
 !www.apex.techrepublic.com
 !www.api.medium.com
+!www.apkpure.com
 !www.apple.com
 !www.appleiphonecell.com
 !www.appnee.com
@@ -9156,6 +9200,7 @@
 !www.images.anandtech.com
 !www.inc.com
 !www.indystar.com
+!www.info.internet.org
 !www.infoblox.com
 !www.instagram.com
 !www.internetdownloadmanager.com
@@ -9221,6 +9266,7 @@
 !www.lovoo.com
 !www.ltc.cryptopia.co.nz
 !www.m.animefreak.tv
+!www.m.apkpure.com
 !www.m.techrepublic.com
 !www.ma.techrepublic.com
 !www.macmillandictionary.com
@@ -9319,10 +9365,12 @@
 !www.onmpeg.com
 !www.openlibrary.org
 !www.opensubtitles.org
+!www.openwall.com
 !www.opinionlab.com
 !www.oprah.com
 !www.optimizely.com
 !www.ora.tv
+!www.orangepi.org
 !www.ospserver.net
 !www.ouo.press
 !www.ow.ly
@@ -9513,6 +9561,7 @@
 !www.theguardian.com
 !www.thelastofus.playstation.com
 !www.themoviedb.com
+!www.thepiratebay.org
 !www.therebel.media
 !www.thetvdb.com
 !www.theverge.com
@@ -9541,6 +9590,7 @@
 !www.unity3d.com
 !www.unix.com
 !www.unpkg.com
+!www.uptime.com
 !www.upwork.com
 !www.urbandictionary.com
 !www.urs.techrepublic.com
@@ -9575,6 +9625,7 @@
 !www.w3.org
 !www.w3school.com
 !www.w3schools.com
+!www.w88.espn.com
 !www.warez-bb.org
 !www.weather.com
 !www.weather.gov
@@ -9782,6 +9833,7 @@
 !zhongguose.com
 !zht.alipay.com
 !zi.ma
+!zillow.com
 !zippyshare.com
 !ziprecruiter.com
 !zoho.com

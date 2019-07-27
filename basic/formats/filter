@@ -24,13 +24,13 @@
 ! Title: Energized Basic Protection - Whitelist
 ! Description: Basic list of whitelisted domains.
 ! Format: adblock
-! Version: 19.07.207
-! Release: 207
+! Version: 19.07.208
+! Release: 208
 ! Expires: 7 days (update frequency)
-! Entries: 9,787
+! Entries: 9,809
 ! Pack Code: E84S1C-W
 ! License: MIT, https://energized.pro/license
-! Updated: Fri, 26 Jul 19 20:14:20
+! Updated: Sat, 27 Jul 19 20:15:12
 ! RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/filter
 ! --------------------------------------------
 !
@@ -1212,6 +1212,7 @@
 @@||api.hotstar.com^
 @@||api.hybrid.intl.xiaomi.com^
 @@||api.hybrid.xiaomi.com^
+@@||api.icq.net^
 @@||api.io.mi.com^
 @@||api.ipify.org^
 @@||api.jio.com^
@@ -1795,6 +1796,7 @@
 @@||blog.naver.com^
 @@||blog.netflix.com^
 @@||blog.nirsoft.net^
+@@||blog.paranoidandroid.co^
 @@||blog.pinterest.com^
 @@||blog.rss.naver.com^
 @@||blog.ru.playstation.com^
@@ -1954,6 +1956,7 @@
 @@||c.o0bc.com^
 @@||c.s-microsoft.com^
 @@||c.storage.googleapis.com^
+@@||c.t-online.de^
 @@||c.trello.com^
 @@||c00.adobe.com^
 @@||c1.g.mi.com^
@@ -2222,6 +2225,7 @@
 @@||chainnews.com^
 @@||chan.sankakucomplex.com^
 @@||change.org^
+@@||changelly.com^
 @@||changelogs.ubuntu.com^
 @@||channel9.msdn.com^
 @@||channelusa.samsung.com^
@@ -3303,6 +3307,7 @@
 @@||familydollar.com^
 @@||fan.twitch.tv^
 @@||fanat.ua^
+@@||fantasy.premierleague.com^
 @@||faq.it.playstation.com^
 @@||fark.com^
 @@||farm4.staticflickr.com^
@@ -3437,6 +3442,7 @@
 @@||fls-na.amazon.com^
 @@||fm.tuba.pl^
 @@||fncstatic.com^
+@@||focus.de^
 @@||fok.nl^
 @@||fontawesome.com^
 @@||fonts-prod.adobe.com^
@@ -3468,6 +3474,7 @@
 @@||forum.huawei.com^
 @@||forum.kaspersky.com^
 @@||forum.kissanime.com^
+@@||forum.mikrotik.com^
 @@||forum.minergate.com^
 @@||forum.synology.com^
 @@||forum.ucweb.com^
@@ -4319,6 +4326,7 @@
 @@||icloud.com^
 @@||icptrack.com^
 @@||icq.com^
+@@||icq.im^
 @@||icute.com^
 @@||id-cdn.twitch.tv^
 @@||id-lookup.api.playstation.com^
@@ -4439,6 +4447,7 @@
 @@||imasdk.googleapis.com^
 @@||imdb.com^
 @@||ime.api.xiaomi.com^
+@@||img-cdn.huami.com^
 @@||img-developer.samsung.com^
 @@||img-developer.samsung.com.edgekey.net^
 @@||img-s-msn-com.akamaized.net^
@@ -5314,6 +5323,7 @@
 @@||mail.naver.com^
 @@||mail.nirsoft.net^
 @@||mail.plus.google.com^
+@@||mail.protonmail.com^
 @@||mail.ru^
 @@||mail.sitcomsonline.com^
 @@||mail.techmeme.com^
@@ -6402,6 +6412,7 @@
 @@||prelive.cryptopia.co.nz^
 @@||premaster-app-cdn.spot.im^
 @@||premaster-spoxy.spot.im^
+@@||premierleague.com^
 @@||premium.linkedin.com^
 @@||premium.soundcloud.com^
 @@||preprod.hitbtc.com^
@@ -6440,6 +6451,7 @@
 @@||prod-helpapp.sonymobile.com^
 @@||prod-native.actionbutton.co^
 @@||prod-upload-service.getmore.sonymobile.com^
+@@||prod.api.bka.sh^
 @@||prod.appnexus.map.fastly.net^
 @@||prod.cloud.rockstargames.com^
 @@||prod.disqus.map.fastlylb.net^
@@ -6618,6 +6630,7 @@
 @@||ransomwaretracker.abuse.ch^
 @@||rapidgator.net^
 @@||rapidshare.com^
+@@||rapidvid.to^
 @@||rapidvideo.com^
 @@||rat.rakuten.co.jp^
 @@||rates.viber.com^
@@ -7183,6 +7196,7 @@
 @@||sinajs.cn^
 @@||sinatw.com^
 @@||singapore.hide.me^
+@@||singleapp.robi.com.bd^
 @@||sitcomsonline.com^
 @@||site.gravatar.com^
 @@||sitepoint.com^
@@ -7498,6 +7512,7 @@
 @@||stats.api.xiaomi.net^
 @@||stats.pusher.com^
 @@||stats.streamelements.com^
+@@||stats.t-online.de^
 @@||statsandengagement.help.soundcloud.com^
 @@||statsfe2.update.microsoft.com.akadns.net^
 @@||status.adobe.com^
@@ -7868,6 +7883,7 @@
 @@||token.services.mozilla.com^
 @@||tokenization.api.playstation.com^
 @@||tomshardware.com^
+@@||ton.twimg.com^
 @@||toolbar.naver.com^
 @@||tools.gotinder.com^
 @@||tools.l.google.com^
@@ -8248,6 +8264,7 @@
 @@||video.playstation.com^
 @@||video.techcrunch.com^
 @@||video.tv.adobe.com^
+@@||video.twimg.com^
 @@||video.wechat.com^
 @@||video.xx.fbcdn.net^
 @@||videoapp-assets-ak.buzzfeed.com^
@@ -8752,6 +8769,7 @@
 @@||www.cdn.medium.com^
 @@||www.cdn.survey.medallia.com^
 @@||www.cdn.w3schools.com^
+@@||www.changelly.com^
 @@||www.channel9.msdn.com^
 @@||www.cheatengine.org^
 @@||www.chia-anime.tv^
@@ -8829,6 +8847,7 @@
 @@||www.download.windowsupdate.com^
 @@||www.downloads.techrepublic.com^
 @@||www.dramafever.com^
+@@||www.drift.com^
 @@||www.dropbox.com^
 @@||www.drp.su^
 @@||www.dshield.org^
@@ -8884,6 +8903,7 @@
 @@||www.flipkart.com^
 @@||www.flowplayer.com^
 @@||www.fncstatic.com^
+@@||www.focus.de^
 @@||www.fok.nl^
 @@||www.force.com^
 @@||www.foresee.com^
@@ -9413,6 +9433,7 @@
 @@||www.powr.io^
 @@||www.pr0gramm.com^
 @@||www.preferences.truste.com^
+@@||www.premierleague.com^
 @@||www.preprod.vudu.com^
 @@||www.primewire.ag^
 @@||www.privateinternetaccess.com^
@@ -9440,6 +9461,7 @@
 @@||www.rebrandly.com^
 @@||www.recode.net^
 @@||www.reddit.com^
+@@||www.redditstatic.com^
 @@||www.rediff.com^
 @@||www.redirectingat.com^
 @@||www.reference.com^

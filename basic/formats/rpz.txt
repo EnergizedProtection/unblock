@@ -24,12 +24,12 @@
 ; Title: Energized Basic Protection - Whitelist
 ; Description: Basic list of whitelisted domains.
 ; Format: rpz
-; Version: 19.07.208
-; Release: 208
-; Entries: 9,809
+; Version: 19.07.209
+; Release: 209
+; Entries: 9,815
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Sat, 27 Jul 19 20:15:12
+; Updated: Sun, 28 Jul 19 20:15:49
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -2583,6 +2583,7 @@ cp.mi.com CNAME rpz-passthru.
 cp76677.edgefcs.net CNAME rpz-passthru.
 cpanel.com CNAME rpz-passthru.
 cpanel.net CNAME rpz-passthru.
+cpmlink.net CNAME rpz-passthru.
 cpms.spop10.ams.plex.bz CNAME rpz-passthru.
 cpms35.spop10.ams.plex.bz CNAME rpz-passthru.
 cpy-crack.com CNAME rpz-passthru.
@@ -4951,6 +4952,7 @@ link.medium.com CNAME rpz-passthru.
 link.nayemador.com CNAME rpz-passthru.
 link.techcrunch.com CNAME rpz-passthru.
 link.theplatform.com CNAME rpz-passthru.
+link.tl CNAME rpz-passthru.
 link.twitch.tv CNAME rpz-passthru.
 link.xperialounge.sonymobile.com CNAME rpz-passthru.
 linkbucks.com CNAME rpz-passthru.
@@ -5720,6 +5722,7 @@ mybbc.files.bbci.co.uk CNAME rpz-passthru.
 mybrowserbar-com.samsung.com.nas CNAME rpz-passthru.
 mycrypto.com CNAME rpz-passthru.
 mydealz.digidip.net CNAME rpz-passthru.
+myfico.com CNAME rpz-passthru.
 myfonts.net CNAME rpz-passthru.
 myfox8.com CNAME rpz-passthru.
 myhome.naver.com CNAME rpz-passthru.
@@ -6400,6 +6403,7 @@ portfolio.adobe.com CNAME rpz-passthru.
 post.naver.com CNAME rpz-passthru.
 post.net.playstation.net CNAME rpz-passthru.
 posta.co.tz CNAME rpz-passthru.
+postimg.cc CNAME rpz-passthru.
 postimg.org CNAME rpz-passthru.
 postoffice.adobe.com CNAME rpz-passthru.
 potplayer.daum.net CNAME rpz-passthru.
@@ -8810,6 +8814,7 @@ www.conversantmedia.com CNAME rpz-passthru.
 www.coolrom.com CNAME rpz-passthru.
 www.cort.as CNAME rpz-passthru.
 www.coupons.com CNAME rpz-passthru.
+www.cpmlink.net CNAME rpz-passthru.
 www.cracked.com CNAME rpz-passthru.
 www.cracksurl.com CNAME rpz-passthru.
 www.createsend.com CNAME rpz-passthru.
@@ -9347,6 +9352,7 @@ www.multiupload.com CNAME rpz-passthru.
 www.musiciansfriend.com CNAME rpz-passthru.
 www.mybanktracker.com CNAME rpz-passthru.
 www.mycrypto.com CNAME rpz-passthru.
+www.myfico.com CNAME rpz-passthru.
 www.myfonts.com CNAME rpz-passthru.
 www.myfonts.net CNAME rpz-passthru.
 www.myfox8.com CNAME rpz-passthru.

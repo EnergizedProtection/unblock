@@ -24,12 +24,12 @@
 # Title: Energized Basic Protection - Whitelist
 # Description: Basic list of whitelisted domains.
 # Format: personalDNSfilter
-# Version: 19.07.208
-# Release: 208
-# Entries: 9,809
+# Version: 19.07.209
+# Release: 209
+# Entries: 9,815
 # Pack Code: E84S1C-W
 # License: MIT, https://energized.pro/license
-# Updated: Sat, 27 Jul 19 20:15:12
+# Updated: Sun, 28 Jul 19 20:15:49
 # RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/pdnsf.txt
 # --------------------------------------------
 #
@@ -2575,6 +2575,7 @@
 !cp76677.edgefcs.net
 !cpanel.com
 !cpanel.net
+!cpmlink.net
 !cpms.spop10.ams.plex.bz
 !cpms35.spop10.ams.plex.bz
 !cpy-crack.com
@@ -4943,6 +4944,7 @@
 !link.nayemador.com
 !link.techcrunch.com
 !link.theplatform.com
+!link.tl
 !link.twitch.tv
 !link.xperialounge.sonymobile.com
 !linkbucks.com
@@ -5712,6 +5714,7 @@
 !mybrowserbar-com.samsung.com.nas
 !mycrypto.com
 !mydealz.digidip.net
+!myfico.com
 !myfonts.net
 !myfox8.com
 !myhome.naver.com
@@ -6392,6 +6395,7 @@
 !post.naver.com
 !post.net.playstation.net
 !posta.co.tz
+!postimg.cc
 !postimg.org
 !postoffice.adobe.com
 !potplayer.daum.net
@@ -8802,6 +8806,7 @@
 !www.coolrom.com
 !www.cort.as
 !www.coupons.com
+!www.cpmlink.net
 !www.cracked.com
 !www.cracksurl.com
 !www.createsend.com
@@ -9339,6 +9344,7 @@
 !www.musiciansfriend.com
 !www.mybanktracker.com
 !www.mycrypto.com
+!www.myfico.com
 !www.myfonts.com
 !www.myfonts.net
 !www.myfox8.com

@@ -24,12 +24,12 @@
 # Title: Energized Basic Protection - Whitelist
 # Description: Basic list of whitelisted domains.
 # Format: personalDNSfilter
-# Version: 19.07.209
-# Release: 209
-# Entries: 9,815
+# Version: 19.07.210
+# Release: 210
+# Entries: 9,817
 # Pack Code: E84S1C-W
 # License: MIT, https://energized.pro/license
-# Updated: Sun, 28 Jul 19 20:15:49
+# Updated: Mon, 29 Jul 19 20:15:31
 # RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/pdnsf.txt
 # --------------------------------------------
 #
@@ -1680,6 +1680,7 @@
 !beta.twitch.tv
 !betaclub.huawei.com
 !betanews.com
+!bethesda.net
 !bg.gravatar.com
 !bg.playstation.com
 !bg.v4.a.dl.ws.microsoft.com
@@ -8716,6 +8717,7 @@
 !www.bestmovies.com
 !www.bet365.com
 !www.betanews.com
+!www.bethesda.net
 !www.bharattimes.com
 !www.billdesk.com
 !www.binance.com

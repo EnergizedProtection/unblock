@@ -24,12 +24,12 @@
 ; Title: Energized Basic Protection - Whitelist
 ; Description: Basic list of whitelisted domains.
 ; Format: rpz
-; Version: 19.07.211
-; Release: 211
-; Entries: 9,817
+; Version: 19.07.212
+; Release: 212
+; Entries: 9,828
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Tue, 30 Jul 19 20:15:30
+; Updated: Wed, 31 Jul 19 20:15:41
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -425,6 +425,7 @@ airdownload.adobe.com CNAME rpz-passthru.
 airdownload2.adobe.com CNAME rpz-passthru.
 airfind.com CNAME rpz-passthru.
 airinstall.adobe.com CNAME rpz-passthru.
+airtable.com CNAME rpz-passthru.
 ajax.aspnetcdn.com CNAME rpz-passthru.
 ajax.cloudflare.com CNAME rpz-passthru.
 ajax.googleapis.com CNAME rpz-passthru.
@@ -1322,6 +1323,7 @@ api.xda-developers.com CNAME rpz-passthru.
 api.xk.miui.com CNAME rpz-passthru.
 api.xmpush.xiaomi.com CNAME rpz-passthru.
 api.xposed.info CNAME rpz-passthru.
+api.zaloapp.com CNAME rpz-passthru.
 api.zhuti.intl.xiaomi.com CNAME rpz-passthru.
 api1.weather.com CNAME rpz-passthru.
 api2.bitfinex.com CNAME rpz-passthru.
@@ -2444,6 +2446,7 @@ codecanyon.net CNAME rpz-passthru.
 codemasters.com CNAME rpz-passthru.
 codenvy.io CNAME rpz-passthru.
 codeproject.com CNAME rpz-passthru.
+coffeecup.com CNAME rpz-passthru.
 cognito-identity.us-east-1.amazonaws.com CNAME rpz-passthru.
 coinbase.com CNAME rpz-passthru.
 coinmarketcap.com CNAME rpz-passthru.
@@ -4694,6 +4697,7 @@ ja.gravatar.com CNAME rpz-passthru.
 ja.wikipedia.com CNAME rpz-passthru.
 jabcreations.com CNAME rpz-passthru.
 jacepayment.airasia.com CNAME rpz-passthru.
+jackjones.com CNAME rpz-passthru.
 jalopnik.com CNAME rpz-passthru.
 japan.techrepublic.com CNAME rpz-passthru.
 japanese.engadget.com CNAME rpz-passthru.
@@ -7522,6 +7526,7 @@ staticxx.facebook.com CNAME rpz-passthru.
 station.sony.com CNAME rpz-passthru.
 stats.adobe.com CNAME rpz-passthru.
 stats.api.xiaomi.net CNAME rpz-passthru.
+stats.lineageos.org CNAME rpz-passthru.
 stats.pusher.com CNAME rpz-passthru.
 stats.streamelements.com CNAME rpz-passthru.
 stats.t-online.de CNAME rpz-passthru.
@@ -7831,6 +7836,7 @@ theglobeandmail.com CNAME rpz-passthru.
 theguardian.com CNAME rpz-passthru.
 thehill.com CNAME rpz-passthru.
 theia.dl.playstation.net CNAME rpz-passthru.
+theme-shop.coffeecup.com CNAME rpz-passthru.
 themeforest.net CNAME rpz-passthru.
 themegrill.com CNAME rpz-passthru.
 themes.mozilla.org CNAME rpz-passthru.
@@ -8648,6 +8654,7 @@ www.adguard.com CNAME rpz-passthru.
 www.adlice.com CNAME rpz-passthru.
 www.adobe.com CNAME rpz-passthru.
 www.aetna.com CNAME rpz-passthru.
+www.airtable.com CNAME rpz-passthru.
 www.alexa.com CNAME rpz-passthru.
 www.algolia.com CNAME rpz-passthru.
 www.algolia.com #codepen CNAME rpz-passthru.
@@ -9179,6 +9186,7 @@ www.google.ws CNAME rpz-passthru.
 www.googleapis.com CNAME rpz-passthru.
 www.googleweblight.com CNAME rpz-passthru.
 www.gotinder.com CNAME rpz-passthru.
+www.gotomyp.com CNAME rpz-passthru.
 www.gotomypc.com CNAME rpz-passthru.
 www.govtrack.us CNAME rpz-passthru.
 www.gq.com CNAME rpz-passthru.
@@ -9250,6 +9258,7 @@ www.irishtimes.com CNAME rpz-passthru.
 www.itpapers.techrepublic.com CNAME rpz-passthru.
 www.iutoic-dhaka.edu CNAME rpz-passthru.
 www.jabcreations.com CNAME rpz-passthru.
+www.jackjones.com CNAME rpz-passthru.
 www.japan.techrepublic.com CNAME rpz-passthru.
 www.javdict.disqus.com CNAME rpz-passthru.
 www.jdownloader.org CNAME rpz-passthru.
@@ -9336,6 +9345,7 @@ www.minergate.com CNAME rpz-passthru.
 www.mirror.co.uk CNAME rpz-passthru.
 www.mirrorservice.org CNAME rpz-passthru.
 www.mkt7185.com CNAME rpz-passthru.
+www.mobilcom-debitel.de CNAME rpz-passthru.
 www.mobisystems.com CNAME rpz-passthru.
 www.modapkdown.com CNAME rpz-passthru.
 www.moddb.com CNAME rpz-passthru.
@@ -9843,6 +9853,7 @@ z-m.facebook.com CNAME rpz-passthru.
 z-p4-graph.facebook.com CNAME rpz-passthru.
 z.cdn.turner.com CNAME rpz-passthru.
 za.ign.com CNAME rpz-passthru.
+zaloapp.com CNAME rpz-passthru.
 zam.zamimg.com CNAME rpz-passthru.
 zang.kr CNAME rpz-passthru.
 zappos.com CNAME rpz-passthru.

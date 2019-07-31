@@ -24,13 +24,13 @@
 ! Title: Energized Basic Protection - Whitelist
 ! Description: Basic list of whitelisted domains.
 ! Format: adblock
-! Version: 19.07.211
-! Release: 211
+! Version: 19.07.212
+! Release: 212
 ! Expires: 7 days (update frequency)
-! Entries: 9,817
+! Entries: 9,828
 ! Pack Code: E84S1C-W
 ! License: MIT, https://energized.pro/license
-! Updated: Tue, 30 Jul 19 20:15:30
+! Updated: Wed, 31 Jul 19 20:15:41
 ! RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/filter
 ! --------------------------------------------
 !
@@ -418,6 +418,7 @@
 @@||airdownload2.adobe.com^
 @@||airfind.com^
 @@||airinstall.adobe.com^
+@@||airtable.com^
 @@||ajax.aspnetcdn.com^
 @@||ajax.cloudflare.com^
 @@||ajax.googleapis.com^
@@ -1315,6 +1316,7 @@
 @@||api.xk.miui.com^
 @@||api.xmpush.xiaomi.com^
 @@||api.xposed.info^
+@@||api.zaloapp.com^
 @@||api.zhuti.intl.xiaomi.com^
 @@||api1.weather.com^
 @@||api2.bitfinex.com^
@@ -2437,6 +2439,7 @@
 @@||codemasters.com^
 @@||codenvy.io^
 @@||codeproject.com^
+@@||coffeecup.com^
 @@||cognito-identity.us-east-1.amazonaws.com^
 @@||coinbase.com^
 @@||coinmarketcap.com^
@@ -4687,6 +4690,7 @@
 @@||ja.wikipedia.com^
 @@||jabcreations.com^
 @@||jacepayment.airasia.com^
+@@||jackjones.com^
 @@||jalopnik.com^
 @@||japan.techrepublic.com^
 @@||japanese.engadget.com^
@@ -7515,6 +7519,7 @@
 @@||station.sony.com^
 @@||stats.adobe.com^
 @@||stats.api.xiaomi.net^
+@@||stats.lineageos.org^
 @@||stats.pusher.com^
 @@||stats.streamelements.com^
 @@||stats.t-online.de^
@@ -7824,6 +7829,7 @@
 @@||theguardian.com^
 @@||thehill.com^
 @@||theia.dl.playstation.net^
+@@||theme-shop.coffeecup.com^
 @@||themeforest.net^
 @@||themegrill.com^
 @@||themes.mozilla.org^
@@ -8641,6 +8647,7 @@
 @@||www.adlice.com^
 @@||www.adobe.com^
 @@||www.aetna.com^
+@@||www.airtable.com^
 @@||www.alexa.com^
 @@||www.algolia.com^
 @@||www.algolia.com #codepen^
@@ -9172,6 +9179,7 @@
 @@||www.googleapis.com^
 @@||www.googleweblight.com^
 @@||www.gotinder.com^
+@@||www.gotomyp.com^
 @@||www.gotomypc.com^
 @@||www.govtrack.us^
 @@||www.gq.com^
@@ -9243,6 +9251,7 @@
 @@||www.itpapers.techrepublic.com^
 @@||www.iutoic-dhaka.edu^
 @@||www.jabcreations.com^
+@@||www.jackjones.com^
 @@||www.japan.techrepublic.com^
 @@||www.javdict.disqus.com^
 @@||www.jdownloader.org^
@@ -9329,6 +9338,7 @@
 @@||www.mirror.co.uk^
 @@||www.mirrorservice.org^
 @@||www.mkt7185.com^
+@@||www.mobilcom-debitel.de^
 @@||www.mobisystems.com^
 @@||www.modapkdown.com^
 @@||www.moddb.com^
@@ -9836,6 +9846,7 @@
 @@||z-p4-graph.facebook.com^
 @@||z.cdn.turner.com^
 @@||za.ign.com^
+@@||zaloapp.com^
 @@||zam.zamimg.com^
 @@||zang.kr^
 @@||zappos.com^

@@ -24,12 +24,12 @@
 ; Title: Energized Basic Protection - Whitelist
 ; Description: Basic list of whitelisted domains.
 ; Format: rpz
-; Version: 19.07.212
-; Release: 212
-; Entries: 9,828
+; Version: 19.08.213
+; Release: 213
+; Entries: 9,831
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Wed, 31 Jul 19 20:15:41
+; Updated: Thu, 01 Aug 19 20:15:39
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -2711,6 +2711,7 @@ data.hmxd.g.mi.com CNAME rpz-passthru.
 data.iana.org CNAME rpz-passthru.
 data.linkedin.com CNAME rpz-passthru.
 data.livefyre.com CNAME rpz-passthru.
+data.mistat.india.xiaomi.com CNAME rpz-passthru.
 data.mistat.intl.xiaomi.com CNAME rpz-passthru.
 data.mistat.xiaomi.com CNAME rpz-passthru.
 data.sec.intl.miui.com CNAME rpz-passthru.
@@ -7236,6 +7237,7 @@ skype.com CNAME rpz-passthru.
 skypeassets.com CNAME rpz-passthru.
 skyrock.com CNAME rpz-passthru.
 sl.gravatar.com CNAME rpz-passthru.
+slack-redir.net CNAME rpz-passthru.
 slack.com CNAME rpz-passthru.
 slaesforce.com CNAME rpz-passthru.
 slashdot.org CNAME rpz-passthru.
@@ -9540,6 +9542,7 @@ www.sites.google.com CNAME rpz-passthru.
 www.skidrow-games.com CNAME rpz-passthru.
 www.skype.com CNAME rpz-passthru.
 www.skypeassets.com CNAME rpz-passthru.
+www.slack-redir.net CNAME rpz-passthru.
 www.slack.com CNAME rpz-passthru.
 www.slashdot.org CNAME rpz-passthru.
 www.smashingmagazine.com CNAME rpz-passthru.

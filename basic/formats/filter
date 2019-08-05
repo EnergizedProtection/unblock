@@ -24,13 +24,13 @@
 ! Title: Energized Basic Protection - Whitelist
 ! Description: Basic list of whitelisted domains.
 ! Format: adblock
-! Version: 19.08.216
-! Release: 216
+! Version: 19.08.217
+! Release: 217
 ! Expires: 7 days (update frequency)
-! Entries: 9,832
+! Entries: 9,837
 ! Pack Code: E84S1C-W
 ! License: MIT, https://energized.pro/license
-! Updated: Sun, 04 Aug 19 20:15:16
+! Updated: Mon, 05 Aug 19 20:16:46
 ! RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/filter
 ! --------------------------------------------
 !
@@ -2027,6 +2027,7 @@
 @@||cast.netflix.com^
 @@||cast.soundcloud.com^
 @@||castbox.shopping.naver.com^
+@@||cat.nl.eu.criteo.com^
 @@||cbc.ca^
 @@||cbgcpm.huawei.com^
 @@||cbi.boldchat.com^
@@ -6352,6 +6353,7 @@
 @@||player.soundcloud.com^
 @@||player.twitch.tv^
 @@||player.vimeo.com^
+@@||player.vzaar.com^
 @@||player2.h-cdn.com^
 @@||players.brightcove.net^
 @@||players.pluto.tv^
@@ -6846,6 +6848,7 @@
 @@||s.snapchat.com^
 @@||s.spot.im^
 @@||s.to^
+@@||s.tradingview.com^
 @@||s.w-x.co^
 @@||s.w.org^
 @@||s.yimg.com^
@@ -8297,6 +8300,7 @@
 @@||view.em.funimation.com^
 @@||view.engage.xbox.com^
 @@||view.status.xbox.com^
+@@||view.vzaar.com^
 @@||viglink.com^
 @@||vimeo.com^
 @@||vine.co^
@@ -8498,6 +8502,7 @@
 @@||widget.intercom.io^
 @@||widget.pushbullet.com^
 @@||widget.sndcdn.com^
+@@||widgetdata.tradingview.com^
 @@||widgets.amazon.co.uk^
 @@||widgets.amazon.com^
 @@||widgets.amazon.de^

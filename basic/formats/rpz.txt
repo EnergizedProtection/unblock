@@ -24,12 +24,12 @@
 ; Title: Energized Basic Protection - Whitelist
 ; Description: Basic list of whitelisted domains.
 ; Format: rpz
-; Version: 19.08.216
-; Release: 216
-; Entries: 9,832
+; Version: 19.08.217
+; Release: 217
+; Entries: 9,837
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Sun, 04 Aug 19 20:15:16
+; Updated: Mon, 05 Aug 19 20:16:46
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -2034,6 +2034,7 @@ cast-1.soundcloud.com CNAME rpz-passthru.
 cast.netflix.com CNAME rpz-passthru.
 cast.soundcloud.com CNAME rpz-passthru.
 castbox.shopping.naver.com CNAME rpz-passthru.
+cat.nl.eu.criteo.com CNAME rpz-passthru.
 cbc.ca CNAME rpz-passthru.
 cbgcpm.huawei.com CNAME rpz-passthru.
 cbi.boldchat.com CNAME rpz-passthru.
@@ -6359,6 +6360,7 @@ player.radio.com CNAME rpz-passthru.
 player.soundcloud.com CNAME rpz-passthru.
 player.twitch.tv CNAME rpz-passthru.
 player.vimeo.com CNAME rpz-passthru.
+player.vzaar.com CNAME rpz-passthru.
 player2.h-cdn.com CNAME rpz-passthru.
 players.brightcove.net CNAME rpz-passthru.
 players.pluto.tv CNAME rpz-passthru.
@@ -6853,6 +6855,7 @@ s.shopify.com CNAME rpz-passthru.
 s.snapchat.com CNAME rpz-passthru.
 s.spot.im CNAME rpz-passthru.
 s.to CNAME rpz-passthru.
+s.tradingview.com CNAME rpz-passthru.
 s.w-x.co CNAME rpz-passthru.
 s.w.org CNAME rpz-passthru.
 s.yimg.com CNAME rpz-passthru.
@@ -8304,6 +8307,7 @@ vidyard.com CNAME rpz-passthru.
 view.em.funimation.com CNAME rpz-passthru.
 view.engage.xbox.com CNAME rpz-passthru.
 view.status.xbox.com CNAME rpz-passthru.
+view.vzaar.com CNAME rpz-passthru.
 viglink.com CNAME rpz-passthru.
 vimeo.com CNAME rpz-passthru.
 vine.co CNAME rpz-passthru.
@@ -8505,6 +8509,7 @@ widget-cdn.rpxnow.com CNAME rpz-passthru.
 widget.intercom.io CNAME rpz-passthru.
 widget.pushbullet.com CNAME rpz-passthru.
 widget.sndcdn.com CNAME rpz-passthru.
+widgetdata.tradingview.com CNAME rpz-passthru.
 widgets.amazon.co.uk CNAME rpz-passthru.
 widgets.amazon.com CNAME rpz-passthru.
 widgets.amazon.de CNAME rpz-passthru.

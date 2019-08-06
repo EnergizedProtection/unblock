@@ -24,13 +24,13 @@
 ! Title: Energized Basic Protection - Whitelist
 ! Description: Basic list of whitelisted domains.
 ! Format: adblock
-! Version: 19.08.217
-! Release: 217
+! Version: 19.08.218
+! Release: 218
 ! Expires: 7 days (update frequency)
-! Entries: 9,837
+! Entries: 9,840
 ! Pack Code: E84S1C-W
 ! License: MIT, https://energized.pro/license
-! Updated: Mon, 05 Aug 19 20:16:46
+! Updated: Tue, 06 Aug 19 20:15:39
 ! RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/filter
 ! --------------------------------------------
 !
@@ -2550,6 +2550,7 @@
 @@||content.samsung.com.edgesuite.net^
 @@||content.sketch.sonymobile.com^
 @@||content.swrve.com^
+@@||content.vidgyor.com^
 @@||content.webcollage.net^
 @@||contests.dailycaller.com^
 @@||continuum.dds.microsoft.com^
@@ -8829,6 +8830,7 @@
 @@||www.cracksurl.com^
 @@||www.createsend.com^
 @@||www.creditcards.com^
+@@||www.crisp.chat^
 @@||www.crunchbase.com^
 @@||www.crunchyroll.com^
 @@||www.cryptopia.co.nz^
@@ -9242,6 +9244,7 @@
 @@||www.ign.com^
 @@||www.imagebam.com^
 @@||www.images.anandtech.com^
+@@||www.imgbox.com^
 @@||www.inc.com^
 @@||www.indystar.com^
 @@||www.info.internet.org^

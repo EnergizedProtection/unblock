@@ -24,12 +24,12 @@
 ; Title: Energized Basic Protection - Whitelist
 ; Description: Basic list of whitelisted domains.
 ; Format: rpz
-; Version: 19.08.217
-; Release: 217
-; Entries: 9,837
+; Version: 19.08.218
+; Release: 218
+; Entries: 9,840
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Mon, 05 Aug 19 20:16:46
+; Updated: Tue, 06 Aug 19 20:15:39
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -2557,6 +2557,7 @@ content.samsung.com CNAME rpz-passthru.
 content.samsung.com.edgesuite.net CNAME rpz-passthru.
 content.sketch.sonymobile.com CNAME rpz-passthru.
 content.swrve.com CNAME rpz-passthru.
+content.vidgyor.com CNAME rpz-passthru.
 content.webcollage.net CNAME rpz-passthru.
 contests.dailycaller.com CNAME rpz-passthru.
 continuum.dds.microsoft.com CNAME rpz-passthru.
@@ -8836,6 +8837,7 @@ www.cracked.com CNAME rpz-passthru.
 www.cracksurl.com CNAME rpz-passthru.
 www.createsend.com CNAME rpz-passthru.
 www.creditcards.com CNAME rpz-passthru.
+www.crisp.chat CNAME rpz-passthru.
 www.crunchbase.com CNAME rpz-passthru.
 www.crunchyroll.com CNAME rpz-passthru.
 www.cryptopia.co.nz CNAME rpz-passthru.
@@ -9249,6 +9251,7 @@ www.igg-games.com CNAME rpz-passthru.
 www.ign.com CNAME rpz-passthru.
 www.imagebam.com CNAME rpz-passthru.
 www.images.anandtech.com CNAME rpz-passthru.
+www.imgbox.com CNAME rpz-passthru.
 www.inc.com CNAME rpz-passthru.
 www.indystar.com CNAME rpz-passthru.
 www.info.internet.org CNAME rpz-passthru.

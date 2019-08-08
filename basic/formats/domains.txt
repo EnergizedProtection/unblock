@@ -24,12 +24,12 @@
 # Title: Energized Basic Protection - Whitelist
 # Description: Basic list of whitelisted domains.
 # Format: domain list
-# Version: 19.08.219
-# Release: 219
-# Entries: 9,840
+# Version: 19.08.220
+# Release: 220
+# Entries: 9,842
 # Pack Code: E84S1C-W
 # License: MIT, https://energized.pro/license
-# Updated: Wed, 07 Aug 19 20:16:01
+# Updated: Thu, 08 Aug 19 20:15:27
 # RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/domains.txt
 # --------------------------------------------
 #
@@ -3213,6 +3213,7 @@ espresso.economist.com
 esquire.com
 estore.sonymobile.com
 estream.to
+etahub.com
 etao.com
 etl.tindersparks.com
 etl.xlmc.sec.miui.com
@@ -8893,6 +8894,7 @@ www.enews.techrepublic.com
 www.engadget.com
 www.eonline.com
 www.espn.com
+www.etahub.com
 www.etoro.com
 www.eu.cdn.survey.medallia.com
 www.euronews.com

@@ -24,12 +24,12 @@
 ; Title: Energized Basic Protection - Whitelist
 ; Description: Basic list of whitelisted domains.
 ; Format: rpz
-; Version: 19.08.219
-; Release: 219
-; Entries: 9,840
+; Version: 19.08.220
+; Release: 220
+; Entries: 9,842
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Wed, 07 Aug 19 20:16:01
+; Updated: Thu, 08 Aug 19 20:15:27
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -3221,6 +3221,7 @@ espresso.economist.com CNAME rpz-passthru.
 esquire.com CNAME rpz-passthru.
 estore.sonymobile.com CNAME rpz-passthru.
 estream.to CNAME rpz-passthru.
+etahub.com CNAME rpz-passthru.
 etao.com CNAME rpz-passthru.
 etl.tindersparks.com CNAME rpz-passthru.
 etl.xlmc.sec.miui.com CNAME rpz-passthru.
@@ -8901,6 +8902,7 @@ www.enews.techrepublic.com CNAME rpz-passthru.
 www.engadget.com CNAME rpz-passthru.
 www.eonline.com CNAME rpz-passthru.
 www.espn.com CNAME rpz-passthru.
+www.etahub.com CNAME rpz-passthru.
 www.etoro.com CNAME rpz-passthru.
 www.eu.cdn.survey.medallia.com CNAME rpz-passthru.
 www.euronews.com CNAME rpz-passthru.

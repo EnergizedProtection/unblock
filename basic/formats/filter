@@ -24,13 +24,13 @@
 ! Title: Energized Basic Protection - Whitelist
 ! Description: Basic list of whitelisted domains.
 ! Format: adblock
-! Version: 19.08.220
-! Release: 220
+! Version: 19.08.221
+! Release: 221
 ! Expires: 7 days (update frequency)
-! Entries: 9,842
+! Entries: 9,846
 ! Pack Code: E84S1C-W
 ! License: MIT, https://energized.pro/license
-! Updated: Thu, 08 Aug 19 20:15:27
+! Updated: Fri, 09 Aug 19 20:15:42
 ! RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/filter
 ! --------------------------------------------
 !
@@ -6741,6 +6741,7 @@
 @@||resource.xiaomi.net^
 @@||resources.diigo.com^
 @@||resources.sbs.com.au^
+@@||resources.vzaar.com^
 @@||restapi.amap.com^
 @@||resultspage.com^
 @@||retailer.moviesanywhere.com^
@@ -8214,6 +8215,7 @@
 @@||usgs.gov^
 @@||ushareit.com^
 @@||usher.twitch.tv^
+@@||ushuru.vzaar.com^
 @@||usis.bracu.ac.bd^
 @@||usnews.com^
 @@||ustream.tv^
@@ -8284,6 +8286,7 @@
 @@||video.techcrunch.com^
 @@||video.tv.adobe.com^
 @@||video.twimg.com^
+@@||video.vzaar.com^
 @@||video.wechat.com^
 @@||video.xx.fbcdn.net^
 @@||videoapp-assets-ak.buzzfeed.com^
@@ -8379,6 +8382,7 @@
 @@||vwdservices.com^
 @@||vwp.jpto.sonymobile.com^
 @@||vy.me^
+@@||vzaar.com^
 @@||w.line.me^
 @@||w.org^
 @@||w.soundcloud.com^

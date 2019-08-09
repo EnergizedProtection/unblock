@@ -24,12 +24,12 @@
 ; Title: Energized Basic Protection - Whitelist
 ; Description: Basic list of whitelisted domains.
 ; Format: rpz
-; Version: 19.08.220
-; Release: 220
-; Entries: 9,842
+; Version: 19.08.221
+; Release: 221
+; Entries: 9,846
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Thu, 08 Aug 19 20:15:27
+; Updated: Fri, 09 Aug 19 20:15:42
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -6748,6 +6748,7 @@ resource.np.ac.playstation.net CNAME rpz-passthru.
 resource.xiaomi.net CNAME rpz-passthru.
 resources.diigo.com CNAME rpz-passthru.
 resources.sbs.com.au CNAME rpz-passthru.
+resources.vzaar.com CNAME rpz-passthru.
 restapi.amap.com CNAME rpz-passthru.
 resultspage.com CNAME rpz-passthru.
 retailer.moviesanywhere.com CNAME rpz-passthru.
@@ -8221,6 +8222,7 @@ userstream.twitter.com CNAME rpz-passthru.
 usgs.gov CNAME rpz-passthru.
 ushareit.com CNAME rpz-passthru.
 usher.twitch.tv CNAME rpz-passthru.
+ushuru.vzaar.com CNAME rpz-passthru.
 usis.bracu.ac.bd CNAME rpz-passthru.
 usnews.com CNAME rpz-passthru.
 ustream.tv CNAME rpz-passthru.
@@ -8291,6 +8293,7 @@ video.playstation.com CNAME rpz-passthru.
 video.techcrunch.com CNAME rpz-passthru.
 video.tv.adobe.com CNAME rpz-passthru.
 video.twimg.com CNAME rpz-passthru.
+video.vzaar.com CNAME rpz-passthru.
 video.wechat.com CNAME rpz-passthru.
 video.xx.fbcdn.net CNAME rpz-passthru.
 videoapp-assets-ak.buzzfeed.com CNAME rpz-passthru.
@@ -8386,6 +8389,7 @@ vvvvid.it CNAME rpz-passthru.
 vwdservices.com CNAME rpz-passthru.
 vwp.jpto.sonymobile.com CNAME rpz-passthru.
 vy.me CNAME rpz-passthru.
+vzaar.com CNAME rpz-passthru.
 w.line.me CNAME rpz-passthru.
 w.org CNAME rpz-passthru.
 w.soundcloud.com CNAME rpz-passthru.

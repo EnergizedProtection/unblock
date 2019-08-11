@@ -24,12 +24,12 @@
 # Title: Energized Basic Protection - Whitelist
 # Description: Basic list of whitelisted domains.
 # Format: personalDNSfilter
-# Version: 19.08.222
-# Release: 222
-# Entries: 9,846
+# Version: 19.08.223
+# Release: 223
+# Entries: 9,851
 # Pack Code: E84S1C-W
 # License: MIT, https://energized.pro/license
-# Updated: Sat, 10 Aug 19 20:15:53
+# Updated: Sun, 11 Aug 19 20:15:54
 # RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/pdnsf.txt
 # --------------------------------------------
 #
@@ -5086,6 +5086,7 @@
 !logrocket.com
 !logs.heroku.com
 !logsss.com
+!lolcounter.com
 !look.com
 !lookaside.facebook.com
 !loopia.com
@@ -7386,6 +7387,7 @@
 !spoxy-shard8.spot.im
 !spreadsheets.google.com
 !springer.com
+!sproutsocial.com
 !sq.com
 !sq.gravatar.com
 !sqs.us-east-1.amazonaws.com
@@ -8197,6 +8199,7 @@
 !usb3speed.nirsoft.net
 !usbspeed.nirsoft.net
 !usc.edu
+!uscc.korem.com
 !usda.gov
 !use.adserver.snapads.com
 !use.fontawesome.com
@@ -9315,6 +9318,7 @@
 !www.logbuch-netzpolitik.de
 !www.login.wikimedia.org
 !www.logmeinrescue.com
+!www.lolcounter.com
 !www.lotustalk.com
 !www.lovoo.com
 !www.ltc.cryptopia.co.nz
@@ -9582,6 +9586,7 @@
 !www.spot.im
 !www.spotify.com
 !www.spro.xbox.com
+!www.sproutsocial.com
 !www.squaretrade.com
 !www.squidblacklist.org
 !www.ssl-images-amazon.com

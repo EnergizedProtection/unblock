@@ -24,12 +24,12 @@
 ; Title: Energized Basic Protection - Whitelist
 ; Description: Basic list of whitelisted domains.
 ; Format: rpz
-; Version: 19.08.222
-; Release: 222
-; Entries: 9,846
+; Version: 19.08.223
+; Release: 223
+; Entries: 9,851
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Sat, 10 Aug 19 20:15:53
+; Updated: Sun, 11 Aug 19 20:15:54
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -5094,6 +5094,7 @@ logout.xiaomi.net CNAME rpz-passthru.
 logrocket.com CNAME rpz-passthru.
 logs.heroku.com CNAME rpz-passthru.
 logsss.com CNAME rpz-passthru.
+lolcounter.com CNAME rpz-passthru.
 look.com CNAME rpz-passthru.
 lookaside.facebook.com CNAME rpz-passthru.
 loopia.com CNAME rpz-passthru.
@@ -7394,6 +7395,7 @@ spoxy-shard7.spot.im CNAME rpz-passthru.
 spoxy-shard8.spot.im CNAME rpz-passthru.
 spreadsheets.google.com CNAME rpz-passthru.
 springer.com CNAME rpz-passthru.
+sproutsocial.com CNAME rpz-passthru.
 sq.com CNAME rpz-passthru.
 sq.gravatar.com CNAME rpz-passthru.
 sqs.us-east-1.amazonaws.com CNAME rpz-passthru.
@@ -8205,6 +8207,7 @@ usauthor.playstation.com CNAME rpz-passthru.
 usb3speed.nirsoft.net CNAME rpz-passthru.
 usbspeed.nirsoft.net CNAME rpz-passthru.
 usc.edu CNAME rpz-passthru.
+uscc.korem.com CNAME rpz-passthru.
 usda.gov CNAME rpz-passthru.
 use.adserver.snapads.com CNAME rpz-passthru.
 use.fontawesome.com CNAME rpz-passthru.
@@ -9323,6 +9326,7 @@ www.liveleak.com CNAME rpz-passthru.
 www.logbuch-netzpolitik.de CNAME rpz-passthru.
 www.login.wikimedia.org CNAME rpz-passthru.
 www.logmeinrescue.com CNAME rpz-passthru.
+www.lolcounter.com CNAME rpz-passthru.
 www.lotustalk.com CNAME rpz-passthru.
 www.lovoo.com CNAME rpz-passthru.
 www.ltc.cryptopia.co.nz CNAME rpz-passthru.
@@ -9590,6 +9594,7 @@ www.spieletipps.de CNAME rpz-passthru.
 www.spot.im CNAME rpz-passthru.
 www.spotify.com CNAME rpz-passthru.
 www.spro.xbox.com CNAME rpz-passthru.
+www.sproutsocial.com CNAME rpz-passthru.
 www.squaretrade.com CNAME rpz-passthru.
 www.squidblacklist.org CNAME rpz-passthru.
 www.ssl-images-amazon.com CNAME rpz-passthru.

@@ -24,12 +24,12 @@
 ; Title: Energized Basic Protection - Whitelist
 ; Description: Basic list of whitelisted domains.
 ; Format: rpz
-; Version: 19.08.225
-; Release: 225
-; Entries: 9,851
+; Version: 19.08.226
+; Release: 226
+; Entries: 9,860
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Tue, 13 Aug 19 20:16:27
+; Updated: Wed, 14 Aug 19 20:15:57
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -2145,6 +2145,7 @@ cdn.samsungcloudsolution.com CNAME rpz-passthru.
 cdn.samsungcloudsolution.net CNAME rpz-passthru.
 cdn.sc.rockstargames.com CNAME rpz-passthru.
 cdn.segment.io CNAME rpz-passthru.
+cdn.shortpixel.ai CNAME rpz-passthru.
 cdn.sstatic.net CNAME rpz-passthru.
 cdn.stumbleupon.com CNAME rpz-passthru.
 cdn.support.sonymobile.com CNAME rpz-passthru.
@@ -3337,6 +3338,7 @@ fastdrama.co CNAME rpz-passthru.
 fastdrama.se CNAME rpz-passthru.
 fastly-chat.ign.com CNAME rpz-passthru.
 fastly.net CNAME rpz-passthru.
+fastpic.ru CNAME rpz-passthru.
 fatprincess.playstation.com CNAME rpz-passthru.
 faucethub.io CNAME rpz-passthru.
 fb.com CNAME rpz-passthru.
@@ -4907,6 +4909,7 @@ learndownload.adobe.com CNAME rpz-passthru.
 legal.medium.com CNAME rpz-passthru.
 legal.qualcomm.com CNAME rpz-passthru.
 lego.com CNAME rpz-passthru.
+lemde.fr CNAME rpz-passthru.
 lemonde.fr CNAME rpz-passthru.
 lens-storage.storage.googleapis.com CNAME rpz-passthru.
 lensstudio.snapchat.com CNAME rpz-passthru.
@@ -6872,6 +6875,7 @@ s0.net CNAME rpz-passthru.
 s0.pstatp.com CNAME rpz-passthru.
 s0.wp.com CNAME rpz-passthru.
 s010.api.files.xiaomi.net CNAME rpz-passthru.
+s1.lemde.fr CNAME rpz-passthru.
 s1.mi.com CNAME rpz-passthru.
 s1.mylife.com CNAME rpz-passthru.
 s1.symcb.com CNAME rpz-passthru.
@@ -7489,6 +7493,7 @@ static.clickfunnels.com CNAME rpz-passthru.
 static.coinbase.com CNAME rpz-passthru.
 static.crunchyroll.com CNAME rpz-passthru.
 static.djangoproject.com CNAME rpz-passthru.
+static.fastpic.ru CNAME rpz-passthru.
 static.fxhome.com CNAME rpz-passthru.
 static.game.xiaomi.com CNAME rpz-passthru.
 static.gotinder.com CNAME rpz-passthru.
@@ -7866,6 +7871,7 @@ threats.kaspersky.com CNAME rpz-passthru.
 thumb.pr0gramm.com CNAME rpz-passthru.
 thumbnail.image.rakuten.co.jp CNAME rpz-passthru.
 thumbnails.hulu.com CNAME rpz-passthru.
+thumbzilla.com CNAME rpz-passthru.
 tianyancha.com CNAME rpz-passthru.
 tiara.daum.net CNAME rpz-passthru.
 tiasdk.app.wechat.com CNAME rpz-passthru.
@@ -9639,6 +9645,7 @@ www.theverge.com CNAME rpz-passthru.
 www.thewindowsclub.com CNAME rpz-passthru.
 www.thewrap.com CNAME rpz-passthru.
 www.threatcrowd.org CNAME rpz-passthru.
+www.thumbzilla.com CNAME rpz-passthru.
 www.tmublr.com CNAME rpz-passthru.
 www.tomshardware.com CNAME rpz-passthru.
 www.toptenreviews.com CNAME rpz-passthru.
@@ -9745,6 +9752,7 @@ www.zdbb.net CNAME rpz-passthru.
 www.zeit.co CNAME rpz-passthru.
 www.zippyshare.com CNAME rpz-passthru.
 www.zoho.com CNAME rpz-passthru.
+www.zona.media CNAME rpz-passthru.
 www1.2giga.link CNAME rpz-passthru.
 www1.huawei.com CNAME rpz-passthru.
 www17.wixdns.net CNAME rpz-passthru.
@@ -9909,6 +9917,7 @@ zillow.com CNAME rpz-passthru.
 zippyshare.com CNAME rpz-passthru.
 ziprecruiter.com CNAME rpz-passthru.
 zoho.com CNAME rpz-passthru.
+zona.media CNAME rpz-passthru.
 zoominfo.com CNAME rpz-passthru.
 zopim.com CNAME rpz-passthru.
 zoso.ro CNAME rpz-passthru.

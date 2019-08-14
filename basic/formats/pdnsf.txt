@@ -24,12 +24,12 @@
 # Title: Energized Basic Protection - Whitelist
 # Description: Basic list of whitelisted domains.
 # Format: personalDNSfilter
-# Version: 19.08.225
-# Release: 225
-# Entries: 9,851
+# Version: 19.08.226
+# Release: 226
+# Entries: 9,860
 # Pack Code: E84S1C-W
 # License: MIT, https://energized.pro/license
-# Updated: Tue, 13 Aug 19 20:16:27
+# Updated: Wed, 14 Aug 19 20:15:57
 # RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/pdnsf.txt
 # --------------------------------------------
 #
@@ -2137,6 +2137,7 @@
 !cdn.samsungcloudsolution.net
 !cdn.sc.rockstargames.com
 !cdn.segment.io
+!cdn.shortpixel.ai
 !cdn.sstatic.net
 !cdn.stumbleupon.com
 !cdn.support.sonymobile.com
@@ -3329,6 +3330,7 @@
 !fastdrama.se
 !fastly-chat.ign.com
 !fastly.net
+!fastpic.ru
 !fatprincess.playstation.com
 !faucethub.io
 !fb.com
@@ -4899,6 +4901,7 @@
 !legal.medium.com
 !legal.qualcomm.com
 !lego.com
+!lemde.fr
 !lemonde.fr
 !lens-storage.storage.googleapis.com
 !lensstudio.snapchat.com
@@ -6864,6 +6867,7 @@
 !s0.pstatp.com
 !s0.wp.com
 !s010.api.files.xiaomi.net
+!s1.lemde.fr
 !s1.mi.com
 !s1.mylife.com
 !s1.symcb.com
@@ -7481,6 +7485,7 @@
 !static.coinbase.com
 !static.crunchyroll.com
 !static.djangoproject.com
+!static.fastpic.ru
 !static.fxhome.com
 !static.game.xiaomi.com
 !static.gotinder.com
@@ -7858,6 +7863,7 @@
 !thumb.pr0gramm.com
 !thumbnail.image.rakuten.co.jp
 !thumbnails.hulu.com
+!thumbzilla.com
 !tianyancha.com
 !tiara.daum.net
 !tiasdk.app.wechat.com
@@ -9631,6 +9637,7 @@
 !www.thewindowsclub.com
 !www.thewrap.com
 !www.threatcrowd.org
+!www.thumbzilla.com
 !www.tmublr.com
 !www.tomshardware.com
 !www.toptenreviews.com
@@ -9737,6 +9744,7 @@
 !www.zeit.co
 !www.zippyshare.com
 !www.zoho.com
+!www.zona.media
 !www1.2giga.link
 !www1.huawei.com
 !www17.wixdns.net
@@ -9901,6 +9909,7 @@
 !zippyshare.com
 !ziprecruiter.com
 !zoho.com
+!zona.media
 !zoominfo.com
 !zopim.com
 !zoso.ro

@@ -24,12 +24,12 @@
 ; Title: Energized Basic Protection - Whitelist
 ; Description: Basic list of whitelisted domains.
 ; Format: rpz
-; Version: 19.08.226
-; Release: 226
-; Entries: 9,860
+; Version: 19.08.227
+; Release: 227
+; Entries: 9,865
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Wed, 14 Aug 19 20:15:57
+; Updated: Thu, 15 Aug 19 20:16:35
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -238,6 +238,7 @@ a-airasia-001-gyf12.insnw.net CNAME rpz-passthru.
 a-msedge.net CNAME rpz-passthru.
 a-v2.sndcdn.com CNAME rpz-passthru.
 a-v2.x.sndcdn.com CNAME rpz-passthru.
+a.apkpure.com CNAME rpz-passthru.
 a.config.skype.com CNAME rpz-passthru.
 a.espncdn.com CNAME rpz-passthru.
 a.fsdn.com CNAME rpz-passthru.
@@ -1160,6 +1161,7 @@ api.appmetadata.sonymobile.com CNAME rpz-passthru.
 api.areffect.sonymobile.com CNAME rpz-passthru.
 api.asm.skype.com CNAME rpz-passthru.
 api.audlabs.com CNAME rpz-passthru.
+api.bazaarvoice.com CNAME rpz-passthru.
 api.bbs.miui.com CNAME rpz-passthru.
 api.belly.naver.com CNAME rpz-passthru.
 api.bemyeyes.com CNAME rpz-passthru.
@@ -1638,6 +1640,7 @@ banners.spiceworks.com CNAME rpz-passthru.
 barnesandnoble.com CNAME rpz-passthru.
 battle.net CNAME rpz-passthru.
 battlelog.battlefield.com CNAME rpz-passthru.
+bazaarvoice.com CNAME rpz-passthru.
 bb.biv.sony.tv CNAME rpz-passthru.
 bbb.org CNAME rpz-passthru.
 bbc.co.uk CNAME rpz-passthru.
@@ -5816,6 +5819,7 @@ netherlands.hide.me CNAME rpz-passthru.
 netlify.com CNAME rpz-passthru.
 netroam.mihome.intl.xiaomi.net CNAME rpz-passthru.
 netroam.mihome.xiaomi.net CNAME rpz-passthru.
+network.bazaarvoice.com CNAME rpz-passthru.
 networking.engadget.com CNAME rpz-passthru.
 networks.feedburner.com CNAME rpz-passthru.
 networksolutions.com CNAME rpz-passthru.
@@ -6433,6 +6437,7 @@ pr.oneplus.com CNAME rpz-passthru.
 pr0gramm.com CNAME rpz-passthru.
 practice.typekit.com CNAME rpz-passthru.
 practivate.adobe.com CNAME rpz-passthru.
+prd.jwpltx.com CNAME rpz-passthru.
 prd.sca.samsung.com CNAME rpz-passthru.
 prdl-download.adobe.com CNAME rpz-passthru.
 prelive.cryptopia.co.nz CNAME rpz-passthru.

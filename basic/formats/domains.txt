@@ -24,12 +24,12 @@
 # Title: Energized Basic Protection - Whitelist
 # Description: Basic list of whitelisted domains.
 # Format: domain list
-# Version: 19.08.226
-# Release: 226
-# Entries: 9,860
+# Version: 19.08.227
+# Release: 227
+# Entries: 9,865
 # Pack Code: E84S1C-W
 # License: MIT, https://energized.pro/license
-# Updated: Wed, 14 Aug 19 20:15:57
+# Updated: Thu, 15 Aug 19 20:16:35
 # RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/domains.txt
 # --------------------------------------------
 #
@@ -230,6 +230,7 @@ a-airasia-001-gyf12.insnw.net
 a-msedge.net
 a-v2.sndcdn.com
 a-v2.x.sndcdn.com
+a.apkpure.com
 a.config.skype.com
 a.espncdn.com
 a.fsdn.com
@@ -1152,6 +1153,7 @@ api.appmetadata.sonymobile.com
 api.areffect.sonymobile.com
 api.asm.skype.com
 api.audlabs.com
+api.bazaarvoice.com
 api.bbs.miui.com
 api.belly.naver.com
 api.bemyeyes.com
@@ -1630,6 +1632,7 @@ banners.spiceworks.com
 barnesandnoble.com
 battle.net
 battlelog.battlefield.com
+bazaarvoice.com
 bb.biv.sony.tv
 bbb.org
 bbc.co.uk
@@ -5808,6 +5811,7 @@ netherlands.hide.me
 netlify.com
 netroam.mihome.intl.xiaomi.net
 netroam.mihome.xiaomi.net
+network.bazaarvoice.com
 networking.engadget.com
 networks.feedburner.com
 networksolutions.com
@@ -6425,6 +6429,7 @@ pr.oneplus.com
 pr0gramm.com
 practice.typekit.com
 practivate.adobe.com
+prd.jwpltx.com
 prd.sca.samsung.com
 prdl-download.adobe.com
 prelive.cryptopia.co.nz

@@ -24,13 +24,13 @@
 ! Title: Energized Basic Protection - Whitelist
 ! Description: Basic list of whitelisted domains.
 ! Format: adblock
-! Version: 19.08.228
-! Release: 228
+! Version: 19.08.229
+! Release: 229
 ! Expires: 7 days (update frequency)
-! Entries: 9,865
+! Entries: 9,874
 ! Pack Code: E84S1C-W
 ! License: MIT, https://energized.pro/license
-! Updated: Fri, 16 Aug 19 20:18:17
+! Updated: Sat, 17 Aug 19 20:17:13
 ! RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/filter
 ! --------------------------------------------
 !
@@ -1868,6 +1868,7 @@
 @@||boomkat.com^
 @@||bootbarn.com^
 @@||bootstrapcdn.com^
+@@||bootstrapcdn.jdorfman.netdna-cdn.com^
 @@||boss.static.xiaomi.net^
 @@||boston-services.gabriels.net^
 @@||boston.cbslocal.com^
@@ -4638,6 +4639,7 @@
 @@||ios.soundcloud.com^
 @@||iosdl.game.xiaomi.com^
 @@||iota.bitfinex.com^
+@@||ip-adress.com^
 @@||ip.breitbart.com^
 @@||ipapi.co^
 @@||ipchicken.com^
@@ -5038,6 +5040,7 @@
 @@||liveupdate.mac.sandai.net^
 @@||lix.in^
 @@||llll.im^
+@@||llnwd.net^
 @@||lm.facebook.com^
 @@||lm.licenses.adobe.com^
 @@||lm04.cafe.naver.com^
@@ -5801,6 +5804,7 @@
 @@||neoviafinancial.tt.omtrdc.net^
 @@||nesn.com^
 @@||netcoresmartech.com^
+@@||netdna-cdn.com^
 @@||netdna-ssl.com^
 @@||netdna.bootstrapcdn.com^
 @@||netease.com^
@@ -6140,6 +6144,7 @@
 @@||oscp.apple.com^
 @@||osint.bambenekconsulting.com^
 @@||ospserver.net^
+@@||oss.maxcdn.com^
 @@||ot.ag^
 @@||ota-downloads.nvidia.com^
 @@||otlong.com^
@@ -9276,6 +9281,7 @@
 @@||www.investingchannel.com^
 @@||www.investopedia.com^
 @@||www.investorwords.com^
+@@||www.ip-adress.com^
 @@||www.ipfs.io^
 @@||www.ipinfo.io^
 @@||www.irishtimes.com^
@@ -9312,6 +9318,7 @@
 @@||www.lds.org^
 @@||www.lds.org.edgekey.net^
 @@||www.leanplum.com^
+@@||www.ledgerwallet.com^
 @@||www.legal.medium.com^
 @@||www.lesoleil.com^
 @@||www.letsencrypt.org^
@@ -9350,6 +9357,7 @@
 @@||www.marketplace.xbox.com^
 @@||www.marktplaats.nl^
 @@||www.match.com^
+@@||www.maxcdn.com^
 @@||www.maxmind.com^
 @@||www.mediafire.com^
 @@||www.mediaset.it^
@@ -9914,6 +9922,7 @@
 @@||zillow.com^
 @@||zippyshare.com^
 @@||ziprecruiter.com^
+@@||zobj.net^
 @@||zoho.com^
 @@||zona.media^
 @@||zoominfo.com^

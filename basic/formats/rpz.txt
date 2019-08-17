@@ -24,12 +24,12 @@
 ; Title: Energized Basic Protection - Whitelist
 ; Description: Basic list of whitelisted domains.
 ; Format: rpz
-; Version: 19.08.228
-; Release: 228
-; Entries: 9,865
+; Version: 19.08.229
+; Release: 229
+; Entries: 9,874
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Fri, 16 Aug 19 20:18:17
+; Updated: Sat, 17 Aug 19 20:17:13
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -1875,6 +1875,7 @@ books.rakuten.co.jp CNAME rpz-passthru.
 boomkat.com CNAME rpz-passthru.
 bootbarn.com CNAME rpz-passthru.
 bootstrapcdn.com CNAME rpz-passthru.
+bootstrapcdn.jdorfman.netdna-cdn.com CNAME rpz-passthru.
 boss.static.xiaomi.net CNAME rpz-passthru.
 boston-services.gabriels.net CNAME rpz-passthru.
 boston.cbslocal.com CNAME rpz-passthru.
@@ -4645,6 +4646,7 @@ ios.nccp.netflix.com CNAME rpz-passthru.
 ios.soundcloud.com CNAME rpz-passthru.
 iosdl.game.xiaomi.com CNAME rpz-passthru.
 iota.bitfinex.com CNAME rpz-passthru.
+ip-adress.com CNAME rpz-passthru.
 ip.breitbart.com CNAME rpz-passthru.
 ipapi.co CNAME rpz-passthru.
 ipchicken.com CNAME rpz-passthru.
@@ -5045,6 +5047,7 @@ livetile.hulu.com CNAME rpz-passthru.
 liveupdate.mac.sandai.net CNAME rpz-passthru.
 lix.in CNAME rpz-passthru.
 llll.im CNAME rpz-passthru.
+llnwd.net CNAME rpz-passthru.
 lm.facebook.com CNAME rpz-passthru.
 lm.licenses.adobe.com CNAME rpz-passthru.
 lm04.cafe.naver.com CNAME rpz-passthru.
@@ -5808,6 +5811,7 @@ neoseeker.com CNAME rpz-passthru.
 neoviafinancial.tt.omtrdc.net CNAME rpz-passthru.
 nesn.com CNAME rpz-passthru.
 netcoresmartech.com CNAME rpz-passthru.
+netdna-cdn.com CNAME rpz-passthru.
 netdna-ssl.com CNAME rpz-passthru.
 netdna.bootstrapcdn.com CNAME rpz-passthru.
 netease.com CNAME rpz-passthru.
@@ -6147,6 +6151,7 @@ osb.samsungqbe.com CNAME rpz-passthru.
 oscp.apple.com CNAME rpz-passthru.
 osint.bambenekconsulting.com CNAME rpz-passthru.
 ospserver.net CNAME rpz-passthru.
+oss.maxcdn.com CNAME rpz-passthru.
 ot.ag CNAME rpz-passthru.
 ota-downloads.nvidia.com CNAME rpz-passthru.
 otlong.com CNAME rpz-passthru.
@@ -9283,6 +9288,7 @@ www.interserver.net CNAME rpz-passthru.
 www.investingchannel.com CNAME rpz-passthru.
 www.investopedia.com CNAME rpz-passthru.
 www.investorwords.com CNAME rpz-passthru.
+www.ip-adress.com CNAME rpz-passthru.
 www.ipfs.io CNAME rpz-passthru.
 www.ipinfo.io CNAME rpz-passthru.
 www.irishtimes.com CNAME rpz-passthru.
@@ -9319,6 +9325,7 @@ www.latesthackingnews.com CNAME rpz-passthru.
 www.lds.org CNAME rpz-passthru.
 www.lds.org.edgekey.net CNAME rpz-passthru.
 www.leanplum.com CNAME rpz-passthru.
+www.ledgerwallet.com CNAME rpz-passthru.
 www.legal.medium.com CNAME rpz-passthru.
 www.lesoleil.com CNAME rpz-passthru.
 www.letsencrypt.org CNAME rpz-passthru.
@@ -9357,6 +9364,7 @@ www.mangaupdates.com CNAME rpz-passthru.
 www.marketplace.xbox.com CNAME rpz-passthru.
 www.marktplaats.nl CNAME rpz-passthru.
 www.match.com CNAME rpz-passthru.
+www.maxcdn.com CNAME rpz-passthru.
 www.maxmind.com CNAME rpz-passthru.
 www.mediafire.com CNAME rpz-passthru.
 www.mediaset.it CNAME rpz-passthru.
@@ -9921,6 +9929,7 @@ zi.ma CNAME rpz-passthru.
 zillow.com CNAME rpz-passthru.
 zippyshare.com CNAME rpz-passthru.
 ziprecruiter.com CNAME rpz-passthru.
+zobj.net CNAME rpz-passthru.
 zoho.com CNAME rpz-passthru.
 zona.media CNAME rpz-passthru.
 zoominfo.com CNAME rpz-passthru.

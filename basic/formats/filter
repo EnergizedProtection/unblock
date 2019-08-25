@@ -24,13 +24,13 @@
 ! Title: Energized Basic Protection - Whitelist
 ! Description: Basic list of whitelisted domains.
 ! Format: adblock
-! Version: 19.08.236
-! Release: 236
+! Version: 19.08.237
+! Release: 237
 ! Expires: 7 days (update frequency)
-! Entries: 9,874
+! Entries: 9,878
 ! Pack Code: E84S1C-W
 ! License: MIT, https://energized.pro/license
-! Updated: Sat, 24 Aug 19 20:15:04
+! Updated: Sun, 25 Aug 19 20:18:36
 ! RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/filter
 ! --------------------------------------------
 !
@@ -7569,6 +7569,7 @@
 @@||statuspage.io^
 @@||steam-chat.com^
 @@||steamcommunity.com^
+@@||stern.de^
 @@||stg-account-samsung-com-1073842004.eu-west-1.elb.amazonaws.com^
 @@||stg-account.samsung.com^
 @@||stg-images.samsung.com^
@@ -8154,6 +8155,7 @@
 @@||url.me^
 @@||url.org^
 @@||urlbd.com^
+@@||urldefense.proofpoint.com^
 @@||urls.me^
 @@||urlz.fr^
 @@||urs.techrepublic.com^
@@ -9334,6 +9336,7 @@
 @@||www.linuxtracker.org^
 @@||www.liveinternet.ru^
 @@||www.liveleak.com^
+@@||www.llnwd.net^
 @@||www.logbuch-netzpolitik.de^
 @@||www.login.wikimedia.org^
 @@||www.logmeinrescue.com^
@@ -9615,6 +9618,7 @@
 @@||www.staging.vudu.com^
 @@||www.state.gov^
 @@||www.static.medium.com^
+@@||www.stern.de^
 @@||www.storage.googleapis.com^
 @@||www.store.apple.com^
 @@||www.store.sony.com^

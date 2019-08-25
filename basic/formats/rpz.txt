@@ -24,12 +24,12 @@
 ; Title: Energized Basic Protection - Whitelist
 ; Description: Basic list of whitelisted domains.
 ; Format: rpz
-; Version: 19.08.236
-; Release: 236
-; Entries: 9,874
+; Version: 19.08.237
+; Release: 237
+; Entries: 9,878
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Sat, 24 Aug 19 20:15:04
+; Updated: Sun, 25 Aug 19 20:18:36
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -7576,6 +7576,7 @@ statusapi.micloud.xiaomi.net CNAME rpz-passthru.
 statuspage.io CNAME rpz-passthru.
 steam-chat.com CNAME rpz-passthru.
 steamcommunity.com CNAME rpz-passthru.
+stern.de CNAME rpz-passthru.
 stg-account-samsung-com-1073842004.eu-west-1.elb.amazonaws.com CNAME rpz-passthru.
 stg-account.samsung.com CNAME rpz-passthru.
 stg-images.samsung.com CNAME rpz-passthru.
@@ -8161,6 +8162,7 @@ url.it CNAME rpz-passthru.
 url.me CNAME rpz-passthru.
 url.org CNAME rpz-passthru.
 urlbd.com CNAME rpz-passthru.
+urldefense.proofpoint.com CNAME rpz-passthru.
 urls.me CNAME rpz-passthru.
 urlz.fr CNAME rpz-passthru.
 urs.techrepublic.com CNAME rpz-passthru.
@@ -9341,6 +9343,7 @@ www.linkedin.com CNAME rpz-passthru.
 www.linuxtracker.org CNAME rpz-passthru.
 www.liveinternet.ru CNAME rpz-passthru.
 www.liveleak.com CNAME rpz-passthru.
+www.llnwd.net CNAME rpz-passthru.
 www.logbuch-netzpolitik.de CNAME rpz-passthru.
 www.login.wikimedia.org CNAME rpz-passthru.
 www.logmeinrescue.com CNAME rpz-passthru.
@@ -9622,6 +9625,7 @@ www.stackpathdns.com CNAME rpz-passthru.
 www.staging.vudu.com CNAME rpz-passthru.
 www.state.gov CNAME rpz-passthru.
 www.static.medium.com CNAME rpz-passthru.
+www.stern.de CNAME rpz-passthru.
 www.storage.googleapis.com CNAME rpz-passthru.
 www.store.apple.com CNAME rpz-passthru.
 www.store.sony.com CNAME rpz-passthru.

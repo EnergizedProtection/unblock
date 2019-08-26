@@ -24,12 +24,12 @@
 # Title: Energized Basic Protection - Whitelist
 # Description: Basic list of whitelisted domains.
 # Format: domain list
-# Version: 19.08.237
-# Release: 237
-# Entries: 9,878
+# Version: 19.08.238
+# Release: 238
+# Entries: 9,880
 # Pack Code: E84S1C-W
 # License: MIT, https://energized.pro/license
-# Updated: Sun, 25 Aug 19 20:18:36
+# Updated: Mon, 26 Aug 19 21:16:38
 # RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/domains.txt
 # --------------------------------------------
 #
@@ -3428,6 +3428,7 @@ filters.adtidy.org
 finance.breitbart.com
 finance.naver.com
 finance.yahoo.com
+financial.org
 find.api.micloud.xiaomi.net
 findapi.micloud.xiaomi.net
 findmymobile.samsung.com
@@ -8946,6 +8947,7 @@ www.filecrypt.cc
 www.filefactory.com
 www.filepicker.io
 www.fileserve.com
+www.financial.org
 www.firstpost.com
 www.fitgirl-repacks.site
 www.flashx.tv

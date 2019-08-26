@@ -24,12 +24,12 @@
 ; Title: Energized Basic Protection - Whitelist
 ; Description: Basic list of whitelisted domains.
 ; Format: rpz
-; Version: 19.08.237
-; Release: 237
-; Entries: 9,878
+; Version: 19.08.238
+; Release: 238
+; Entries: 9,880
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Sun, 25 Aug 19 20:18:36
+; Updated: Mon, 26 Aug 19 21:16:38
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -3436,6 +3436,7 @@ filters.adtidy.org CNAME rpz-passthru.
 finance.breitbart.com CNAME rpz-passthru.
 finance.naver.com CNAME rpz-passthru.
 finance.yahoo.com CNAME rpz-passthru.
+financial.org CNAME rpz-passthru.
 find.api.micloud.xiaomi.net CNAME rpz-passthru.
 findapi.micloud.xiaomi.net CNAME rpz-passthru.
 findmymobile.samsung.com CNAME rpz-passthru.
@@ -8954,6 +8955,7 @@ www.filecrypt.cc CNAME rpz-passthru.
 www.filefactory.com CNAME rpz-passthru.
 www.filepicker.io CNAME rpz-passthru.
 www.fileserve.com CNAME rpz-passthru.
+www.financial.org CNAME rpz-passthru.
 www.firstpost.com CNAME rpz-passthru.
 www.fitgirl-repacks.site CNAME rpz-passthru.
 www.flashx.tv CNAME rpz-passthru.

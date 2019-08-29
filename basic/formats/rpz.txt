@@ -24,12 +24,12 @@
 ; Title: Energized Basic Protection - Whitelist
 ; Description: Basic list of whitelisted domains.
 ; Format: rpz
-; Version: 19.08.240
-; Release: 240
-; Entries: 9,880
+; Version: 19.08.241
+; Release: 241
+; Entries: 9,882
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Wed, 28 Aug 19 20:24:54
+; Updated: Thu, 29 Aug 19 20:15:32
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -2847,6 +2847,7 @@ dickssportinggoods.com CNAME rpz-passthru.
 dicordapp.com CNAME rpz-passthru.
 dict.leo.org CNAME rpz-passthru.
 dict.naver.com CNAME rpz-passthru.
+dictionary-beta.cambridge.org CNAME rpz-passthru.
 dictionary.cambridge.org CNAME rpz-passthru.
 dictionary.com CNAME rpz-passthru.
 dictionary.law.com CNAME rpz-passthru.
@@ -8810,6 +8811,7 @@ www.bwp.techrepublic.com CNAME rpz-passthru.
 www.byjusclasses.com CNAME rpz-passthru.
 www.ca.cdn.survey.medallia.com CNAME rpz-passthru.
 www.cafemom.com CNAME rpz-passthru.
+www.cambridge.org CNAME rpz-passthru.
 www.canva.com CNAME rpz-passthru.
 www.cdn-audio-1.medium.com CNAME rpz-passthru.
 www.cdn-images-1.medium.com CNAME rpz-passthru.

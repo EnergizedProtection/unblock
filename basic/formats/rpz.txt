@@ -24,12 +24,12 @@
 ; Title: Energized Basic Protection - Whitelist
 ; Description: Basic list of whitelisted domains.
 ; Format: rpz
-; Version: 19.08.242
-; Release: 242
-; Entries: 9,882
+; Version: 19.08.243
+; Release: 243
+; Entries: 9,898
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Fri, 30 Aug 19 20:17:36
+; Updated: Sat, 31 Aug 19 20:16:05
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -1404,6 +1404,7 @@ appcloud.ironbeast.io CNAME rpz-passthru.
 appdown.naver.com CNAME rpz-passthru.
 appengine.google.com CNAME rpz-passthru.
 appldnld.apple.com CNAME rpz-passthru.
+apple-dns.net CNAME rpz-passthru.
 apple.com CNAME rpz-passthru.
 appleid.apple.com CNAME rpz-passthru.
 apply.lg.com CNAME rpz-passthru.
@@ -1996,7 +1997,10 @@ cafe24.com CNAME rpz-passthru.
 cafeblog.search.naver.com CNAME rpz-passthru.
 cafemom.com CNAME rpz-passthru.
 cafepress.com CNAME rpz-passthru.
+caldav.fe.apple-dns.net CNAME rpz-passthru.
+caldav.icloud.com CNAME rpz-passthru.
 calendar.google.com CNAME rpz-passthru.
+calendars.fe.apple-dns.net CNAME rpz-passthru.
 callback.line.me CNAME rpz-passthru.
 calopenupdate.comm.miui.com CNAME rpz-passthru.
 cam.ac.uk CNAME rpz-passthru.
@@ -2725,6 +2729,7 @@ data.mistat.xiaomi.com CNAME rpz-passthru.
 data.sec.intl.miui.com CNAME rpz-passthru.
 data.sec.miui.com CNAME rpz-passthru.
 datalab.naver.com CNAME rpz-passthru.
+datamixer-pa.googleapis.com CNAME rpz-passthru.
 dataplicity.com CNAME rpz-passthru.
 datapoints.coinmarketcap.com CNAME rpz-passthru.
 datarouter.ol.epicgames.com CNAME rpz-passthru.
@@ -3056,6 +3061,7 @@ e16973.a.akamaiedge.net CNAME rpz-passthru.
 e2561.b.akamaiedge.net CNAME rpz-passthru.
 e2e.ign.com CNAME rpz-passthru.
 e3489.cd.akamaiedge.net CNAME rpz-passthru.
+e4478.a.akamaiedge.net CNAME rpz-passthru.
 e5298.g.akamaiedge.net CNAME rpz-passthru.
 e8.org CNAME rpz-passthru.
 ea.co CNAME rpz-passthru.
@@ -3355,6 +3361,7 @@ fbcdn-profile-a.akamaihd.net CNAME rpz-passthru.
 fbcdn.net CNAME rpz-passthru.
 fc2.com CNAME rpz-passthru.
 fda.gov CNAME rpz-passthru.
+fe.apple-dns.net CNAME rpz-passthru.
 fe02.lg.xiaomi.com CNAME rpz-passthru.
 fe05.lg.xiaomi.com CNAME rpz-passthru.
 fe2.update.microsoft.com CNAME rpz-passthru.
@@ -3372,6 +3379,8 @@ feedback.aliexpress.com CNAME rpz-passthru.
 feedback.diigo.com CNAME rpz-passthru.
 feedback.xbox.com CNAME rpz-passthru.
 feedback.xda-developers.com CNAME rpz-passthru.
+feedbackws.fe.apple-dns.net CNAME rpz-passthru.
+feedbackws.icloud.com CNAME rpz-passthru.
 feedburner.com CNAME rpz-passthru.
 feedburner.google.com CNAME rpz-passthru.
 feedly.com CNAME rpz-passthru.
@@ -3679,6 +3688,7 @@ gatehousemedia.com CNAME rpz-passthru.
 gateway.fe.apple-dns.net CNAME rpz-passthru.
 gawker.com CNAME rpz-passthru.
 gazeta.pl CNAME rpz-passthru.
+gc.fe.apple-dns.net CNAME rpz-passthru.
 gcloudcs.com CNAME rpz-passthru.
 gcs.sc-cdn.net CNAME rpz-passthru.
 gdcsite.cdnsrv.jio.com CNAME rpz-passthru.
@@ -4391,6 +4401,7 @@ iguoguo.net CNAME rpz-passthru.
 ijr.com CNAME rpz-passthru.
 ikea.com CNAME rpz-passthru.
 il.ign.com CNAME rpz-passthru.
+iltalehti.fi CNAME rpz-passthru.
 im.rediff.com CNAME rpz-passthru.
 im.twitch.tv CNAME rpz-passthru.
 image.api.np.km.playstation.net CNAME rpz-passthru.
@@ -4808,6 +4819,7 @@ keybaseapi.com CNAME rpz-passthru.
 keyboard.naver.com CNAME rpz-passthru.
 keyfile.kaspersky.com CNAME rpz-passthru.
 keystone.mwbsys.com CNAME rpz-passthru.
+keyvalueservice.fe.apple-dns.net CNAME rpz-passthru.
 kf5.com CNAME rpz-passthru.
 kh.de CNAME rpz-passthru.
 kh.google.com CNAME rpz-passthru.
@@ -6190,6 +6202,7 @@ p.typekit.net CNAME rpz-passthru.
 p.typekit.net-v2.edgekey.net CNAME rpz-passthru.
 p0.ipstatp.com CNAME rpz-passthru.
 p1.soundcloud.com CNAME rpz-passthru.
+p20-calendars.icloud.com CNAME rpz-passthru.
 p3.documentsawsperf.adobe.com CNAME rpz-passthru.
 p3.pstatp.com CNAME rpz-passthru.
 p30download.com CNAME rpz-passthru.
@@ -7512,6 +7525,7 @@ static.gotinder.com CNAME rpz-passthru.
 static.home.mi.com CNAME rpz-passthru.
 static.hubspot.com CNAME rpz-passthru.
 static.hybrid.xiaomi.com CNAME rpz-passthru.
+static.icloud.com CNAME rpz-passthru.
 static.integration.viber.com CNAME rpz-passthru.
 static.intercomassets.com CNAME rpz-passthru.
 static.internet.sony.tv CNAME rpz-passthru.
@@ -7554,6 +7568,7 @@ staticxx.facebook.com CNAME rpz-passthru.
 station.sony.com CNAME rpz-passthru.
 stats.adobe.com CNAME rpz-passthru.
 stats.api.xiaomi.net CNAME rpz-passthru.
+stats.gc.fe.apple-dns.net CNAME rpz-passthru.
 stats.lineageos.org CNAME rpz-passthru.
 stats.pusher.com CNAME rpz-passthru.
 stats.streamelements.com CNAME rpz-passthru.
@@ -9280,6 +9295,7 @@ www.icptrack.com CNAME rpz-passthru.
 www.igamecj.com CNAME rpz-passthru.
 www.igg-games.com CNAME rpz-passthru.
 www.ign.com CNAME rpz-passthru.
+www.iltalehti.fi CNAME rpz-passthru.
 www.imagebam.com CNAME rpz-passthru.
 www.images.anandtech.com CNAME rpz-passthru.
 www.imgbox.com CNAME rpz-passthru.

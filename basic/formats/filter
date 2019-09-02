@@ -24,13 +24,13 @@
 ! Title: Energized Basic Protection - Whitelist
 ! Description: Basic list of whitelisted domains.
 ! Format: adblock
-! Version: 19.09.244
-! Release: 244
+! Version: 19.09.245
+! Release: 245
 ! Expires: 7 days (update frequency)
-! Entries: 9,898
+! Entries: 9,907
 ! Pack Code: E84S1C-W
 ! License: MIT, https://energized.pro/license
-! Updated: Sun, 01 Sep 19 20:16:13
+! Updated: Mon, 02 Sep 19 20:15:05
 ! RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/filter
 ! --------------------------------------------
 !
@@ -2675,6 +2675,7 @@
 @@||cygwin.com^
 @@||cz.playstation.com^
 @@||cz.wikipedia.com^
+@@||d-h.st^
 @@||d.dropbox.com^
 @@||d.g.mi.com^
 @@||d.huawei.com^
@@ -4453,6 +4454,7 @@
 @@||images.gotinder.com^
 @@||images.huffingtonpost.com^
 @@||images.opencollective.com^
+@@||images.parsely.com^
 @@||images.performgroup.com^
 @@||images.pluto.tv^
 @@||images.preprod.vudu.com^
@@ -6224,6 +6226,8 @@
 @@||paper.li^
 @@||parallels.com^
 @@||pardot.com^
+@@||parse.ly^
+@@||parsely.com^
 @@||partner.huawei.com^
 @@||partner.microsoft.com^
 @@||partner.mylife.com^
@@ -8060,6 +8064,7 @@
 @@||twimg.sinatw.com^
 @@||twimg0-a.akamaihd.net^
 @@||twitch.tv^
+@@||twitchy.com^
 @@||twitter.com^
 @@||twt-assets.washtimes.com^
 @@||typeform.com^
@@ -8882,6 +8887,7 @@
 @@||www.ct.techrepublic.com^
 @@||www.cybercon.com^
 @@||www.cygwin.com^
+@@||www.d-h.st^
 @@||www.daffodilvarsity.edu.bd^
 @@||www.dailycaller.com^
 @@||www.dailykos.com^
@@ -9482,6 +9488,8 @@
 @@||www.paessler.com^
 @@||www.pantheon.io^
 @@||www.pantheonsite.io^
+@@||www.parse.ly^
+@@||www.parsely.com^
 @@||www.part.xbox.com^
 @@||www.pastebin.com^
 @@||www.patheos.com^
@@ -9691,6 +9699,7 @@
 @@||www.turbobit.net^
 @@||www.turkishạirlines.com^
 @@||www.twitch.tv^
+@@||www.twitchy.com^
 @@||www.twitter.com^
 @@||www.typeform.com^
 @@||www.typekit.com^

@@ -24,12 +24,12 @@
 ; Title: Energized Basic Protection - Whitelist
 ; Description: Basic list of whitelisted domains.
 ; Format: rpz
-; Version: 19.09.244
-; Release: 244
-; Entries: 9,898
+; Version: 19.09.245
+; Release: 245
+; Entries: 9,907
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Sun, 01 Sep 19 20:16:13
+; Updated: Mon, 02 Sep 19 20:15:05
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -2682,6 +2682,7 @@ cybermap.kaspersky.com CNAME rpz-passthru.
 cygwin.com CNAME rpz-passthru.
 cz.playstation.com CNAME rpz-passthru.
 cz.wikipedia.com CNAME rpz-passthru.
+d-h.st CNAME rpz-passthru.
 d.dropbox.com CNAME rpz-passthru.
 d.g.mi.com CNAME rpz-passthru.
 d.huawei.com CNAME rpz-passthru.
@@ -4460,6 +4461,7 @@ images.fotmob.com CNAME rpz-passthru.
 images.gotinder.com CNAME rpz-passthru.
 images.huffingtonpost.com CNAME rpz-passthru.
 images.opencollective.com CNAME rpz-passthru.
+images.parsely.com CNAME rpz-passthru.
 images.performgroup.com CNAME rpz-passthru.
 images.pluto.tv CNAME rpz-passthru.
 images.preprod.vudu.com CNAME rpz-passthru.
@@ -6231,6 +6233,8 @@ papago.naver.com CNAME rpz-passthru.
 paper.li CNAME rpz-passthru.
 parallels.com CNAME rpz-passthru.
 pardot.com CNAME rpz-passthru.
+parse.ly CNAME rpz-passthru.
+parsely.com CNAME rpz-passthru.
 partner.huawei.com CNAME rpz-passthru.
 partner.microsoft.com CNAME rpz-passthru.
 partner.mylife.com CNAME rpz-passthru.
@@ -8067,6 +8071,7 @@ twimg.com CNAME rpz-passthru.
 twimg.sinatw.com CNAME rpz-passthru.
 twimg0-a.akamaihd.net CNAME rpz-passthru.
 twitch.tv CNAME rpz-passthru.
+twitchy.com CNAME rpz-passthru.
 twitter.com CNAME rpz-passthru.
 twt-assets.washtimes.com CNAME rpz-passthru.
 typeform.com CNAME rpz-passthru.
@@ -8889,6 +8894,7 @@ www.csp.medium.com CNAME rpz-passthru.
 www.ct.techrepublic.com CNAME rpz-passthru.
 www.cybercon.com CNAME rpz-passthru.
 www.cygwin.com CNAME rpz-passthru.
+www.d-h.st CNAME rpz-passthru.
 www.daffodilvarsity.edu.bd CNAME rpz-passthru.
 www.dailycaller.com CNAME rpz-passthru.
 www.dailykos.com CNAME rpz-passthru.
@@ -9489,6 +9495,8 @@ www.packages.chocolatey.org CNAME rpz-passthru.
 www.paessler.com CNAME rpz-passthru.
 www.pantheon.io CNAME rpz-passthru.
 www.pantheonsite.io CNAME rpz-passthru.
+www.parse.ly CNAME rpz-passthru.
+www.parsely.com CNAME rpz-passthru.
 www.part.xbox.com CNAME rpz-passthru.
 www.pastebin.com CNAME rpz-passthru.
 www.patheos.com CNAME rpz-passthru.
@@ -9698,6 +9706,7 @@ www.tumblr.com CNAME rpz-passthru.
 www.turbobit.net CNAME rpz-passthru.
 www.turkishạirlines.com CNAME rpz-passthru.
 www.twitch.tv CNAME rpz-passthru.
+www.twitchy.com CNAME rpz-passthru.
 www.twitter.com CNAME rpz-passthru.
 www.typeform.com CNAME rpz-passthru.
 www.typekit.com CNAME rpz-passthru.

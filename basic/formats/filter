@@ -24,13 +24,13 @@
 ! Title: Energized Basic Protection - Whitelist
 ! Description: Basic list of whitelisted domains.
 ! Format: adblock
-! Version: 19.09.246
-! Release: 246
+! Version: 19.09.247
+! Release: 247
 ! Expires: 7 days (update frequency)
-! Entries: 9,907
+! Entries: 9,914
 ! Pack Code: E84S1C-W
 ! License: MIT, https://energized.pro/license
-! Updated: Tue, 03 Sep 19 20:15:34
+! Updated: Wed, 04 Sep 19 20:15:37
 ! RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/filter
 ! --------------------------------------------
 !
@@ -1381,6 +1381,7 @@
 @@||app.qq.com^
 @@||app.rebrandly.com^
 @@||app.smartbusiness.samsung.com^
+@@||app.smartsheet.com^
 @@||app.snapchat.com^
 @@||app.stumbleupon.com^
 @@||app.syndicaster.tv^
@@ -4053,6 +4054,8 @@
 @@||gr.ph^
 @@||grab.com^
 @@||grainger.com^
+@@||grammarly.com^
+@@||grammarly.io^
 @@||graph.accountkit.com^
 @@||graph.facebook.com^
 @@||graphite-sscm.sec.miui.com^
@@ -7288,6 +7291,7 @@
 @@||smallseotools.com^
 @@||smartlock.google.com^
 @@||smartlook.com^
+@@||smartsheet.com^
 @@||smartstore.naver.com^
 @@||smartsuppchat.com^
 @@||smarturl.it^
@@ -9246,6 +9250,8 @@
 @@||www.govtrack.us^
 @@||www.gq.com^
 @@||www.grab.com^
+@@||www.grammarly.com^
+@@||www.grammarly.io^
 @@||www.gravatar.com^
 @@||www.gravatr.com^
 @@||www.gstatic.com^
@@ -9607,6 +9613,7 @@
 @@||www.slack-redir.net^
 @@||www.slack.com^
 @@||www.slashdot.org^
+@@||www.smartsheet.com^
 @@||www.smashingmagazine.com^
 @@||www.snap.com^
 @@||www.snapchat.com^

@@ -24,12 +24,12 @@
 ; Title: Energized Basic Protection - Whitelist
 ; Description: Basic list of whitelisted domains.
 ; Format: rpz
-; Version: 19.09.246
-; Release: 246
-; Entries: 9,907
+; Version: 19.09.247
+; Release: 247
+; Entries: 9,914
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Tue, 03 Sep 19 20:15:34
+; Updated: Wed, 04 Sep 19 20:15:37
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -1388,6 +1388,7 @@ app.plus.google.com CNAME rpz-passthru.
 app.qq.com CNAME rpz-passthru.
 app.rebrandly.com CNAME rpz-passthru.
 app.smartbusiness.samsung.com CNAME rpz-passthru.
+app.smartsheet.com CNAME rpz-passthru.
 app.snapchat.com CNAME rpz-passthru.
 app.stumbleupon.com CNAME rpz-passthru.
 app.syndicaster.tv CNAME rpz-passthru.
@@ -4060,6 +4061,8 @@ gr.me CNAME rpz-passthru.
 gr.ph CNAME rpz-passthru.
 grab.com CNAME rpz-passthru.
 grainger.com CNAME rpz-passthru.
+grammarly.com CNAME rpz-passthru.
+grammarly.io CNAME rpz-passthru.
 graph.accountkit.com CNAME rpz-passthru.
 graph.facebook.com CNAME rpz-passthru.
 graphite-sscm.sec.miui.com CNAME rpz-passthru.
@@ -7295,6 +7298,7 @@ smallfiles.client.xunlei.com CNAME rpz-passthru.
 smallseotools.com CNAME rpz-passthru.
 smartlock.google.com CNAME rpz-passthru.
 smartlook.com CNAME rpz-passthru.
+smartsheet.com CNAME rpz-passthru.
 smartstore.naver.com CNAME rpz-passthru.
 smartsuppchat.com CNAME rpz-passthru.
 smarturl.it CNAME rpz-passthru.
@@ -9253,6 +9257,8 @@ www.gotomypc.com CNAME rpz-passthru.
 www.govtrack.us CNAME rpz-passthru.
 www.gq.com CNAME rpz-passthru.
 www.grab.com CNAME rpz-passthru.
+www.grammarly.com CNAME rpz-passthru.
+www.grammarly.io CNAME rpz-passthru.
 www.gravatar.com CNAME rpz-passthru.
 www.gravatr.com CNAME rpz-passthru.
 www.gstatic.com CNAME rpz-passthru.
@@ -9614,6 +9620,7 @@ www.skypeassets.com CNAME rpz-passthru.
 www.slack-redir.net CNAME rpz-passthru.
 www.slack.com CNAME rpz-passthru.
 www.slashdot.org CNAME rpz-passthru.
+www.smartsheet.com CNAME rpz-passthru.
 www.smashingmagazine.com CNAME rpz-passthru.
 www.snap.com CNAME rpz-passthru.
 www.snapchat.com CNAME rpz-passthru.

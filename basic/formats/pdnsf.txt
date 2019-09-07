@@ -24,12 +24,12 @@
 # Title: Energized Basic Protection - Whitelist
 # Description: Basic list of whitelisted domains.
 # Format: personalDNSfilter
-# Version: 19.09.249
-# Release: 249
-# Entries: 9,914
+# Version: 19.09.250
+# Release: 250
+# Entries: 9,919
 # Pack Code: E84S1C-W
 # License: MIT, https://energized.pro/license
-# Updated: Fri, 06 Sep 19 20:16:51
+# Updated: Sat, 07 Sep 19 20:20:38
 # RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/pdnsf.txt
 # --------------------------------------------
 #
@@ -3405,6 +3405,7 @@
 !fi.m.wikipedia.com
 !fi.statcounter.com
 !fi.wikipedia.com
+!fico.i.lithium.com
 !fifthplay.com
 !filament.io
 !file-extensions.org
@@ -3795,6 +3796,7 @@
 !gmr-smtp-in.l.google.com
 !gn.am
 !gn.naver.com
+!gnar.grammarly.com
 !gnu.org
 !go.binance.com
 !go.buy.mi.com
@@ -5739,6 +5741,7 @@
 !my.ign.com
 !my.jdownloader.org
 !my.kaspersky.com
+!my.matterport.com
 !my.nanorep.com
 !my.oneplus.com
 !my.playstation.com
@@ -6826,6 +6829,7 @@
 !rptrcks.walmart.com
 !rs.playstation.com
 !rs6.net
+!rsci.app.link
 !rsload.net
 !rss.art19.com
 !rss.blog.naver.com
@@ -7534,6 +7538,7 @@
 !static.lakana.com
 !static.licdn.com
 !static.mailchimp.com
+!static.matterport.com
 !static.medium.com
 !static.mibi.xiaomi.com
 !static.micloud.xiaomi.net

@@ -24,12 +24,12 @@
 ; Title: Energized Basic Protection - Whitelist
 ; Description: Basic list of whitelisted domains.
 ; Format: rpz
-; Version: 19.09.249
-; Release: 249
-; Entries: 9,914
+; Version: 19.09.250
+; Release: 250
+; Entries: 9,919
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Fri, 06 Sep 19 20:16:51
+; Updated: Sat, 07 Sep 19 20:20:38
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -3413,6 +3413,7 @@ fi.gravatar.com CNAME rpz-passthru.
 fi.m.wikipedia.com CNAME rpz-passthru.
 fi.statcounter.com CNAME rpz-passthru.
 fi.wikipedia.com CNAME rpz-passthru.
+fico.i.lithium.com CNAME rpz-passthru.
 fifthplay.com CNAME rpz-passthru.
 filament.io CNAME rpz-passthru.
 file-extensions.org CNAME rpz-passthru.
@@ -3803,6 +3804,7 @@ gmodulobot.xyz CNAME rpz-passthru.
 gmr-smtp-in.l.google.com CNAME rpz-passthru.
 gn.am CNAME rpz-passthru.
 gn.naver.com CNAME rpz-passthru.
+gnar.grammarly.com CNAME rpz-passthru.
 gnu.org CNAME rpz-passthru.
 go.binance.com CNAME rpz-passthru.
 go.buy.mi.com CNAME rpz-passthru.
@@ -5747,6 +5749,7 @@ my.foxnews.com CNAME rpz-passthru.
 my.ign.com CNAME rpz-passthru.
 my.jdownloader.org CNAME rpz-passthru.
 my.kaspersky.com CNAME rpz-passthru.
+my.matterport.com CNAME rpz-passthru.
 my.nanorep.com CNAME rpz-passthru.
 my.oneplus.com CNAME rpz-passthru.
 my.playstation.com CNAME rpz-passthru.
@@ -6834,6 +6837,7 @@ rpg.twitch.tv CNAME rpz-passthru.
 rptrcks.walmart.com CNAME rpz-passthru.
 rs.playstation.com CNAME rpz-passthru.
 rs6.net CNAME rpz-passthru.
+rsci.app.link CNAME rpz-passthru.
 rsload.net CNAME rpz-passthru.
 rss.art19.com CNAME rpz-passthru.
 rss.blog.naver.com CNAME rpz-passthru.
@@ -7542,6 +7546,7 @@ static.klaviyo.com CNAME rpz-passthru.
 static.lakana.com CNAME rpz-passthru.
 static.licdn.com CNAME rpz-passthru.
 static.mailchimp.com CNAME rpz-passthru.
+static.matterport.com CNAME rpz-passthru.
 static.medium.com CNAME rpz-passthru.
 static.mibi.xiaomi.com CNAME rpz-passthru.
 static.micloud.xiaomi.net CNAME rpz-passthru.

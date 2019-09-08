@@ -24,12 +24,12 @@
 ; Title: Energized Basic Protection - Whitelist
 ; Description: Basic list of whitelisted domains.
 ; Format: rpz
-; Version: 19.09.250
-; Release: 250
-; Entries: 9,919
+; Version: 19.09.251
+; Release: 251
+; Entries: 9,924
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Sat, 07 Sep 19 20:20:38
+; Updated: Sun, 08 Sep 19 20:18:02
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -3169,6 +3169,7 @@ embedly.com CNAME rpz-passthru.
 emdl.ws.microsoft.com CNAME rpz-passthru.
 emea01.safelinks.protection.outlook.com CNAME rpz-passthru.
 emote.vuukle.com CNAME rpz-passthru.
+emp.bbci.co.uk CNAME rpz-passthru.
 emptyloop.com CNAME rpz-passthru.
 ems-delivery.api.playstation.com CNAME rpz-passthru.
 emui.huawei.com CNAME rpz-passthru.
@@ -4667,6 +4668,7 @@ ios.soundcloud.com CNAME rpz-passthru.
 iosdl.game.xiaomi.com CNAME rpz-passthru.
 iota.bitfinex.com CNAME rpz-passthru.
 ip-adress.com CNAME rpz-passthru.
+ip-info.ff.avast.com CNAME rpz-passthru.
 ip.breitbart.com CNAME rpz-passthru.
 ipapi.co CNAME rpz-passthru.
 ipchicken.com CNAME rpz-passthru.
@@ -4678,6 +4680,7 @@ ipip.net CNAME rpz-passthru.
 ipla.tv CNAME rpz-passthru.
 ipleak.net CNAME rpz-passthru.
 iplists.firehol.org CNAME rpz-passthru.
+ipm-provider.ff.avast.com CNAME rpz-passthru.
 ipmcloud.kaspersky.com CNAME rpz-passthru.
 ipopimg.sina.com.tw CNAME rpz-passthru.
 ipr-external.huawei.com CNAME rpz-passthru.
@@ -8296,6 +8299,8 @@ v2.zb.mi.com CNAME rpz-passthru.
 v2.zopim.com CNAME rpz-passthru.
 v20.events.data.microsoft.com CNAME rpz-passthru.
 v4.download.windowsupdate.com CNAME rpz-passthru.
+v7.stats.avast.com CNAME rpz-passthru.
+v7event.stats.avast.com CNAME rpz-passthru.
 va.gov CNAME rpz-passthru.
 va.logs.heroku.com CNAME rpz-passthru.
 va.sndcdn.com CNAME rpz-passthru.

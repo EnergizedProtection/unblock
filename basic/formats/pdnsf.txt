@@ -24,12 +24,12 @@
 # Title: Energized Basic Protection - Whitelist
 # Description: Basic list of whitelisted domains.
 # Format: personalDNSfilter
-# Version: 19.09.250
-# Release: 250
-# Entries: 9,919
+# Version: 19.09.251
+# Release: 251
+# Entries: 9,924
 # Pack Code: E84S1C-W
 # License: MIT, https://energized.pro/license
-# Updated: Sat, 07 Sep 19 20:20:38
+# Updated: Sun, 08 Sep 19 20:18:02
 # RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/pdnsf.txt
 # --------------------------------------------
 #
@@ -3161,6 +3161,7 @@
 !emdl.ws.microsoft.com
 !emea01.safelinks.protection.outlook.com
 !emote.vuukle.com
+!emp.bbci.co.uk
 !emptyloop.com
 !ems-delivery.api.playstation.com
 !emui.huawei.com
@@ -4659,6 +4660,7 @@
 !iosdl.game.xiaomi.com
 !iota.bitfinex.com
 !ip-adress.com
+!ip-info.ff.avast.com
 !ip.breitbart.com
 !ipapi.co
 !ipchicken.com
@@ -4670,6 +4672,7 @@
 !ipla.tv
 !ipleak.net
 !iplists.firehol.org
+!ipm-provider.ff.avast.com
 !ipmcloud.kaspersky.com
 !ipopimg.sina.com.tw
 !ipr-external.huawei.com
@@ -8288,6 +8291,8 @@
 !v2.zopim.com
 !v20.events.data.microsoft.com
 !v4.download.windowsupdate.com
+!v7.stats.avast.com
+!v7event.stats.avast.com
 !va.gov
 !va.logs.heroku.com
 !va.sndcdn.com

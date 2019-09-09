@@ -24,12 +24,12 @@
 ; Title: Energized Basic Protection - Whitelist
 ; Description: Basic list of whitelisted domains.
 ; Format: rpz
-; Version: 19.09.251
-; Release: 251
-; Entries: 9,924
+; Version: 19.09.252
+; Release: 252
+; Entries: 9,927
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Sun, 08 Sep 19 20:18:02
+; Updated: Mon, 09 Sep 19 20:15:13
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -1455,6 +1455,7 @@ areyouonit.soundcloud.com CNAME rpz-passthru.
 argos.co.uk CNAME rpz-passthru.
 argumentiru.com CNAME rpz-passthru.
 aria.microsoft.com CNAME rpz-passthru.
+ariadne.cs.kuleuven.be CNAME rpz-passthru.
 armdl.adobe.com CNAME rpz-passthru.
 armmf.adobe.com CNAME rpz-passthru.
 army.mil CNAME rpz-passthru.
@@ -4880,6 +4881,7 @@ ksn.kaspersky.com CNAME rpz-passthru.
 ktla.com CNAME rpz-passthru.
 kuaiche.com CNAME rpz-passthru.
 kuaidi100.com CNAME rpz-passthru.
+kuleuven.eu.qualtrics.com CNAME rpz-passthru.
 kutt.it CNAME rpz-passthru.
 kxcdn.com CNAME rpz-passthru.
 l-xda.xposed.info CNAME rpz-passthru.
@@ -7127,6 +7129,7 @@ secure.twitch.tv CNAME rpz-passthru.
 secure.viber.com CNAME rpz-passthru.
 secure.vimeo.com CNAME rpz-passthru.
 secured.netflix.com CNAME rpz-passthru.
+securehomes.esat.kuleuven.be CNAME rpz-passthru.
 secureitcup.kaspersky.com CNAME rpz-passthru.
 securelist.com CNAME rpz-passthru.
 securemecca.com CNAME rpz-passthru.

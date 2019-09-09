@@ -24,12 +24,12 @@
 # Title: Energized Basic Protection - Whitelist
 # Description: Basic list of whitelisted domains.
 # Format: personalDNSfilter
-# Version: 19.09.251
-# Release: 251
-# Entries: 9,924
+# Version: 19.09.252
+# Release: 252
+# Entries: 9,927
 # Pack Code: E84S1C-W
 # License: MIT, https://energized.pro/license
-# Updated: Sun, 08 Sep 19 20:18:02
+# Updated: Mon, 09 Sep 19 20:15:13
 # RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/pdnsf.txt
 # --------------------------------------------
 #
@@ -1447,6 +1447,7 @@
 !argos.co.uk
 !argumentiru.com
 !aria.microsoft.com
+!ariadne.cs.kuleuven.be
 !armdl.adobe.com
 !armmf.adobe.com
 !army.mil
@@ -4872,6 +4873,7 @@
 !ktla.com
 !kuaiche.com
 !kuaidi100.com
+!kuleuven.eu.qualtrics.com
 !kutt.it
 !kxcdn.com
 !l-xda.xposed.info
@@ -7119,6 +7121,7 @@
 !secure.viber.com
 !secure.vimeo.com
 !secured.netflix.com
+!securehomes.esat.kuleuven.be
 !secureitcup.kaspersky.com
 !securelist.com
 !securemecca.com

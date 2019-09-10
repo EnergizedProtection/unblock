@@ -24,12 +24,12 @@
 # Title: Energized Basic Protection - Whitelist
 # Description: Basic list of whitelisted domains.
 # Format: domain list
-# Version: 19.09.252
-# Release: 252
-# Entries: 9,927
+# Version: 19.09.253
+# Release: 253
+# Entries: 9,928
 # Pack Code: E84S1C-W
 # License: MIT, https://energized.pro/license
-# Updated: Mon, 09 Sep 19 20:15:13
+# Updated: Tue, 10 Sep 19 20:19:39
 # RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/domains.txt
 # --------------------------------------------
 #
@@ -1203,6 +1203,7 @@ api.foxnews.com
 api.gallery.intl.miui.com
 api.getpocket.com
 api.github.com
+api.glympse.com
 api.gotinder.com
 api.gravatar.com
 api.groupon.com

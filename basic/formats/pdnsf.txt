@@ -24,12 +24,12 @@
 # Title: Energized Basic Protection - Whitelist
 # Description: Basic list of whitelisted domains.
 # Format: personalDNSfilter
-# Version: 19.09.254
-# Release: 254
+# Version: 19.09.255
+# Release: 255
 # Entries: 9,928
 # Pack Code: E84S1C-W
 # License: MIT, https://energized.pro/license
-# Updated: Wed, 11 Sep 19 20:15:16
+# Updated: Thu, 12 Sep 19 20:14:57
 # RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/pdnsf.txt
 # --------------------------------------------
 #

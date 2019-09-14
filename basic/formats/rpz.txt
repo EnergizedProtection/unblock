@@ -24,12 +24,12 @@
 ; Title: Energized Basic Protection - Whitelist
 ; Description: Basic list of whitelisted domains.
 ; Format: rpz
-; Version: 19.09.256
-; Release: 256
-; Entries: 9,928
+; Version: 19.09.257
+; Release: 257
+; Entries: 9,929
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Fri, 13 Sep 19 20:16:09
+; Updated: Sat, 14 Sep 19 20:17:37
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -8337,6 +8337,7 @@ vibes.viber.com CNAME rpz-passthru.
 vice-web-statics-cdn.vice.com CNAME rpz-passthru.
 vice.com CNAME rpz-passthru.
 vid.pr0gramm.com CNAME rpz-passthru.
+video-api.yql.yahoo.com CNAME rpz-passthru.
 video-preview.gtflixtv.com CNAME rpz-passthru.
 video-stats.l.google.com CNAME rpz-passthru.
 video.api.playstation.com CNAME rpz-passthru.

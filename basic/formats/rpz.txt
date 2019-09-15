@@ -24,12 +24,12 @@
 ; Title: Energized Basic Protection - Whitelist
 ; Description: Basic list of whitelisted domains.
 ; Format: rpz
-; Version: 19.09.257
-; Release: 257
-; Entries: 9,929
+; Version: 19.09.258
+; Release: 258
+; Entries: 9,930
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Sat, 14 Sep 19 20:17:37
+; Updated: Sun, 15 Sep 19 20:18:15
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -4665,6 +4665,7 @@ inyarro.ws CNAME rpz-passthru.
 inyurl.com CNAME rpz-passthru.
 io.mi.com CNAME rpz-passthru.
 io.playstation.com CNAME rpz-passthru.
+iopscience.iop.org CNAME rpz-passthru.
 ios.nccp.netflix.com CNAME rpz-passthru.
 ios.soundcloud.com CNAME rpz-passthru.
 iosdl.game.xiaomi.com CNAME rpz-passthru.

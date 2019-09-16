@@ -24,12 +24,12 @@
 ; Title: Energized Basic Protection - Whitelist
 ; Description: Basic list of whitelisted domains.
 ; Format: rpz
-; Version: 19.09.258
-; Release: 258
-; Entries: 9,930
+; Version: 19.09.259
+; Release: 259
+; Entries: 9,931
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Sun, 15 Sep 19 20:18:15
+; Updated: Mon, 16 Sep 19 20:17:25
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -5641,6 +5641,7 @@ mobile.binance.com CNAME rpz-passthru.
 mobile.dcinside.com CNAME rpz-passthru.
 mobile.engadget.com CNAME rpz-passthru.
 mobile.facebook.com CNAME rpz-passthru.
+mobile.free.fr CNAME rpz-passthru.
 mobile.guardianapis.com CNAME rpz-passthru.
 mobile.here.com CNAME rpz-passthru.
 mobile.kaspersky.com CNAME rpz-passthru.

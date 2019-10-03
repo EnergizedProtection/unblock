@@ -24,13 +24,13 @@
 ! Title: Energized Basic Protection - Whitelist
 ! Description: Basic list of whitelisted domains.
 ! Format: adblock
-! Version: 19.10.275
-! Release: 275
+! Version: 19.10.276
+! Release: 276
 ! Expires: 7 days (update frequency)
-! Entries: 9,931
+! Entries: 9,969
 ! Pack Code: E84S1C-W
 ! License: MIT, https://energized.pro/license
-! Updated: Wed, 02 Oct 19 20:22:35
+! Updated: Thu, 03 Oct 19 20:19:55
 ! RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/filter
 ! --------------------------------------------
 !
@@ -114,6 +114,7 @@
 @@||1.us.pool.ntp.org^
 @@||100.naver.com^
 @@||10046.mi.com^
+@@||100percentfedup.com^
 @@||110415.libdd.com^
 @@||123-reg.co.uk^
 @@||123greetings.com^
@@ -1308,6 +1309,7 @@
 @@||api.viafoura.co^
 @@||api.viafoura.com^
 @@||api.viber.com^
+@@||api.videoder.net^
 @@||api.vimeo.com^
 @@||api.vip.miui.com^
 @@||api.vudu.com^
@@ -2062,6 +2064,7 @@
 @@||cda.pl^
 @@||cdbaby.com^
 @@||cdc.gov^
+@@||cdm.cursecdn.com^
 @@||cdmdownload.adobe.com^
 @@||cdn-3.convertexperiments.com^
 @@||cdn-a.sonyentertainmentnetwork.com^
@@ -2100,6 +2103,7 @@
 @@||cdn.cpnscdn.com^
 @@||cdn.dailycaller.com^
 @@||cdn.dealersocket.com^
+@@||cdn.destinilocators.com^
 @@||cdn.digitaltrends.com^
 @@||cdn.discordapp.com^
 @@||cdn.dnaindia.com^
@@ -2361,6 +2365,7 @@
 @@||click.icptrack.com^
 @@||click.linksynergy.com^
 @@||click.mail.jp.playstation.com^
+@@||click.redditmail.com^
 @@||click.txn-email.playstation.com^
 @@||clickbank.com^
 @@||clickfunnels.com^
@@ -2441,6 +2446,7 @@
 @@||cnnct.soundcloud.com^
 @@||cnzz.com^
 @@||co2saver.snap.com^
+@@||coasttocoastam.com^
 @@||code.binance.com^
 @@||code.cdn.mozilla.net^
 @@||code.createjs.com^
@@ -2735,6 +2741,7 @@
 @@||daumcdn.net^
 @@||db.tt^
 @@||dc-e70d1ce32117.chia-anime.tv^
+@@||dcclothesline.com^
 @@||dccss.banggood.com^
 @@||dcinside.com^
 @@||dcs-vod.apis.anvato.net^
@@ -2790,6 +2797,7 @@
 @@||desktop-data.sonymobile.com^
 @@||desktopfw.weather.com^
 @@||desktops.engadget.com^
+@@||destinilocators.com^
 @@||detectportal.firefox.com^
 @@||detik.com^
 @@||dev-findmymobile.samsung.com^
@@ -2871,6 +2879,7 @@
 @@||directvapplications.hb.omtrdc.net^
 @@||directvnow.com^
 @@||dirtywarez.com^
+@@||disclose.tv^
 @@||discord.gg^
 @@||discover.hulu.com^
 @@||discover.viber.com^
@@ -3685,6 +3694,7 @@
 @@||garena.com^
 @@||gatehousemedia.com^
 @@||gateway.fe.apple-dns.net^
+@@||gateway.reddit.com^
 @@||gawker.com^
 @@||gazeta.pl^
 @@||gc.fe.apple-dns.net^
@@ -3741,6 +3751,7 @@
 @@||getmore.sonymobile.com^
 @@||getpocket.com^
 @@||getprof.sg.np.community.playstation.net^
+@@||getsatisfaction.com^
 @@||gfwsl.geforce.com^
 @@||gfx.ms^
 @@||gfycat.com^
@@ -4298,11 +4309,13 @@
 @@||huffingtonpost.com^
 @@||huffpost.com^
 @@||hulu.com^
+@@||humansarefree.com^
 @@||humblebundle.com^
 @@||hunkemoller.com^
 @@||huodong.xiaomi.com^
 @@||huosai.xiaomi.com^
 @@||hurl.com^
+@@||huzlers.com^
 @@||hw-images.spot.im^
 @@||hw.me^
 @@||hybrid.xiaomi.com^
@@ -4326,6 +4339,7 @@
 @@||i.s-microsoft.com^
 @@||i.scdn.co^
 @@||i.snap.com^
+@@||i.viafoura.co^
 @@||i.x.sndcdn.com^
 @@||i.xiaomi.com^
 @@||i.ytimg.com^
@@ -4626,6 +4640,7 @@
 @@||institutional.coinbase.com^
 @@||intel.com^
 @@||inter.youdao.com^
+@@||interaction.viafoura.co^
 @@||intercom.io^
 @@||intercomassets.com^
 @@||intercomcdn.com^
@@ -4905,6 +4920,7 @@
 @@||language.viber.com^
 @@||lanhuapp.com^
 @@||laptops.engadget.com^
+@@||larati.net^
 @@||lastfm-img2.akamaized.net^
 @@||lasvegas.cbslocal.com^
 @@||latam.ign.com^
@@ -4941,6 +4957,7 @@
 @@||lensstudio.snapchat.com^
 @@||les.com^
 @@||letsencrypt.org^
+@@||lewrockwell.com^
 @@||lg-bgp.pandora.xiaomi.com^
 @@||lg.com^
 @@||lh.com^
@@ -4996,6 +5013,7 @@
 @@||link.xperialounge.sonymobile.com^
 @@||linkbucks.com^
 @@||linkedin.com^
+@@||linkedinmobileapp.com^
 @@||linkis.com^
 @@||links.announcements.soundcloud.com^
 @@||links.confirmation.soundcloud.com^
@@ -5499,6 +5517,7 @@
 @@||mediafile.dcinside.com^
 @@||mediafire.com^
 @@||mediakit.breitbart.com^
+@@||mediamass.net^
 @@||mediapcs.engadget.com^
 @@||mediaset.it^
 @@||medium.com^
@@ -5554,6 +5573,7 @@
 @@||micardapi.micloud.xiaomi.net^
 @@||micdrive.openapi.xiaomi.net^
 @@||micloud.xiaomi.net^
+@@||micpn.com^
 @@||microbit.org^
 @@||microg.org^
 @@||microsoft.com^
@@ -5672,6 +5692,7 @@
 @@||motor-forum.nl^
 @@||motto.daisuki.net^
 @@||mouseflow.com^
+@@||movable-ink-2183.com^
 @@||movie.daum.net^
 @@||movie.naver.com^
 @@||movie2k.to^
@@ -5955,6 +5976,7 @@
 @@||notificationcontent.entrance.sonymobile.com^
 @@||notifications.google.com^
 @@||notifications.spot.im^
+@@||notifications.viafoura.co^
 @@||notify-api.line.me^
 @@||notify-bot.line.me^
 @@||notify.breitbart.com^
@@ -5963,6 +5985,7 @@
 @@||notlong.com^
 @@||now.bt.co^
 @@||now.sh^
+@@||nowtheendbegins.com^
 @@||nphone.daum.net^
 @@||npmjs.com^
 @@||npr.org^
@@ -6085,6 +6108,7 @@
 @@||oiop.com^
 @@||ojrq.net^
 @@||ok.ru^
+@@||okt.to^
 @@||oload.cloud^
 @@||oload.tv^
 @@||oloadcdn.net^
@@ -6711,6 +6735,7 @@
 @@||real-debrid.com^
 @@||real.com^
 @@||realestate.w.o0bc.com^
+@@||realfarmacy.com^
 @@||rebrand.ly^
 @@||rebrandly.com^
 @@||rec.voot.com^
@@ -7569,6 +7594,7 @@
 @@||static.tianyaui.com^
 @@||static.union.mi.com^
 @@||static.viber.com^
+@@||static.videoder.net^
 @@||static.wired.com^
 @@||static.ws.126.net^
 @@||static.www.odcdn.com.edgekey.net^
@@ -7843,6 +7869,7 @@
 @@||team.diigo.com^
 @@||team.stumbleupon.com^
 @@||teamviewer.com^
+@@||teaparty.org^
 @@||techcrunch.com^
 @@||techguy.org^
 @@||techmeme.com^
@@ -7890,6 +7917,7 @@
 @@||thebrick.com^
 @@||thechive.com^
 @@||thedailybeast.com^
+@@||thedailysheeple.com^
 @@||thefreethoughtproject.com^
 @@||theglobeandmail.com^
 @@||theguardian.com^
@@ -8023,10 +8051,13 @@
 @@||trialpay.com^
 @@||trials.adobe.com^
 @@||tribdss.com^
+@@||tribpub.com^
 @@||trickbd.com^
 @@||tripadvisor.co.uk^
 @@||tripadvisor.com^
 @@||tripod.com^
+@@||trk.cp20.com^
+@@||trk.klclick.com^
 @@||trophy01.np.community.playstation.net^
 @@||trowel.twitch.tv^
 @@||truecaller.com^
@@ -8255,6 +8286,7 @@
 @@||usain.blog.naver.com^
 @@||usatoday.com^
 @@||usauthor.playstation.com^
+@@||usawatchdog.com^
 @@||usb3speed.nirsoft.net^
 @@||usbspeed.nirsoft.net^
 @@||usc.edu^
@@ -8318,6 +8350,7 @@
 @@||version.hybrid.api.here.com^
 @@||vesta.web.telegram.org^
 @@||veta.naver.com^
+@@||veteranstoday.com^
 @@||vgfiles.nabstudio.com^
 @@||vi.gravatar.com^
 @@||vi.wikipedia.com^
@@ -8528,6 +8561,7 @@
 @@||webgrab.wechat.com^
 @@||webhostingtalk.com^
 @@||weblb-wg.dual-gslb.spotify.com^
+@@||webmail.vtr.net^
 @@||webmd.com^
 @@||webopedia.com^
 @@||websearch.rakuten.co.jp^
@@ -8572,6 +8606,7 @@
 @@||widget.intercom.io^
 @@||widget.pushbullet.com^
 @@||widget.sndcdn.com^
+@@||widget.trustpilot.com^
 @@||widgetdata.tradingview.com^
 @@||widgets.amazon.co.uk^
 @@||widgets.amazon.com^
@@ -9382,6 +9417,7 @@
 @@||www.lineageoslog.com^
 @@||www.linkbucks.com^
 @@||www.linkedin.com^
+@@||www.linkedinmobileapp.com^
 @@||www.linuxtracker.org^
 @@||www.liveinternet.ru^
 @@||www.liveleak.com^
@@ -9437,6 +9473,7 @@
 @@||www.modpim.com^
 @@||www.moneysavingexpert.com^
 @@||www.mormon.org^
+@@||www.movable-ink-2183.com^
 @@||www.movie2k.to^
 @@||www.movielabs.com^
 @@||www.mozilla.org^
@@ -9717,6 +9754,7 @@
 @@||www.transfer.sh^
 @@||www.travelocity.com^
 @@||www.trialpay.com^
+@@||www.tribpub.com^
 @@||www.truecaller.com^
 @@||www.tucows.com^
 @@||www.tumblr.com^

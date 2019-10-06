@@ -24,12 +24,12 @@
 # Title: Energized Basic Protection - Whitelist
 # Description: Basic list of whitelisted domains.
 # Format: domain list
-# Version: 19.10.278
-# Release: 278
-# Entries: 9,969
+# Version: 19.10.279
+# Release: 279
+# Entries: 9,973
 # Pack Code: E84S1C-W
 # License: MIT, https://energized.pro/license
-# Updated: Sat, 05 Oct 19 20:17:39
+# Updated: Sun, 06 Oct 19 20:16:54
 # RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/domains.txt
 # --------------------------------------------
 #
@@ -1824,6 +1824,7 @@ blog.typekit.com
 blog.us.playstation.com
 blog.vuukle.com
 blog.wechat.com
+blog.xuite.net
 blogattach.naver.com
 blogeduonix-2f3a.kxcdn.com
 blogger.com
@@ -6378,6 +6379,7 @@ pipeaota.com
 pitchfork.com
 pittsburgh.cbslocal.com
 piwik.org
+pix11.com
 pixel.nymag.com
 pixel.quantserve.com
 pixel.wp.com
@@ -9840,6 +9842,7 @@ www.xfce.org
 www.xinhuanet.com
 www.xmr.to
 www.xposed.info
+www.xuite.net
 www.ya.com
 www.ya.ru
 www.yandex.ru
@@ -9931,6 +9934,7 @@ xperialounge.sonymobile.com
 xsts.auth.xboxlive.com
 xtgem.com
 xueqiu.com
+xuite.net
 xunlei.com
 xx.snap.com
 xywy.com

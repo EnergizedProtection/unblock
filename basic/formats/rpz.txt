@@ -24,12 +24,12 @@
 ; Title: Energized Basic Protection - Whitelist
 ; Description: Basic list of whitelisted domains.
 ; Format: rpz
-; Version: 19.10.278
-; Release: 278
-; Entries: 9,969
+; Version: 19.10.279
+; Release: 279
+; Entries: 9,973
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Sat, 05 Oct 19 20:17:39
+; Updated: Sun, 06 Oct 19 20:16:54
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -1832,6 +1832,7 @@ blog.typekit.com CNAME rpz-passthru.
 blog.us.playstation.com CNAME rpz-passthru.
 blog.vuukle.com CNAME rpz-passthru.
 blog.wechat.com CNAME rpz-passthru.
+blog.xuite.net CNAME rpz-passthru.
 blogattach.naver.com CNAME rpz-passthru.
 blogeduonix-2f3a.kxcdn.com CNAME rpz-passthru.
 blogger.com CNAME rpz-passthru.
@@ -6386,6 +6387,7 @@ pipeaota.com CNAME rpz-passthru.
 pitchfork.com CNAME rpz-passthru.
 pittsburgh.cbslocal.com CNAME rpz-passthru.
 piwik.org CNAME rpz-passthru.
+pix11.com CNAME rpz-passthru.
 pixel.nymag.com CNAME rpz-passthru.
 pixel.quantserve.com CNAME rpz-passthru.
 pixel.wp.com CNAME rpz-passthru.
@@ -9848,6 +9850,7 @@ www.xfce.org CNAME rpz-passthru.
 www.xinhuanet.com CNAME rpz-passthru.
 www.xmr.to CNAME rpz-passthru.
 www.xposed.info CNAME rpz-passthru.
+www.xuite.net CNAME rpz-passthru.
 www.ya.com CNAME rpz-passthru.
 www.ya.ru CNAME rpz-passthru.
 www.yandex.ru CNAME rpz-passthru.
@@ -9939,6 +9942,7 @@ xperialounge.sonymobile.com CNAME rpz-passthru.
 xsts.auth.xboxlive.com CNAME rpz-passthru.
 xtgem.com CNAME rpz-passthru.
 xueqiu.com CNAME rpz-passthru.
+xuite.net CNAME rpz-passthru.
 xunlei.com CNAME rpz-passthru.
 xx.snap.com CNAME rpz-passthru.
 xywy.com CNAME rpz-passthru.

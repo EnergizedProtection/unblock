@@ -24,12 +24,12 @@
 ; Title: Energized Basic Protection - Whitelist
 ; Description: Basic list of whitelisted domains.
 ; Format: rpz
-; Version: 19.10.279
-; Release: 279
-; Entries: 9,973
+; Version: 19.10.280
+; Release: 280
+; Entries: 9,974
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Sun, 06 Oct 19 20:16:54
+; Updated: Mon, 07 Oct 19 20:17:39
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -9512,6 +9512,7 @@ www.naver.com CNAME rpz-passthru.
 www.nbcnews.com CNAME rpz-passthru.
 www.neoseeker.com CNAME rpz-passthru.
 www.netcoresmartech.com CNAME rpz-passthru.
+www.netdna-cdn.com CNAME rpz-passthru.
 www.netdna-ssl.com CNAME rpz-passthru.
 www.netdna.bootstrapcdn.com CNAME rpz-passthru.
 www.neteller.com CNAME rpz-passthru.

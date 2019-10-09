@@ -24,12 +24,12 @@
 ; Title: Energized Basic Protection - Whitelist
 ; Description: Basic list of whitelisted domains.
 ; Format: rpz
-; Version: 19.10.281
-; Release: 281
-; Entries: 9,974
+; Version: 19.10.282
+; Release: 282
+; Entries: 9,988
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Tue, 08 Oct 19 20:17:06
+; Updated: Wed, 09 Oct 19 20:17:15
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -407,6 +407,7 @@ advil.waze.com CNAME rpz-passthru.
 adweek.com CNAME rpz-passthru.
 adwords.google.com CNAME rpz-passthru.
 ae01.alicdn.com CNAME rpz-passthru.
+ae911truth.org CNAME rpz-passthru.
 aeis.alicdn.com CNAME rpz-passthru.
 aemmobile.adobe.com CNAME rpz-passthru.
 aetna.com CNAME rpz-passthru.
@@ -1714,6 +1715,7 @@ bg5.v4.emdl.ws.microsoft.com CNAME rpz-passthru.
 bgp.fe01.c3.xiaomi.com CNAME rpz-passthru.
 bgr.com CNAME rpz-passthru.
 bharattimes.com CNAME rpz-passthru.
+bhphotovideo.com CNAME rpz-passthru.
 bia2vip.site CNAME rpz-passthru.
 bialystok.tvp.pl CNAME rpz-passthru.
 big.at CNAME rpz-passthru.
@@ -1771,6 +1773,7 @@ bjbgc.com CNAME rpz-passthru.
 bk01.hh.xiaomi.com CNAME rpz-passthru.
 black.game.naver.com CNAME rpz-passthru.
 blackberry.com CNAME rpz-passthru.
+blacklistednews.com CNAME rpz-passthru.
 bleacherreport.com CNAME rpz-passthru.
 bleepingcomputer.com CNAME rpz-passthru.
 blinky.me CNAME rpz-passthru.
@@ -1793,6 +1796,7 @@ blog.br.playstation.com CNAME rpz-passthru.
 blog.brightcove.com CNAME rpz-passthru.
 blog.coinbase.com CNAME rpz-passthru.
 blog.coinmarketcap.com CNAME rpz-passthru.
+blog.counter-strike.net CNAME rpz-passthru.
 blog.cryptopia.co.nz CNAME rpz-passthru.
 blog.csdn.net CNAME rpz-passthru.
 blog.daum.net CNAME rpz-passthru.
@@ -2592,6 +2596,7 @@ coop.telecom.mihome.xiaomi.net CNAME rpz-passthru.
 copyright.help.soundcloud.com CNAME rpz-passthru.
 copyright.soundcloud.com CNAME rpz-passthru.
 copyrights.help.soundcloud.com CNAME rpz-passthru.
+corbettreport.com CNAME rpz-passthru.
 core.windows.net CNAME rpz-passthru.
 cornell.edu CNAME rpz-passthru.
 corp.ign.com CNAME rpz-passthru.
@@ -2601,6 +2606,7 @@ cosmopolitan.com CNAME rpz-passthru.
 costco.com CNAME rpz-passthru.
 costream.twitch.tv CNAME rpz-passthru.
 cosu.sonymobile.com CNAME rpz-passthru.
+counter-strike.net CNAME rpz-passthru.
 coupon.aliexpress.com CNAME rpz-passthru.
 couponbar.coupons.com CNAME rpz-passthru.
 coupons.com CNAME rpz-passthru.
@@ -4177,6 +4183,7 @@ hdserver.nirsoft.net CNAME rpz-passthru.
 he.gravatar.com CNAME rpz-passthru.
 he.wikipedia.com CNAME rpz-passthru.
 heads-fa.scdn.co CNAME rpz-passthru.
+healthnutnews.com CNAME rpz-passthru.
 heapanalytics.com CNAME rpz-passthru.
 heartbeat.dm.origin.com CNAME rpz-passthru.
 hello.myfonts.net CNAME rpz-passthru.
@@ -8768,6 +8775,7 @@ www.adfocus.ru CNAME rpz-passthru.
 www.adguard.com CNAME rpz-passthru.
 www.adlice.com CNAME rpz-passthru.
 www.adobe.com CNAME rpz-passthru.
+www.ae911truth.org CNAME rpz-passthru.
 www.aetna.com CNAME rpz-passthru.
 www.airtable.com CNAME rpz-passthru.
 www.alexa.com CNAME rpz-passthru.
@@ -8849,6 +8857,7 @@ www.bet365.com CNAME rpz-passthru.
 www.betanews.com CNAME rpz-passthru.
 www.bethesda.net CNAME rpz-passthru.
 www.bharattimes.com CNAME rpz-passthru.
+www.bhphotovideo.com CNAME rpz-passthru.
 www.billdesk.com CNAME rpz-passthru.
 www.binance.com CNAME rpz-passthru.
 www.bing.com CNAME rpz-passthru.
@@ -8862,6 +8871,7 @@ www.bithumb.com CNAME rpz-passthru.
 www.bizpacreview.com CNAME rpz-passthru.
 www.blackberry.com CNAME rpz-passthru.
 www.blackboxrepack.com CNAME rpz-passthru.
+www.blacklistednews.com CNAME rpz-passthru.
 www.bleepingcomputer.com CNAME rpz-passthru.
 www.blockadblock.com CNAME rpz-passthru.
 www.blog.medium.com CNAME rpz-passthru.
@@ -8937,6 +8947,7 @@ www.consent.cookiebot.com CNAME rpz-passthru.
 www.consent.truste.com CNAME rpz-passthru.
 www.conversantmedia.com CNAME rpz-passthru.
 www.coolrom.com CNAME rpz-passthru.
+www.corbettreport.com CNAME rpz-passthru.
 www.cort.as CNAME rpz-passthru.
 www.coupons.com CNAME rpz-passthru.
 www.cpmlink.net CNAME rpz-passthru.
@@ -9322,6 +9333,7 @@ www.hardwareluxx.de CNAME rpz-passthru.
 www.harpercollins.com CNAME rpz-passthru.
 www.hbo.com CNAME rpz-passthru.
 www.hdo.to CNAME rpz-passthru.
+www.healthnutnews.com CNAME rpz-passthru.
 www.help.medium.com CNAME rpz-passthru.
 www.here.com CNAME rpz-passthru.
 www.hide.me CNAME rpz-passthru.
@@ -9862,6 +9874,7 @@ www.youtube.com CNAME rpz-passthru.
 www.ytmnd.com CNAME rpz-passthru.
 www.zdbb.net CNAME rpz-passthru.
 www.zeit.co CNAME rpz-passthru.
+www.zerohedge.com CNAME rpz-passthru.
 www.zippyshare.com CNAME rpz-passthru.
 www.zoho.com CNAME rpz-passthru.
 www.zona.media CNAME rpz-passthru.
@@ -10013,6 +10026,7 @@ zencdn.net CNAME rpz-passthru.
 zendesk.com CNAME rpz-passthru.
 zero.facebook.com CNAME rpz-passthru.
 zero.wikipedia.com CNAME rpz-passthru.
+zerohedge.com CNAME rpz-passthru.
 zeustracker.abuse.ch CNAME rpz-passthru.
 zh-tw.gravatar.com CNAME rpz-passthru.
 zh-tw.twitch.tv CNAME rpz-passthru.

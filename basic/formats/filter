@@ -24,13 +24,13 @@
 ! Title: Energized Basic Protection - Whitelist
 ! Description: Basic list of whitelisted domains.
 ! Format: adblock
-! Version: 19.10.281
-! Release: 281
+! Version: 19.10.282
+! Release: 282
 ! Expires: 7 days (update frequency)
-! Entries: 9,974
+! Entries: 9,988
 ! Pack Code: E84S1C-W
 ! License: MIT, https://energized.pro/license
-! Updated: Tue, 08 Oct 19 20:17:06
+! Updated: Wed, 09 Oct 19 20:17:15
 ! RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/filter
 ! --------------------------------------------
 !
@@ -400,6 +400,7 @@
 @@||adweek.com^
 @@||adwords.google.com^
 @@||ae01.alicdn.com^
+@@||ae911truth.org^
 @@||aeis.alicdn.com^
 @@||aemmobile.adobe.com^
 @@||aetna.com^
@@ -1707,6 +1708,7 @@
 @@||bgp.fe01.c3.xiaomi.com^
 @@||bgr.com^
 @@||bharattimes.com^
+@@||bhphotovideo.com^
 @@||bia2vip.site^
 @@||bialystok.tvp.pl^
 @@||big.at^
@@ -1764,6 +1766,7 @@
 @@||bk01.hh.xiaomi.com^
 @@||black.game.naver.com^
 @@||blackberry.com^
+@@||blacklistednews.com^
 @@||bleacherreport.com^
 @@||bleepingcomputer.com^
 @@||blinky.me^
@@ -1786,6 +1789,7 @@
 @@||blog.brightcove.com^
 @@||blog.coinbase.com^
 @@||blog.coinmarketcap.com^
+@@||blog.counter-strike.net^
 @@||blog.cryptopia.co.nz^
 @@||blog.csdn.net^
 @@||blog.daum.net^
@@ -2585,6 +2589,7 @@
 @@||copyright.help.soundcloud.com^
 @@||copyright.soundcloud.com^
 @@||copyrights.help.soundcloud.com^
+@@||corbettreport.com^
 @@||core.windows.net^
 @@||cornell.edu^
 @@||corp.ign.com^
@@ -2594,6 +2599,7 @@
 @@||costco.com^
 @@||costream.twitch.tv^
 @@||cosu.sonymobile.com^
+@@||counter-strike.net^
 @@||coupon.aliexpress.com^
 @@||couponbar.coupons.com^
 @@||coupons.com^
@@ -4170,6 +4176,7 @@
 @@||he.gravatar.com^
 @@||he.wikipedia.com^
 @@||heads-fa.scdn.co^
+@@||healthnutnews.com^
 @@||heapanalytics.com^
 @@||heartbeat.dm.origin.com^
 @@||hello.myfonts.net^
@@ -8761,6 +8768,7 @@
 @@||www.adguard.com^
 @@||www.adlice.com^
 @@||www.adobe.com^
+@@||www.ae911truth.org^
 @@||www.aetna.com^
 @@||www.airtable.com^
 @@||www.alexa.com^
@@ -8842,6 +8850,7 @@
 @@||www.betanews.com^
 @@||www.bethesda.net^
 @@||www.bharattimes.com^
+@@||www.bhphotovideo.com^
 @@||www.billdesk.com^
 @@||www.binance.com^
 @@||www.bing.com^
@@ -8855,6 +8864,7 @@
 @@||www.bizpacreview.com^
 @@||www.blackberry.com^
 @@||www.blackboxrepack.com^
+@@||www.blacklistednews.com^
 @@||www.bleepingcomputer.com^
 @@||www.blockadblock.com^
 @@||www.blog.medium.com^
@@ -8930,6 +8940,7 @@
 @@||www.consent.truste.com^
 @@||www.conversantmedia.com^
 @@||www.coolrom.com^
+@@||www.corbettreport.com^
 @@||www.cort.as^
 @@||www.coupons.com^
 @@||www.cpmlink.net^
@@ -9315,6 +9326,7 @@
 @@||www.harpercollins.com^
 @@||www.hbo.com^
 @@||www.hdo.to^
+@@||www.healthnutnews.com^
 @@||www.help.medium.com^
 @@||www.here.com^
 @@||www.hide.me^
@@ -9855,6 +9867,7 @@
 @@||www.ytmnd.com^
 @@||www.zdbb.net^
 @@||www.zeit.co^
+@@||www.zerohedge.com^
 @@||www.zippyshare.com^
 @@||www.zoho.com^
 @@||www.zona.media^
@@ -10006,6 +10019,7 @@
 @@||zendesk.com^
 @@||zero.facebook.com^
 @@||zero.wikipedia.com^
+@@||zerohedge.com^
 @@||zeustracker.abuse.ch^
 @@||zh-tw.gravatar.com^
 @@||zh-tw.twitch.tv^

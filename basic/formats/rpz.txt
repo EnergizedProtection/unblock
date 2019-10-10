@@ -24,12 +24,12 @@
 ; Title: Energized Basic Protection - Whitelist
 ; Description: Basic list of whitelisted domains.
 ; Format: rpz
-; Version: 19.10.282
-; Release: 282
-; Entries: 9,988
+; Version: 19.10.283
+; Release: 283
+; Entries: 9,993
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Wed, 09 Oct 19 20:17:15
+; Updated: Thu, 10 Oct 19 20:17:27
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -209,6 +209,7 @@ $TTL 2h
 4.cn CNAME rpz-passthru.
 4pda.ru CNAME rpz-passthru.
 4pda.to CNAME rpz-passthru.
+4shared.com CNAME rpz-passthru.
 5-edge-chat.facebook.com CNAME rpz-passthru.
 500px.com CNAME rpz-passthru.
 58.com CNAME rpz-passthru.
@@ -2374,6 +2375,7 @@ cleaner.daum.net CNAME rpz-passthru.
 clearbit.com CNAME rpz-passthru.
 clearload.bid CNAME rpz-passthru.
 cli.gs CNAME rpz-passthru.
+click.e.change.org CNAME rpz-passthru.
 click.icptrack.com CNAME rpz-passthru.
 click.linksynergy.com CNAME rpz-passthru.
 click.mail.jp.playstation.com CNAME rpz-passthru.
@@ -4073,6 +4075,7 @@ gotinder.com CNAME rpz-passthru.
 goto.clickfunnels.com CNAME rpz-passthru.
 gotomypc.com CNAME rpz-passthru.
 gotraffic.net CNAME rpz-passthru.
+gounlimited.to CNAME rpz-passthru.
 gov.uk CNAME rpz-passthru.
 govtrack.us CNAME rpz-passthru.
 gps.engadget.com CNAME rpz-passthru.
@@ -5160,6 +5163,7 @@ logsss.com CNAME rpz-passthru.
 lolcounter.com CNAME rpz-passthru.
 look.com CNAME rpz-passthru.
 lookaside.facebook.com CNAME rpz-passthru.
+lookmovie.ag CNAME rpz-passthru.
 loopia.com CNAME rpz-passthru.
 loopia.se CNAME rpz-passthru.
 losangeles.cbslocal.com CNAME rpz-passthru.
@@ -8753,6 +8757,7 @@ www.163.com CNAME rpz-passthru.
 www.1e100.net CNAME rpz-passthru.
 www.2giga.link CNAME rpz-passthru.
 www.4pda.ru CNAME rpz-passthru.
+www.4shared.com CNAME rpz-passthru.
 www.9Anime.to CNAME rpz-passthru.
 www.9apps.com CNAME rpz-passthru.
 www.a.espncdn.com CNAME rpz-passthru.

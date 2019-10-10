@@ -24,12 +24,12 @@
 # Title: Energized Basic Protection - Whitelist
 # Description: Basic list of whitelisted domains.
 # Format: personalDNSfilter
-# Version: 19.10.282
-# Release: 282
-# Entries: 9,988
+# Version: 19.10.283
+# Release: 283
+# Entries: 9,993
 # Pack Code: E84S1C-W
 # License: MIT, https://energized.pro/license
-# Updated: Wed, 09 Oct 19 20:17:15
+# Updated: Thu, 10 Oct 19 20:17:27
 # RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/pdnsf.txt
 # --------------------------------------------
 #
@@ -201,6 +201,7 @@
 !4.cn
 !4pda.ru
 !4pda.to
+!4shared.com
 !5-edge-chat.facebook.com
 !500px.com
 !58.com
@@ -2366,6 +2367,7 @@
 !clearbit.com
 !clearload.bid
 !cli.gs
+!click.e.change.org
 !click.icptrack.com
 !click.linksynergy.com
 !click.mail.jp.playstation.com
@@ -4065,6 +4067,7 @@
 !goto.clickfunnels.com
 !gotomypc.com
 !gotraffic.net
+!gounlimited.to
 !gov.uk
 !govtrack.us
 !gps.engadget.com
@@ -5152,6 +5155,7 @@
 !lolcounter.com
 !look.com
 !lookaside.facebook.com
+!lookmovie.ag
 !loopia.com
 !loopia.se
 !losangeles.cbslocal.com
@@ -8745,6 +8749,7 @@
 !www.1e100.net
 !www.2giga.link
 !www.4pda.ru
+!www.4shared.com
 !www.9Anime.to
 !www.9apps.com
 !www.a.espncdn.com

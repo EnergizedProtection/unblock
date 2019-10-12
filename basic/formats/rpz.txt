@@ -24,12 +24,12 @@
 ; Title: Energized Basic Protection - Whitelist
 ; Description: Basic list of whitelisted domains.
 ; Format: rpz
-; Version: 19.10.284
-; Release: 284
-; Entries: 9,993
+; Version: 19.10.285
+; Release: 285
+; Entries: 9,996
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Fri, 11 Oct 19 20:17:15
+; Updated: Sat, 12 Oct 19 20:16:29
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -5917,6 +5917,7 @@ news.ycombinator.com CNAME rpz-passthru.
 newsday.com CNAME rpz-passthru.
 newserver.nirsoft.net CNAME rpz-passthru.
 newsfeed-sync.spot.im CNAME rpz-passthru.
+newsjizz.in CNAME rpz-passthru.
 newsletterind.huawei.com CNAME rpz-passthru.
 newsletters.nationalgeographic.com CNAME rpz-passthru.
 newsletters.vox.com CNAME rpz-passthru.
@@ -6300,6 +6301,7 @@ passport.baidu.com CNAME rpz-passthru.
 passport.twitch.tv CNAME rpz-passthru.
 password.kaspersky.com CNAME rpz-passthru.
 pastebin.com CNAME rpz-passthru.
+pasteboard.co CNAME rpz-passthru.
 pasted.co CNAME rpz-passthru.
 path.qualcomm.com CNAME rpz-passthru.
 patheos.com CNAME rpz-passthru.
@@ -7080,6 +7082,7 @@ screenshots.firefox.com CNAME rpz-passthru.
 scribd.com CNAME rpz-passthru.
 scribol.com CNAME rpz-passthru.
 scripts.ign.com CNAME rpz-passthru.
+scripts.pay.bka.sh CNAME rpz-passthru.
 scs.huawei.com CNAME rpz-passthru.
 scs.naver.com CNAME rpz-passthru.
 sd-ccdc.huawei.com CNAME rpz-passthru.

@@ -24,12 +24,12 @@
 # Title: Energized Basic Protection - Whitelist
 # Description: Basic list of whitelisted domains.
 # Format: personalDNSfilter
-# Version: 19.10.284
-# Release: 284
-# Entries: 9,993
+# Version: 19.10.285
+# Release: 285
+# Entries: 9,996
 # Pack Code: E84S1C-W
 # License: MIT, https://energized.pro/license
-# Updated: Fri, 11 Oct 19 20:17:15
+# Updated: Sat, 12 Oct 19 20:16:29
 # RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/pdnsf.txt
 # --------------------------------------------
 #
@@ -5909,6 +5909,7 @@
 !newsday.com
 !newserver.nirsoft.net
 !newsfeed-sync.spot.im
+!newsjizz.in
 !newsletterind.huawei.com
 !newsletters.nationalgeographic.com
 !newsletters.vox.com
@@ -6292,6 +6293,7 @@
 !passport.twitch.tv
 !password.kaspersky.com
 !pastebin.com
+!pasteboard.co
 !pasted.co
 !path.qualcomm.com
 !patheos.com
@@ -7072,6 +7074,7 @@
 !scribd.com
 !scribol.com
 !scripts.ign.com
+!scripts.pay.bka.sh
 !scs.huawei.com
 !scs.naver.com
 !sd-ccdc.huawei.com

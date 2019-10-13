@@ -24,12 +24,12 @@
 ; Title: Energized Basic Protection - Whitelist
 ; Description: Basic list of whitelisted domains.
 ; Format: rpz
-; Version: 19.10.285
-; Release: 285
-; Entries: 9,996
+; Version: 19.10.286
+; Release: 286
+; Entries: 9,998
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Sat, 12 Oct 19 20:16:29
+; Updated: Sun, 13 Oct 19 20:17:13
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -3621,6 +3621,7 @@ free.facebook.com CNAME rpz-passthru.
 free.fr CNAME rpz-passthru.
 free.kaspersky.com CNAME rpz-passthru.
 freebasics.com CNAME rpz-passthru.
+freedomhacker.net CNAME rpz-passthru.
 freenet.de CNAME rpz-passthru.
 freenom.link CNAME rpz-passthru.
 freeones.com CNAME rpz-passthru.
@@ -9544,6 +9545,7 @@ www.niecko.pl CNAME rpz-passthru.
 www.nirsoft.net CNAME rpz-passthru.
 www.nls.techrepublic.com CNAME rpz-passthru.
 www.no-ip.com CNAME rpz-passthru.
+www.noip.com CNAME rpz-passthru.
 www.nordvpn.com CNAME rpz-passthru.
 www.notepad-plus-plus.org CNAME rpz-passthru.
 www.noteworthy.medium.com CNAME rpz-passthru.

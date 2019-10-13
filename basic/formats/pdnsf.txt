@@ -24,12 +24,12 @@
 # Title: Energized Basic Protection - Whitelist
 # Description: Basic list of whitelisted domains.
 # Format: personalDNSfilter
-# Version: 19.10.285
-# Release: 285
-# Entries: 9,996
+# Version: 19.10.286
+# Release: 286
+# Entries: 9,998
 # Pack Code: E84S1C-W
 # License: MIT, https://energized.pro/license
-# Updated: Sat, 12 Oct 19 20:16:29
+# Updated: Sun, 13 Oct 19 20:17:13
 # RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/pdnsf.txt
 # --------------------------------------------
 #
@@ -3613,6 +3613,7 @@
 !free.fr
 !free.kaspersky.com
 !freebasics.com
+!freedomhacker.net
 !freenet.de
 !freenom.link
 !freeones.com
@@ -9536,6 +9537,7 @@
 !www.nirsoft.net
 !www.nls.techrepublic.com
 !www.no-ip.com
+!www.noip.com
 !www.nordvpn.com
 !www.notepad-plus-plus.org
 !www.noteworthy.medium.com

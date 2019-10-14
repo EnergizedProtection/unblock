@@ -24,12 +24,12 @@
 # Title: Energized Basic Protection - Whitelist
 # Description: Basic list of whitelisted domains.
 # Format: personalDNSfilter
-# Version: 19.10.286
-# Release: 286
-# Entries: 9,998
+# Version: 19.10.287
+# Release: 287
+# Entries: 10,000
 # Pack Code: E84S1C-W
 # License: MIT, https://energized.pro/license
-# Updated: Sun, 13 Oct 19 20:17:13
+# Updated: Mon, 14 Oct 19 20:16:37
 # RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/pdnsf.txt
 # --------------------------------------------
 #
@@ -6592,6 +6592,7 @@
 !proton.flurry.com
 !protonmail.com
 !prov.samsungcloudsolution.com
+!proxsee.pscp.tv
 !proxy-de.hide.me
 !proxy-nl.hide.me
 !proxy-us.hide.me
@@ -6609,6 +6610,7 @@
 !ps4updptl.sa.np.community.playstation.net
 !psbutler.adobe.com
 !pscdn.co
+!pscp.tv
 !psmedia.playstation.com
 !psn-rsc.prod.dl.playstation.net
 !psp.ign.com

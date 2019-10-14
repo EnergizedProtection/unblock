@@ -24,12 +24,12 @@
 ; Title: Energized Basic Protection - Whitelist
 ; Description: Basic list of whitelisted domains.
 ; Format: rpz
-; Version: 19.10.286
-; Release: 286
-; Entries: 9,998
+; Version: 19.10.287
+; Release: 287
+; Entries: 10,000
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Sun, 13 Oct 19 20:17:13
+; Updated: Mon, 14 Oct 19 20:16:37
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -6600,6 +6600,7 @@ prothomalo.com CNAME rpz-passthru.
 proton.flurry.com CNAME rpz-passthru.
 protonmail.com CNAME rpz-passthru.
 prov.samsungcloudsolution.com CNAME rpz-passthru.
+proxsee.pscp.tv CNAME rpz-passthru.
 proxy-de.hide.me CNAME rpz-passthru.
 proxy-nl.hide.me CNAME rpz-passthru.
 proxy-us.hide.me CNAME rpz-passthru.
@@ -6617,6 +6618,7 @@ ps4-system.sec.np.dl.playstation.net CNAME rpz-passthru.
 ps4updptl.sa.np.community.playstation.net CNAME rpz-passthru.
 psbutler.adobe.com CNAME rpz-passthru.
 pscdn.co CNAME rpz-passthru.
+pscp.tv CNAME rpz-passthru.
 psmedia.playstation.com CNAME rpz-passthru.
 psn-rsc.prod.dl.playstation.net CNAME rpz-passthru.
 psp.ign.com CNAME rpz-passthru.

@@ -24,12 +24,12 @@
 ; Title: Energized Basic Protection - Whitelist
 ; Description: Basic list of whitelisted domains.
 ; Format: rpz
-; Version: 19.10.287
-; Release: 287
-; Entries: 10,000
+; Version: 19.10.288
+; Release: 288
+; Entries: 10,005
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Mon, 14 Oct 19 20:16:37
+; Updated: Tue, 15 Oct 19 20:16:41
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -292,6 +292,7 @@ account.here.com CNAME rpz-passthru.
 account.mi.com CNAME rpz-passthru.
 account.np.ac.playstation.net CNAME rpz-passthru.
 account.np.ac.playstation.net.edgekey.net CNAME rpz-passthru.
+account.nvidia.com CNAME rpz-passthru.
 account.oneplus.com CNAME rpz-passthru.
 account.samsung.com CNAME rpz-passthru.
 account.samsung.com.gslb.cdnetworks.net CNAME rpz-passthru.
@@ -310,6 +311,7 @@ accounts.elephantjournal.com CNAME rpz-passthru.
 accounts.google.com CNAME rpz-passthru.
 accounts.idmapper.api.playstation.com CNAME rpz-passthru.
 accounts.mobisystems.com CNAME rpz-passthru.
+accounts.nvgs.nvidia.com CNAME rpz-passthru.
 accounts.pixiv.net CNAME rpz-passthru.
 accounts.snapchat.com CNAME rpz-passthru.
 accounts.soundcloud.com CNAME rpz-passthru.
@@ -6064,6 +6066,7 @@ nturl.com CNAME rpz-passthru.
 nurl.net CNAME rpz-passthru.
 nus1-urlp.secure.skypeassets.com CNAME rpz-passthru.
 nv.veta.naver.com CNAME rpz-passthru.
+nvidia.com CNAME rpz-passthru.
 nxeassets-ssl.xbox.com CNAME rpz-passthru.
 nxeassets.xbox.com CNAME rpz-passthru.
 nxpay.dutchbanglabank.com CNAME rpz-passthru.
@@ -7698,6 +7701,7 @@ store.lg.com CNAME rpz-passthru.
 store.line.me CNAME rpz-passthru.
 store.mozilla.org CNAME rpz-passthru.
 store.naver.com CNAME rpz-passthru.
+store.nvidia.com CNAME rpz-passthru.
 store.nytimes.com CNAME rpz-passthru.
 store.oneplus.com CNAME rpz-passthru.
 store.playstation.com CNAME rpz-passthru.
@@ -9555,6 +9559,7 @@ www.now.sh CNAME rpz-passthru.
 www.npmjs.com CNAME rpz-passthru.
 www.nseindia.com CNAME rpz-passthru.
 www.ntp.org CNAME rpz-passthru.
+www.nvidia.com CNAME rpz-passthru.
 www.nytimes.com CNAME rpz-passthru.
 www.o.aolcdn.com CNAME rpz-passthru.
 www.o1.email.medium.com CNAME rpz-passthru.

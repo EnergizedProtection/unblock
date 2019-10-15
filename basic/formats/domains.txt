@@ -24,12 +24,12 @@
 # Title: Energized Basic Protection - Whitelist
 # Description: Basic list of whitelisted domains.
 # Format: domain list
-# Version: 19.10.287
-# Release: 287
-# Entries: 10,000
+# Version: 19.10.288
+# Release: 288
+# Entries: 10,005
 # Pack Code: E84S1C-W
 # License: MIT, https://energized.pro/license
-# Updated: Mon, 14 Oct 19 20:16:37
+# Updated: Tue, 15 Oct 19 20:16:41
 # RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/domains.txt
 # --------------------------------------------
 #
@@ -284,6 +284,7 @@ account.here.com
 account.mi.com
 account.np.ac.playstation.net
 account.np.ac.playstation.net.edgekey.net
+account.nvidia.com
 account.oneplus.com
 account.samsung.com
 account.samsung.com.gslb.cdnetworks.net
@@ -302,6 +303,7 @@ accounts.elephantjournal.com
 accounts.google.com
 accounts.idmapper.api.playstation.com
 accounts.mobisystems.com
+accounts.nvgs.nvidia.com
 accounts.pixiv.net
 accounts.snapchat.com
 accounts.soundcloud.com
@@ -6056,6 +6058,7 @@ nturl.com
 nurl.net
 nus1-urlp.secure.skypeassets.com
 nv.veta.naver.com
+nvidia.com
 nxeassets-ssl.xbox.com
 nxeassets.xbox.com
 nxpay.dutchbanglabank.com
@@ -7690,6 +7693,7 @@ store.lg.com
 store.line.me
 store.mozilla.org
 store.naver.com
+store.nvidia.com
 store.nytimes.com
 store.oneplus.com
 store.playstation.com
@@ -9547,6 +9551,7 @@ www.now.sh
 www.npmjs.com
 www.nseindia.com
 www.ntp.org
+www.nvidia.com
 www.nytimes.com
 www.o.aolcdn.com
 www.o1.email.medium.com

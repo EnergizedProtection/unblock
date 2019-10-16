@@ -24,13 +24,13 @@
 ! Title: Energized Basic Protection - Whitelist
 ! Description: Basic list of whitelisted domains.
 ! Format: adblock
-! Version: 19.10.288
-! Release: 288
+! Version: 19.10.289
+! Release: 289
 ! Expires: 7 days (update frequency)
-! Entries: 10,005
+! Entries: 10,007
 ! Pack Code: E84S1C-W
 ! License: MIT, https://energized.pro/license
-! Updated: Tue, 15 Oct 19 20:16:41
+! Updated: Wed, 16 Oct 19 20:16:56
 ! RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/filter
 ! --------------------------------------------
 !
@@ -8625,6 +8625,7 @@
 @@||whois.registrar.amazon.com^
 @@||whoisprivacyprotect.com^
 @@||wi.tl^
+@@||wiadomosci.onet.pl^
 @@||widget-cdn.rpxnow.com^
 @@||widget.intercom.io^
 @@||widget.pushbullet.com^
@@ -9562,6 +9563,7 @@
 @@||www.olx.ua^
 @@||www.one.com^
 @@||www.oneplus.com^
+@@||www.onet.pl^
 @@||www.onmpeg.com^
 @@||www.openlibrary.org^
 @@||www.opensubtitles.org^

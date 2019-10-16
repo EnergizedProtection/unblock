@@ -24,12 +24,12 @@
 ; Title: Energized Basic Protection - Whitelist
 ; Description: Basic list of whitelisted domains.
 ; Format: rpz
-; Version: 19.10.288
-; Release: 288
-; Entries: 10,005
+; Version: 19.10.289
+; Release: 289
+; Entries: 10,007
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Tue, 15 Oct 19 20:16:41
+; Updated: Wed, 16 Oct 19 20:16:56
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -8632,6 +8632,7 @@ whois.cloudflare.com CNAME rpz-passthru.
 whois.registrar.amazon.com CNAME rpz-passthru.
 whoisprivacyprotect.com CNAME rpz-passthru.
 wi.tl CNAME rpz-passthru.
+wiadomosci.onet.pl CNAME rpz-passthru.
 widget-cdn.rpxnow.com CNAME rpz-passthru.
 widget.intercom.io CNAME rpz-passthru.
 widget.pushbullet.com CNAME rpz-passthru.
@@ -9569,6 +9570,7 @@ www.ok.ru CNAME rpz-passthru.
 www.olx.ua CNAME rpz-passthru.
 www.one.com CNAME rpz-passthru.
 www.oneplus.com CNAME rpz-passthru.
+www.onet.pl CNAME rpz-passthru.
 www.onmpeg.com CNAME rpz-passthru.
 www.openlibrary.org CNAME rpz-passthru.
 www.opensubtitles.org CNAME rpz-passthru.

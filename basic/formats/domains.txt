@@ -24,12 +24,12 @@
 # Title: Energized Basic Protection - Whitelist
 # Description: Basic list of whitelisted domains.
 # Format: domain list
-# Version: 19.10.290
-# Release: 290
-# Entries: 10,007
+# Version: 19.10.291
+# Release: 291
+# Entries: 10,008
 # Pack Code: E84S1C-W
 # License: MIT, https://energized.pro/license
-# Updated: Thu, 17 Oct 19 20:18:15
+# Updated: Fri, 18 Oct 19 20:17:25
 # RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/domains.txt
 # --------------------------------------------
 #
@@ -2401,6 +2401,7 @@ clients3.google.com
 clients4.google.com
 clients5.google.com
 clients6.google.com
+clientstream.launchdarkly.com
 cliphunter.com
 clips-media-assets2.twitch.tv
 clips.twitch.tv

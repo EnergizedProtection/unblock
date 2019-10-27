@@ -24,12 +24,12 @@
 ; Title: Energized Basic Protection - Whitelist
 ; Description: Basic list of whitelisted domains.
 ; Format: rpz
-; Version: 19.10.299
-; Release: 299
-; Entries: 10,009
+; Version: 19.10.300
+; Release: 300
+; Entries: 10,018
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Sat, 26 Oct 19 20:18:02
+; Updated: Sun, 27 Oct 19 20:17:58
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -474,6 +474,7 @@ alluremedia.com CNAME rpz-passthru.
 alluremedia.com.au CNAME rpz-passthru.
 aloha-proxy-ir.aws.viber.com CNAME rpz-passthru.
 aloha.viber.com CNAME rpz-passthru.
+alpha-t.net CNAME rpz-passthru.
 alt.techmeme.com CNAME rpz-passthru.
 alt1.aspmx.l.google.com CNAME rpz-passthru.
 alt1.gmr-smtp-in.l.google.com CNAME rpz-passthru.
@@ -1177,6 +1178,7 @@ api.bitfinex.com CNAME rpz-passthru.
 api.bithumb.com CNAME rpz-passthru.
 api.blog.naver.com CNAME rpz-passthru.
 api.bookmark.rakuten.co.jp CNAME rpz-passthru.
+api.braintreegateway.com CNAME rpz-passthru.
 api.branch.io CNAME rpz-passthru.
 api.brightcove.com CNAME rpz-passthru.
 api.browser.intl.miui.com CNAME rpz-passthru.
@@ -1902,6 +1904,7 @@ boxrec.com CNAME rpz-passthru.
 bp.blogspot.com CNAME rpz-passthru.
 br.gravatar.com CNAME rpz-passthru.
 br.ign.com CNAME rpz-passthru.
+braintreegateway.com CNAME rpz-passthru.
 brakrock.be CNAME rpz-passthru.
 branch.io CNAME rpz-passthru.
 brand.qualcomm.com CNAME rpz-passthru.
@@ -4624,6 +4627,7 @@ indeed.com CNAME rpz-passthru.
 independent.co.uk CNAME rpz-passthru.
 index.bithumb.com CNAME rpz-passthru.
 index.kaspersky.com CNAME rpz-passthru.
+indiamart.com CNAME rpz-passthru.
 indiatimes.com CNAME rpz-passthru.
 indiegogo.com CNAME rpz-passthru.
 indystar.com CNAME rpz-passthru.
@@ -6066,6 +6070,7 @@ ntp.org CNAME rpz-passthru.
 nturl.com CNAME rpz-passthru.
 nurl.net CNAME rpz-passthru.
 nus1-urlp.secure.skypeassets.com CNAME rpz-passthru.
+nutrija.com CNAME rpz-passthru.
 nv.veta.naver.com CNAME rpz-passthru.
 nvidia.com CNAME rpz-passthru.
 nxeassets-ssl.xbox.com CNAME rpz-passthru.
@@ -8807,6 +8812,7 @@ www.allkpop.com CNAME rpz-passthru.
 www.alluc.ee CNAME rpz-passthru.
 www.alluremedia.com CNAME rpz-passthru.
 www.alluremedia.com.au CNAME rpz-passthru.
+www.alpha-t.net CNAME rpz-passthru.
 www.amazon.ca CNAME rpz-passthru.
 www.amazon.co.jp CNAME rpz-passthru.
 www.amazon.co.uk CNAME rpz-passthru.
@@ -8901,6 +8907,7 @@ www.boomkat.com CNAME rpz-passthru.
 www.bootstrapcdn.com CNAME rpz-passthru.
 www.bostonglobe.com CNAME rpz-passthru.
 www.bracu.ac.bd CNAME rpz-passthru.
+www.braintreegateway.com CNAME rpz-passthru.
 www.brands.medium.com CNAME rpz-passthru.
 www.breitbart.com CNAME rpz-passthru.
 www.brightcove.com CNAME rpz-passthru.
@@ -9396,6 +9403,7 @@ www.imagebam.com CNAME rpz-passthru.
 www.images.anandtech.com CNAME rpz-passthru.
 www.imgbox.com CNAME rpz-passthru.
 www.inc.com CNAME rpz-passthru.
+www.indiamart.com CNAME rpz-passthru.
 www.indystar.com CNAME rpz-passthru.
 www.info.internet.org CNAME rpz-passthru.
 www.infoblox.com CNAME rpz-passthru.
@@ -9562,6 +9570,7 @@ www.now.sh CNAME rpz-passthru.
 www.npmjs.com CNAME rpz-passthru.
 www.nseindia.com CNAME rpz-passthru.
 www.ntp.org CNAME rpz-passthru.
+www.nutrija.com CNAME rpz-passthru.
 www.nvidia.com CNAME rpz-passthru.
 www.nytimes.com CNAME rpz-passthru.
 www.o.aolcdn.com CNAME rpz-passthru.

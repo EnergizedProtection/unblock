@@ -24,12 +24,12 @@
 # Title: Energized Basic Protection - Whitelist
 # Description: Basic list of whitelisted domains.
 # Format: domain list
-# Version: 19.10.299
-# Release: 299
-# Entries: 10,009
+# Version: 19.10.300
+# Release: 300
+# Entries: 10,018
 # Pack Code: E84S1C-W
 # License: MIT, https://energized.pro/license
-# Updated: Sat, 26 Oct 19 20:18:02
+# Updated: Sun, 27 Oct 19 20:17:58
 # RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/domains.txt
 # --------------------------------------------
 #
@@ -466,6 +466,7 @@ alluremedia.com
 alluremedia.com.au
 aloha-proxy-ir.aws.viber.com
 aloha.viber.com
+alpha-t.net
 alt.techmeme.com
 alt1.aspmx.l.google.com
 alt1.gmr-smtp-in.l.google.com
@@ -1169,6 +1170,7 @@ api.bitfinex.com
 api.bithumb.com
 api.blog.naver.com
 api.bookmark.rakuten.co.jp
+api.braintreegateway.com
 api.branch.io
 api.brightcove.com
 api.browser.intl.miui.com
@@ -1894,6 +1896,7 @@ boxrec.com
 bp.blogspot.com
 br.gravatar.com
 br.ign.com
+braintreegateway.com
 brakrock.be
 branch.io
 brand.qualcomm.com
@@ -4616,6 +4619,7 @@ indeed.com
 independent.co.uk
 index.bithumb.com
 index.kaspersky.com
+indiamart.com
 indiatimes.com
 indiegogo.com
 indystar.com
@@ -6058,6 +6062,7 @@ ntp.org
 nturl.com
 nurl.net
 nus1-urlp.secure.skypeassets.com
+nutrija.com
 nv.veta.naver.com
 nvidia.com
 nxeassets-ssl.xbox.com
@@ -8799,6 +8804,7 @@ www.allkpop.com
 www.alluc.ee
 www.alluremedia.com
 www.alluremedia.com.au
+www.alpha-t.net
 www.amazon.ca
 www.amazon.co.jp
 www.amazon.co.uk
@@ -8893,6 +8899,7 @@ www.boomkat.com
 www.bootstrapcdn.com
 www.bostonglobe.com
 www.bracu.ac.bd
+www.braintreegateway.com
 www.brands.medium.com
 www.breitbart.com
 www.brightcove.com
@@ -9388,6 +9395,7 @@ www.imagebam.com
 www.images.anandtech.com
 www.imgbox.com
 www.inc.com
+www.indiamart.com
 www.indystar.com
 www.info.internet.org
 www.infoblox.com
@@ -9554,6 +9562,7 @@ www.now.sh
 www.npmjs.com
 www.nseindia.com
 www.ntp.org
+www.nutrija.com
 www.nvidia.com
 www.nytimes.com
 www.o.aolcdn.com

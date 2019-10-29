@@ -24,12 +24,12 @@
 ; Title: Energized Basic Protection - Whitelist
 ; Description: Basic list of whitelisted domains.
 ; Format: rpz
-; Version: 19.10.301
-; Release: 301
-; Entries: 10,018
+; Version: 19.10.302
+; Release: 302
+; Entries: 10,027
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Mon, 28 Oct 19 20:18:08
+; Updated: Tue, 29 Oct 19 20:17:34
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -1382,7 +1382,9 @@ app.energized.pro CNAME rpz-passthru.
 app.huawei.com CNAME rpz-passthru.
 app.hulu.com CNAME rpz-passthru.
 app.intercom.io CNAME rpz-passthru.
+app.intuit.launchdarkly.com CNAME rpz-passthru.
 app.knights.mi.com CNAME rpz-passthru.
+app.launchdarkly.com CNAME rpz-passthru.
 app.lovoo.com CNAME rpz-passthru.
 app.market.xiaomi.com CNAME rpz-passthru.
 app.mediaset.it CNAME rpz-passthru.
@@ -2412,6 +2414,7 @@ clients3.google.com CNAME rpz-passthru.
 clients4.google.com CNAME rpz-passthru.
 clients5.google.com CNAME rpz-passthru.
 clients6.google.com CNAME rpz-passthru.
+clientstream.intuit.launchdarkly.com CNAME rpz-passthru.
 clientstream.launchdarkly.com CNAME rpz-passthru.
 cliphunter.com CNAME rpz-passthru.
 clips-media-assets2.twitch.tv CNAME rpz-passthru.
@@ -3305,6 +3308,7 @@ eventgateway.soundcloud.com CNAME rpz-passthru.
 eventgateway.x.sndcdn.com CNAME rpz-passthru.
 eventlogger.soundcloud.com CNAME rpz-passthru.
 events.gfe.nvidia.com CNAME rpz-passthru.
+events.intuit.launchdarkly.com CNAME rpz-passthru.
 events.kaspersky.com CNAME rpz-passthru.
 events.mapbox.com CNAME rpz-passthru.
 events.recode.net CNAME rpz-passthru.
@@ -3460,6 +3464,7 @@ files.brightcove.com CNAME rpz-passthru.
 files.cloud.naver.com CNAME rpz-passthru.
 files.coinmarketcap.com CNAME rpz-passthru.
 files.dcinside.com CNAME rpz-passthru.
+files.fm CNAME rpz-passthru.
 files.gumroad.com CNAME rpz-passthru.
 files.overclock.net CNAME rpz-passthru.
 files.stripe.com CNAME rpz-passthru.
@@ -3860,6 +3865,7 @@ godaddy.com CNAME rpz-passthru.
 godofwar.playstation.com CNAME rpz-passthru.
 gofundme.com CNAME rpz-passthru.
 gogoanime.io CNAME rpz-passthru.
+gokano.com CNAME rpz-passthru.
 golfgalaxy.com CNAME rpz-passthru.
 goo.gl CNAME rpz-passthru.
 goo.ne.jp CNAME rpz-passthru.
@@ -4955,6 +4961,7 @@ late.me CNAME rpz-passthru.
 latesthackingnews.com CNAME rpz-passthru.
 latimes.com CNAME rpz-passthru.
 latimesblogs.latimes.com CNAME rpz-passthru.
+launchdarkly.com CNAME rpz-passthru.
 launcher.nirsoft.net CNAME rpz-passthru.
 launcher.spot.im CNAME rpz-passthru.
 launcher.twitch.tv CNAME rpz-passthru.
@@ -5685,6 +5692,7 @@ mobile.free.fr CNAME rpz-passthru.
 mobile.guardianapis.com CNAME rpz-passthru.
 mobile.here.com CNAME rpz-passthru.
 mobile.kaspersky.com CNAME rpz-passthru.
+mobile.launchdarkly.com CNAME rpz-passthru.
 mobile.line.me CNAME rpz-passthru.
 mobile.mediabrix.com CNAME rpz-passthru.
 mobile.mediaset.it CNAME rpz-passthru.
@@ -9133,6 +9141,7 @@ www.go.microsoft.com CNAME rpz-passthru.
 www.godaddy.com CNAME rpz-passthru.
 www.gofundme.com CNAME rpz-passthru.
 www.gogoanime.io CNAME rpz-passthru.
+www.gokano.com CNAME rpz-passthru.
 www.goodolddownloads.com CNAME rpz-passthru.
 www.goodreads.com CNAME rpz-passthru.
 www.google.ac CNAME rpz-passthru.

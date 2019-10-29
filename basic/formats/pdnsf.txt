@@ -24,12 +24,12 @@
 # Title: Energized Basic Protection - Whitelist
 # Description: Basic list of whitelisted domains.
 # Format: personalDNSfilter
-# Version: 19.10.301
-# Release: 301
-# Entries: 10,018
+# Version: 19.10.302
+# Release: 302
+# Entries: 10,027
 # Pack Code: E84S1C-W
 # License: MIT, https://energized.pro/license
-# Updated: Mon, 28 Oct 19 20:18:08
+# Updated: Tue, 29 Oct 19 20:17:34
 # RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/pdnsf.txt
 # --------------------------------------------
 #
@@ -1374,7 +1374,9 @@
 !app.huawei.com
 !app.hulu.com
 !app.intercom.io
+!app.intuit.launchdarkly.com
 !app.knights.mi.com
+!app.launchdarkly.com
 !app.lovoo.com
 !app.market.xiaomi.com
 !app.mediaset.it
@@ -2404,6 +2406,7 @@
 !clients4.google.com
 !clients5.google.com
 !clients6.google.com
+!clientstream.intuit.launchdarkly.com
 !clientstream.launchdarkly.com
 !cliphunter.com
 !clips-media-assets2.twitch.tv
@@ -3297,6 +3300,7 @@
 !eventgateway.x.sndcdn.com
 !eventlogger.soundcloud.com
 !events.gfe.nvidia.com
+!events.intuit.launchdarkly.com
 !events.kaspersky.com
 !events.mapbox.com
 !events.recode.net
@@ -3452,6 +3456,7 @@
 !files.cloud.naver.com
 !files.coinmarketcap.com
 !files.dcinside.com
+!files.fm
 !files.gumroad.com
 !files.overclock.net
 !files.stripe.com
@@ -3852,6 +3857,7 @@
 !godofwar.playstation.com
 !gofundme.com
 !gogoanime.io
+!gokano.com
 !golfgalaxy.com
 !goo.gl
 !goo.ne.jp
@@ -4947,6 +4953,7 @@
 !latesthackingnews.com
 !latimes.com
 !latimesblogs.latimes.com
+!launchdarkly.com
 !launcher.nirsoft.net
 !launcher.spot.im
 !launcher.twitch.tv
@@ -5677,6 +5684,7 @@
 !mobile.guardianapis.com
 !mobile.here.com
 !mobile.kaspersky.com
+!mobile.launchdarkly.com
 !mobile.line.me
 !mobile.mediabrix.com
 !mobile.mediaset.it
@@ -9125,6 +9133,7 @@
 !www.godaddy.com
 !www.gofundme.com
 !www.gogoanime.io
+!www.gokano.com
 !www.goodolddownloads.com
 !www.goodreads.com
 !www.google.ac

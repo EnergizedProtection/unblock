@@ -24,12 +24,12 @@
 ; Title: Energized Basic Protection - Whitelist
 ; Description: Basic list of whitelisted domains.
 ; Format: rpz
-; Version: 19.10.302
-; Release: 302
-; Entries: 10,027
+; Version: 19.10.303
+; Release: 303
+; Entries: 10,028
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Tue, 29 Oct 19 20:17:34
+; Updated: Wed, 30 Oct 19 20:17:17
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -9912,6 +9912,7 @@ www.youtube-nocookie.com CNAME rpz-passthru.
 www.youtube.com CNAME rpz-passthru.
 www.ytmnd.com CNAME rpz-passthru.
 www.zdbb.net CNAME rpz-passthru.
+www.zdnet.com CNAME rpz-passthru.
 www.zeit.co CNAME rpz-passthru.
 www.zerohedge.com CNAME rpz-passthru.
 www.zippyshare.com CNAME rpz-passthru.

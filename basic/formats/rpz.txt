@@ -24,12 +24,12 @@
 ; Title: Energized Basic Protection - Whitelist
 ; Description: Basic list of whitelisted domains.
 ; Format: rpz
-; Version: 19.10.304
-; Release: 304
-; Entries: 10,028
+; Version: 19.11.305
+; Release: 305
+; Entries: 10,029
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Thu, 31 Oct 19 20:17:47
+; Updated: Fri, 01 Nov 19 20:17:35
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -2106,6 +2106,7 @@ cdn.adf.ly CNAME rpz-passthru.
 cdn.adrise.tv CNAME rpz-passthru.
 cdn.airfind.com CNAME rpz-passthru.
 cdn.akubebas.com CNAME rpz-passthru.
+cdn.ampproject.org CNAME rpz-passthru.
 cdn.arstechnica.net CNAME rpz-passthru.
 cdn.attracta.com CNAME rpz-passthru.
 cdn.auth0.com CNAME rpz-passthru.

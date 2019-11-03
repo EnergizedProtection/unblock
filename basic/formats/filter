@@ -24,13 +24,13 @@
 ! Title: Energized Basic Protection - Whitelist
 ! Description: Basic list of whitelisted domains.
 ! Format: adblock
-! Version: 19.11.306
-! Release: 306
+! Version: 19.11.307
+! Release: 307
 ! Expires: 7 days (update frequency)
-! Entries: 10,029
+! Entries: 10,037
 ! Pack Code: E84S1C-W
 ! License: MIT, https://energized.pro/license
-! Updated: Sat, 02 Nov 19 22:54:32
+! Updated: Sun, 03 Nov 19 20:19:17
 ! RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/filter
 ! --------------------------------------------
 !
@@ -6688,6 +6688,8 @@
 @@||q.gs^
 @@||q.stripe.com^
 @@||q13fox.com^
+@@||qa-admin.actionbutton.co^
+@@||qa-api.actionbutton.co^
 @@||qa-membership.samsung.com^
 @@||qa-www.funimation.com^
 @@||qa.global.fncstatic.com^
@@ -7111,6 +7113,11 @@
 @@||sea.battle.net^
 @@||sea.ign.com^
 @@||sea1.cdn.survey.medallia.com^
+@@||seal.digicert.com^
+@@||seal.godaddy.com^
+@@||seal.networksolutions.com^
+@@||seal.ranking.com^
+@@||seal.validatedsite.com^
 @@||seal.verisign.com^
 @@||seal.websecurity.norton.com^
 @@||seap.samsung.com^
@@ -8789,6 +8796,7 @@
 @@||www.accuweather.com^
 @@||www.acer.com^
 @@||www.acronymfinder.com^
+@@||www.actionbutton.co^
 @@||www.actionnetwork.org^
 @@||www.activistpost.com^
 @@||www.ad-blocker.org^

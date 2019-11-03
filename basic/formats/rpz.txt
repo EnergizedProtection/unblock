@@ -24,12 +24,12 @@
 ; Title: Energized Basic Protection - Whitelist
 ; Description: Basic list of whitelisted domains.
 ; Format: rpz
-; Version: 19.11.306
-; Release: 306
-; Entries: 10,029
+; Version: 19.11.307
+; Release: 307
+; Entries: 10,037
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Sat, 02 Nov 19 22:54:32
+; Updated: Sun, 03 Nov 19 20:19:17
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -6695,6 +6695,8 @@ px.srvcs.tumblr.com CNAME rpz-passthru.
 q.gs CNAME rpz-passthru.
 q.stripe.com CNAME rpz-passthru.
 q13fox.com CNAME rpz-passthru.
+qa-admin.actionbutton.co CNAME rpz-passthru.
+qa-api.actionbutton.co CNAME rpz-passthru.
 qa-membership.samsung.com CNAME rpz-passthru.
 qa-www.funimation.com CNAME rpz-passthru.
 qa.global.fncstatic.com CNAME rpz-passthru.
@@ -7118,6 +7120,11 @@ se.wikipedia.com CNAME rpz-passthru.
 sea.battle.net CNAME rpz-passthru.
 sea.ign.com CNAME rpz-passthru.
 sea1.cdn.survey.medallia.com CNAME rpz-passthru.
+seal.digicert.com CNAME rpz-passthru.
+seal.godaddy.com CNAME rpz-passthru.
+seal.networksolutions.com CNAME rpz-passthru.
+seal.ranking.com CNAME rpz-passthru.
+seal.validatedsite.com CNAME rpz-passthru.
 seal.verisign.com CNAME rpz-passthru.
 seal.websecurity.norton.com CNAME rpz-passthru.
 seap.samsung.com CNAME rpz-passthru.
@@ -8796,6 +8803,7 @@ www.accountkit.com CNAME rpz-passthru.
 www.accuweather.com CNAME rpz-passthru.
 www.acer.com CNAME rpz-passthru.
 www.acronymfinder.com CNAME rpz-passthru.
+www.actionbutton.co CNAME rpz-passthru.
 www.actionnetwork.org CNAME rpz-passthru.
 www.activistpost.com CNAME rpz-passthru.
 www.ad-blocker.org CNAME rpz-passthru.

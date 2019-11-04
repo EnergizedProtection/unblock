@@ -24,13 +24,13 @@
 ! Title: Energized Basic Protection - Whitelist
 ! Description: Basic list of whitelisted domains.
 ! Format: adblock
-! Version: 19.11.307
-! Release: 307
+! Version: 19.11.308
+! Release: 308
 ! Expires: 7 days (update frequency)
-! Entries: 10,037
+! Entries: 10,043
 ! Pack Code: E84S1C-W
 ! License: MIT, https://energized.pro/license
-! Updated: Sun, 03 Nov 19 20:19:17
+! Updated: Mon, 04 Nov 19 20:17:45
 ! RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/filter
 ! --------------------------------------------
 !
@@ -2883,6 +2883,7 @@
 @@||dictionary.webmd.com^
 @@||dicts.mobisystems.com^
 @@||digg.com^
+@@||digicert.com^
 @@||digidip.net^
 @@||digitalassetlinks.googleapis.com^
 @@||digitalcameras.engadget.com^
@@ -4804,6 +4805,7 @@
 @@||joewein.net^
 @@||join.secure.skypeassets.com^
 @@||join.slack.com^
+@@||join.validatedsite.com^
 @@||join.vimeo.com^
 @@||joint.reg2t.sandai.net^
 @@||joomla.org^
@@ -7192,6 +7194,7 @@
 @@||secure.surveymonkey.com^
 @@||secure.techrepublic.com^
 @@||secure.twitch.tv^
+@@||secure.validatedsite.com^
 @@||secure.viber.com^
 @@||secure.vimeo.com^
 @@||secured.netflix.com^
@@ -8381,6 +8384,7 @@
 @@||va.gov^
 @@||va.logs.heroku.com^
 @@||va.sndcdn.com^
+@@||validatedsite.com^
 @@||validator.cloud.vimeo.com^
 @@||valuedopinions.co.uk^
 @@||variety.com^
@@ -9708,6 +9712,7 @@
 @@||www.scribol.com^
 @@||www.sdad.guru^
 @@||www.sea1.cdn.survey.medallia.com^
+@@||www.seal.godaddy.com^
 @@||www.searchencrypt.com^
 @@||www.secure.techrepublic.com^
 @@||www.security.neustar^
@@ -9843,6 +9848,7 @@
 @@||www.usaid.gov^
 @@||www.usenix.org^
 @@||www.ushareit.com^
+@@||www.validatedsite.com^
 @@||www.valuedopinions.co.uk^
 @@||www.vandelaydesign.com^
 @@||www.vcrypt.net^

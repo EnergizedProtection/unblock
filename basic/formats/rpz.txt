@@ -24,12 +24,12 @@
 ; Title: Energized Basic Protection - Whitelist
 ; Description: Basic list of whitelisted domains.
 ; Format: rpz
-; Version: 19.11.307
-; Release: 307
-; Entries: 10,037
+; Version: 19.11.308
+; Release: 308
+; Entries: 10,043
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Sun, 03 Nov 19 20:19:17
+; Updated: Mon, 04 Nov 19 20:17:45
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -2890,6 +2890,7 @@ dictionary.law.com CNAME rpz-passthru.
 dictionary.webmd.com CNAME rpz-passthru.
 dicts.mobisystems.com CNAME rpz-passthru.
 digg.com CNAME rpz-passthru.
+digicert.com CNAME rpz-passthru.
 digidip.net CNAME rpz-passthru.
 digitalassetlinks.googleapis.com CNAME rpz-passthru.
 digitalcameras.engadget.com CNAME rpz-passthru.
@@ -4811,6 +4812,7 @@ joemonster.org CNAME rpz-passthru.
 joewein.net CNAME rpz-passthru.
 join.secure.skypeassets.com CNAME rpz-passthru.
 join.slack.com CNAME rpz-passthru.
+join.validatedsite.com CNAME rpz-passthru.
 join.vimeo.com CNAME rpz-passthru.
 joint.reg2t.sandai.net CNAME rpz-passthru.
 joomla.org CNAME rpz-passthru.
@@ -7199,6 +7201,7 @@ secure.soundcloud.com CNAME rpz-passthru.
 secure.surveymonkey.com CNAME rpz-passthru.
 secure.techrepublic.com CNAME rpz-passthru.
 secure.twitch.tv CNAME rpz-passthru.
+secure.validatedsite.com CNAME rpz-passthru.
 secure.viber.com CNAME rpz-passthru.
 secure.vimeo.com CNAME rpz-passthru.
 secured.netflix.com CNAME rpz-passthru.
@@ -8388,6 +8391,7 @@ v7event.stats.avast.com CNAME rpz-passthru.
 va.gov CNAME rpz-passthru.
 va.logs.heroku.com CNAME rpz-passthru.
 va.sndcdn.com CNAME rpz-passthru.
+validatedsite.com CNAME rpz-passthru.
 validator.cloud.vimeo.com CNAME rpz-passthru.
 valuedopinions.co.uk CNAME rpz-passthru.
 variety.com CNAME rpz-passthru.
@@ -9715,6 +9719,7 @@ www.scribd.com CNAME rpz-passthru.
 www.scribol.com CNAME rpz-passthru.
 www.sdad.guru CNAME rpz-passthru.
 www.sea1.cdn.survey.medallia.com CNAME rpz-passthru.
+www.seal.godaddy.com CNAME rpz-passthru.
 www.searchencrypt.com CNAME rpz-passthru.
 www.secure.techrepublic.com CNAME rpz-passthru.
 www.security.neustar CNAME rpz-passthru.
@@ -9850,6 +9855,7 @@ www.usa.gov CNAME rpz-passthru.
 www.usaid.gov CNAME rpz-passthru.
 www.usenix.org CNAME rpz-passthru.
 www.ushareit.com CNAME rpz-passthru.
+www.validatedsite.com CNAME rpz-passthru.
 www.valuedopinions.co.uk CNAME rpz-passthru.
 www.vandelaydesign.com CNAME rpz-passthru.
 www.vcrypt.net CNAME rpz-passthru.

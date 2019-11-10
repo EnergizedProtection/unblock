@@ -24,12 +24,12 @@
 ; Title: Energized Basic Protection - Whitelist
 ; Description: Basic list of whitelisted domains.
 ; Format: rpz
-; Version: 19.11.313
-; Release: 313
-; Entries: 10,045
+; Version: 19.11.314
+; Release: 314
+; Entries: 10,055
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Sat, 09 Nov 19 20:18:17
+; Updated: Sun, 10 Nov 19 20:20:23
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -1385,6 +1385,7 @@ app.intercom.io CNAME rpz-passthru.
 app.intuit.launchdarkly.com CNAME rpz-passthru.
 app.knights.mi.com CNAME rpz-passthru.
 app.launchdarkly.com CNAME rpz-passthru.
+app.link CNAME rpz-passthru.
 app.lovoo.com CNAME rpz-passthru.
 app.market.xiaomi.com CNAME rpz-passthru.
 app.mediaset.it CNAME rpz-passthru.
@@ -2365,6 +2366,7 @@ chomikuj.pl CNAME rpz-passthru.
 chongdiantou.com CNAME rpz-passthru.
 chrome.google.com CNAME rpz-passthru.
 chromesyncpasswords-pa.googleapis.com CNAME rpz-passthru.
+chromewhois.com CNAME rpz-passthru.
 chron.com CNAME rpz-passthru.
 ci.rdtcdn.com CNAME rpz-passthru.
 ci3.googleusercontent.com CNAME rpz-passthru.
@@ -2990,6 +2992,7 @@ domainactive.co CNAME rpz-passthru.
 domainlocking.soundcloud.com CNAME rpz-passthru.
 domainname.de CNAME rpz-passthru.
 domainnameshop.com CNAME rpz-passthru.
+domainwhoisinfo.com CNAME rpz-passthru.
 domeneshop.no CNAME rpz-passthru.
 dominos.co.in CNAME rpz-passthru.
 domraider.io CNAME rpz-passthru.
@@ -8659,6 +8662,10 @@ who.is CNAME rpz-passthru.
 whoer.net CNAME rpz-passthru.
 whois.cloudflare.com CNAME rpz-passthru.
 whois.registrar.amazon.com CNAME rpz-passthru.
+whois.webrankstats.com CNAME rpz-passthru.
+whoisbucket.com CNAME rpz-passthru.
+whoisentry.com CNAME rpz-passthru.
+whoismind.com CNAME rpz-passthru.
 whoisprivacyprotect.com CNAME rpz-passthru.
 wi.tl CNAME rpz-passthru.
 wiadomosci.onet.pl CNAME rpz-passthru.
@@ -9041,6 +9048,7 @@ www.dnaindia.com CNAME rpz-passthru.
 www.dog.bin CNAME rpz-passthru.
 www.dolcegabbana.com CNAME rpz-passthru.
 www.domain.dot.tk CNAME rpz-passthru.
+www.domainwhoisinfo.com CNAME rpz-passthru.
 www.dot.tk CNAME rpz-passthru.
 www.download.windowsupdate.com CNAME rpz-passthru.
 www.downloads.techrepublic.com CNAME rpz-passthru.
@@ -9898,6 +9906,8 @@ www.whatismyipaddress.com CNAME rpz-passthru.
 www.whitehouse.gov CNAME rpz-passthru.
 www.whitepapers.techrepublic.com CNAME rpz-passthru.
 www.who.is CNAME rpz-passthru.
+www.whoisentry.com CNAME rpz-passthru.
+www.whoismind.com CNAME rpz-passthru.
 www.wikipedia.com CNAME rpz-passthru.
 www.winfuture.de CNAME rpz-passthru.
 www.wire.com CNAME rpz-passthru.

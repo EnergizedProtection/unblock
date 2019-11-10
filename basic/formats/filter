@@ -24,13 +24,13 @@
 ! Title: Energized Basic Protection - Whitelist
 ! Description: Basic list of whitelisted domains.
 ! Format: adblock
-! Version: 19.11.313
-! Release: 313
+! Version: 19.11.314
+! Release: 314
 ! Expires: 7 days (update frequency)
-! Entries: 10,045
+! Entries: 10,055
 ! Pack Code: E84S1C-W
 ! License: MIT, https://energized.pro/license
-! Updated: Sat, 09 Nov 19 20:18:17
+! Updated: Sun, 10 Nov 19 20:20:23
 ! RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/filter
 ! --------------------------------------------
 !
@@ -1378,6 +1378,7 @@
 @@||app.intuit.launchdarkly.com^
 @@||app.knights.mi.com^
 @@||app.launchdarkly.com^
+@@||app.link^
 @@||app.lovoo.com^
 @@||app.market.xiaomi.com^
 @@||app.mediaset.it^
@@ -2358,6 +2359,7 @@
 @@||chongdiantou.com^
 @@||chrome.google.com^
 @@||chromesyncpasswords-pa.googleapis.com^
+@@||chromewhois.com^
 @@||chron.com^
 @@||ci.rdtcdn.com^
 @@||ci3.googleusercontent.com^
@@ -2983,6 +2985,7 @@
 @@||domainlocking.soundcloud.com^
 @@||domainname.de^
 @@||domainnameshop.com^
+@@||domainwhoisinfo.com^
 @@||domeneshop.no^
 @@||dominos.co.in^
 @@||domraider.io^
@@ -8652,6 +8655,10 @@
 @@||whoer.net^
 @@||whois.cloudflare.com^
 @@||whois.registrar.amazon.com^
+@@||whois.webrankstats.com^
+@@||whoisbucket.com^
+@@||whoisentry.com^
+@@||whoismind.com^
 @@||whoisprivacyprotect.com^
 @@||wi.tl^
 @@||wiadomosci.onet.pl^
@@ -9034,6 +9041,7 @@
 @@||www.dog.bin^
 @@||www.dolcegabbana.com^
 @@||www.domain.dot.tk^
+@@||www.domainwhoisinfo.com^
 @@||www.dot.tk^
 @@||www.download.windowsupdate.com^
 @@||www.downloads.techrepublic.com^
@@ -9891,6 +9899,8 @@
 @@||www.whitehouse.gov^
 @@||www.whitepapers.techrepublic.com^
 @@||www.who.is^
+@@||www.whoisentry.com^
+@@||www.whoismind.com^
 @@||www.wikipedia.com^
 @@||www.winfuture.de^
 @@||www.wire.com^

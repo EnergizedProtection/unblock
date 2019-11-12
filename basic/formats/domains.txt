@@ -24,12 +24,12 @@
 # Title: Energized Basic Protection - Whitelist
 # Description: Basic list of whitelisted domains.
 # Format: domain list
-# Version: 19.11.315
-# Release: 315
-# Entries: 10,055
+# Version: 19.11.316
+# Release: 316
+# Entries: 10,057
 # Pack Code: E84S1C-W
 # License: MIT, https://energized.pro/license
-# Updated: Mon, 11 Nov 19 20:19:55
+# Updated: Tue, 12 Nov 19 20:17:57
 # RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/domains.txt
 # --------------------------------------------
 #
@@ -2675,6 +2675,7 @@ csi.gstatic.com
 csp.medium.com
 csr.integration.viber.com
 css.gbtcdn.com
+css.hepsiburada.net
 cssdeck.com
 ct-m-fbx.fbsbx.com
 ct.techrepublic.com
@@ -4502,6 +4503,7 @@ images.discordapp.net
 images.dmca.com
 images.fotmob.com
 images.gotinder.com
+images.hepsiburada.net
 images.huffingtonpost.com
 images.opencollective.com
 images.parsely.com

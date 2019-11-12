@@ -24,12 +24,12 @@
 ; Title: Energized Basic Protection - Whitelist
 ; Description: Basic list of whitelisted domains.
 ; Format: rpz
-; Version: 19.11.315
-; Release: 315
-; Entries: 10,055
+; Version: 19.11.316
+; Release: 316
+; Entries: 10,057
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Mon, 11 Nov 19 20:19:55
+; Updated: Tue, 12 Nov 19 20:17:57
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -2683,6 +2683,7 @@ csi.gstatic.com CNAME rpz-passthru.
 csp.medium.com CNAME rpz-passthru.
 csr.integration.viber.com CNAME rpz-passthru.
 css.gbtcdn.com CNAME rpz-passthru.
+css.hepsiburada.net CNAME rpz-passthru.
 cssdeck.com CNAME rpz-passthru.
 ct-m-fbx.fbsbx.com CNAME rpz-passthru.
 ct.techrepublic.com CNAME rpz-passthru.
@@ -4510,6 +4511,7 @@ images.discordapp.net CNAME rpz-passthru.
 images.dmca.com CNAME rpz-passthru.
 images.fotmob.com CNAME rpz-passthru.
 images.gotinder.com CNAME rpz-passthru.
+images.hepsiburada.net CNAME rpz-passthru.
 images.huffingtonpost.com CNAME rpz-passthru.
 images.opencollective.com CNAME rpz-passthru.
 images.parsely.com CNAME rpz-passthru.

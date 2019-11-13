@@ -24,12 +24,12 @@
 # Title: Energized Basic Protection - Whitelist
 # Description: Basic list of whitelisted domains.
 # Format: personalDNSfilter
-# Version: 19.11.316
-# Release: 316
-# Entries: 10,057
+# Version: 19.11.317
+# Release: 317
+# Entries: 10,077
 # Pack Code: E84S1C-W
 # License: MIT, https://energized.pro/license
-# Updated: Tue, 12 Nov 19 20:17:57
+# Updated: Wed, 13 Nov 19 20:18:29
 # RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/pdnsf.txt
 # --------------------------------------------
 #
@@ -215,6 +215,7 @@
 !76.org
 !79423.analytics.edgesuite.net
 !7chan.org
+!91mobiles.com
 !9Anime.to
 !9gag.com
 !9to5google.com
@@ -1223,6 +1224,7 @@
 !api.hybrid.intl.xiaomi.com
 !api.hybrid.xiaomi.com
 !api.icq.net
+!api.intsig.net
 !api.io.mi.com
 !api.ipify.org
 !api.jio.com
@@ -2168,6 +2170,7 @@
 !cdn.sc.rockstargames.com
 !cdn.segment.io
 !cdn.shortpixel.ai
+!cdn.speedof.me
 !cdn.sstatic.net
 !cdn.stumbleupon.com
 !cdn.support.sonymobile.com
@@ -2477,6 +2480,7 @@
 !codemasters.com
 !codenvy.io
 !codeproject.com
+!codesandbox.io
 !coffeecup.com
 !cognito-identity.us-east-1.amazonaws.com
 !coinbase.com
@@ -2691,6 +2695,7 @@
 !custom.bnc.lt
 !customerevents.netflix.com
 !cutestat.com
+!cutt.ly
 !cutt.us
 !cvp.twitch.tv
 !cvp1.cdn.turner.com
@@ -2844,6 +2849,7 @@
 !developer.samsung.com
 !developer.sonymobile.com
 !developer.soundcloud.com
+!developer.spotify.com
 !developer.vimeo.com
 !developer.xiaomi.com
 !developers.cloudflare.com
@@ -3459,6 +3465,7 @@
 !filepicker.io
 !files.anedot.com
 !files.brightcove.com
+!files.catbox.moe
 !files.cloud.naver.com
 !files.coinmarketcap.com
 !files.dcinside.com
@@ -4518,7 +4525,9 @@
 !images.staging.vudu.com
 !images.support.sonymobile.com
 !images02.adrise.tv
+!images1.minutemediacdn.com
 !images2.dev.marquee.net
+!images2.minutemediacdn.com
 !images2.qa.marquee.net
 !images2.slashdot.org
 !images2.staging.vudu.com
@@ -5040,6 +5049,7 @@
 !link.dailycaller.com
 !link.medium.com
 !link.nayemador.com
+!link.safelinkconverter.com
 !link.techcrunch.com
 !link.theplatform.com
 !link.tl
@@ -5597,6 +5607,7 @@
 !metrics.mzstatic.com
 !metrics.plex.tv
 !metrics.torproject.org
+!mewkid.net
 !mgr.consensu.org
 !mi.com
 !mi.me
@@ -5634,6 +5645,7 @@
 !minion.typekit.com
 !minixperiment.twitch.tv
 !minnesota.cbslocal.com
+!minutemediacdn.com
 !mir-s3-cdn-cf.behance.net
 !mirror.cedia.org.ec
 !mirror.centos.org
@@ -6684,6 +6696,7 @@
 !pusherapp.com
 !pushover.net
 !pushwoosh.com
+!put.re
 !putlocker.is
 !puu.sh
 !pv.api.io.mi.com
@@ -6964,6 +6977,7 @@
 !s.pacn.ws
 !s.pinimg.com
 !s.pinimg.com.gslb.pinterest.com
+!s.put.re
 !s.sc-cdn.net
 !s.sc-jpl.com
 !s.shopify.com
@@ -8799,6 +8813,7 @@
 !www.2giga.link
 !www.4pda.ru
 !www.4shared.com
+!www.91mobiles.com
 !www.9Anime.to
 !www.9apps.com
 !www.a.espncdn.com
@@ -8982,6 +8997,7 @@
 !www.codeanywhere.com
 !www.codecanyon.net
 !www.codemasters.com
+!www.codesandbox.io
 !www.coinbase.com
 !www.coinmarketcap.com
 !www.collateral.medium.com
@@ -9010,6 +9026,7 @@
 !www.cryptopia.co.nz
 !www.csp.medium.com
 !www.ct.techrepublic.com
+!www.cutt.ly
 !www.cybercon.com
 !www.cygwin.com
 !www.d-h.st
@@ -9532,10 +9549,12 @@
 !www.mercadolibre.com.ar
 !www.merriam-webster.com
 !www.messenger.com
+!www.mewkid.net
 !www.mi.com
 !www.microg.org
 !www.microsoft.com
 !www.minergate.com
+!www.minutemediacdn.com
 !www.mirror.co.uk
 !www.mirrorservice.org
 !www.mkt7185.com
@@ -9673,6 +9692,7 @@
 !www.punishtube.com
 !www.purch.com
 !www.push.chocolatey.org
+!www.put.re
 !www.q13fox.com
 !www.qa.marquee.net
 !www.qq.com

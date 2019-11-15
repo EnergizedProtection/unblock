@@ -24,12 +24,12 @@
 ; Title: Energized Basic Protection - Whitelist
 ; Description: Basic list of whitelisted domains.
 ; Format: rpz
-; Version: 19.11.317
-; Release: 317
-; Entries: 10,077
+; Version: 19.11.319
+; Release: 319
+; Entries: 10,078
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Wed, 13 Nov 19 20:18:29
+; Updated: Fri, 15 Nov 19 20:16:51
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -281,6 +281,7 @@ abtest.mistat.xiaomi.com CNAME rpz-passthru.
 abuse.ch CNAME rpz-passthru.
 ac.duckduckgo.com CNAME rpz-passthru.
 ac.search.naver.com CNAME rpz-passthru.
+ac0-edge-chat.facebook.com CNAME rpz-passthru.
 academia.edu CNAME rpz-passthru.
 access-prod.apis.anvato.net CNAME rpz-passthru.
 access.line.me CNAME rpz-passthru.

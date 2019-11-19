@@ -24,13 +24,13 @@
 ! Title: Energized Basic Protection - Whitelist
 ! Description: Basic list of whitelisted domains.
 ! Format: adblock
-! Version: 19.11.322
-! Release: 322
+! Version: 19.11.323
+! Release: 323
 ! Expires: 7 days (update frequency)
-! Entries: 10,078
+! Entries: 10,093
 ! Pack Code: E84S1C-W
 ! License: MIT, https://energized.pro/license
-! Updated: Mon, 18 Nov 19 20:16:57
+! Updated: Tue, 19 Nov 19 06:11:14
 ! RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/filter
 ! --------------------------------------------
 !
@@ -1156,6 +1156,7 @@
 @@||api.am.coinbase.com^
 @@||api.amazon.com^
 @@||api.amazon.in^
+@@||api.amazonalexa.com^
 @@||api.amplitude.com^
 @@||api.apk.v-mate.mobi^
 @@||api.appmetadata.sonymobile.com^
@@ -1457,6 +1458,7 @@
 @@||archives.gov^
 @@||arcor.de^
 @@||arcticapi.com^
+@@||arcus-uswest.amazon.com^
 @@||ardownload.adobe.com^
 @@||ares.dl.playstation.net^
 @@||areyouonit.soundcloud.com^
@@ -2769,6 +2771,7 @@
 @@||daumcdn.net^
 @@||db.tt^
 @@||dc-e70d1ce32117.chia-anime.tv^
+@@||dcape-na.amazon.com^
 @@||dcclothesline.com^
 @@||dccss.banggood.com^
 @@||dcinside.com^
@@ -3668,6 +3671,7 @@
 @@||ftp.mozilla.org^
 @@||ftp.techmeme.com^
 @@||ftpcontent.worldnow.com^
+@@||ftvr-na.amazon.com^
 @@||fuas.sonymobile.com^
 @@||fullstory.com^
 @@||fund.jr.mi.com^
@@ -4251,6 +4255,7 @@
 @@||hide.me^
 @@||hidemyass.com^
 @@||high.software.dn.naver.com^
+@@||hike-res.cloudinary.com^
 @@||hilp.it^
 @@||hilton.com^
 @@||hindilinks4u.to^
@@ -5778,6 +5783,7 @@
 @@||msg.edit.yahoo.com^
 @@||msg.netflix.com^
 @@||msg2.client.xunlei.com^
+@@||msh.amazon.com^
 @@||msn.com^
 @@||msnbc.com^
 @@||mss-offermgmt.modpim.com^
@@ -5879,6 +5885,7 @@
 @@||nanopool.org^
 @@||nanorep.com^
 @@||naping.igamecj.com^
+@@||napisy24.pl^
 @@||nasa.gov^
 @@||nationalgeographic.com^
 @@||native-vita.np.ac.playstation.net^
@@ -6254,6 +6261,7 @@
 @@||oss.maxcdn.com^
 @@||ot.ag^
 @@||ota-downloads.nvidia.com^
+@@||otag.h2os.com^
 @@||otlong.com^
 @@||ott.io.mi.com^
 @@||oturl.com^
@@ -6270,6 +6278,7 @@
 @@||overloaded.crunchyroll.com^
 @@||overstock.com^
 @@||overture.com^
+@@||ovh.net^
 @@||ovp-loader.flowplayer.com^
 @@||ovp.flowplayer.com^
 @@||ow.ly^
@@ -7549,6 +7558,7 @@
 @@||ssl.gstatic.com^
 @@||ssl.p.jwpcdn.com^
 @@||ssl.reddit.com^
+@@||ssl0.ovh.net^
 @@||sslbl.abuse.ch^
 @@||ssm.pd.biv.sony.tv^
 @@||ssm1.internet.sony.tv^
@@ -7585,6 +7595,7 @@
 @@||stamps.stores.shop.ebay.com^
 @@||stanev.org^
 @@||stanford.edu^
+@@||star-mini.c10r.facebook.com^
 @@||star.c10r.facebook.com^
 @@||star.facebook.com^
 @@||starbucks.com^
@@ -8169,6 +8180,7 @@
 @@||tvax4.sinaimg.cn^
 @@||tvcast.naver.com^
 @@||tvdb2.plex.tv^
+@@||tvnow.de^
 @@||tvnstyle.pl^
 @@||tvp.pl^
 @@||tvpot.daum.net^
@@ -8468,6 +8480,7 @@
 @@||videos.vidible.tv^
 @@||vidible.tv^
 @@||vidoza.net^
+@@||vidtech.cbsinteractive.com^
 @@||vidto.me^
 @@||vidup.me^
 @@||vidyard.com^
@@ -9591,6 +9604,7 @@
 @@||www.nanopi.org^
 @@||www.nanopool.org^
 @@||www.nanorep.com^
+@@||www.napisy24.pl^
 @@||www.nationalgeographic.com^
 @@||www.nautilus.ru^
 @@||www.naver.com^
@@ -9861,6 +9875,7 @@
 @@||www.tumblr.com^
 @@||www.turbobit.net^
 @@||www.turkishạirlines.com^
+@@||www.tvnow.de^
 @@||www.twitch.tv^
 @@||www.twitchy.com^
 @@||www.twitter.com^

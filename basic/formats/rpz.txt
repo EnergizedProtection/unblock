@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 19.11.323
 ; Release: 323
-; Entries: 10,093
+; Entries: 10,095
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Tue, 19 Nov 19 08:16:33
+; Updated: Tue, 19 Nov 19 20:16:54
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -7954,6 +7954,7 @@ tcdn.qq.com CNAME rpz-passthru.
 te.deviantart.com CNAME rpz-passthru.
 te.me CNAME rpz-passthru.
 te.wikipedia.com CNAME rpz-passthru.
+tealium.cbsnews.com CNAME rpz-passthru.
 team.diigo.com CNAME rpz-passthru.
 team.stumbleupon.com CNAME rpz-passthru.
 teamviewer.com CNAME rpz-passthru.
@@ -8987,6 +8988,7 @@ www.ca.cdn.survey.medallia.com CNAME rpz-passthru.
 www.cafemom.com CNAME rpz-passthru.
 www.cambridge.org CNAME rpz-passthru.
 www.canva.com CNAME rpz-passthru.
+www.cbsnews.com CNAME rpz-passthru.
 www.cdn-audio-1.medium.com CNAME rpz-passthru.
 www.cdn-images-1.medium.com CNAME rpz-passthru.
 www.cdn-images-2.medium.com CNAME rpz-passthru.

@@ -27,10 +27,10 @@
 ! Version: 19.11.323
 ! Release: 323
 ! Expires: 7 days (update frequency)
-! Entries: 10,093
+! Entries: 10,095
 ! Pack Code: E84S1C-W
 ! License: MIT, https://energized.pro/license
-! Updated: Tue, 19 Nov 19 08:16:33
+! Updated: Tue, 19 Nov 19 20:16:54
 ! RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/filter
 ! --------------------------------------------
 !
@@ -7947,6 +7947,7 @@
 @@||te.deviantart.com^
 @@||te.me^
 @@||te.wikipedia.com^
+@@||tealium.cbsnews.com^
 @@||team.diigo.com^
 @@||team.stumbleupon.com^
 @@||teamviewer.com^
@@ -8980,6 +8981,7 @@
 @@||www.cafemom.com^
 @@||www.cambridge.org^
 @@||www.canva.com^
+@@||www.cbsnews.com^
 @@||www.cdn-audio-1.medium.com^
 @@||www.cdn-images-1.medium.com^
 @@||www.cdn-images-2.medium.com^

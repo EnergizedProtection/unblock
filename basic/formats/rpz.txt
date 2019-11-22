@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 19.11.326
 ; Release: 326
-; Entries: 10,095
+; Entries: 10,099
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Fri, 22 Nov 19 08:16:41
+; Updated: Fri, 22 Nov 19 20:16:43
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -4369,6 +4369,7 @@ huzlers.com CNAME rpz-passthru.
 hw-images.spot.im CNAME rpz-passthru.
 hw.me CNAME rpz-passthru.
 hybrid.xiaomi.com CNAME rpz-passthru.
+hydrax.net CNAME rpz-passthru.
 hypestat.com CNAME rpz-passthru.
 i-cdn.embed.ly CNAME rpz-passthru.
 i-technet.sec.s-msft.com CNAME rpz-passthru.
@@ -7364,6 +7365,7 @@ silo.pluto.tv CNAME rpz-passthru.
 siloh.pluto.tv CNAME rpz-passthru.
 simage.gshifen.com CNAME rpz-passthru.
 simple.wikipedia.com CNAME rpz-passthru.
+simply.com CNAME rpz-passthru.
 simplyhired.com CNAME rpz-passthru.
 sina.cn CNAME rpz-passthru.
 sina.com CNAME rpz-passthru.
@@ -9455,6 +9457,7 @@ www.huffingtonpost.com CNAME rpz-passthru.
 www.huffingtonpost.com.au CNAME rpz-passthru.
 www.huffpost.com CNAME rpz-passthru.
 www.hulu.com CNAME rpz-passthru.
+www.hydrax.net CNAME rpz-passthru.
 www.i.snap.com CNAME rpz-passthru.
 www.i1.social.s-msft.com CNAME rpz-passthru.
 www.ibtimes.co.uk CNAME rpz-passthru.
@@ -9782,6 +9785,7 @@ www.seznam.cz CNAME rpz-passthru.
 www.shots.snap.com CNAME rpz-passthru.
 www.sie.com CNAME rpz-passthru.
 www.similarweb.com CNAME rpz-passthru.
+www.simply.com CNAME rpz-passthru.
 www.sitcomsonline.com CNAME rpz-passthru.
 www.sitepoint.com CNAME rpz-passthru.
 www.sites.google.com CNAME rpz-passthru.

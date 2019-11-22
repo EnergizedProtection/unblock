@@ -27,10 +27,10 @@
 ! Version: 19.11.326
 ! Release: 326
 ! Expires: 7 days (update frequency)
-! Entries: 10,095
+! Entries: 10,099
 ! Pack Code: E84S1C-W
 ! License: MIT, https://energized.pro/license
-! Updated: Fri, 22 Nov 19 08:16:41
+! Updated: Fri, 22 Nov 19 20:16:43
 ! RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/filter
 ! --------------------------------------------
 !
@@ -4362,6 +4362,7 @@
 @@||hw-images.spot.im^
 @@||hw.me^
 @@||hybrid.xiaomi.com^
+@@||hydrax.net^
 @@||hypestat.com^
 @@||i-cdn.embed.ly^
 @@||i-technet.sec.s-msft.com^
@@ -7357,6 +7358,7 @@
 @@||siloh.pluto.tv^
 @@||simage.gshifen.com^
 @@||simple.wikipedia.com^
+@@||simply.com^
 @@||simplyhired.com^
 @@||sina.cn^
 @@||sina.com^
@@ -9448,6 +9450,7 @@
 @@||www.huffingtonpost.com.au^
 @@||www.huffpost.com^
 @@||www.hulu.com^
+@@||www.hydrax.net^
 @@||www.i.snap.com^
 @@||www.i1.social.s-msft.com^
 @@||www.ibtimes.co.uk^
@@ -9775,6 +9778,7 @@
 @@||www.shots.snap.com^
 @@||www.sie.com^
 @@||www.similarweb.com^
+@@||www.simply.com^
 @@||www.sitcomsonline.com^
 @@||www.sitepoint.com^
 @@||www.sites.google.com^

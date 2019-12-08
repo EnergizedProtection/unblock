@@ -27,10 +27,10 @@
 ! Version: 19.12.342
 ! Release: 342
 ! Expires: 7 days (update frequency)
-! Entries: 10,099
+! Entries: 10,121
 ! Pack Code: E84S1C-W
 ! License: MIT, https://energized.pro/license
-! Updated: Sun, 08 Dec 19 08:19:33
+! Updated: Sun, 08 Dec 19 20:19:04
 ! RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/filter
 ! --------------------------------------------
 !
@@ -1251,6 +1251,7 @@
 @@||api.naver.com^
 @@||api.netflix.com^
 @@||api.nextgen.guardianapps.co.uk^
+@@||api.nfl.com^
 @@||api.nordvpn.com^
 @@||api.ok.ru^
 @@||api.opensubtitles.org^
@@ -2100,6 +2101,7 @@
 @@||cdn-us-ec.yottaa.net^
 @@||cdn-video.gtflixtv.com^
 @@||cdn-www.xda-developers.com^
+@@||cdn-yams.schibsted.com^
 @@||cdn.activistpost.com^
 @@||cdn.adf.ly^
 @@||cdn.adrise.tv^
@@ -2469,6 +2471,7 @@
 @@||cnevids.com^
 @@||cnn.com^
 @@||cnnct.soundcloud.com^
+@@||cnstrc.com^
 @@||cnzz.com^
 @@||co2saver.snap.com^
 @@||coasttocoastam.com^
@@ -2623,6 +2626,7 @@
 @@||counter-strike.net^
 @@||coupon.aliexpress.com^
 @@||couponbar.coupons.com^
+@@||coupondunia.go2cloud.org^
 @@||coupons.com^
 @@||cowtransfer.com^
 @@||cp.mi.com^
@@ -3778,6 +3782,7 @@
 @@||ger.cdn.survey.medallia.com^
 @@||gesangsunterricht-hh.de^
 @@||geshopcss.logsss.com^
+@@||gestyy.com^
 @@||get.adobe.com^
 @@||get.daum.net^
 @@||get.freshly.com^
@@ -3862,6 +3867,7 @@
 @@||go.infoblox.com^
 @@||go.leanplum.com^
 @@||go.microsoft.com^
+@@||go.nordvpn.net^
 @@||go.redirectingat.com^
 @@||go.skimresources.com^
 @@||go.snapchat.com^
@@ -4309,6 +4315,7 @@
 @@||horturl.com^
 @@||hosted.where2getit.com^
 @@||hostgator.com^
+@@||hostip.info^
 @@||hostnet.nl^
 @@||hosts-file.net^
 @@||hosts.herndl.org^
@@ -4727,15 +4734,19 @@
 @@||iosdl.game.xiaomi.com^
 @@||iota.bitfinex.com^
 @@||ip-adress.com^
+@@||ip-api.com^
 @@||ip-info.ff.avast.com^
 @@||ip.breitbart.com^
+@@||ip2location.com^
 @@||ipapi.co^
 @@||ipchicken.com^
 @@||ipfs.io^
 @@||ipgeolocation.io^
 @@||ipick1.wechat.com^
 @@||ipify.org^
+@@||ipinfo.info^
 @@||ipinfo.io^
+@@||ipinfodb.com^
 @@||ipip.net^
 @@||ipla.tv^
 @@||ipleak.net^
@@ -5973,6 +5984,7 @@
 @@||nexus.ensighten.com^
 @@||nexus.passport.com^
 @@||nexusrules.officeapps.live.com^
+@@||nfl.com^
 @@||nflxext.com^
 @@||nflximg.com^
 @@||nflximg.net^
@@ -6099,6 +6111,7 @@
 @@||nt.me^
 @@||ntp.org^
 @@||nturl.com^
+@@||nulledfree.pw^
 @@||nurl.net^
 @@||nus1-urlp.secure.skypeassets.com^
 @@||nutrija.com^
@@ -6922,6 +6935,7 @@
 @@||roar.media^
 @@||rochester.edu^
 @@||rockstargames.com^
+@@||rogers.com^
 @@||roku.com^
 @@||rollingstone.com^
 @@||rover.ebay.co.uk^
@@ -7111,6 +7125,7 @@
 @@||schema.org^
 @@||schemas.android.com^
 @@||schemas.xbox.com^
+@@||schibsted.com^
 @@||schibsted.io^
 @@||schibsted.se^
 @@||science.howstuffworks.com^
@@ -7332,6 +7347,7 @@
 @@||shop.lego.com^
 @@||shop.mi.com^
 @@||shop.nuance.com^
+@@||shop.r10s.jp^
 @@||shop.samsung.com^
 @@||shop.samsung.com.edgekey.net^
 @@||shop.skype.com^
@@ -7449,6 +7465,7 @@
 @@||social.playstation.com^
 @@||social.techcrunch.com^
 @@||socialnews.rakuten.co.jp^
+@@||socialstyrelsen.dk^
 @@||society6.com^
 @@||sockjs.pusher.com^
 @@||socks-indosat-aws-01.lotusflare.com^
@@ -7799,6 +7816,7 @@
 @@||studios.ign.com^
 @@||stumbleupon.com^
 @@||style.sndcdn.com^
+@@||suarankri.me^
 @@||subscribe.ign.com^
 @@||subscribe.wired.com^
 @@||subscriptions-beta.snapchat.com^
@@ -9013,6 +9031,7 @@
 @@||www.cms.techrepublic.com^
 @@||www.cnbc.com^
 @@||www.cnevids.com^
+@@||www.cnstrc.com^
 @@||www.codeanywhere.com^
 @@||www.codecanyon.net^
 @@||www.codemasters.com^
@@ -9741,6 +9760,7 @@
 @@||www.roadandtrack.com^
 @@||www.rockstargames.com^
 @@||www.rockstarwarehouse.com^
+@@||www.rogers.com^
 @@||www.rsload.net^
 @@||www.rt.com^
 @@||www.rtm.vint.xbox.com^
@@ -9793,6 +9813,7 @@
 @@||www.snap.com^
 @@||www.snapchat.com^
 @@||www.snapdeal.com^
+@@||www.socialstyrelsen.dk^
 @@||www.sofascore.com^
 @@||www.soft98.ir^
 @@||www.softonic.com^
@@ -9834,6 +9855,7 @@
 @@||www.store.sony.com^
 @@||www.stripe.com^
 @@||www.stumbleupon.com^
+@@||www.suarankri.me^
 @@||www.surveygizmo.com^
 @@||www.syndicaster.tv^
 @@||www.synology.com^

@@ -24,13 +24,13 @@
 ! Title: Energized Basic Protection - Whitelist
 ! Description: Basic list of whitelisted domains.
 ! Format: adblock
-! Version: 19.12.344
-! Release: 344
+! Version: 19.12.345
+! Release: 345
 ! Expires: 7 days (update frequency)
-! Entries: 10,121
+! Entries: 10,127
 ! Pack Code: E84S1C-W
 ! License: MIT, https://energized.pro/license
-! Updated: Tue, 10 Dec 19 20:17:06
+! Updated: Wed, 11 Dec 19 08:17:58
 ! RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/filter
 ! --------------------------------------------
 !
@@ -2174,6 +2174,7 @@
 @@||cdn.samsungcloudsolution.com^
 @@||cdn.samsungcloudsolution.net^
 @@||cdn.sc.rockstargames.com^
+@@||cdn.segment.com^
 @@||cdn.segment.io^
 @@||cdn.shortpixel.ai^
 @@||cdn.speedof.me^
@@ -4368,6 +4369,7 @@
 @@||huzlers.com^
 @@||hw-images.spot.im^
 @@||hw.me^
+@@||hwcdn.net^
 @@||hybrid.xiaomi.com^
 @@||hydrax.net^
 @@||hypestat.com^
@@ -5019,6 +5021,7 @@
 @@||lensstudio.snapchat.com^
 @@||les.com^
 @@||letsencrypt.org^
+@@||letsupload.co^
 @@||lewrockwell.com^
 @@||lg-bgp.pandora.xiaomi.com^
 @@||lg.com^
@@ -6654,6 +6657,7 @@
 @@||prothomalo.com^
 @@||proton.flurry.com^
 @@||protonmail.com^
+@@||protonmail.uservoice.com^
 @@||prov.samsungcloudsolution.com^
 @@||proxsee.pscp.tv^
 @@||proxy-de.hide.me^
@@ -7250,6 +7254,7 @@
 @@||securemecca.com^
 @@||secureserver.net^
 @@||securesuite.co.uk^
+@@||securetoken.googleapis.com^
 @@||secureus.samsung.com^
 @@||security.browser.intl.miui.com^
 @@||security.browser.miui.com^
@@ -8639,6 +8644,7 @@
 @@||web-client.prod.us-west2.twitch.tv^
 @@||web-development-blog.com^
 @@||web-service.halo.xbox.com^
+@@||web.app^
 @@||web.archive.org^
 @@||web.beta.facebook.com^
 @@||web.binance.com^

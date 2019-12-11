@@ -24,12 +24,12 @@
 ; Title: Energized Basic Protection - Whitelist
 ; Description: Basic list of whitelisted domains.
 ; Format: rpz
-; Version: 19.12.344
-; Release: 344
-; Entries: 10,121
+; Version: 19.12.345
+; Release: 345
+; Entries: 10,127
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Tue, 10 Dec 19 20:17:06
+; Updated: Wed, 11 Dec 19 08:17:58
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -2181,6 +2181,7 @@ cdn.samsung.com.edgekey.net CNAME rpz-passthru.
 cdn.samsungcloudsolution.com CNAME rpz-passthru.
 cdn.samsungcloudsolution.net CNAME rpz-passthru.
 cdn.sc.rockstargames.com CNAME rpz-passthru.
+cdn.segment.com CNAME rpz-passthru.
 cdn.segment.io CNAME rpz-passthru.
 cdn.shortpixel.ai CNAME rpz-passthru.
 cdn.speedof.me CNAME rpz-passthru.
@@ -4375,6 +4376,7 @@ hurl.com CNAME rpz-passthru.
 huzlers.com CNAME rpz-passthru.
 hw-images.spot.im CNAME rpz-passthru.
 hw.me CNAME rpz-passthru.
+hwcdn.net CNAME rpz-passthru.
 hybrid.xiaomi.com CNAME rpz-passthru.
 hydrax.net CNAME rpz-passthru.
 hypestat.com CNAME rpz-passthru.
@@ -5026,6 +5028,7 @@ lens-storage.storage.googleapis.com CNAME rpz-passthru.
 lensstudio.snapchat.com CNAME rpz-passthru.
 les.com CNAME rpz-passthru.
 letsencrypt.org CNAME rpz-passthru.
+letsupload.co CNAME rpz-passthru.
 lewrockwell.com CNAME rpz-passthru.
 lg-bgp.pandora.xiaomi.com CNAME rpz-passthru.
 lg.com CNAME rpz-passthru.
@@ -6661,6 +6664,7 @@ prothom-alo.com CNAME rpz-passthru.
 prothomalo.com CNAME rpz-passthru.
 proton.flurry.com CNAME rpz-passthru.
 protonmail.com CNAME rpz-passthru.
+protonmail.uservoice.com CNAME rpz-passthru.
 prov.samsungcloudsolution.com CNAME rpz-passthru.
 proxsee.pscp.tv CNAME rpz-passthru.
 proxy-de.hide.me CNAME rpz-passthru.
@@ -7257,6 +7261,7 @@ securelist.com CNAME rpz-passthru.
 securemecca.com CNAME rpz-passthru.
 secureserver.net CNAME rpz-passthru.
 securesuite.co.uk CNAME rpz-passthru.
+securetoken.googleapis.com CNAME rpz-passthru.
 secureus.samsung.com CNAME rpz-passthru.
 security.browser.intl.miui.com CNAME rpz-passthru.
 security.browser.miui.com CNAME rpz-passthru.
@@ -8646,6 +8651,7 @@ weatherapi.market.xiaomi.com CNAME rpz-passthru.
 web-client.prod.us-west2.twitch.tv CNAME rpz-passthru.
 web-development-blog.com CNAME rpz-passthru.
 web-service.halo.xbox.com CNAME rpz-passthru.
+web.app CNAME rpz-passthru.
 web.archive.org CNAME rpz-passthru.
 web.beta.facebook.com CNAME rpz-passthru.
 web.binance.com CNAME rpz-passthru.

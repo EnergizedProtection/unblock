@@ -24,12 +24,12 @@
 ; Title: Energized Basic Protection - Whitelist
 ; Description: Basic list of whitelisted domains.
 ; Format: rpz
-; Version: 19.12.348
-; Release: 348
-; Entries: 10,127
+; Version: 19.12.349
+; Release: 349
+; Entries: 10,132
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Sat, 14 Dec 19 08:19:17
+; Updated: Sun, 15 Dec 19 00:18:21
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -283,6 +283,7 @@ ac.duckduckgo.com CNAME rpz-passthru.
 ac.search.naver.com CNAME rpz-passthru.
 ac0-edge-chat.facebook.com CNAME rpz-passthru.
 academia.edu CNAME rpz-passthru.
+access-prod.apis.anvato.n0-edge-chat.facebook.com CNAME rpz-passthru.
 access-prod.apis.anvato.net CNAME rpz-passthru.
 access.line.me CNAME rpz-passthru.
 account-assets.jimstatic.com CNAME rpz-passthru.
@@ -5974,6 +5975,8 @@ news.vimeo.com CNAME rpz-passthru.
 news.vuukle.com CNAME rpz-passthru.
 news.xbox.com CNAME rpz-passthru.
 news.ycombinator.com CNAME rpz-passthru.
+newsapi.com.au CNAME rpz-passthru.
+newscdn.com.au CNAME rpz-passthru.
 newsday.com CNAME rpz-passthru.
 newserver.nirsoft.net CNAME rpz-passthru.
 newsfeed-sync.spot.im CNAME rpz-passthru.
@@ -7476,6 +7479,8 @@ social-plugins.line.me CNAME rpz-passthru.
 social.mylife.com CNAME rpz-passthru.
 social.playstation.com CNAME rpz-passthru.
 social.techcrunch.com CNAME rpz-passthru.
+socialize.gigya.com CNAME rpz-passthru.
+socialize.us1.gigya.com CNAME rpz-passthru.
 socialnews.rakuten.co.jp CNAME rpz-passthru.
 socialstyrelsen.dk CNAME rpz-passthru.
 society6.com CNAME rpz-passthru.

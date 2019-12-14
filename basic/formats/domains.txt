@@ -24,12 +24,12 @@
 # Title: Energized Basic Protection - Whitelist
 # Description: Basic list of whitelisted domains.
 # Format: domain list
-# Version: 19.12.348
-# Release: 348
-# Entries: 10,127
+# Version: 19.12.349
+# Release: 349
+# Entries: 10,132
 # Pack Code: E84S1C-W
 # License: MIT, https://energized.pro/license
-# Updated: Sat, 14 Dec 19 08:19:17
+# Updated: Sun, 15 Dec 19 00:18:21
 # RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/domains.txt
 # --------------------------------------------
 #
@@ -275,6 +275,7 @@ ac.duckduckgo.com
 ac.search.naver.com
 ac0-edge-chat.facebook.com
 academia.edu
+access-prod.apis.anvato.n0-edge-chat.facebook.com
 access-prod.apis.anvato.net
 access.line.me
 account-assets.jimstatic.com
@@ -5966,6 +5967,8 @@ news.vimeo.com
 news.vuukle.com
 news.xbox.com
 news.ycombinator.com
+newsapi.com.au
+newscdn.com.au
 newsday.com
 newserver.nirsoft.net
 newsfeed-sync.spot.im
@@ -7468,6 +7471,8 @@ social-plugins.line.me
 social.mylife.com
 social.playstation.com
 social.techcrunch.com
+socialize.gigya.com
+socialize.us1.gigya.com
 socialnews.rakuten.co.jp
 socialstyrelsen.dk
 society6.com

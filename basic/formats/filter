@@ -27,10 +27,10 @@
 ! Version: 19.12.349
 ! Release: 349
 ! Expires: 7 days (update frequency)
-! Entries: 10,132
+! Entries: 10,133
 ! Pack Code: E84S1C-W
 ! License: MIT, https://energized.pro/license
-! Updated: Sun, 15 Dec 19 00:18:21
+! Updated: Sun, 15 Dec 19 08:17:06
 ! RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/filter
 ! --------------------------------------------
 !
@@ -3865,6 +3865,7 @@
 @@||go.com^
 @@||go.daum.net^
 @@||go.energized.pro^
+@@||go.icq.com^
 @@||go.ign.com^
 @@||go.infoblox.com^
 @@||go.leanplum.com^

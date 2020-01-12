@@ -27,10 +27,10 @@
 ! Version: 20.01.012
 ! Release: 012
 ! Expires: 7 days (update frequency)
-! Entries: 10,133
+! Entries: 10,161
 ! Pack Code: E84S1C-W
 ! License: MIT, https://energized.pro/license
-! Updated: Sun, 12 Jan 20 13:04:16
+! Updated: Sun, 12 Jan 20 19:06:20
 ! RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/filter
 ! --------------------------------------------
 !
@@ -167,6 +167,7 @@
 @@||2a.me^
 @@||2ch.net^
 @@||2giga.link^
+@@||2ip.ru^
 @@||2l.me^
 @@||2t.com^
 @@||3-edge-chat.facebook.com^
@@ -1093,6 +1094,7 @@
 @@||anninhthudo.vn^
 @@||announce.xxx-tracker.com^
 @@||announcements.engadget.com^
+@@||anon.to^
 @@||anonymouse.org^
 @@||answers.com^
 @@||answers.microsoft.com^
@@ -2091,6 +2093,7 @@
 @@||cdn-a.sonyentertainmentnetwork.com^
 @@||cdn-audio-1.medium.com^
 @@||cdn-ci50.actonsoftware.com^
+@@||cdn-content.ampproject.org^
 @@||cdn-images-1.medium.com^
 @@||cdn-images-2.medium.com^
 @@||cdn-images.mailchimp.com^
@@ -2151,6 +2154,7 @@
 @@||cdn.livechatinc.com^
 @@||cdn.livefyre.com^
 @@||cdn.livestream.com^
+@@||cdn.mbl.is^
 @@||cdn.medium.com^
 @@||cdn.mozilla.net^
 @@||cdn.mplxtms.com^
@@ -2667,6 +2671,7 @@
 @@||crl.adobe.com^
 @@||crl.microsoft.com^
 @@||crl.verisign.net^
+@@||crt.sectigo.com^
 @@||crunchbase.com^
 @@||crunchyroll.com^
 @@||crutchfield.com^
@@ -2716,6 +2721,7 @@
 @@||cy.gravatar.com^
 @@||cy.wikipedia.com^
 @@||cy2.settings.data.microsoft.com.akadns.net^
+@@||cybercrime-tracker.net^
 @@||cybermap.kaspersky.com^
 @@||cygwin.com^
 @@||cz.playstation.com^
@@ -2724,6 +2730,7 @@
 @@||d.dropbox.com^
 @@||d.g.mi.com^
 @@||d.huawei.com^
+@@||d.line-scdn.net^
 @@||d.ns.campaign.adobe.com^
 @@||d.xiaomi.com^
 @@||d.yimg.com^
@@ -3461,6 +3468,7 @@
 @@||fi.wikipedia.com^
 @@||fico.i.lithium.com^
 @@||fifthplay.com^
+@@||fig.bbc.co.uk^
 @@||filament.io^
 @@||file-extensions.org^
 @@||file-igamecj.akamaized.net^
@@ -4385,6 +4393,7 @@
 @@||i.gtimg.cn^
 @@||i.gyazo.com^
 @@||i.i.cbsi.com^
+@@||i.ibb.co^
 @@||i.imgur.com^
 @@||i.instagram.com^
 @@||i.mi.com^
@@ -4612,6 +4621,7 @@
 @@||img3.dirtywarez.com^
 @@||img3.hulu.com^
 @@||img30.360buyimg.com^
+@@||imgak.mmtcdn.com^
 @@||imgbox.com^
 @@||imgcache.wechat.com^
 @@||imgcf.chia-anime.tv^
@@ -4877,6 +4887,7 @@
 @@||js.pusher.com^
 @@||js.stripe.com^
 @@||js1.t.sinajs.cn^
+@@||jsak.mmtcdn.com^
 @@||jsdelivr.net^
 @@||jsfiddle.net^
 @@||jssocdn.indiatimes.com^
@@ -4889,6 +4900,7 @@
 @@||ka.gravatar.com^
 @@||kakaotv.daum.net^
 @@||kaltura.com^
+@@||karanpc.com^
 @@||kaspersky.com^
 @@||kastatic.com^
 @@||katowice.tvp.pl^
@@ -5067,12 +5079,14 @@
 @@||lihi.cc^
 @@||like.daum.net^
 @@||limtu.ifmo.ru^
+@@||line-scdn.net^
 @@||line.me^
 @@||lineageoslog.com^
 @@||lineit.line.me^
 @@||link.dailycaller.com^
 @@||link.medium.com^
 @@||link.nayemador.com^
+@@||link.p0.com^
 @@||link.safelinkconverter.com^
 @@||link.techcrunch.com^
 @@||link.theplatform.com^
@@ -5476,6 +5490,7 @@
 @@||mailtrack.io^
 @@||making.vimeo.com^
 @@||mal.ly^
+@@||malc0de.com^
 @@||mall.mi.com^
 @@||malwaredomainlist.com^
 @@||malwaredomains.lehigh.edu^
@@ -5540,6 +5555,7 @@
 @@||mayoclinic.org^
 @@||mazu.sec.miui.com^
 @@||mbest.aliexpress.com^
+@@||mbl.is^
 @@||mc-siderail.spot.im^
 @@||mcaf.ee^
 @@||mcafee.com^
@@ -5569,6 +5585,7 @@
 @@||media.discordapp.net^
 @@||media.engadget.com^
 @@||media.eventhubs.com^
+@@||media.giphy.com^
 @@||media.ign.com^
 @@||media.kaspersky.com^
 @@||media.licdn.com^
@@ -5580,6 +5597,7 @@
 @@||media.sbs.com.au^
 @@||media.soundcloud.com^
 @@||media.syndicaster.tv^
+@@||media.tumblr.com^
 @@||media.viafoura.net^
 @@||media.viber.com^
 @@||media.xda-developers.com^
@@ -5927,6 +5945,7 @@
 @@||neoplanet.snap.com^
 @@||neoseeker.com^
 @@||neoviafinancial.tt.omtrdc.net^
+@@||neowin.net^
 @@||nesn.com^
 @@||netcoresmartech.com^
 @@||netdna-cdn.com^
@@ -6924,6 +6943,7 @@
 @@||rg3.github.io^
 @@||rgmechanicsgames.com^
 @@||right.daum.net^
+@@||rimgak.mmtcdn.com^
 @@||rink.hockeyapp.com^
 @@||riverisland.com^
 @@||rkurl.com^
@@ -7237,6 +7257,7 @@
 @@||secure.instantssl.com^
 @@||secure.internetdownloadmanager.com^
 @@||secure.logmein.com^
+@@||secure.mbl.is^
 @@||secure.moneygram.com^
 @@||secure.netflix.com^
 @@||secure.omo.akamai.opta.net^
@@ -7337,6 +7358,7 @@
 @@||share.weiyun.com^
 @@||shareandembed.help.soundcloud.com^
 @@||sharepoint.com^
+@@||shavar.prod.mozaws.net^
 @@||shavar.services.mozilla.com^
 @@||shealth.samsung.com^
 @@||shealth.samsunghealth.com^
@@ -7816,6 +7838,7 @@
 @@||streamplay.to^
 @@||strefa.fm^
 @@||stripe.com^
+@@||stripes.com^
 @@||sts.api.io.mi.com^
 @@||sts.eccmp.com^
 @@||sts.part.xbox.com^
@@ -8139,9 +8162,11 @@
 @@||track.nzz.ch^
 @@||track.rediff.com^
 @@||track.ucas.com^
+@@||tracker.opentrackr.org^
 @@||tracking.feedpress.it^
 @@||tracking.groupon.com^
 @@||tracking.i2w.io^
+@@||trackingthetrackers.com^
 @@||trackitonline.ru^
 @@||tradetracker.net^
 @@||traffic.alexa.com^
@@ -9218,6 +9243,7 @@
 @@||www.ginjfo.com^
 @@||www.githubstatus.com^
 @@||www.gizbot.com^
+@@||www.gizchina.com^
 @@||www.gizmodo.com^
 @@||www.glb.paypal.com^
 @@||www.glyph.medium.com^
@@ -9588,6 +9614,7 @@
 @@||www.match.com^
 @@||www.maxcdn.com^
 @@||www.maxmind.com^
+@@||www.mbl.is^
 @@||www.mediafire.com^
 @@||www.mediaset.it^
 @@||www.medium.com^
@@ -9646,6 +9673,7 @@
 @@||www.naver.com^
 @@||www.nbcnews.com^
 @@||www.neoseeker.com^
+@@||www.neowin.net^
 @@||www.netcoresmartech.com^
 @@||www.netdna-cdn.com^
 @@||www.netdna-ssl.com^

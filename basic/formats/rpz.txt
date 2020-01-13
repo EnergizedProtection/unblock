@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 20.01.013
 ; Release: 013
-; Entries: 10,161
+; Entries: 10,164
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Mon, 13 Jan 20 12:17:48
+; Updated: Mon, 13 Jan 20 18:18:41
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -6144,6 +6144,7 @@ nsx.sec.np.dl.playstation.net CNAME rpz-passthru.
 nt.me CNAME rpz-passthru.
 ntp.org CNAME rpz-passthru.
 nturl.com CNAME rpz-passthru.
+nulled.to CNAME rpz-passthru.
 nulledfree.pw CNAME rpz-passthru.
 nurl.net CNAME rpz-passthru.
 nus1-urlp.secure.skypeassets.com CNAME rpz-passthru.
@@ -6952,6 +6953,7 @@ rgmechanicsgames.com CNAME rpz-passthru.
 right.daum.net CNAME rpz-passthru.
 rimgak.mmtcdn.com CNAME rpz-passthru.
 rink.hockeyapp.com CNAME rpz-passthru.
+riotpixels.com CNAME rpz-passthru.
 riverisland.com CNAME rpz-passthru.
 rkurl.com CNAME rpz-passthru.
 rli.nl CNAME rpz-passthru.
@@ -9702,6 +9704,7 @@ www.now.sh CNAME rpz-passthru.
 www.npmjs.com CNAME rpz-passthru.
 www.nseindia.com CNAME rpz-passthru.
 www.ntp.org CNAME rpz-passthru.
+www.nulled.to CNAME rpz-passthru.
 www.nutrija.com CNAME rpz-passthru.
 www.nvidia.com CNAME rpz-passthru.
 www.nytimes.com CNAME rpz-passthru.

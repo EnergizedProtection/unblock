@@ -24,13 +24,13 @@
 ! Title: Energized Basic Protection - Whitelist
 ! Description: Basic list of whitelisted domains.
 ! Format: adblock
-! Version: 20.01.019
-! Release: 019
+! Version: 20.01.020
+! Release: 020
 ! Expires: 7 days (update frequency)
-! Entries: 10,164
+! Entries: 10,173
 ! Pack Code: E84S1C-W
 ! License: MIT, https://energized.pro/license
-! Updated: Sun, 19 Jan 20 18:18:07
+! Updated: Mon, 20 Jan 20 00:17:32
 ! RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/filter
 ! --------------------------------------------
 !
@@ -347,6 +347,7 @@
 @@||activities.aliexpress.com^
 @@||activity.api.np.km.playstation.net^
 @@||activity.netroam.mihome.xiaomi.net^
+@@||activity.windows.com^
 @@||actonsoftware.com^
 @@||acumin.typekit.com^
 @@||ad.samsungadhub.com^
@@ -1640,6 +1641,7 @@
 @@||badges.linkedin.com^
 @@||badges.twitch.tv^
 @@||badoo.com^
+@@||bagas31.info^
 @@||baidu.com^
 @@||baiduyundns.com^
 @@||baiduyundns.net^
@@ -3398,6 +3400,7 @@
 @@||fashionista.com^
 @@||fast.com^
 @@||fast.fonts.net^
+@@||fast.io^
 @@||fast.wistia.com^
 @@||fastcompany.com^
 @@||fastdrama.co^
@@ -5986,6 +5989,7 @@
 @@||news.v.daum.net^
 @@||news.vimeo.com^
 @@||news.vuukle.com^
+@@||news.wko.at^
 @@||news.xbox.com^
 @@||news.ycombinator.com^
 @@||newsapi.com.au^
@@ -7734,6 +7738,7 @@
 @@||static.www.odcdn.com.edgekey.net^
 @@||static.xiaomi.net^
 @@||static.xx.fbcdn.net^
+@@||static.zdassets.com^
 @@||static1.animeseason.com^
 @@||static2.animeseason.com^
 @@||staticflickr.com^
@@ -8126,6 +8131,7 @@
 @@||token-dispenser.herokuapp.com^
 @@||token.services.mozilla.com^
 @@||tokenization.api.playstation.com^
+@@||tokopedia.app.link^
 @@||tomshardware.com^
 @@||ton.twimg.com^
 @@||toolbar.naver.com^
@@ -8809,6 +8815,7 @@
 @@||wix.com^
 @@||wixapps.net^
 @@||wixsite.com^
+@@||wko.at^
 @@||wl-in-f14.1e100.net^
 @@||wlo.ospserver.net^
 @@||wm-in-f26.1e100.net^
@@ -8819,6 +8826,7 @@
 @@||wmv-stg.walmart.com^
 @@||wmv.walmart.com^
 @@||wn-in-f14.1e100.net^
+@@||wn.nr^
 @@||wololo.net^
 @@||womenshealthmag.com^
 @@||woopic.com^
@@ -10014,6 +10022,7 @@
 @@||www.winfuture.de^
 @@||www.wire.com^
 @@||www.wix.com^
+@@||www.wko.at^
 @@||www.wololo.net^
 @@||www.womenshealthmag.com^
 @@||www.wordle.net^

@@ -24,12 +24,12 @@
 ; Title: Energized Basic Protection - Whitelist
 ; Description: Basic list of whitelisted domains.
 ; Format: rpz
-; Version: 20.01.019
-; Release: 019
-; Entries: 10,164
+; Version: 20.01.020
+; Release: 020
+; Entries: 10,173
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Sun, 19 Jan 20 18:18:07
+; Updated: Mon, 20 Jan 20 00:17:32
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -354,6 +354,7 @@ activistpost.com CNAME rpz-passthru.
 activities.aliexpress.com CNAME rpz-passthru.
 activity.api.np.km.playstation.net CNAME rpz-passthru.
 activity.netroam.mihome.xiaomi.net CNAME rpz-passthru.
+activity.windows.com CNAME rpz-passthru.
 actonsoftware.com CNAME rpz-passthru.
 acumin.typekit.com CNAME rpz-passthru.
 ad.samsungadhub.com CNAME rpz-passthru.
@@ -1647,6 +1648,7 @@ badge.stumbleupon.com CNAME rpz-passthru.
 badges.linkedin.com CNAME rpz-passthru.
 badges.twitch.tv CNAME rpz-passthru.
 badoo.com CNAME rpz-passthru.
+bagas31.info CNAME rpz-passthru.
 baidu.com CNAME rpz-passthru.
 baiduyundns.com CNAME rpz-passthru.
 baiduyundns.net CNAME rpz-passthru.
@@ -3405,6 +3407,7 @@ farm4.staticflickr.com CNAME rpz-passthru.
 fashionista.com CNAME rpz-passthru.
 fast.com CNAME rpz-passthru.
 fast.fonts.net CNAME rpz-passthru.
+fast.io CNAME rpz-passthru.
 fast.wistia.com CNAME rpz-passthru.
 fastcompany.com CNAME rpz-passthru.
 fastdrama.co CNAME rpz-passthru.
@@ -5993,6 +5996,7 @@ news.techmeme.com CNAME rpz-passthru.
 news.v.daum.net CNAME rpz-passthru.
 news.vimeo.com CNAME rpz-passthru.
 news.vuukle.com CNAME rpz-passthru.
+news.wko.at CNAME rpz-passthru.
 news.xbox.com CNAME rpz-passthru.
 news.ycombinator.com CNAME rpz-passthru.
 newsapi.com.au CNAME rpz-passthru.
@@ -7741,6 +7745,7 @@ static.ws.126.net CNAME rpz-passthru.
 static.www.odcdn.com.edgekey.net CNAME rpz-passthru.
 static.xiaomi.net CNAME rpz-passthru.
 static.xx.fbcdn.net CNAME rpz-passthru.
+static.zdassets.com CNAME rpz-passthru.
 static1.animeseason.com CNAME rpz-passthru.
 static2.animeseason.com CNAME rpz-passthru.
 staticflickr.com CNAME rpz-passthru.
@@ -8133,6 +8138,7 @@ token-dispenser.duckdns.org CNAME rpz-passthru.
 token-dispenser.herokuapp.com CNAME rpz-passthru.
 token.services.mozilla.com CNAME rpz-passthru.
 tokenization.api.playstation.com CNAME rpz-passthru.
+tokopedia.app.link CNAME rpz-passthru.
 tomshardware.com CNAME rpz-passthru.
 ton.twimg.com CNAME rpz-passthru.
 toolbar.naver.com CNAME rpz-passthru.
@@ -8816,6 +8822,7 @@ witchervault.ign.com CNAME rpz-passthru.
 wix.com CNAME rpz-passthru.
 wixapps.net CNAME rpz-passthru.
 wixsite.com CNAME rpz-passthru.
+wko.at CNAME rpz-passthru.
 wl-in-f14.1e100.net CNAME rpz-passthru.
 wlo.ospserver.net CNAME rpz-passthru.
 wm-in-f26.1e100.net CNAME rpz-passthru.
@@ -8826,6 +8833,7 @@ wmv-qa.walmart.com CNAME rpz-passthru.
 wmv-stg.walmart.com CNAME rpz-passthru.
 wmv.walmart.com CNAME rpz-passthru.
 wn-in-f14.1e100.net CNAME rpz-passthru.
+wn.nr CNAME rpz-passthru.
 wololo.net CNAME rpz-passthru.
 womenshealthmag.com CNAME rpz-passthru.
 woopic.com CNAME rpz-passthru.
@@ -10021,6 +10029,7 @@ www.wikipedia.com CNAME rpz-passthru.
 www.winfuture.de CNAME rpz-passthru.
 www.wire.com CNAME rpz-passthru.
 www.wix.com CNAME rpz-passthru.
+www.wko.at CNAME rpz-passthru.
 www.wololo.net CNAME rpz-passthru.
 www.womenshealthmag.com CNAME rpz-passthru.
 www.wordle.net CNAME rpz-passthru.

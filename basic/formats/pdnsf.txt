@@ -26,10 +26,10 @@
 # Format: personalDNSfilter
 # Version: 20.01.021
 # Release: 021
-# Entries: 10,173
+# Entries: 10,177
 # Pack Code: E84S1C-W
 # License: MIT, https://energized.pro/license
-# Updated: Tue, 21 Jan 20 12:17:04
+# Updated: Tue, 21 Jan 20 18:17:12
 # RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/pdnsf.txt
 # --------------------------------------------
 #
@@ -1655,6 +1655,7 @@
 !banner.play-asia.com
 !banners.funimation.com
 !banners.spiceworks.com
+!barebones.com
 !barnesandnoble.com
 !battle.net
 !battlelog.battlefield.com
@@ -4343,6 +4344,7 @@
 !house.gov
 !houston.cbslocal.com
 !houzz.com
+!hover.com
 !how.my
 !howtogeek.com
 !hp.com
@@ -8990,6 +8992,7 @@
 !www.bandcamp.com
 !www.banggood.com
 !www.bankrate.com
+!www.barebones.com
 !www.bbc.co.uk
 !www.bbc.com
 !www.bbci.co.uk
@@ -9505,6 +9508,7 @@
 !www.hostsfile.org
 !www.hotsceipts.com
 !www.hotspotshield.com
+!www.hover.com
 !www.howtogeek.com
 !www.href.li
 !www.htmlcommentbox.com

@@ -24,12 +24,12 @@
 # Title: Energized Basic Protection - Whitelist
 # Description: Basic list of whitelisted domains.
 # Format: personalDNSfilter
-# Version: 20.01.022
-# Release: 022
-# Entries: 10,177
+# Version: 20.01.023
+# Release: 023
+# Entries: 10,179
 # Pack Code: E84S1C-W
 # License: MIT, https://energized.pro/license
-# Updated: Wed, 22 Jan 20 18:17:28
+# Updated: Thu, 23 Jan 20 00:17:50
 # RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/pdnsf.txt
 # --------------------------------------------
 #
@@ -4782,6 +4782,7 @@
 !ir.ebaystatic.com
 !irc-ws-darklaunch.chat.twitch.tv
 !irc-ws.chat.twitch.tv
+!irc.abjects.net
 !irc.chat.twitch.tv
 !irc.twitch.tv
 !irishtimes.com
@@ -7984,6 +7985,7 @@
 !taboola.com
 !tac.blog.naver.com
 !tag.blog.naver.com
+!tag.partner.mairdumont.com
 !tags.bkrtx.com
 !tags.tiqcdn.com
 !talk.google.com

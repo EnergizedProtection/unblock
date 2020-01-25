@@ -27,10 +27,10 @@
 ! Version: 20.01.025
 ! Release: 025
 ! Expires: 7 days (update frequency)
-! Entries: 10,179
+! Entries: 10,191
 ! Pack Code: E84S1C-W
 ! License: MIT, https://energized.pro/license
-! Updated: Sat, 25 Jan 20 12:54:25
+! Updated: Sat, 25 Jan 20 18:18:34
 ! RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/filter
 ! --------------------------------------------
 !
@@ -1575,6 +1575,7 @@
 @@||audio-sp-fra2.pscdn.co^
 @@||audio-sp.spotify.com^
 @@||auditrecording-pa.googleapis.com^
+@@||audownload.windowsupdate.nsatc.net^
 @@||aus5.mozilla.org^
 @@||auth-prod.ros.rockstargames.com^
 @@||auth.api.np.ac.playstation.net^
@@ -2705,6 +2706,7 @@
 @@||ctc.fe02.c3.xiaomi.com^
 @@||ctldl.windowsupdate.com^
 @@||cts.businesswire.com^
+@@||cu.ac.bd^
 @@||cubestat.com^
 @@||curiosity.com^
 @@||curvesncombatboots.com^
@@ -4183,6 +4185,7 @@
 @@||guiltfreefoodguide.com^
 @@||gumroad.com^
 @@||gumtree.co.za^
+@@||gumtree.com^
 @@||gumtree.com.au^
 @@||guns.dailycaller.com^
 @@||guokr.com^
@@ -6243,6 +6246,7 @@
 @@||onhax.net^
 @@||onlinevideoconverter.com^
 @@||onmpeg.com^
+@@||onrpg.com^
 @@||oo.gl^
 @@||ootit.com^
 @@||ooyala.com^
@@ -6422,6 +6426,7 @@
 @@||pci.spotify.com^
 @@||pcmag.com^
 @@||pcsuite.mi.com^
+@@||pcwelt.de^
 @@||pdc.micloud.xiaomi.net^
 @@||pdds.ucweb.com^
 @@||pdf-archive.com^
@@ -8574,6 +8579,7 @@
 @@||visualstudio.com^
 @@||vitacost.com^
 @@||vitalia.pl^
+@@||vivo.sx^
 @@||vjs.zencdn.net^
 @@||vk.cc^
 @@||vk.com^
@@ -8800,6 +8806,7 @@
 @@||windowsphone.com^
 @@||windowsphone.xbox.com^
 @@||windowsupdate.com^
+@@||windowsupdate.nsatc.net^
 @@||windowupdate.org^
 @@||winfuture.de^
 @@||winhelp2002.mvps.org^
@@ -9116,6 +9123,7 @@
 @@||www.cryptopia.co.nz^
 @@||www.csp.medium.com^
 @@||www.ct.techrepublic.com^
+@@||www.cu.ac.bd^
 @@||www.cutt.ly^
 @@||www.cybercon.com^
 @@||www.cygwin.com^
@@ -9487,6 +9495,7 @@
 @@||www.gravatr.com^
 @@||www.gstatic.com^
 @@||www.gumroad.com^
+@@||www.gumtree.com^
 @@||www.hao123.com^
 @@||www.hardwareluxx.de^
 @@||www.harpercollins.com^
@@ -9725,6 +9734,7 @@
 @@||www.oneplus.com^
 @@||www.onet.pl^
 @@||www.onmpeg.com^
+@@||www.onrpg.com^
 @@||www.openlibrary.org^
 @@||www.opensubtitles.org^
 @@||www.openwall.com^
@@ -9752,6 +9762,7 @@
 @@||www.paypalobjects.com^
 @@||www.pcbeta.com^
 @@||www.pcmag.com^
+@@||www.pcwelt.de^
 @@||www.pendo.io^
 @@||www.perksatwork.com^
 @@||www.petapixel.com^
@@ -9994,6 +10005,7 @@
 @@||www.visualdictionaryonline.com^
 @@||www.visualstudio.com^
 @@||www.vitacost.com^
+@@||www.vivo.sx^
 @@||www.vk.com^
 @@||www.vocabulary.com^
 @@||www.voot.com^

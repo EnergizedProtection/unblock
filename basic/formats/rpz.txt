@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 20.01.025
 ; Release: 025
-; Entries: 10,179
+; Entries: 10,191
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Sat, 25 Jan 20 12:54:25
+; Updated: Sat, 25 Jan 20 18:18:34
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -1582,6 +1582,7 @@ audio-fa.spotify.com CNAME rpz-passthru.
 audio-sp-fra2.pscdn.co CNAME rpz-passthru.
 audio-sp.spotify.com CNAME rpz-passthru.
 auditrecording-pa.googleapis.com CNAME rpz-passthru.
+audownload.windowsupdate.nsatc.net CNAME rpz-passthru.
 aus5.mozilla.org CNAME rpz-passthru.
 auth-prod.ros.rockstargames.com CNAME rpz-passthru.
 auth.api.np.ac.playstation.net CNAME rpz-passthru.
@@ -2712,6 +2713,7 @@ ctc.fe01.c3.xiaomi.com CNAME rpz-passthru.
 ctc.fe02.c3.xiaomi.com CNAME rpz-passthru.
 ctldl.windowsupdate.com CNAME rpz-passthru.
 cts.businesswire.com CNAME rpz-passthru.
+cu.ac.bd CNAME rpz-passthru.
 cubestat.com CNAME rpz-passthru.
 curiosity.com CNAME rpz-passthru.
 curvesncombatboots.com CNAME rpz-passthru.
@@ -4190,6 +4192,7 @@ guides.viber.com CNAME rpz-passthru.
 guiltfreefoodguide.com CNAME rpz-passthru.
 gumroad.com CNAME rpz-passthru.
 gumtree.co.za CNAME rpz-passthru.
+gumtree.com CNAME rpz-passthru.
 gumtree.com.au CNAME rpz-passthru.
 guns.dailycaller.com CNAME rpz-passthru.
 guokr.com CNAME rpz-passthru.
@@ -6250,6 +6253,7 @@ onhax.me CNAME rpz-passthru.
 onhax.net CNAME rpz-passthru.
 onlinevideoconverter.com CNAME rpz-passthru.
 onmpeg.com CNAME rpz-passthru.
+onrpg.com CNAME rpz-passthru.
 oo.gl CNAME rpz-passthru.
 ootit.com CNAME rpz-passthru.
 ooyala.com CNAME rpz-passthru.
@@ -6429,6 +6433,7 @@ pcgames-download.com CNAME rpz-passthru.
 pci.spotify.com CNAME rpz-passthru.
 pcmag.com CNAME rpz-passthru.
 pcsuite.mi.com CNAME rpz-passthru.
+pcwelt.de CNAME rpz-passthru.
 pdc.micloud.xiaomi.net CNAME rpz-passthru.
 pdds.ucweb.com CNAME rpz-passthru.
 pdf-archive.com CNAME rpz-passthru.
@@ -8581,6 +8586,7 @@ visuals.soundcloud.com CNAME rpz-passthru.
 visualstudio.com CNAME rpz-passthru.
 vitacost.com CNAME rpz-passthru.
 vitalia.pl CNAME rpz-passthru.
+vivo.sx CNAME rpz-passthru.
 vjs.zencdn.net CNAME rpz-passthru.
 vk.cc CNAME rpz-passthru.
 vk.com CNAME rpz-passthru.
@@ -8807,6 +8813,7 @@ windowsphone-preview.rtm.vint.xbox.com CNAME rpz-passthru.
 windowsphone.com CNAME rpz-passthru.
 windowsphone.xbox.com CNAME rpz-passthru.
 windowsupdate.com CNAME rpz-passthru.
+windowsupdate.nsatc.net CNAME rpz-passthru.
 windowupdate.org CNAME rpz-passthru.
 winfuture.de CNAME rpz-passthru.
 winhelp2002.mvps.org CNAME rpz-passthru.
@@ -9123,6 +9130,7 @@ www.crunchyroll.com CNAME rpz-passthru.
 www.cryptopia.co.nz CNAME rpz-passthru.
 www.csp.medium.com CNAME rpz-passthru.
 www.ct.techrepublic.com CNAME rpz-passthru.
+www.cu.ac.bd CNAME rpz-passthru.
 www.cutt.ly CNAME rpz-passthru.
 www.cybercon.com CNAME rpz-passthru.
 www.cygwin.com CNAME rpz-passthru.
@@ -9494,6 +9502,7 @@ www.gravatar.com CNAME rpz-passthru.
 www.gravatr.com CNAME rpz-passthru.
 www.gstatic.com CNAME rpz-passthru.
 www.gumroad.com CNAME rpz-passthru.
+www.gumtree.com CNAME rpz-passthru.
 www.hao123.com CNAME rpz-passthru.
 www.hardwareluxx.de CNAME rpz-passthru.
 www.harpercollins.com CNAME rpz-passthru.
@@ -9732,6 +9741,7 @@ www.one.com CNAME rpz-passthru.
 www.oneplus.com CNAME rpz-passthru.
 www.onet.pl CNAME rpz-passthru.
 www.onmpeg.com CNAME rpz-passthru.
+www.onrpg.com CNAME rpz-passthru.
 www.openlibrary.org CNAME rpz-passthru.
 www.opensubtitles.org CNAME rpz-passthru.
 www.openwall.com CNAME rpz-passthru.
@@ -9759,6 +9769,7 @@ www.paypal.com.edgekey.net CNAME rpz-passthru.
 www.paypalobjects.com CNAME rpz-passthru.
 www.pcbeta.com CNAME rpz-passthru.
 www.pcmag.com CNAME rpz-passthru.
+www.pcwelt.de CNAME rpz-passthru.
 www.pendo.io CNAME rpz-passthru.
 www.perksatwork.com CNAME rpz-passthru.
 www.petapixel.com CNAME rpz-passthru.
@@ -10001,6 +10012,7 @@ www.virustotal.com CNAME rpz-passthru.
 www.visualdictionaryonline.com CNAME rpz-passthru.
 www.visualstudio.com CNAME rpz-passthru.
 www.vitacost.com CNAME rpz-passthru.
+www.vivo.sx CNAME rpz-passthru.
 www.vk.com CNAME rpz-passthru.
 www.vocabulary.com CNAME rpz-passthru.
 www.voot.com CNAME rpz-passthru.

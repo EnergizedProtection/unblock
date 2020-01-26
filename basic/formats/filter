@@ -27,10 +27,10 @@
 ! Version: 20.01.026
 ! Release: 026
 ! Expires: 7 days (update frequency)
-! Entries: 10,191
+! Entries: 10,198
 ! Pack Code: E84S1C-W
 ! License: MIT, https://energized.pro/license
-! Updated: Sun, 26 Jan 20 12:18:31
+! Updated: Sun, 26 Jan 20 18:19:52
 ! RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/filter
 ! --------------------------------------------
 !
@@ -2071,6 +2071,7 @@
 @@||cbc.ca^
 @@||cbgcpm.huawei.com^
 @@||cbi.boldchat.com^
+@@||cbjpeg.stream.highwebmedia.com^
 @@||cbsistatic.com^
 @@||cbslocal.com^
 @@||cbsnews.com^
@@ -5191,6 +5192,7 @@
 @@||localbitcoins.com^
 @@||location-inference-westus.cloudapp.net^
 @@||location.services.mozilla.com^
+@@||locationiq.com^
 @@||loccitane.com^
 @@||lockurl.com^
 @@||lodz.tvp.pl^
@@ -5523,6 +5525,7 @@
 @@||maps.google.com^
 @@||maps.googleapis.com^
 @@||maps.here.com^
+@@||maps.locationiq.com^
 @@||maps.ok.ru^
 @@||maps.snapchat.com^
 @@||maps5.moovitapp.com^
@@ -7619,9 +7622,11 @@
 @@||ss1.baidu.com^
 @@||ss2.baidu.com^
 @@||ss3.baidu.com^
+@@||ssl-ccstatic.highwebmedia.com^
 @@||ssl-images-amazon.com^
 @@||ssl.bblck.me^
 @@||ssl.gstatic.com^
+@@||ssl.marfeelcdn.com^
 @@||ssl.p.jwpcdn.com^
 @@||ssl.reddit.com^
 @@||ssl0.ovh.net^
@@ -8437,6 +8442,7 @@
 @@||us.xmss.mws.xiaomi.net^
 @@||us.xmssmc.mws.xiaomi.net^
 @@||us.ynuf.aliapp.org^
+@@||us1.locationiq.com^
 @@||usa.gov^
 @@||usa.kaspersky.com^
 @@||usaid.gov^
@@ -9614,6 +9620,7 @@
 @@||www.liveinternet.ru^
 @@||www.liveleak.com^
 @@||www.llnwd.net^
+@@||www.locationiq.com^
 @@||www.logbuch-netzpolitik.de^
 @@||www.login.wikimedia.org^
 @@||www.logmeinrescue.com^

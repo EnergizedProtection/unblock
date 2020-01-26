@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 20.01.026
 ; Release: 026
-; Entries: 10,191
+; Entries: 10,198
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Sun, 26 Jan 20 12:18:31
+; Updated: Sun, 26 Jan 20 18:19:52
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -2078,6 +2078,7 @@ cat.nl.eu.criteo.com CNAME rpz-passthru.
 cbc.ca CNAME rpz-passthru.
 cbgcpm.huawei.com CNAME rpz-passthru.
 cbi.boldchat.com CNAME rpz-passthru.
+cbjpeg.stream.highwebmedia.com CNAME rpz-passthru.
 cbsistatic.com CNAME rpz-passthru.
 cbslocal.com CNAME rpz-passthru.
 cbsnews.com CNAME rpz-passthru.
@@ -5198,6 +5199,7 @@ local.adguard.com CNAME rpz-passthru.
 localbitcoins.com CNAME rpz-passthru.
 location-inference-westus.cloudapp.net CNAME rpz-passthru.
 location.services.mozilla.com CNAME rpz-passthru.
+locationiq.com CNAME rpz-passthru.
 loccitane.com CNAME rpz-passthru.
 lockurl.com CNAME rpz-passthru.
 lodz.tvp.pl CNAME rpz-passthru.
@@ -5530,6 +5532,7 @@ mapquest.com CNAME rpz-passthru.
 maps.google.com CNAME rpz-passthru.
 maps.googleapis.com CNAME rpz-passthru.
 maps.here.com CNAME rpz-passthru.
+maps.locationiq.com CNAME rpz-passthru.
 maps.ok.ru CNAME rpz-passthru.
 maps.snapchat.com CNAME rpz-passthru.
 maps5.moovitapp.com CNAME rpz-passthru.
@@ -7626,9 +7629,11 @@ ss0.baidu.com CNAME rpz-passthru.
 ss1.baidu.com CNAME rpz-passthru.
 ss2.baidu.com CNAME rpz-passthru.
 ss3.baidu.com CNAME rpz-passthru.
+ssl-ccstatic.highwebmedia.com CNAME rpz-passthru.
 ssl-images-amazon.com CNAME rpz-passthru.
 ssl.bblck.me CNAME rpz-passthru.
 ssl.gstatic.com CNAME rpz-passthru.
+ssl.marfeelcdn.com CNAME rpz-passthru.
 ssl.p.jwpcdn.com CNAME rpz-passthru.
 ssl.reddit.com CNAME rpz-passthru.
 ssl0.ovh.net CNAME rpz-passthru.
@@ -8444,6 +8449,7 @@ us.wifiapi.micloud.xiaomi.net CNAME rpz-passthru.
 us.xmss.mws.xiaomi.net CNAME rpz-passthru.
 us.xmssmc.mws.xiaomi.net CNAME rpz-passthru.
 us.ynuf.aliapp.org CNAME rpz-passthru.
+us1.locationiq.com CNAME rpz-passthru.
 usa.gov CNAME rpz-passthru.
 usa.kaspersky.com CNAME rpz-passthru.
 usaid.gov CNAME rpz-passthru.
@@ -9621,6 +9627,7 @@ www.linuxtracker.org CNAME rpz-passthru.
 www.liveinternet.ru CNAME rpz-passthru.
 www.liveleak.com CNAME rpz-passthru.
 www.llnwd.net CNAME rpz-passthru.
+www.locationiq.com CNAME rpz-passthru.
 www.logbuch-netzpolitik.de CNAME rpz-passthru.
 www.login.wikimedia.org CNAME rpz-passthru.
 www.logmeinrescue.com CNAME rpz-passthru.

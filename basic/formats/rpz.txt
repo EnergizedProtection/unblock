@@ -24,12 +24,12 @@
 ; Title: Energized Basic Protection - Whitelist
 ; Description: Basic list of whitelisted domains.
 ; Format: rpz
-; Version: 20.01.026
-; Release: 026
-; Entries: 10,198
+; Version: 20.01.027
+; Release: 027
+; Entries: 10,201
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Sun, 26 Jan 20 18:19:52
+; Updated: Mon, 27 Jan 20 00:19:00
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -2020,6 +2020,7 @@ ca.pool.ntp.org CNAME rpz-passthru.
 ca.statcounter.com CNAME rpz-passthru.
 ca.wikipedia.com CNAME rpz-passthru.
 cache-api.ranker.com CNAME rpz-passthru.
+cachefly.net CNAME rpz-passthru.
 cackle.me CNAME rpz-passthru.
 caf.ee CNAME rpz-passthru.
 cafe.daum.net CNAME rpz-passthru.
@@ -2472,6 +2473,8 @@ cm2-par1.cm.steampowered.com CNAME rpz-passthru.
 cm2-tyo1.cm.steampowered.com CNAME rpz-passthru.
 cm3-sto1.cm.steampowered.com CNAME rpz-passthru.
 cmail.daum.net CNAME rpz-passthru.
+cmail19.com CNAME rpz-passthru.
+cmail20.com CNAME rpz-passthru.
 cms-portal.qualcomm.com CNAME rpz-passthru.
 cms.breitbart.com CNAME rpz-passthru.
 cms.techrepublic.com CNAME rpz-passthru.

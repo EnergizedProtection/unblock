@@ -24,12 +24,12 @@
 ; Title: Energized Basic Protection - Whitelist
 ; Description: Basic list of whitelisted domains.
 ; Format: rpz
-; Version: 20.01.029
-; Release: 029
-; Entries: 10,201
+; Version: 20.01.030
+; Release: 030
+; Entries: 10,203
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Wed, 29 Jan 20 18:17:48
+; Updated: Thu, 30 Jan 20 00:18:50
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -6277,6 +6277,7 @@ openapi.map.naver.com CNAME rpz-passthru.
 openapi.naver.com CNAME rpz-passthru.
 openapi.samsung.com CNAME rpz-passthru.
 openapp.io.mi.com CNAME rpz-passthru.
+openbittorrent.com CNAME rpz-passthru.
 opencollective.com CNAME rpz-passthru.
 openconnect.netflix.com CNAME rpz-passthru.
 openlibrary.org CNAME rpz-passthru.
@@ -9752,6 +9753,7 @@ www.oneplus.com CNAME rpz-passthru.
 www.onet.pl CNAME rpz-passthru.
 www.onmpeg.com CNAME rpz-passthru.
 www.onrpg.com CNAME rpz-passthru.
+www.openbittorrent.com CNAME rpz-passthru.
 www.openlibrary.org CNAME rpz-passthru.
 www.opensubtitles.org CNAME rpz-passthru.
 www.openwall.com CNAME rpz-passthru.

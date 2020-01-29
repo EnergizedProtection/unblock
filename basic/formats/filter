@@ -24,13 +24,13 @@
 ! Title: Energized Basic Protection - Whitelist
 ! Description: Basic list of whitelisted domains.
 ! Format: adblock
-! Version: 20.01.029
-! Release: 029
+! Version: 20.01.030
+! Release: 030
 ! Expires: 7 days (update frequency)
-! Entries: 10,201
+! Entries: 10,203
 ! Pack Code: E84S1C-W
 ! License: MIT, https://energized.pro/license
-! Updated: Wed, 29 Jan 20 18:17:48
+! Updated: Thu, 30 Jan 20 00:18:50
 ! RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/filter
 ! --------------------------------------------
 !
@@ -6270,6 +6270,7 @@
 @@||openapi.naver.com^
 @@||openapi.samsung.com^
 @@||openapp.io.mi.com^
+@@||openbittorrent.com^
 @@||opencollective.com^
 @@||openconnect.netflix.com^
 @@||openlibrary.org^
@@ -9745,6 +9746,7 @@
 @@||www.onet.pl^
 @@||www.onmpeg.com^
 @@||www.onrpg.com^
+@@||www.openbittorrent.com^
 @@||www.openlibrary.org^
 @@||www.opensubtitles.org^
 @@||www.openwall.com^

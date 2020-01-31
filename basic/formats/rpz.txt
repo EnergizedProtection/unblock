@@ -29,7 +29,7 @@
 ; Entries: 10,203
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Fri, 31 Jan 20 00:18:28
+; Updated: Fri, 31 Jan 20 06:19:21
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;

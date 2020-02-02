@@ -24,12 +24,12 @@
 ; Title: Energized Basic Protection - Whitelist
 ; Description: Basic list of whitelisted domains.
 ; Format: rpz
-; Version: 20.02.033
-; Release: 033
-; Entries: 10,203
+; Version: 20.02.034
+; Release: 034
+; Entries: 10,210
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Sun, 02 Feb 20 18:18:06
+; Updated: Mon, 03 Feb 20 00:18:37
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -1655,6 +1655,7 @@ baiduyundns.com CNAME rpz-passthru.
 baiduyundns.net CNAME rpz-passthru.
 balancer.wixdns.net CNAME rpz-passthru.
 baltimore.cbslocal.com CNAME rpz-passthru.
+bamgrid.com CNAME rpz-passthru.
 bandcamp.com CNAME rpz-passthru.
 bandwagonhost.com CNAME rpz-passthru.
 banggood.com CNAME rpz-passthru.
@@ -2385,6 +2386,7 @@ choices.truste.com CNAME rpz-passthru.
 chomikuj.pl CNAME rpz-passthru.
 chongdiantou.com CNAME rpz-passthru.
 chrome.google.com CNAME rpz-passthru.
+chromesyncentities-pa.googleapis.com CNAME rpz-passthru.
 chromesyncpasswords-pa.googleapis.com CNAME rpz-passthru.
 chromewhois.com CNAME rpz-passthru.
 chron.com CNAME rpz-passthru.
@@ -6042,6 +6044,7 @@ ngw-static.franklyinc.com CNAME rpz-passthru.
 nhentai.net CNAME rpz-passthru.
 nhk.or.jp CNAME rpz-passthru.
 nhs.uk CNAME rpz-passthru.
+nicehash.com CNAME rpz-passthru.
 nid.naver.com CNAME rpz-passthru.
 nifty.com CNAME rpz-passthru.
 nih.gov CNAME rpz-passthru.
@@ -6923,6 +6926,7 @@ relocationapi.micloud.xiaomi.net CNAME rpz-passthru.
 relstage-api.typekit.com CNAME rpz-passthru.
 relstage.typekit.com CNAME rpz-passthru.
 remote-data.urbanairship.com CNAME rpz-passthru.
+rentry.co CNAME rpz-passthru.
 repair-info.sonymobile.com CNAME rpz-passthru.
 replies.io CNAME rpz-passthru.
 repo.xposed.info CNAME rpz-passthru.
@@ -9074,6 +9078,7 @@ www.buzzfeed.com CNAME rpz-passthru.
 www.bwp.techrepublic.com CNAME rpz-passthru.
 www.byjusclasses.com CNAME rpz-passthru.
 www.ca.cdn.survey.medallia.com CNAME rpz-passthru.
+www.cachefly.net CNAME rpz-passthru.
 www.cafemom.com CNAME rpz-passthru.
 www.cambridge.org CNAME rpz-passthru.
 www.canva.com CNAME rpz-passthru.
@@ -9726,6 +9731,7 @@ www.netflix.com CNAME rpz-passthru.
 www.newbiecontest.com CNAME rpz-passthru.
 www.newegg.com CNAME rpz-passthru.
 www.newindianexpress.com CNAME rpz-passthru.
+www.nicehash.com CNAME rpz-passthru.
 www.niecko.pl CNAME rpz-passthru.
 www.nirsoft.net CNAME rpz-passthru.
 www.nls.techrepublic.com CNAME rpz-passthru.
@@ -9841,6 +9847,7 @@ www.redirectingat.com CNAME rpz-passthru.
 www.reference.com CNAME rpz-passthru.
 www.reg.ru CNAME rpz-passthru.
 www.reimageplus.com CNAME rpz-passthru.
+www.rentry.co CNAME rpz-passthru.
 www.repo.xposed.info CNAME rpz-passthru.
 www.returnpath.com CNAME rpz-passthru.
 www.revdl.com CNAME rpz-passthru.

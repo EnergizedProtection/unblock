@@ -24,12 +24,12 @@
 # Title: Energized Basic Protection - Whitelist
 # Description: Basic list of whitelisted domains.
 # Format: personalDNSfilter
-# Version: 20.02.033
-# Release: 033
-# Entries: 10,203
+# Version: 20.02.034
+# Release: 034
+# Entries: 10,210
 # Pack Code: E84S1C-W
 # License: MIT, https://energized.pro/license
-# Updated: Sun, 02 Feb 20 18:18:06
+# Updated: Mon, 03 Feb 20 00:18:37
 # RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/pdnsf.txt
 # --------------------------------------------
 #
@@ -1647,6 +1647,7 @@
 !baiduyundns.net
 !balancer.wixdns.net
 !baltimore.cbslocal.com
+!bamgrid.com
 !bandcamp.com
 !bandwagonhost.com
 !banggood.com
@@ -2377,6 +2378,7 @@
 !chomikuj.pl
 !chongdiantou.com
 !chrome.google.com
+!chromesyncentities-pa.googleapis.com
 !chromesyncpasswords-pa.googleapis.com
 !chromewhois.com
 !chron.com
@@ -6034,6 +6036,7 @@
 !nhentai.net
 !nhk.or.jp
 !nhs.uk
+!nicehash.com
 !nid.naver.com
 !nifty.com
 !nih.gov
@@ -6915,6 +6918,7 @@
 !relstage-api.typekit.com
 !relstage.typekit.com
 !remote-data.urbanairship.com
+!rentry.co
 !repair-info.sonymobile.com
 !replies.io
 !repo.xposed.info
@@ -9066,6 +9070,7 @@
 !www.bwp.techrepublic.com
 !www.byjusclasses.com
 !www.ca.cdn.survey.medallia.com
+!www.cachefly.net
 !www.cafemom.com
 !www.cambridge.org
 !www.canva.com
@@ -9718,6 +9723,7 @@
 !www.newbiecontest.com
 !www.newegg.com
 !www.newindianexpress.com
+!www.nicehash.com
 !www.niecko.pl
 !www.nirsoft.net
 !www.nls.techrepublic.com
@@ -9833,6 +9839,7 @@
 !www.reference.com
 !www.reg.ru
 !www.reimageplus.com
+!www.rentry.co
 !www.repo.xposed.info
 !www.returnpath.com
 !www.revdl.com

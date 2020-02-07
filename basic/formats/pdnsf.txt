@@ -26,10 +26,10 @@
 # Format: personalDNSfilter
 # Version: 20.02.038
 # Release: 038
-# Entries: 10,210
+# Entries: 10,232
 # Pack Code: E84S1C-W
 # License: MIT, https://energized.pro/license
-# Updated: Fri, 07 Feb 20 00:20:08
+# Updated: Fri, 07 Feb 20 06:18:38
 # RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/pdnsf.txt
 # --------------------------------------------
 #
@@ -259,6 +259,7 @@
 !abbreviations.com
 !abc.com
 !abc.net.au
+!abcnews.com.co
 !abcnews.go.com
 !abebooks.com
 !about.com
@@ -1195,6 +1196,7 @@
 !api.comm.miui.com
 !api.commerce.coinbase.com
 !api.cricbuzz.com
+!api.crowdin.com
 !api.crunchyroll.com
 !api.d.xiaomi.com
 !api.dealersocket.com
@@ -1237,6 +1239,7 @@
 !api.jqueryui.com
 !api.jr.mi.com
 !api.keybase.io
+!api.keycdn.com
 !api.kinja.com
 !api.leanplum.com
 !api.line.me
@@ -1933,6 +1936,7 @@
 !brothersoft.com
 !brownfarm.game.line.me
 !browser-update.org
+!browser.cloud.ucweb.com
 !browserapi.micloud.xiaomi.net
 !bs.gravatar.com
 !bshare.me
@@ -2097,9 +2101,11 @@
 !cdmdownload.adobe.com
 !cdn-3.convertexperiments.com
 !cdn-a.sonyentertainmentnetwork.com
+!cdn-au.metacdn.com
 !cdn-audio-1.medium.com
 !cdn-ci50.actonsoftware.com
 !cdn-content.ampproject.org
+!cdn-eu.metacdn.com
 !cdn-images-1.medium.com
 !cdn-images-2.medium.com
 !cdn-images.mailchimp.com
@@ -2157,6 +2163,7 @@
 !cdn.images.dailystar.co.uk
 !cdn.imgwzzmb.net
 !cdn.jsdelivr.net
+!cdn.keycdn.com
 !cdn.livechatinc.com
 !cdn.livefyre.com
 !cdn.livestream.com
@@ -2169,6 +2176,7 @@
 !cdn.onesignal.com
 !cdn.opinionlab.com
 !cdn.optimizely.com
+!cdn.optinmonster.com
 !cdn.paddle.com
 !cdn.pcbeta.attachment.inimc.com
 !cdn.pcbeta.css.inimc.com
@@ -2230,6 +2238,7 @@
 !cdn6.digitaltrends.com
 !cdn7.digitaltrends.com
 !cdn7.es.digitaltrends.com
+!cdn77.org
 !cdn9.es.digitaltrends.com
 !cdnapi.kaltura.com
 !cdnapisec.kaltura.com
@@ -2937,6 +2946,7 @@
 !dirtywarez.com
 !disclose.tv
 !discord.gg
+!discordapp.com
 !discover.hulu.com
 !discover.viber.com
 !discovermagazine.com
@@ -3560,6 +3570,7 @@
 !forbes.com
 !forbusiness.snapchat.com
 !force.com
+!forecast.ucweb.com
 !foresee.com
 !foreseeresults.com
 !form.jotform.com
@@ -4929,6 +4940,7 @@
 !keybase.io
 !keybaseapi.com
 !keyboard.naver.com
+!keycdn.com
 !keyfile.kaspersky.com
 !keystone.mwbsys.com
 !keyvalueservice.fe.apple-dns.net
@@ -5658,6 +5670,7 @@
 !meta.plex.tv
 !meta.wikimedia.org
 !meta.wikipedia.com
+!metacdn.com
 !metactrl.com
 !metok.sys.miui.com
 !metrics.aem.playstation.com
@@ -6291,6 +6304,7 @@
 !oprah.com
 !oprl.com
 !optimizely.com
+!optinmonster.com
 !options.skype.com
 !opus.l.soundcloud.com
 !opus.soundcloud.com
@@ -7489,6 +7503,7 @@
 !smetrics.aem.playstation.com
 !smetrics.us.playstation.com
 !smh.com.au
+!smiledirectclub.com
 !smokingwheels.github.io
 !smonkey.com
 !sms-receive.net
@@ -7648,6 +7663,7 @@
 !st.hitbtc.com
 !stackexchange.com
 !stackoverflow.com
+!stackpath.com
 !stackpathdns.com
 !stacks-photos.gotinder.com
 !stacksocial.com
@@ -8926,6 +8942,7 @@
 !www.a.espncdn.com
 !www.a.shifen.com
 !www.abbreviations.com
+!www.abcnews.com.co
 !www.about.com
 !www.about.medium.com
 !www.accountkit.com
@@ -9089,6 +9106,7 @@
 !www.cdn.medium.com
 !www.cdn.survey.medallia.com
 !www.cdn.w3schools.com
+!www.cdn77.org
 !www.changelly.com
 !www.channel9.msdn.com
 !www.cheatengine.org
@@ -9595,6 +9613,7 @@
 !www.jsfiddle.net
 !www.kaspersky.com
 !www.kcsoftwares.com
+!www.keycdn.com
 !www.kickstarter.com
 !www.kijiji.ca
 !www.kissanime.com
@@ -9667,6 +9686,7 @@
 !www.mercadolibre.com.ar
 !www.merriam-webster.com
 !www.messenger.com
+!www.metacdn.com
 !www.mewkid.net
 !www.mi.com
 !www.microg.org
@@ -9758,6 +9778,7 @@
 !www.opinionlab.com
 !www.oprah.com
 !www.optimizely.com
+!www.optinmonster.com
 !www.ora.tv
 !www.orangepi.org
 !www.ospserver.net
@@ -9896,6 +9917,7 @@
 !www.slashdot.org
 !www.smartsheet.com
 !www.smashingmagazine.com
+!www.smiledirectclub.com
 !www.snap.com
 !www.snapchat.com
 !www.snapdeal.com

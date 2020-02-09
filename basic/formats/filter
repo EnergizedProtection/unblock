@@ -24,13 +24,13 @@
 ! Title: Energized Basic Protection - Whitelist
 ! Description: Basic list of whitelisted domains.
 ! Format: adblock
-! Version: 20.02.040
-! Release: 040
+! Version: 20.02.041
+! Release: 041
 ! Expires: 7 days (update frequency)
-! Entries: 10,232
+! Entries: 10,237
 ! Pack Code: E84S1C-W
 ! License: MIT, https://energized.pro/license
-! Updated: Sun, 09 Feb 20 18:19:25
+! Updated: Mon, 10 Feb 20 00:19:15
 ! RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/filter
 ! --------------------------------------------
 !
@@ -1583,6 +1583,7 @@
 @@||auth-prod.ros.rockstargames.com^
 @@||auth.api.np.ac.playstation.net^
 @@||auth.be.sec.miui.com^
+@@||auth.factorio.com^
 @@||auth.gfx.ms^
 @@||auth.hitbtc.com^
 @@||auth.samsungosp.com^
@@ -3407,6 +3408,7 @@
 @@||fabric.io^
 @@||facebook.com^
 @@||facebook.net^
+@@||factorio.com^
 @@||factory.blog.naver.com^
 @@||fakecell.sys.miui.com^
 @@||familydollar.com^
@@ -4163,6 +4165,7 @@
 @@||gratisography.com^
 @@||gravatar.com^
 @@||gravityrd-services.com^
+@@||greasyfork.org^
 @@||great.kaspersky.com^
 @@||greenhouse.io^
 @@||group-vb.cdn.viber.com^
@@ -4288,6 +4291,7 @@
 @@||herbeauty.co^
 @@||here.com^
 @@||herokuapp.com^
+@@||herokudns.com^
 @@||hex.io^
 @@||heyue.xiaomi.com^
 @@||hhs.gov^
@@ -9526,6 +9530,7 @@
 @@||www.grammarly.io^
 @@||www.gravatar.com^
 @@||www.gravatr.com^
+@@||www.greasyfork.org^
 @@||www.gstatic.com^
 @@||www.gumroad.com^
 @@||www.gumtree.com^

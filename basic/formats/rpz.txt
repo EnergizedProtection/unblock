@@ -24,12 +24,12 @@
 ; Title: Energized Basic Protection - Whitelist
 ; Description: Basic list of whitelisted domains.
 ; Format: rpz
-; Version: 20.02.040
-; Release: 040
-; Entries: 10,232
+; Version: 20.02.041
+; Release: 041
+; Entries: 10,237
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Sun, 09 Feb 20 18:19:25
+; Updated: Mon, 10 Feb 20 00:19:15
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -1590,6 +1590,7 @@ aus5.mozilla.org CNAME rpz-passthru.
 auth-prod.ros.rockstargames.com CNAME rpz-passthru.
 auth.api.np.ac.playstation.net CNAME rpz-passthru.
 auth.be.sec.miui.com CNAME rpz-passthru.
+auth.factorio.com CNAME rpz-passthru.
 auth.gfx.ms CNAME rpz-passthru.
 auth.hitbtc.com CNAME rpz-passthru.
 auth.samsungosp.com CNAME rpz-passthru.
@@ -3414,6 +3415,7 @@ fa.wikipedia.com CNAME rpz-passthru.
 fabric.io CNAME rpz-passthru.
 facebook.com CNAME rpz-passthru.
 facebook.net CNAME rpz-passthru.
+factorio.com CNAME rpz-passthru.
 factory.blog.naver.com CNAME rpz-passthru.
 fakecell.sys.miui.com CNAME rpz-passthru.
 familydollar.com CNAME rpz-passthru.
@@ -4170,6 +4172,7 @@ graphs2.coinmarketcap.com CNAME rpz-passthru.
 gratisography.com CNAME rpz-passthru.
 gravatar.com CNAME rpz-passthru.
 gravityrd-services.com CNAME rpz-passthru.
+greasyfork.org CNAME rpz-passthru.
 great.kaspersky.com CNAME rpz-passthru.
 greenhouse.io CNAME rpz-passthru.
 group-vb.cdn.viber.com CNAME rpz-passthru.
@@ -4295,6 +4298,7 @@ hentaihaven.org CNAME rpz-passthru.
 herbeauty.co CNAME rpz-passthru.
 here.com CNAME rpz-passthru.
 herokuapp.com CNAME rpz-passthru.
+herokudns.com CNAME rpz-passthru.
 hex.io CNAME rpz-passthru.
 heyue.xiaomi.com CNAME rpz-passthru.
 hhs.gov CNAME rpz-passthru.
@@ -9533,6 +9537,7 @@ www.grammarly.com CNAME rpz-passthru.
 www.grammarly.io CNAME rpz-passthru.
 www.gravatar.com CNAME rpz-passthru.
 www.gravatr.com CNAME rpz-passthru.
+www.greasyfork.org CNAME rpz-passthru.
 www.gstatic.com CNAME rpz-passthru.
 www.gumroad.com CNAME rpz-passthru.
 www.gumtree.com CNAME rpz-passthru.

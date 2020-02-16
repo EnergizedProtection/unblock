@@ -24,12 +24,12 @@
 # Title: Energized Basic Protection - Whitelist
 # Description: Basic list of whitelisted domains.
 # Format: domain list
-# Version: 20.02.047
-# Release: 047
-# Entries: 10,237
+# Version: 20.02.048
+# Release: 048
+# Entries: 10,249
 # Pack Code: E84S1C-W
 # License: MIT, https://energized.pro/license
-# Updated: Sun, 16 Feb 20 18:20:43
+# Updated: Mon, 17 Feb 20 00:38:03
 # RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/domains.txt
 # --------------------------------------------
 #
@@ -1342,7 +1342,9 @@ api.zaloapp.com
 api.zhuti.intl.xiaomi.com
 api1.weather.com
 api2.bitfinex.com
+api2.branch.io
 api2.diigo.com
+api2.poloniex.com
 api2.weather.com
 api3.weather.com
 apicache.vudu.com
@@ -1351,6 +1353,7 @@ apimobile.lifelog.sonymobile.com
 apis.daum.net
 apis.google.com
 apis.ign.com
+apis.justwatch.com
 apis.mail.yahoo.com
 apis.naver.com
 apis.snapchat.com
@@ -3731,6 +3734,7 @@ g.cn
 g.co
 g.ezoic.net
 g.ign.com
+g.justwatch.com
 g.live.com
 g.mi.com
 g.msn.com
@@ -4915,6 +4919,7 @@ js.intercomcdn.com
 js.maxmind.com
 js.pusher.com
 js.stripe.com
+js.ui-portal.de
 js1.t.sinajs.cn
 jsak.mmtcdn.com
 jsdelivr.net
@@ -5416,6 +5421,7 @@ m.pinterest.com
 m.piwik.org
 m.playstation.com
 m.plus.google.com
+m.poloniex.com
 m.post.naver.com
 m.pr0gramm.com
 m.primewire.ag
@@ -6608,6 +6614,7 @@ polka-staging.typekit.com
 polka.typekit.com
 polling.bbc.co.uk
 polling.finance.naver.com
+poloniex.com
 polyfill.io
 pool.ntp.org
 pools1.cryptopia.co.nz
@@ -8094,12 +8101,14 @@ textshot.medium.com
 tg1.premium.db4.wix.com
 tg1.premium.dc11.wix.com
 th.gravatar.com
+the-eye.eu
 the.earth.li
 theatlantic.com
 theblog.adobe.com
 theblogimages.adobe.com
 thebrick.com
 thechive.com
+theconversation.com
 thedailybeast.com
 thedailysheeple.com
 thefreethoughtproject.com
@@ -9824,6 +9833,7 @@ www.pluralsight.com
 www.plus.google.com
 www.po.st
 www.pochta.ru
+www.poloniex.com
 www.pool.ntp.org
 www.popuptest.com
 www.posta.co.tz
@@ -9985,8 +9995,10 @@ www.telegra.ph
 www.tencent.com
 www.tenforums.com
 www.textshot.medium.com
+www.the-eye.eu
 www.theatlantic.com
 www.theblaze.com
+www.theconversation.com
 www.thedailybeast.com
 www.thefreesite.com
 www.thefreethoughtproject.com

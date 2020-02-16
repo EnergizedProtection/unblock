@@ -24,12 +24,12 @@
 ; Title: Energized Basic Protection - Whitelist
 ; Description: Basic list of whitelisted domains.
 ; Format: rpz
-; Version: 20.02.047
-; Release: 047
-; Entries: 10,237
+; Version: 20.02.048
+; Release: 048
+; Entries: 10,249
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Sun, 16 Feb 20 18:20:43
+; Updated: Mon, 17 Feb 20 00:38:03
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -1350,7 +1350,9 @@ api.zaloapp.com CNAME rpz-passthru.
 api.zhuti.intl.xiaomi.com CNAME rpz-passthru.
 api1.weather.com CNAME rpz-passthru.
 api2.bitfinex.com CNAME rpz-passthru.
+api2.branch.io CNAME rpz-passthru.
 api2.diigo.com CNAME rpz-passthru.
+api2.poloniex.com CNAME rpz-passthru.
 api2.weather.com CNAME rpz-passthru.
 api3.weather.com CNAME rpz-passthru.
 apicache.vudu.com CNAME rpz-passthru.
@@ -1359,6 +1361,7 @@ apimobile.lifelog.sonymobile.com CNAME rpz-passthru.
 apis.daum.net CNAME rpz-passthru.
 apis.google.com CNAME rpz-passthru.
 apis.ign.com CNAME rpz-passthru.
+apis.justwatch.com CNAME rpz-passthru.
 apis.mail.yahoo.com CNAME rpz-passthru.
 apis.naver.com CNAME rpz-passthru.
 apis.snapchat.com CNAME rpz-passthru.
@@ -3739,6 +3742,7 @@ g.cn CNAME rpz-passthru.
 g.co CNAME rpz-passthru.
 g.ezoic.net CNAME rpz-passthru.
 g.ign.com CNAME rpz-passthru.
+g.justwatch.com CNAME rpz-passthru.
 g.live.com CNAME rpz-passthru.
 g.mi.com CNAME rpz-passthru.
 g.msn.com CNAME rpz-passthru.
@@ -4923,6 +4927,7 @@ js.intercomcdn.com CNAME rpz-passthru.
 js.maxmind.com CNAME rpz-passthru.
 js.pusher.com CNAME rpz-passthru.
 js.stripe.com CNAME rpz-passthru.
+js.ui-portal.de CNAME rpz-passthru.
 js1.t.sinajs.cn CNAME rpz-passthru.
 jsak.mmtcdn.com CNAME rpz-passthru.
 jsdelivr.net CNAME rpz-passthru.
@@ -5424,6 +5429,7 @@ m.pinterest.com CNAME rpz-passthru.
 m.piwik.org CNAME rpz-passthru.
 m.playstation.com CNAME rpz-passthru.
 m.plus.google.com CNAME rpz-passthru.
+m.poloniex.com CNAME rpz-passthru.
 m.post.naver.com CNAME rpz-passthru.
 m.pr0gramm.com CNAME rpz-passthru.
 m.primewire.ag CNAME rpz-passthru.
@@ -6616,6 +6622,7 @@ polka-staging.typekit.com CNAME rpz-passthru.
 polka.typekit.com CNAME rpz-passthru.
 polling.bbc.co.uk CNAME rpz-passthru.
 polling.finance.naver.com CNAME rpz-passthru.
+poloniex.com CNAME rpz-passthru.
 polyfill.io CNAME rpz-passthru.
 pool.ntp.org CNAME rpz-passthru.
 pools1.cryptopia.co.nz CNAME rpz-passthru.
@@ -8102,12 +8109,14 @@ textshot.medium.com CNAME rpz-passthru.
 tg1.premium.db4.wix.com CNAME rpz-passthru.
 tg1.premium.dc11.wix.com CNAME rpz-passthru.
 th.gravatar.com CNAME rpz-passthru.
+the-eye.eu CNAME rpz-passthru.
 the.earth.li CNAME rpz-passthru.
 theatlantic.com CNAME rpz-passthru.
 theblog.adobe.com CNAME rpz-passthru.
 theblogimages.adobe.com CNAME rpz-passthru.
 thebrick.com CNAME rpz-passthru.
 thechive.com CNAME rpz-passthru.
+theconversation.com CNAME rpz-passthru.
 thedailybeast.com CNAME rpz-passthru.
 thedailysheeple.com CNAME rpz-passthru.
 thefreethoughtproject.com CNAME rpz-passthru.
@@ -9832,6 +9841,7 @@ www.pluralsight.com CNAME rpz-passthru.
 www.plus.google.com CNAME rpz-passthru.
 www.po.st CNAME rpz-passthru.
 www.pochta.ru CNAME rpz-passthru.
+www.poloniex.com CNAME rpz-passthru.
 www.pool.ntp.org CNAME rpz-passthru.
 www.popuptest.com CNAME rpz-passthru.
 www.posta.co.tz CNAME rpz-passthru.
@@ -9993,8 +10003,10 @@ www.telegra.ph CNAME rpz-passthru.
 www.tencent.com CNAME rpz-passthru.
 www.tenforums.com CNAME rpz-passthru.
 www.textshot.medium.com CNAME rpz-passthru.
+www.the-eye.eu CNAME rpz-passthru.
 www.theatlantic.com CNAME rpz-passthru.
 www.theblaze.com CNAME rpz-passthru.
+www.theconversation.com CNAME rpz-passthru.
 www.thedailybeast.com CNAME rpz-passthru.
 www.thefreesite.com CNAME rpz-passthru.
 www.thefreethoughtproject.com CNAME rpz-passthru.

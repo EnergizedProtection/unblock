@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 20.02.049
 ; Release: 049
-; Entries: 10,249
+; Entries: 10,264
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Tue, 18 Feb 20 00:17:13
+; Updated: Tue, 18 Feb 20 02:01:51
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -288,6 +288,7 @@ academia.edu CNAME rpz-passthru.
 access-prod.apis.anvato.n0-edge-chat.facebook.com CNAME rpz-passthru.
 access-prod.apis.anvato.net CNAME rpz-passthru.
 access.line.me CNAME rpz-passthru.
+access.next.exchange CNAME rpz-passthru.
 account-assets.jimstatic.com CNAME rpz-passthru.
 account-us.huami.com CNAME rpz-passthru.
 account.adobe.com CNAME rpz-passthru.
@@ -330,6 +331,7 @@ acompli.helpshift.com CNAME rpz-passthru.
 acompli.net CNAME rpz-passthru.
 acp.jiobuzz.com CNAME rpz-passthru.
 acquirethisname.com CNAME rpz-passthru.
+acquisition-1.americanexpress.com CNAME rpz-passthru.
 acr-search.sonymobile.com CNAME rpz-passthru.
 acr.sonymobile.com CNAME rpz-passthru.
 acr0.samsungcloudsolution.com CNAME rpz-passthru.
@@ -1264,6 +1266,7 @@ api.miui.security.xiaomi.com CNAME rpz-passthru.
 api.mixpanel.com CNAME rpz-passthru.
 api.naver.com CNAME rpz-passthru.
 api.netflix.com CNAME rpz-passthru.
+api.next.exchange CNAME rpz-passthru.
 api.nextgen.guardianapps.co.uk CNAME rpz-passthru.
 api.nfl.com CNAME rpz-passthru.
 api.nordvpn.com CNAME rpz-passthru.
@@ -1407,6 +1410,7 @@ app.mediaset.it CNAME rpz-passthru.
 app.mi.com CNAME rpz-passthru.
 app.migc.xiaomi.com CNAME rpz-passthru.
 app.miui.com CNAME rpz-passthru.
+app.next.exchange CNAME rpz-passthru.
 app.onesignal.com CNAME rpz-passthru.
 app.optimizely.com CNAME rpz-passthru.
 app.pinterest.com CNAME rpz-passthru.
@@ -1720,6 +1724,8 @@ beta.coinbase.com CNAME rpz-passthru.
 beta.funimation.com CNAME rpz-passthru.
 beta.huffingtonpost.com.au CNAME rpz-passthru.
 beta.hulu.com CNAME rpz-passthru.
+beta.namecoin.info CNAME rpz-passthru.
+beta.next.exchange CNAME rpz-passthru.
 beta.now.bt.co CNAME rpz-passthru.
 beta.sandbox.huffingtonpost.com.au CNAME rpz-passthru.
 beta.skypeassets.com CNAME rpz-passthru.
@@ -1783,6 +1789,7 @@ bing.se CNAME rpz-passthru.
 bireysel-zîraat.com CNAME rpz-passthru.
 bit.do CNAME rpz-passthru.
 bit.ly CNAME rpz-passthru.
+bit.namecoin.info CNAME rpz-passthru.
 bitbucket.io CNAME rpz-passthru.
 bitbucket.org CNAME rpz-passthru.
 bitcoin.com CNAME rpz-passthru.
@@ -1847,6 +1854,7 @@ blog.linkedin.com CNAME rpz-passthru.
 blog.medium.com CNAME rpz-passthru.
 blog.naver.com CNAME rpz-passthru.
 blog.netflix.com CNAME rpz-passthru.
+blog.next.exchange CNAME rpz-passthru.
 blog.nirsoft.net CNAME rpz-passthru.
 blog.paranoidandroid.co CNAME rpz-passthru.
 blog.pinterest.com CNAME rpz-passthru.
@@ -2299,6 +2307,7 @@ ch.hide.me CNAME rpz-passthru.
 ch.hitbtc.com CNAME rpz-passthru.
 ch.wikipedia.com CNAME rpz-passthru.
 chadmayfield.com CNAME rpz-passthru.
+chain.next.exchange CNAME rpz-passthru.
 chainnews.com CNAME rpz-passthru.
 chan.sankakucomplex.com CNAME rpz-passthru.
 change.org CNAME rpz-passthru.
@@ -3385,6 +3394,7 @@ exchange.kaspersky.com CNAME rpz-passthru.
 expbl2ro.xbox.com CNAME rpz-passthru.
 expertcity.com CNAME rpz-passthru.
 experts-exchange.com CNAME rpz-passthru.
+explore.next.exchange CNAME rpz-passthru.
 explore.pinterest.com CNAME rpz-passthru.
 express.co.uk CNAME rpz-passthru.
 extension-files.twitch.tv CNAME rpz-passthru.
@@ -5897,6 +5907,7 @@ mva.microsoft.com CNAME rpz-passthru.
 mvm.snapchat.com CNAME rpz-passthru.
 mvp.xbox.com CNAME rpz-passthru.
 mx.freenet.de CNAME rpz-passthru.
+mx.namecoin.info CNAME rpz-passthru.
 mx1.hitbtc.com CNAME rpz-passthru.
 my-beta.boldchat.com CNAME rpz-passthru.
 my.aliexpress.com CNAME rpz-passthru.
@@ -5962,6 +5973,7 @@ nam02.safelinks.protection.outlook.com CNAME rpz-passthru.
 nam04.safelinks.protection.outlook.com CNAME rpz-passthru.
 namebright.com CNAME rpz-passthru.
 namecheap.com CNAME rpz-passthru.
+namecoin.info CNAME rpz-passthru.
 namejet.com CNAME rpz-passthru.
 nanopi.org CNAME rpz-passthru.
 nanopool.org CNAME rpz-passthru.
@@ -6053,6 +6065,7 @@ newvirus.kaspersky.com CNAME rpz-passthru.
 newyork.cbslocal.com CNAME rpz-passthru.
 newyorker.com CNAME rpz-passthru.
 next.daisuki.net CNAME rpz-passthru.
+next.exchange CNAME rpz-passthru.
 nextdoor.com CNAME rpz-passthru.
 nexus-websocket-a.intercom.io CNAME rpz-passthru.
 nexus.ensighten.com CNAME rpz-passthru.
@@ -6624,6 +6637,7 @@ polling.bbc.co.uk CNAME rpz-passthru.
 polling.finance.naver.com CNAME rpz-passthru.
 poloniex.com CNAME rpz-passthru.
 polyfill.io CNAME rpz-passthru.
+pool.next.exchange CNAME rpz-passthru.
 pool.ntp.org CNAME rpz-passthru.
 pools1.cryptopia.co.nz CNAME rpz-passthru.
 pools2.cryptopia.co.nz CNAME rpz-passthru.
@@ -9765,6 +9779,7 @@ www.netflix.com CNAME rpz-passthru.
 www.newbiecontest.com CNAME rpz-passthru.
 www.newegg.com CNAME rpz-passthru.
 www.newindianexpress.com CNAME rpz-passthru.
+www.next.exchange CNAME rpz-passthru.
 www.nicehash.com CNAME rpz-passthru.
 www.niecko.pl CNAME rpz-passthru.
 www.nirsoft.net CNAME rpz-passthru.

@@ -26,10 +26,10 @@
 # Format: personalDNSfilter
 # Version: 20.02.049
 # Release: 049
-# Entries: 10,249
+# Entries: 10,264
 # Pack Code: E84S1C-W
 # License: MIT, https://energized.pro/license
-# Updated: Tue, 18 Feb 20 00:17:13
+# Updated: Tue, 18 Feb 20 02:01:51
 # RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/pdnsf.txt
 # --------------------------------------------
 #
@@ -280,6 +280,7 @@
 !access-prod.apis.anvato.n0-edge-chat.facebook.com
 !access-prod.apis.anvato.net
 !access.line.me
+!access.next.exchange
 !account-assets.jimstatic.com
 !account-us.huami.com
 !account.adobe.com
@@ -322,6 +323,7 @@
 !acompli.net
 !acp.jiobuzz.com
 !acquirethisname.com
+!acquisition-1.americanexpress.com
 !acr-search.sonymobile.com
 !acr.sonymobile.com
 !acr0.samsungcloudsolution.com
@@ -1256,6 +1258,7 @@
 !api.mixpanel.com
 !api.naver.com
 !api.netflix.com
+!api.next.exchange
 !api.nextgen.guardianapps.co.uk
 !api.nfl.com
 !api.nordvpn.com
@@ -1399,6 +1402,7 @@
 !app.mi.com
 !app.migc.xiaomi.com
 !app.miui.com
+!app.next.exchange
 !app.onesignal.com
 !app.optimizely.com
 !app.pinterest.com
@@ -1712,6 +1716,8 @@
 !beta.funimation.com
 !beta.huffingtonpost.com.au
 !beta.hulu.com
+!beta.namecoin.info
+!beta.next.exchange
 !beta.now.bt.co
 !beta.sandbox.huffingtonpost.com.au
 !beta.skypeassets.com
@@ -1775,6 +1781,7 @@
 !bireysel-zîraat.com
 !bit.do
 !bit.ly
+!bit.namecoin.info
 !bitbucket.io
 !bitbucket.org
 !bitcoin.com
@@ -1839,6 +1846,7 @@
 !blog.medium.com
 !blog.naver.com
 !blog.netflix.com
+!blog.next.exchange
 !blog.nirsoft.net
 !blog.paranoidandroid.co
 !blog.pinterest.com
@@ -2291,6 +2299,7 @@
 !ch.hitbtc.com
 !ch.wikipedia.com
 !chadmayfield.com
+!chain.next.exchange
 !chainnews.com
 !chan.sankakucomplex.com
 !change.org
@@ -3377,6 +3386,7 @@
 !expbl2ro.xbox.com
 !expertcity.com
 !experts-exchange.com
+!explore.next.exchange
 !explore.pinterest.com
 !express.co.uk
 !extension-files.twitch.tv
@@ -5889,6 +5899,7 @@
 !mvm.snapchat.com
 !mvp.xbox.com
 !mx.freenet.de
+!mx.namecoin.info
 !mx1.hitbtc.com
 !my-beta.boldchat.com
 !my.aliexpress.com
@@ -5954,6 +5965,7 @@
 !nam04.safelinks.protection.outlook.com
 !namebright.com
 !namecheap.com
+!namecoin.info
 !namejet.com
 !nanopi.org
 !nanopool.org
@@ -6045,6 +6057,7 @@
 !newyork.cbslocal.com
 !newyorker.com
 !next.daisuki.net
+!next.exchange
 !nextdoor.com
 !nexus-websocket-a.intercom.io
 !nexus.ensighten.com
@@ -6616,6 +6629,7 @@
 !polling.finance.naver.com
 !poloniex.com
 !polyfill.io
+!pool.next.exchange
 !pool.ntp.org
 !pools1.cryptopia.co.nz
 !pools2.cryptopia.co.nz
@@ -9757,6 +9771,7 @@
 !www.newbiecontest.com
 !www.newegg.com
 !www.newindianexpress.com
+!www.next.exchange
 !www.nicehash.com
 !www.niecko.pl
 !www.nirsoft.net

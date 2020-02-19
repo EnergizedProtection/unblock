@@ -24,12 +24,12 @@
 # Title: Energized Basic Protection - Whitelist
 # Description: Basic list of whitelisted domains.
 # Format: domain list
-# Version: 20.02.050
-# Release: 050
-# Entries: 10,264
+# Version: 20.02.051
+# Release: 051
+# Entries: 10,266
 # Pack Code: E84S1C-W
 # License: MIT, https://energized.pro/license
-# Updated: Wed, 19 Feb 20 18:22:58
+# Updated: Thu, 20 Feb 20 00:26:46
 # RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/domains.txt
 # --------------------------------------------
 #
@@ -3503,6 +3503,7 @@ fi.m.wikipedia.com
 fi.statcounter.com
 fi.wikipedia.com
 fico.i.lithium.com
+fidelity.com
 fifthplay.com
 fig.bbc.co.uk
 filament.io
@@ -9265,6 +9266,7 @@ www.feedburner.com
 www.feedly.com
 www.feedpress.it
 www.fhm.com
+www.fidelity.com
 www.fifthplay.com
 www.file-up.org
 www.filecrypt.cc

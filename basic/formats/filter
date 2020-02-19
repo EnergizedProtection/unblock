@@ -24,13 +24,13 @@
 ! Title: Energized Basic Protection - Whitelist
 ! Description: Basic list of whitelisted domains.
 ! Format: adblock
-! Version: 20.02.050
-! Release: 050
+! Version: 20.02.051
+! Release: 051
 ! Expires: 7 days (update frequency)
-! Entries: 10,264
+! Entries: 10,266
 ! Pack Code: E84S1C-W
 ! License: MIT, https://energized.pro/license
-! Updated: Wed, 19 Feb 20 18:22:58
+! Updated: Thu, 20 Feb 20 00:26:46
 ! RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/filter
 ! --------------------------------------------
 !
@@ -3504,6 +3504,7 @@
 @@||fi.statcounter.com^
 @@||fi.wikipedia.com^
 @@||fico.i.lithium.com^
+@@||fidelity.com^
 @@||fifthplay.com^
 @@||fig.bbc.co.uk^
 @@||filament.io^
@@ -9266,6 +9267,7 @@
 @@||www.feedly.com^
 @@||www.feedpress.it^
 @@||www.fhm.com^
+@@||www.fidelity.com^
 @@||www.fifthplay.com^
 @@||www.file-up.org^
 @@||www.filecrypt.cc^

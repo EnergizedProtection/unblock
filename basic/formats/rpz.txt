@@ -24,12 +24,12 @@
 ; Title: Energized Basic Protection - Whitelist
 ; Description: Basic list of whitelisted domains.
 ; Format: rpz
-; Version: 20.02.050
-; Release: 050
-; Entries: 10,264
+; Version: 20.02.051
+; Release: 051
+; Entries: 10,266
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Wed, 19 Feb 20 18:22:58
+; Updated: Thu, 20 Feb 20 00:26:46
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -3511,6 +3511,7 @@ fi.m.wikipedia.com CNAME rpz-passthru.
 fi.statcounter.com CNAME rpz-passthru.
 fi.wikipedia.com CNAME rpz-passthru.
 fico.i.lithium.com CNAME rpz-passthru.
+fidelity.com CNAME rpz-passthru.
 fifthplay.com CNAME rpz-passthru.
 fig.bbc.co.uk CNAME rpz-passthru.
 filament.io CNAME rpz-passthru.
@@ -9273,6 +9274,7 @@ www.feedburner.com CNAME rpz-passthru.
 www.feedly.com CNAME rpz-passthru.
 www.feedpress.it CNAME rpz-passthru.
 www.fhm.com CNAME rpz-passthru.
+www.fidelity.com CNAME rpz-passthru.
 www.fifthplay.com CNAME rpz-passthru.
 www.file-up.org CNAME rpz-passthru.
 www.filecrypt.cc CNAME rpz-passthru.

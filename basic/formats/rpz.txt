@@ -24,12 +24,12 @@
 ; Title: Energized Basic Protection - Whitelist
 ; Description: Basic list of whitelisted domains.
 ; Format: rpz
-; Version: 20.02.053
-; Release: 053
-; Entries: 10,266
+; Version: 20.02.054
+; Release: 054
+; Entries: 10,271
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Sat, 22 Feb 20 18:21:37
+; Updated: Sun, 23 Feb 20 00:21:21
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -339,6 +339,7 @@ acrobat.adobe.com CNAME rpz-passthru.
 acroipm.adobe.com CNAME rpz-passthru.
 acroipm2.adobe.com CNAME rpz-passthru.
 acronymfinder.com CNAME rpz-passthru.
+acsdk.gameyw.easebar.com CNAME rpz-passthru.
 act.wechat.com CNAME rpz-passthru.
 actionbutton.co CNAME rpz-passthru.
 actionnetwork.org CNAME rpz-passthru.
@@ -6922,6 +6923,7 @@ rebrandly.com CNAME rpz-passthru.
 rec.voot.com CNAME rpz-passthru.
 recipe.rakuten.co.jp CNAME rpz-passthru.
 recirculation.spot.im CNAME rpz-passthru.
+reckendrees.systems CNAME rpz-passthru.
 recode.net CNAME rpz-passthru.
 recommendation.spot.im CNAME rpz-passthru.
 redbullmediahouse.origin.typekit.com CNAME rpz-passthru.
@@ -7251,6 +7253,7 @@ scripts.pay.bka.sh CNAME rpz-passthru.
 scs.huawei.com CNAME rpz-passthru.
 scs.naver.com CNAME rpz-passthru.
 sd-ccdc.huawei.com CNAME rpz-passthru.
+sdk-os.mpsdk.easebar.com CNAME rpz-passthru.
 sdk.accountkit.com CNAME rpz-passthru.
 sdk.peppermint.samsung.com CNAME rpz-passthru.
 sdk.taboola.com CNAME rpz-passthru.
@@ -8389,6 +8392,7 @@ undraw.co CNAME rpz-passthru.
 unesco.org CNAME rpz-passthru.
 union.ucweb.com CNAME rpz-passthru.
 uniportal.huawei.com CNAME rpz-passthru.
+unisdk.update.easebar.com CNAME rpz-passthru.
 unity3d.com CNAME rpz-passthru.
 university.rakuten.co.jp CNAME rpz-passthru.
 unix.com CNAME rpz-passthru.
@@ -8411,6 +8415,7 @@ update.kies.samsung.com CNAME rpz-passthru.
 update.micloud.xiaomi.net CNAME rpz-passthru.
 update.miui.com CNAME rpz-passthru.
 update.sonymobile.com CNAME rpz-passthru.
+update.unisdk.easebar.com CNAME rpz-passthru.
 update.viber.com CNAME rpz-passthru.
 updates.push.services.mozilla.com CNAME rpz-passthru.
 updatesec.sonymobile.com CNAME rpz-passthru.

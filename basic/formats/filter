@@ -24,13 +24,13 @@
 ! Title: Energized Basic Protection - Whitelist
 ! Description: Basic list of whitelisted domains.
 ! Format: adblock
-! Version: 20.02.053
-! Release: 053
+! Version: 20.02.054
+! Release: 054
 ! Expires: 7 days (update frequency)
-! Entries: 10,266
+! Entries: 10,271
 ! Pack Code: E84S1C-W
 ! License: MIT, https://energized.pro/license
-! Updated: Sat, 22 Feb 20 18:21:37
+! Updated: Sun, 23 Feb 20 00:21:21
 ! RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/filter
 ! --------------------------------------------
 !
@@ -332,6 +332,7 @@
 @@||acroipm.adobe.com^
 @@||acroipm2.adobe.com^
 @@||acronymfinder.com^
+@@||acsdk.gameyw.easebar.com^
 @@||act.wechat.com^
 @@||actionbutton.co^
 @@||actionnetwork.org^
@@ -6915,6 +6916,7 @@
 @@||rec.voot.com^
 @@||recipe.rakuten.co.jp^
 @@||recirculation.spot.im^
+@@||reckendrees.systems^
 @@||recode.net^
 @@||recommendation.spot.im^
 @@||redbullmediahouse.origin.typekit.com^
@@ -7244,6 +7246,7 @@
 @@||scs.huawei.com^
 @@||scs.naver.com^
 @@||sd-ccdc.huawei.com^
+@@||sdk-os.mpsdk.easebar.com^
 @@||sdk.accountkit.com^
 @@||sdk.peppermint.samsung.com^
 @@||sdk.taboola.com^
@@ -8382,6 +8385,7 @@
 @@||unesco.org^
 @@||union.ucweb.com^
 @@||uniportal.huawei.com^
+@@||unisdk.update.easebar.com^
 @@||unity3d.com^
 @@||university.rakuten.co.jp^
 @@||unix.com^
@@ -8404,6 +8408,7 @@
 @@||update.micloud.xiaomi.net^
 @@||update.miui.com^
 @@||update.sonymobile.com^
+@@||update.unisdk.easebar.com^
 @@||update.viber.com^
 @@||updates.push.services.mozilla.com^
 @@||updatesec.sonymobile.com^

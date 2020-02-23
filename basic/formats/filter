@@ -24,13 +24,13 @@
 ! Title: Energized Basic Protection - Whitelist
 ! Description: Basic list of whitelisted domains.
 ! Format: adblock
-! Version: 20.02.054
-! Release: 054
+! Version: 20.02.055
+! Release: 055
 ! Expires: 7 days (update frequency)
-! Entries: 10,271
+! Entries: 10,272
 ! Pack Code: E84S1C-W
 ! License: MIT, https://energized.pro/license
-! Updated: Sun, 23 Feb 20 18:22:08
+! Updated: Mon, 24 Feb 20 00:22:11
 ! RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/filter
 ! --------------------------------------------
 !
@@ -1476,6 +1476,7 @@
 @@||arcticapi.com^
 @@||arcus-uswest.amazon.com^
 @@||ardownload.adobe.com^
+@@||area51.stackexchange.com^
 @@||ares.dl.playstation.net^
 @@||areyouonit.soundcloud.com^
 @@||argos.co.uk^

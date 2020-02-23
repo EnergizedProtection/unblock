@@ -4,10 +4,10 @@
 
 <div align="center">
   <!-- Version -->
-    <img src="https://img.shields.io/badge/Version-20.02.054-blue.svg?longCache=true&style=flat-square"
-      alt="20.02.054" />
+    <img src="https://img.shields.io/badge/Version-20.02.055-blue.svg?longCache=true&style=flat-square"
+      alt="20.02.055" />
   <!-- Last Updated -->
-    <img src="https://img.shields.io/badge/Updated-Feb 23, 2020-orange.svg?longCache=true&style=flat-square"
+    <img src="https://img.shields.io/badge/Updated-Feb 24, 2020-orange.svg?longCache=true&style=flat-square"
       alt="_time_stamp_" />
   <!-- Status -->
     <img src="https://img.shields.io/badge/Status-Stable-green.svg?longCache=true&style=flat-square"
@@ -84,7 +84,7 @@ Basic info about all Energized Protection packs.
 
 | PACK NAME | DESCRIPTION | BEST USE DEVICE | UNIQUE ENTRIES | SIZE (AVG.) | SOURCE |
 |:---------:|:-----------:|:---------------:|:--------------:|:-----------:|:------:|
-| Basic | Basic list of whitelisted domains. | ANY | 10,271 | 353K | [/basic](https://github.com/EnergizedProtection/unblock/tree/master/basic) |
+| Basic | Basic list of whitelisted domains. | ANY | 10,272 | 353K | [/basic](https://github.com/EnergizedProtection/unblock/tree/master/basic) |
 
 
 ## Formats
@@ -95,7 +95,7 @@ Different formats for various devices and extensions.
 
 | PACKAGE | ENTRIES | ADBLOCK FILTER | DOMAINS | DNSMASQ| DNSMASQ IPV6 | UNBOUND | RPZ | pDNSf |
 |:-------:|:-------:|:--------------:|:-------:|:------:|:------------:|:-------:|:---:|:-----:|
-| Basic | **10,271** | [FILTER](https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/filter) (232K) | [LIST](https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/domains.txt) (182K) | [CONF](https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/dnsmasq.conf) (353K) | [CONF IPV6](https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/dnsmasq-ipv6.conf) (483K) | [CONF](https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/unbound.conf) (443K) | [TXT](https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt) (383K) | [TXT](https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/pdnsf.txt) (192K) |
+| Basic | **10,272** | [FILTER](https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/filter) (232K) | [LIST](https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/domains.txt) (182K) | [CONF](https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/dnsmasq.conf) (353K) | [CONF IPV6](https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/dnsmasq-ipv6.conf) (483K) | [CONF](https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/unbound.conf) (443K) | [TXT](https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt) (383K) | [TXT](https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/pdnsf.txt) (192K) |
 
 
 ## Sources

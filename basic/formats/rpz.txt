@@ -24,12 +24,12 @@
 ; Title: Energized Basic Protection - Whitelist
 ; Description: Basic list of whitelisted domains.
 ; Format: rpz
-; Version: 20.02.054
-; Release: 054
-; Entries: 10,271
+; Version: 20.02.055
+; Release: 055
+; Entries: 10,272
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Sun, 23 Feb 20 18:22:08
+; Updated: Mon, 24 Feb 20 00:22:11
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -1483,6 +1483,7 @@ arcor.de CNAME rpz-passthru.
 arcticapi.com CNAME rpz-passthru.
 arcus-uswest.amazon.com CNAME rpz-passthru.
 ardownload.adobe.com CNAME rpz-passthru.
+area51.stackexchange.com CNAME rpz-passthru.
 ares.dl.playstation.net CNAME rpz-passthru.
 areyouonit.soundcloud.com CNAME rpz-passthru.
 argos.co.uk CNAME rpz-passthru.

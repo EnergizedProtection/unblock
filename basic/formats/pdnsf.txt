@@ -24,12 +24,12 @@
 # Title: Energized Basic Protection - Whitelist
 # Description: Basic list of whitelisted domains.
 # Format: personalDNSfilter
-# Version: 20.02.055
-# Release: 055
-# Entries: 10,272
+# Version: 20.02.056
+# Release: 056
+# Entries: 10,285
 # Pack Code: E84S1C-W
 # License: MIT, https://energized.pro/license
-# Updated: Mon, 24 Feb 20 18:22:00
+# Updated: Tue, 25 Feb 20 00:22:32
 # RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/pdnsf.txt
 # --------------------------------------------
 #
@@ -1692,6 +1692,7 @@
 !bcbits.com
 !bcedns.com
 !bcedns.net
+!bd-pratidin.com
 !bdimg.com
 !bdydns.com
 !bdydns.net
@@ -3201,6 +3202,7 @@
 !edgecastcdn.net
 !edgesuite.net
 !edir.ec
+!edition.cnn.com
 !editor.dailycaller.com
 !edm03.huawei.com
 !edoc.huawei.com
@@ -6030,6 +6032,7 @@
 !news.com.au
 !news.ebc.net.tw
 !news.engadget.com
+!news.google.com
 !news.line.me
 !news.naver.com
 !news.nil.naver.com
@@ -6042,6 +6045,7 @@
 !news.vuukle.com
 !news.wko.at
 !news.xbox.com
+!news.yahoo.com
 !news.ycombinator.com
 !newsapi.com.au
 !newscdn.com.au
@@ -9070,6 +9074,7 @@
 !www.bbc.co.uk
 !www.bbc.com
 !www.bbci.co.uk
+!www.bd-pratidin.com
 !www.behance.net
 !www.bemyeyes.com
 !www.bestbuy.com
@@ -9156,6 +9161,7 @@
 !www.cms.techrepublic.com
 !www.cnbc.com
 !www.cnevids.com
+!www.cnn.com
 !www.cnstrc.com
 !www.codeanywhere.com
 !www.codecanyon.net
@@ -9197,6 +9203,7 @@
 !www.daffodilvarsity.edu.bd
 !www.dailycaller.com
 !www.dailykos.com
+!www.dailymail.co.uk
 !www.daisuki.net
 !www.dataplicity.com
 !www.daum.net
@@ -9662,6 +9669,7 @@
 !www.kopimi.com
 !www.kutt.it
 !www.latesthackingnews.com
+!www.latimes.com
 !www.lds.org
 !www.lds.org.edgekey.net
 !www.leanplum.com
@@ -9869,6 +9877,7 @@
 !www.privateinternetaccess.com
 !www.propublica.org
 !www.prothom-alo.com
+!www.prothomalo.com
 !www.prtimes.jp
 !www.pubgmobile.com
 !www.publishers.medium.com
@@ -10070,6 +10079,7 @@
 !www.us.playstation.com
 !www.usa.gov
 !www.usaid.gov
+!www.usatoday.com
 !www.usenix.org
 !www.ushareit.com
 !www.validatedsite.com
@@ -10100,6 +10110,7 @@
 !www.w3schools.com
 !www.w88.espn.com
 !www.warez-bb.org
+!www.washingtonpost.com
 !www.weather.com
 !www.weather.gov
 !www.web-development-blog.com
@@ -10119,6 +10130,7 @@
 !www.wikipedia.com
 !www.winfuture.de
 !www.wire.com
+!www.wired.co.uk
 !www.wix.com
 !www.wko.at
 !www.wololo.net
@@ -10126,6 +10138,7 @@
 !www.wordle.net
 !www.wordpress.com
 !www.wshifen.com
+!www.wsj.com
 !www.wtvr.com
 !www.wunderground.com
 !www.wupload.com

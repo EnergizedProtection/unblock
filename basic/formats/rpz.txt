@@ -24,12 +24,12 @@
 ; Title: Energized Basic Protection - Whitelist
 ; Description: Basic list of whitelisted domains.
 ; Format: rpz
-; Version: 20.02.055
-; Release: 055
-; Entries: 10,272
+; Version: 20.02.056
+; Release: 056
+; Entries: 10,285
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Mon, 24 Feb 20 18:22:00
+; Updated: Tue, 25 Feb 20 00:22:32
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -1700,6 +1700,7 @@ bc.vc CNAME rpz-passthru.
 bcbits.com CNAME rpz-passthru.
 bcedns.com CNAME rpz-passthru.
 bcedns.net CNAME rpz-passthru.
+bd-pratidin.com CNAME rpz-passthru.
 bdimg.com CNAME rpz-passthru.
 bdydns.com CNAME rpz-passthru.
 bdydns.net CNAME rpz-passthru.
@@ -3209,6 +3210,7 @@ edge.skype.com CNAME rpz-passthru.
 edgecastcdn.net CNAME rpz-passthru.
 edgesuite.net CNAME rpz-passthru.
 edir.ec CNAME rpz-passthru.
+edition.cnn.com CNAME rpz-passthru.
 editor.dailycaller.com CNAME rpz-passthru.
 edm03.huawei.com CNAME rpz-passthru.
 edoc.huawei.com CNAME rpz-passthru.
@@ -6038,6 +6040,7 @@ newjobs.com CNAME rpz-passthru.
 news.com.au CNAME rpz-passthru.
 news.ebc.net.tw CNAME rpz-passthru.
 news.engadget.com CNAME rpz-passthru.
+news.google.com CNAME rpz-passthru.
 news.line.me CNAME rpz-passthru.
 news.naver.com CNAME rpz-passthru.
 news.nil.naver.com CNAME rpz-passthru.
@@ -6050,6 +6053,7 @@ news.vimeo.com CNAME rpz-passthru.
 news.vuukle.com CNAME rpz-passthru.
 news.wko.at CNAME rpz-passthru.
 news.xbox.com CNAME rpz-passthru.
+news.yahoo.com CNAME rpz-passthru.
 news.ycombinator.com CNAME rpz-passthru.
 newsapi.com.au CNAME rpz-passthru.
 newscdn.com.au CNAME rpz-passthru.
@@ -9078,6 +9082,7 @@ www.barebones.com CNAME rpz-passthru.
 www.bbc.co.uk CNAME rpz-passthru.
 www.bbc.com CNAME rpz-passthru.
 www.bbci.co.uk CNAME rpz-passthru.
+www.bd-pratidin.com CNAME rpz-passthru.
 www.behance.net CNAME rpz-passthru.
 www.bemyeyes.com CNAME rpz-passthru.
 www.bestbuy.com CNAME rpz-passthru.
@@ -9164,6 +9169,7 @@ www.clubedohardware.com.br CNAME rpz-passthru.
 www.cms.techrepublic.com CNAME rpz-passthru.
 www.cnbc.com CNAME rpz-passthru.
 www.cnevids.com CNAME rpz-passthru.
+www.cnn.com CNAME rpz-passthru.
 www.cnstrc.com CNAME rpz-passthru.
 www.codeanywhere.com CNAME rpz-passthru.
 www.codecanyon.net CNAME rpz-passthru.
@@ -9205,6 +9211,7 @@ www.d-h.st CNAME rpz-passthru.
 www.daffodilvarsity.edu.bd CNAME rpz-passthru.
 www.dailycaller.com CNAME rpz-passthru.
 www.dailykos.com CNAME rpz-passthru.
+www.dailymail.co.uk CNAME rpz-passthru.
 www.daisuki.net CNAME rpz-passthru.
 www.dataplicity.com CNAME rpz-passthru.
 www.daum.net CNAME rpz-passthru.
@@ -9670,6 +9677,7 @@ www.kongregate.com CNAME rpz-passthru.
 www.kopimi.com CNAME rpz-passthru.
 www.kutt.it CNAME rpz-passthru.
 www.latesthackingnews.com CNAME rpz-passthru.
+www.latimes.com CNAME rpz-passthru.
 www.lds.org CNAME rpz-passthru.
 www.lds.org.edgekey.net CNAME rpz-passthru.
 www.leanplum.com CNAME rpz-passthru.
@@ -9877,6 +9885,7 @@ www.primewire.ag CNAME rpz-passthru.
 www.privateinternetaccess.com CNAME rpz-passthru.
 www.propublica.org CNAME rpz-passthru.
 www.prothom-alo.com CNAME rpz-passthru.
+www.prothomalo.com CNAME rpz-passthru.
 www.prtimes.jp CNAME rpz-passthru.
 www.pubgmobile.com CNAME rpz-passthru.
 www.publishers.medium.com CNAME rpz-passthru.
@@ -10078,6 +10087,7 @@ www.us.cdn.survey.medallia.com CNAME rpz-passthru.
 www.us.playstation.com CNAME rpz-passthru.
 www.usa.gov CNAME rpz-passthru.
 www.usaid.gov CNAME rpz-passthru.
+www.usatoday.com CNAME rpz-passthru.
 www.usenix.org CNAME rpz-passthru.
 www.ushareit.com CNAME rpz-passthru.
 www.validatedsite.com CNAME rpz-passthru.
@@ -10108,6 +10118,7 @@ www.w3school.com CNAME rpz-passthru.
 www.w3schools.com CNAME rpz-passthru.
 www.w88.espn.com CNAME rpz-passthru.
 www.warez-bb.org CNAME rpz-passthru.
+www.washingtonpost.com CNAME rpz-passthru.
 www.weather.com CNAME rpz-passthru.
 www.weather.gov CNAME rpz-passthru.
 www.web-development-blog.com CNAME rpz-passthru.
@@ -10127,6 +10138,7 @@ www.whoismind.com CNAME rpz-passthru.
 www.wikipedia.com CNAME rpz-passthru.
 www.winfuture.de CNAME rpz-passthru.
 www.wire.com CNAME rpz-passthru.
+www.wired.co.uk CNAME rpz-passthru.
 www.wix.com CNAME rpz-passthru.
 www.wko.at CNAME rpz-passthru.
 www.wololo.net CNAME rpz-passthru.
@@ -10134,6 +10146,7 @@ www.womenshealthmag.com CNAME rpz-passthru.
 www.wordle.net CNAME rpz-passthru.
 www.wordpress.com CNAME rpz-passthru.
 www.wshifen.com CNAME rpz-passthru.
+www.wsj.com CNAME rpz-passthru.
 www.wtvr.com CNAME rpz-passthru.
 www.wunderground.com CNAME rpz-passthru.
 www.wupload.com CNAME rpz-passthru.

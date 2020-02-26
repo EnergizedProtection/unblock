@@ -27,10 +27,10 @@
 ! Version: 20.02.057
 ! Release: 057
 ! Expires: 7 days (update frequency)
-! Entries: 10,285
+! Entries: 10,286
 ! Pack Code: E84S1C-W
 ! License: MIT, https://energized.pro/license
-! Updated: Wed, 26 Feb 20 12:21:21
+! Updated: Wed, 26 Feb 20 18:22:32
 ! RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/filter
 ! --------------------------------------------
 !
@@ -5199,6 +5199,7 @@
 @@||live.synchub.sonymobile.com^
 @@||live.viber.com^
 @@||live.xbox.com^
+@@||liveapi.yext.com^
 @@||liveaquaria.com^
 @@||livearea.api.np.km.playstation.net^
 @@||livearea.np.dl.playstation.net^

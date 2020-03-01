@@ -4,10 +4,10 @@
 
 <div align="center">
   <!-- Version -->
-    <img src="https://img.shields.io/badge/Version-20.03.061-blue.svg?longCache=true&style=flat-square"
-      alt="20.03.061" />
+    <img src="https://img.shields.io/badge/Version-20.03.062-blue.svg?longCache=true&style=flat-square"
+      alt="20.03.062" />
   <!-- Last Updated -->
-    <img src="https://img.shields.io/badge/Updated-Mar 01, 2020-orange.svg?longCache=true&style=flat-square"
+    <img src="https://img.shields.io/badge/Updated-Mar 02, 2020-orange.svg?longCache=true&style=flat-square"
       alt="_time_stamp_" />
   <!-- Status -->
     <img src="https://img.shields.io/badge/Status-Stable-green.svg?longCache=true&style=flat-square"

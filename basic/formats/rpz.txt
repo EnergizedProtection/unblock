@@ -24,12 +24,12 @@
 ; Title: Energized Basic Protection - Whitelist
 ; Description: Basic list of whitelisted domains.
 ; Format: rpz
-; Version: 20.03.076
-; Release: 076
+; Version: 20.03.077
+; Release: 077
 ; Entries: 10,287
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Mon, 16 Mar 20 00:15:58
+; Updated: Tue, 17 Mar 20 00:16:46
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;

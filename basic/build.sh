@@ -81,7 +81,8 @@ echo -n "; $dividerTiny\n; E N E R G I Z E D  E N D S\n; $dividerTiny\n;\n; - - 
 echo -n "\n# $dividerTiny\n# E N E R G I Z E D  E N D S\n# $dividerTiny\n#\n# - - - -  S T A Y  E N E R G I Z E D  - - - -" >> $footerOL
 echo $W"[+] Enter Token: $TOKEN"$N
 read TOKEN
-curl -s -o $file -L https://$TOKEN@raw.githubusercontent.com/AdroitAdorKhan/Energized-Protection-Core/master/corps
+#curl -s -o $file -L https://$TOKEN@raw.githubusercontent.com/AdroitAdorKhan/Energized-Protection-Core/master/corps
+curl -s -o $file -L -H "Authorization: token $TOKEN" https://raw.githubusercontent.com/AdroitAdorKhan/Energized-Protection-Core/master/corps
 clear
 #-------------------------------------------------------------------------------#
 #--------------------------- P R O C E S S  P A C K ----------------------------#

@@ -1,4 +1,4 @@
-![Cover](https://energized.pro/assets/cover/energized_cover.svg)
+![Cover](https://cdn.energized.pro/images/unblock_cover.svg)
 
 <h1 align="center">Energized Protection - unblock ⚡</h1> 
 
@@ -24,11 +24,6 @@
 <br />
 
 <div align="center">
-  <!-- Codenvy -->
-  <a href="https://codenvy.io/">
-    <img src="https://img.shields.io/badge/Cloud-Codenvy-00305b.svg?longCache=true&style=flat-square"
-      alt="Codenvy" />
-  </a>
   <!-- License -->
   <a href="https://github.com/EnergizedProtection/unblock/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square"
@@ -115,7 +110,7 @@ This donation is for our services, not for any pack, resource or any other mean.
 
 ## Disclaimer
 
-Energized Protection unBlock Lists are basically `whitelists` files to unblock access of legit domains. If you don't know how it works, nothing to worry about! Because this wouldn't break you internet usage experience alongside your device! :P
+Energized Protection unBlock Lists are basically `whitelist` files to unblock access of legit domains. If you don't know how it works, nothing to worry about! Because this wouldn't break you internet usage experience alongside your device!
 
 
 ## License
@@ -126,8 +121,5 @@ The content of this project itself is licensed under the [MIT](https://github.co
 
 <div align="center">
   <h2>Let's make an annoyance free better open internet, altogether!</h2>
+  <sub>A project by <a href="https://nayemador.com" target="_blank">Ador</a> with ❤<pub>
 </div>
-
-<p align="center"><sub>A project by <a href="https://nayemador.com" target="_blank">Ador</a> with ❤<p>
-
-<p align="center"><a href="https://saythanks.io/to/AdroitAdorKhan" target="_blank"><img src="https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg?longCache=true&style=flat-square"></a><p>

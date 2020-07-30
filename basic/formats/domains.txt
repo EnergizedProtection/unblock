@@ -26,10 +26,10 @@
 # Format: domain list
 # Version: 20.07.212
 # Release: 212
-# Entries: 10,627
+# Entries: 10,668
 # Pack Code: E84S1C-W
 # License: MIT, https://energized.pro/license
-# Updated: Thu, 30 Jul 20 12:14:01
+# Updated: Thu, 30 Jul 20 14:38:48
 # RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/domains.txt
 # --------------------------------------------
 #
@@ -1841,6 +1841,7 @@ bitly.com
 bitpay.com
 bits.twitch.tv
 bittip.coinbase.com
+bittorrent.com
 bittrex.com
 bixby.samsung.com
 bizjournals.com
@@ -2031,6 +2032,7 @@ builtwith.com
 bulksell.ebay.com
 bulletin.plus.google.com
 bundles.api.here.com
+burner.bonanza.com
 buscape.com.br
 business.hide.me
 business.line.me
@@ -2238,6 +2240,7 @@ cdn.hide.me
 cdn.images.dailystar.co.uk
 cdn.imgwzzmb.net
 cdn.jsdelivr.net
+cdn.jsdelivr.net.cdn.cloudflare.net
 cdn.keycdn.com
 cdn.livechatinc.com
 cdn.livefyre.com
@@ -2457,6 +2460,7 @@ cherry.flipboard.com
 chiark.greenend.org.uk
 chicago.cbslocal.com
 chicagotribune.com
+chickenkiller.com
 chimpstatic.com
 china-store.samsung.com.edgekey.net
 chinaz.com
@@ -2592,6 +2596,7 @@ code.google.com
 code.ionicframework.com
 code.jquery.com
 code.mi.com
+code.tidio.co
 codeanywhere.com
 codecanyon.net
 codemasters.com
@@ -2631,6 +2636,7 @@ common.like.naver.com
 commons.wikipedia.com
 commonsensemedia.org
 communities.api.playstation.com
+community-cdn-digitalocean-com.global.ssl.fastly.net
 community.coinbase.com
 community.eu.playstation.com
 community.funimation.com
@@ -2738,6 +2744,7 @@ costco.com
 costream.twitch.tv
 cosu.sonymobile.com
 counter-strike.net
+countryflags.io
 coupon.aliexpress.com
 couponbar.coupons.com
 coupondunia.go2cloud.org
@@ -2753,6 +2760,7 @@ cpms35.spop10.ams.plex.bz
 cpy-crack.com
 cr.naver.com
 cr2.shopping.naver.com
+crabdance.com
 crackberry.com
 cracked.com
 crackingpatching.com
@@ -3088,6 +3096,7 @@ dl.xposed.info
 dl2.files.xiaomi.net
 dl2.soft98.ir
 dldir.xiaomi.net
+dldir1.qq.com
 dlglobal.qq.com
 dlied1.qq.com
 dll.xposed.info
@@ -3320,6 +3329,7 @@ elivr.com
 elkjop.no
 eloqua.com
 elpais.com
+elsevier.com
 elurl.com
 em.funimation.com
 em1.typekit.com
@@ -3948,6 +3958,7 @@ geoip.sonymobile.com
 geoip.tnt-ea.com
 geolocation.onetrust.com
 georiot.com
+geoserver.org
 geover-prod.do.dsp.mp.microsoft.com
 geover-prod.dodsp.mp.microsoft.com.nsatc.net
 ger.cdn.survey.medallia.com
@@ -4057,6 +4068,7 @@ gob.pe
 godaddy.com
 godofwar.playstation.com
 gofundme.com
+gog-statics.com
 gogoanime.io
 gokano.com
 goldmoney.com
@@ -4640,6 +4652,7 @@ idealista.com
 ideone.com
 idg.com
 idg.me
+idownloadblog.com
 idroid.taobao.com
 ids.indevice.sonymobile.com
 ie.ign.com
@@ -4656,6 +4669,7 @@ igg-games.com
 igg.com
 igludostats.moonfroglabs.com
 ign.com
+ignorelist.com
 iguoguo.net
 ijr.com
 ikea.com
@@ -5091,6 +5105,7 @@ jsfiddle.net
 jssocdn.indiatimes.com
 jugem.jp
 jumia.com.ng
+jumpingcrab.com
 jwpcdn.com
 jwplatform.com
 jwpsrv.com
@@ -5156,6 +5171,7 @@ ko.wikipedia.com
 kohls.com
 komputerswiat.pl
 konachan.com
+konachan.net
 konsoleh.your-server.de
 kopimi.com
 koszykrd.wp.pl
@@ -5195,6 +5211,7 @@ labs.xda-developers.com
 lacumpa.biz
 lads.myspacecdn.com
 ladyfootlocker.com
+laerd.com
 lan.line.me
 land.naver.com
 land.xiaomi.net
@@ -5216,6 +5233,7 @@ launcher.nirsoft.net
 launcher.spot.im
 launcher.twitch.tv
 launchpad.net
+lazada.co.id
 lb.gravatar.com
 lb.wikipedia.com
 lb1.ow.ly
@@ -5304,6 +5322,7 @@ link.xperialounge.sonymobile.com
 linkbucks.com
 linkedin.com
 linkedinmobileapp.com
+linkinghub.elsevier.com
 linkis.com
 links.announcements.soundcloud.com
 links.confirmation.soundcloud.com
@@ -5792,6 +5811,7 @@ media-1.breitbart.com
 media-amazon.com
 media-cdn.twitch.tv
 media-direct.cdn.viber.com
+media-lax1.inq.com
 media-origin-na.ssl-images-amazon.com
 media.api.aws.viber.com
 media.api.eu.aws.viber.com
@@ -6000,6 +6020,7 @@ moments-photos.gotinder.com
 moneysavingexpert.com
 monitor.returnpath.net
 monitoring-team.sonymobile.com
+mooo.com
 moourl.com
 moovitapp.com
 mopub.com
@@ -6466,6 +6487,7 @@ oload.cloud
 oload.tv
 oloadcdn.net
 olp.net
+olx.co.id
 olx.ua
 olymptrade.com
 om.cbsi.com
@@ -6684,6 +6706,7 @@ pds37.cafe.daum.net
 pdvs.rts.band.naver.com
 pecl.php.net
 pedr.com
+peeksoft.co
 pendo.io
 people.com
 people.skype.com
@@ -7255,6 +7278,7 @@ rockstargames.com
 rogers.com
 roku.com
 rollingstone.com
+roosterteeth.com
 rover.ebay.co.uk
 rover.ebay.com
 rover.ebay.de
@@ -7958,6 +7982,7 @@ staging.www.huffingtonpost.com
 staging2015.boomkat.com
 stagingv2.spot.im
 stags.bluekai.com
+stallman.org
 stamps.stores.shop.ebay.com
 stanev.org
 stanford.edu
@@ -8042,10 +8067,12 @@ static.stumbleupon.com
 static.template.pcbeta.com
 static.tianya.cn
 static.tianyaui.com
+static.tidiochat.com
 static.union.mi.com
 static.viabtc.com
 static.viber.com
 static.videoder.net
+static.vrv.co
 static.wired.com
 static.ws.126.net
 static.www.odcdn.com.edgekey.net
@@ -8059,6 +8086,7 @@ statics-www-ssl.gingersoftware.com
 statics.streamable.com
 staticxx.facebook.com
 station.sony.com
+statistics.laerd.com
 stats.adobe.com
 stats.api.xiaomi.net
 stats.gc.fe.apple-dns.net
@@ -8155,6 +8183,7 @@ strangled.net
 stratus.soundcloud.com
 stream.highwebmedia.com
 stream.twitch.tv
+streamer.tawenda-tech.org
 streamplay.me
 streamplay.to
 strefa.fm
@@ -8473,6 +8502,7 @@ topics.spot.im
 topratedmilfs.com
 toptenreviews.com
 toreedgefd.dsx.mp.microsoft.com
+torlock.com
 toronto.my.kaspersky.com
 torproject.org
 torrentfreak.com
@@ -8585,6 +8615,7 @@ tw.api.io.mi.com
 tw.blog.twitch.tv
 tw.weibo.com
 tw03a159.sandai.net
+twilightparadox.com
 twimg.com
 twimg.sinatw.com
 twimg0-a.akamaihd.net
@@ -9386,6 +9417,7 @@ www.bitcoin.de
 www.bitfinex.com
 www.bithumb.com
 www.bitit.io
+www.bittorrent.com
 www.bizpacreview.com
 www.blackberry.com
 www.blackboxrepack.com
@@ -9482,6 +9514,7 @@ www.conversantmedia.com
 www.coolrom.com
 www.corbettreport.com
 www.cort.as
+www.countryflags.io
 www.coupons.com
 www.cpmlink.net
 www.cracked.com
@@ -9636,6 +9669,7 @@ www.gearsofwar.xbox.com
 www.gematsu.com
 www.genius.com
 www.georiot.com
+www.geoserver.org
 www.ger.cdn.survey.medallia.com
 www.getpocket.com
 www.ghacks.net
@@ -9651,6 +9685,7 @@ www.glyph.medium.com
 www.go.microsoft.com
 www.godaddy.com
 www.gofundme.com
+www.gog-statics.com
 www.gogoanime.io
 www.gokano.com
 www.goldmoney.com
@@ -9923,6 +9958,7 @@ www.icanhazip.com
 www.icloud.com
 www.icptrack.com
 www.idealista.com
+www.idownloadblog.com
 www.igamecj.com
 www.igg-games.com
 www.ign.com
@@ -10015,6 +10051,7 @@ www.logmeinrescue.com
 www.lolcounter.com
 www.lotustalk.com
 www.lovoo.com
+www.lowes.com
 www.ltc.cryptopia.co.nz
 www.m.animefreak.tv
 www.m.apkpure.com
@@ -10167,6 +10204,7 @@ www.pc-magazin.de
 www.pcbeta.com
 www.pcmag.com
 www.pcwelt.de
+www.peeksoft.co
 www.pendo.io
 www.perksatwork.com
 www.petapixel.com
@@ -10329,6 +10367,7 @@ www.ssl-images-amazon.com
 www.stackpath.com
 www.stackpathdns.com
 www.staging.vudu.com
+www.stallman.org
 www.staradvertiser.com
 www.state.gov
 www.static.medium.com
@@ -10345,6 +10384,7 @@ www.syndicaster.tv
 www.synology.com
 www.taboola.com
 www.taobao.com
+www.tawk.to
 www.techcrunch.com
 www.techmeme.com
 www.technobezz.com
@@ -10378,6 +10418,7 @@ www.thumbzilla.com
 www.tmublr.com
 www.tomshardware.com
 www.toptenreviews.com
+www.torlock.com
 www.torproject.org
 www.trafficrouter.io
 www.trakt.tv

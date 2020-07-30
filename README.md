@@ -1,13 +1,13 @@
-![Cover](https://energized.pro/assets/cover/energized_cover.svg)
+![Cover](https://cdn.energized.pro/images/unblock_cover.svg)
 
 <h1 align="center">Energized Protection - unblock ⚡</h1> 
 
 <div align="center">
   <!-- Version -->
-    <img src="https://img.shields.io/badge/Version-20.04.116-blue.svg?longCache=true&style=flat-square"
-      alt="20.04.116" />
+    <img src="https://img.shields.io/badge/Version-20.07.212-blue.svg?longCache=true&style=flat-square"
+      alt="20.07.212" />
   <!-- Last Updated -->
-    <img src="https://img.shields.io/badge/Updated-Apr 25, 2020-orange.svg?longCache=true&style=flat-square"
+    <img src="https://img.shields.io/badge/Updated-Jul 30, 2020-orange.svg?longCache=true&style=flat-square"
       alt="_time_stamp_" />
   <!-- Status -->
     <img src="https://img.shields.io/badge/Status-Stable-green.svg?longCache=true&style=flat-square"
@@ -24,11 +24,6 @@
 <br />
 
 <div align="center">
-  <!-- Codenvy -->
-  <a href="https://codenvy.io/">
-    <img src="https://img.shields.io/badge/Cloud-Codenvy-00305b.svg?longCache=true&style=flat-square"
-      alt="Codenvy" />
-  </a>
   <!-- License -->
   <a href="https://github.com/EnergizedProtection/unblock/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square"
@@ -84,7 +79,7 @@ Basic info about all Energized Protection packs.
 
 | PACK NAME | DESCRIPTION | BEST USE DEVICE | UNIQUE ENTRIES | SIZE (AVG.) | SOURCE |
 |:---------:|:-----------:|:---------------:|:--------------:|:-----------:|:------:|
-| Basic | Basic list of whitelisted domains. | ANY | 10,287 | 353K | [/basic](https://github.com/EnergizedProtection/unblock/tree/master/basic) |
+| Basic | Basic list of whitelisted domains. | ANY | 10,627 | 365K | [/basic](https://github.com/EnergizedProtection/unblock/tree/master/basic) |
 
 
 ## Formats
@@ -95,7 +90,7 @@ Different formats for various devices and extensions.
 
 | PACKAGE | ENTRIES | ADBLOCK FILTER | DOMAINS | DNSMASQ| DNSMASQ IPV6 | UNBOUND | RPZ | pDNSf |
 |:-------:|:-------:|:--------------:|:-------:|:------:|:------------:|:-------:|:---:|:-----:|
-| Basic | **10,287** | [FILTER](https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/filter) (233K) | [LIST](https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/domains.txt) (182K) | [CONF](https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/dnsmasq.conf) (353K) | [CONF IPV6](https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/dnsmasq-ipv6.conf) (484K) | [CONF](https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/unbound.conf) (444K) | [TXT](https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt) (384K) | [TXT](https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/pdnsf.txt) (192K) |
+| Basic | **10,627** | [FILTER](https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/filter) (240K) | [LIST](https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/domains.txt) (189K) | [CONF](https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/dnsmasq.conf) (365K) | [CONF IPV6](https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/dnsmasq-ipv6.conf) (500K) | [CONF](https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/unbound.conf) (458K) | [TXT](https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt) (396K) | [TXT](https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/pdnsf.txt) (199K) |
 
 
 ## Sources
@@ -115,7 +110,7 @@ This donation is for our services, not for any pack, resource or any other mean.
 
 ## Disclaimer
 
-Energized Protection unBlock Lists are basically `whitelists` files to unblock access of legit domains. If you don't know how it works, nothing to worry about! Because this wouldn't break you internet usage experience alongside your device! :P
+Energized Protection unBlock Lists are basically `whitelist` files to unblock access of legit domains. If you don't know how it works, nothing to worry about! Because this wouldn't break you internet usage experience alongside your device!
 
 
 ## License
@@ -126,8 +121,6 @@ The content of this project itself is licensed under the [MIT](https://github.co
 
 <div align="center">
   <h2>Let's make an annoyance free better open internet, altogether!</h2>
+  <sub>A project by <a href="https://nayemador.com" target="_blank">Ador</a> with ❤<pub>
 </div>
 
-<p align="center"><sub>A project by <a href="https://nayemador.com" target="_blank">Ador</a> with ❤<p>
-
-<p align="center"><a href="https://saythanks.io/to/AdroitAdorKhan" target="_blank"><img src="https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg?longCache=true&style=flat-square"></a><p>

@@ -27,10 +27,10 @@
 ! Version: 20.08.214
 ! Release: 214
 ! Expires: 7 days (update frequency)
-! Entries: 10,668
+! Entries: 10,672
 ! Pack Code: E84S1C-W
 ! License: MIT, https://energized.pro/license
-! Updated: Sat, 01 Aug 20 11:46:04
+! Updated: Sat, 01 Aug 20 17:46:03
 ! RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/filter
 ! --------------------------------------------
 !
@@ -3403,6 +3403,7 @@
 @@||epicgames.com^
 @@||epix-ssl.xbox.com^
 @@||epix.xbox.com^
+@@||epl.paypal-communication.com^
 @@||epochtimes.com^
 @@||er.search.naver.com^
 @@||ereg.adobe.com^
@@ -3624,6 +3625,7 @@
 @@||fidelity.com^
 @@||fifthplay.com^
 @@||fig.bbc.co.uk^
+@@||figshare.com^
 @@||filament.io^
 @@||file-extensions.org^
 @@||file-igamecj.akamaized.net^
@@ -6685,6 +6687,7 @@
 @@||payments.soundcloud.com^
 @@||paymenttg.ok.ru^
 @@||payouts.payoneer.com^
+@@||paypal-communication.com^
 @@||paypal.boomkat.com^
 @@||paypal.com^
 @@||paypal.de^
@@ -9617,6 +9620,7 @@
 @@||www.fhm.com^
 @@||www.fidelity.com^
 @@||www.fifthplay.com^
+@@||www.figshare.com^
 @@||www.file-up.org^
 @@||www.filecrypt.cc^
 @@||www.filefactory.com^

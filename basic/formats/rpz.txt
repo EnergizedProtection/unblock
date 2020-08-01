@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 20.08.214
 ; Release: 214
-; Entries: 10,668
+; Entries: 10,672
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Sat, 01 Aug 20 11:46:04
+; Updated: Sat, 01 Aug 20 17:46:03
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -3410,6 +3410,7 @@ epaper.dnaindia.com CNAME rpz-passthru.
 epicgames.com CNAME rpz-passthru.
 epix-ssl.xbox.com CNAME rpz-passthru.
 epix.xbox.com CNAME rpz-passthru.
+epl.paypal-communication.com CNAME rpz-passthru.
 epochtimes.com CNAME rpz-passthru.
 er.search.naver.com CNAME rpz-passthru.
 ereg.adobe.com CNAME rpz-passthru.
@@ -3631,6 +3632,7 @@ fico.i.lithium.com CNAME rpz-passthru.
 fidelity.com CNAME rpz-passthru.
 fifthplay.com CNAME rpz-passthru.
 fig.bbc.co.uk CNAME rpz-passthru.
+figshare.com CNAME rpz-passthru.
 filament.io CNAME rpz-passthru.
 file-extensions.org CNAME rpz-passthru.
 file-igamecj.akamaized.net CNAME rpz-passthru.
@@ -6692,6 +6694,7 @@ payments.help.soundcloud.com CNAME rpz-passthru.
 payments.soundcloud.com CNAME rpz-passthru.
 paymenttg.ok.ru CNAME rpz-passthru.
 payouts.payoneer.com CNAME rpz-passthru.
+paypal-communication.com CNAME rpz-passthru.
 paypal.boomkat.com CNAME rpz-passthru.
 paypal.com CNAME rpz-passthru.
 paypal.de CNAME rpz-passthru.
@@ -9624,6 +9627,7 @@ www.feedpress.it CNAME rpz-passthru.
 www.fhm.com CNAME rpz-passthru.
 www.fidelity.com CNAME rpz-passthru.
 www.fifthplay.com CNAME rpz-passthru.
+www.figshare.com CNAME rpz-passthru.
 www.file-up.org CNAME rpz-passthru.
 www.filecrypt.cc CNAME rpz-passthru.
 www.filefactory.com CNAME rpz-passthru.

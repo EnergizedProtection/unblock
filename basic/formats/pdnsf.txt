@@ -24,12 +24,12 @@
 # Title: Energized Basic Protection - Whitelist
 # Description: Basic list of whitelisted domains.
 # Format: personalDNSfilter
-# Version: 20.08.242
-# Release: 242
-# Entries: 10,672
+# Version: 20.08.243
+# Release: 243
+# Entries: 10,693
 # Pack Code: E84S1C-W
 # License: MIT, https://energized.pro/license
-# Updated: Sat, 29 Aug 20 23:46:01
+# Updated: Sun, 30 Aug 20 05:46:02
 # RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/pdnsf.txt
 # --------------------------------------------
 #
@@ -1188,6 +1188,7 @@
 !api.areffect.sonymobile.com
 !api.asm.skype.com
 !api.audlabs.com
+!api.band.us
 !api.bazaarvoice.com
 !api.bbs.miui.com
 !api.belly.naver.com
@@ -3253,6 +3254,7 @@
 !ea.com
 !ea1-urlp.secure.skypeassets.com
 !earth.google.com
+!earthlink.net
 !easylist-downloads.adblockplus.org
 !easylist.club
 !easylist.to
@@ -4458,6 +4460,7 @@
 !hide.me
 !hidemyass.com
 !high.software.dn.naver.com
+!highcharts.com
 !hike-res.cloudinary.com
 !hilp.it
 !hilton.com
@@ -4891,6 +4894,7 @@
 !innovationresearch.huawei.com
 !inoti.naver.com
 !input.mozilla.org
+!inq.com
 !ins.jr.mi.com
 !inscname.net
 !inside-brazil.flipboard.com
@@ -5058,6 +5062,7 @@
 !jira.xda-developers.com
 !jobs.dailycaller.com
 !jobs.engadget.com
+!jobs.lever.co
 !jobs.lifehacker.com
 !jobs.medium.com
 !jobs.typekit.com
@@ -5083,6 +5088,7 @@
 !jpdic.naver.com
 !jpmigtm1.sonymobile.com
 !jpmigtm2.sonymobile.com
+!jpost.com
 !jproxy.zoho.com
 !jq.qq.com
 !jquery.com
@@ -5552,6 +5558,7 @@
 !m.ebay.com
 !m.ebay.fr
 !m.ebay.it
+!m.economictimes.com
 !m.edu.dcinside.com
 !m.engadget.com
 !m.enter.dcinside.com
@@ -5595,6 +5602,7 @@
 !m.intl.taobao.com
 !m.investopedia.com
 !m.irishtimes.com
+!m.jpost.com
 !m.jr.mi.com
 !m.lg.com
 !m.line.me
@@ -5842,6 +5850,7 @@
 !media.soundcloud.com
 !media.syndicaster.tv
 !media.tumblr.com
+!media.very.co.uk
 !media.viafoura.net
 !media.viber.com
 !media.xda-developers.com
@@ -6711,6 +6720,7 @@
 !pedr.com
 !peeksoft.co
 !pendo.io
+!people-pa.googleapis.com
 !people.com
 !people.skype.com
 !peppermint.samsung.com
@@ -7420,6 +7430,7 @@
 !sakura.ne.jp
 !salemove.com
 !salesforce.com
+!salesforceliveagent.com
 !samizdat.nytimes.com
 !sampleweb-preview.xbox.com
 !samsung.com
@@ -8312,6 +8323,7 @@
 !t-info.mail.adobe.com
 !t-online.de
 !t-trg.email.adobe.com
+!t.cn
 !t.co
 !t.eloqua.com
 !t.hulu.com
@@ -8645,6 +8657,7 @@
 !uc.pcbeta.com
 !uchicago.edu
 !ucla.edu
+!ucweb.com
 !ud.me
 !udl-api.sonymobile.com
 !uds.licenses.adobe.com
@@ -8767,6 +8780,7 @@
 !us.community.samsung.com
 !us.contactapi.micloud.xiaomi.net
 !us.deviceapi.micloud.xiaomi.net
+!us.dyn.indeed.com
 !us.fileapi.micloud.xiaomi.net
 !us.find.api.micloud.xiaomi.net
 !us.findapi.micloud.xiaomi.net
@@ -8867,6 +8881,7 @@
 !verisign.com
 !verizonwireless.com
 !version.hybrid.api.here.com
+!very.co.uk
 !vesta.web.telegram.org
 !veta.naver.com
 !veteranstoday.com
@@ -9040,6 +9055,7 @@
 !washington.edu
 !washingtonpost.com
 !washingtontimes.com
+!washoeschools.net
 !watch.twitch.tv
 !watchdog-basic.energized.pro
 !watchdog-blu.energized.pro
@@ -9296,6 +9312,7 @@
 !www.a.shifen.com
 !www.abbreviations.com
 !www.abcnews.com.co
+!www.abebooks.com
 !www.abload.de
 !www.about.com
 !www.about.medium.com
@@ -9579,6 +9596,7 @@
 !www.duckdns.org
 !www.duo.nl
 !www.dw.techrepublic.com
+!www.earthlink.net
 !www.ebates.com
 !www.ebay.co.uk
 !www.ebay.com
@@ -10004,6 +10022,7 @@
 !www.join.slack.com
 !www.jotform.com
 !www.jp.playstation.com
+!www.jpost.com
 !www.jqueryscript.net
 !www.jqueryui.com
 !www.jsfiddle.net
@@ -10442,6 +10461,7 @@
 !www.typeform.com
 !www.typekit.com
 !www.uc.cn
+!www.ucweb.com
 !www.unity3d.com
 !www.unix.com
 !www.unpkg.com
@@ -10488,6 +10508,7 @@
 !www.w88.espn.com
 !www.warez-bb.org
 !www.washingtonpost.com
+!www.washoeschools.net
 !www.weather.com
 !www.weather.gov
 !www.web-development-blog.com

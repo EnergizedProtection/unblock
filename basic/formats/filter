@@ -24,13 +24,13 @@
 ! Title: Energized Basic Protection - Whitelist
 ! Description: Basic list of whitelisted domains.
 ! Format: adblock
-! Version: 20.08.243
-! Release: 243
+! Version: 20.08.244
+! Release: 244
 ! Expires: 7 days (update frequency)
 ! Entries: 10,693
 ! Pack Code: E84S1C-W
 ! License: MIT, https://energized.pro/license
-! Updated: Sun, 30 Aug 20 23:46:00
+! Updated: Mon, 31 Aug 20 05:46:02
 ! RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/filter
 ! --------------------------------------------
 !

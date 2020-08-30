@@ -29,7 +29,7 @@
 # Entries: 10,693
 # Pack Code: E84S1C-W
 # License: MIT, https://energized.pro/license
-# Updated: Sun, 30 Aug 20 05:46:02
+# Updated: Sun, 30 Aug 20 11:46:00
 # RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/pdnsf.txt
 # --------------------------------------------
 #

@@ -26,10 +26,10 @@
 # Format: domain list
 # Version: 20.09.248
 # Release: 248
-# Entries: 10,693
+# Entries: 10,695
 # Pack Code: E84S1C-W
 # License: MIT, https://energized.pro/license
-# Updated: Fri, 04 Sep 20 17:46:06
+# Updated: Fri, 04 Sep 20 23:46:06
 # RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/domains.txt
 # --------------------------------------------
 #
@@ -3882,6 +3882,7 @@ g.justwatch.com
 g.live.com
 g.mi.com
 g.msn.com
+g.udimg.com
 g00.msn.com
 g2a.com
 g2play.com
@@ -8659,6 +8660,7 @@ uchicago.edu
 ucla.edu
 ucweb.com
 ud.me
+udimg.com
 udl-api.sonymobile.com
 uds.licenses.adobe.com
 udurl.com

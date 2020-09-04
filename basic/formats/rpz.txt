@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 20.09.248
 ; Release: 248
-; Entries: 10,693
+; Entries: 10,695
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Fri, 04 Sep 20 17:46:06
+; Updated: Fri, 04 Sep 20 23:46:06
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -3890,6 +3890,7 @@ g.justwatch.com CNAME rpz-passthru.
 g.live.com CNAME rpz-passthru.
 g.mi.com CNAME rpz-passthru.
 g.msn.com CNAME rpz-passthru.
+g.udimg.com CNAME rpz-passthru.
 g00.msn.com CNAME rpz-passthru.
 g2a.com CNAME rpz-passthru.
 g2play.com CNAME rpz-passthru.
@@ -8667,6 +8668,7 @@ uchicago.edu CNAME rpz-passthru.
 ucla.edu CNAME rpz-passthru.
 ucweb.com CNAME rpz-passthru.
 ud.me CNAME rpz-passthru.
+udimg.com CNAME rpz-passthru.
 udl-api.sonymobile.com CNAME rpz-passthru.
 uds.licenses.adobe.com CNAME rpz-passthru.
 udurl.com CNAME rpz-passthru.

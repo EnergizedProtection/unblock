@@ -29,7 +29,7 @@
 # Entries: 10,695
 # Pack Code: E84S1C-W
 # License: MIT, https://energized.pro/license
-# Updated: Fri, 05 Feb 21 05:46:00
+# Updated: Fri, 05 Feb 21 11:45:57
 # RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/domains.txt
 # --------------------------------------------
 #

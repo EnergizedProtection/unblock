@@ -24,13 +24,13 @@
 ! Title: Energized Basic Protection - Whitelist
 ! Description: Basic list of whitelisted domains.
 ! Format: adblock
-! Version: 21.03.081
-! Release: 081
+! Version: 21.03.082
+! Release: 082
 ! Expires: 7 days (update frequency)
-! Entries: 10,695
+! Entries: 10,700
 ! Pack Code: E84S1C-W
 ! License: MIT, https://energized.pro/license
-! Updated: Mon, 22 Mar 21 23:46:04
+! Updated: Tue, 23 Mar 21 05:46:06
 ! RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/filter
 ! --------------------------------------------
 !
@@ -1749,6 +1749,7 @@
 @@||behoimi.org^
 @@||beian.gov.cn^
 @@||bemyeyes.com^
+@@||bendigobank.com.au^
 @@||bene.flipboard.com^
 @@||benefitcosmetics.com^
 @@||berkeley.edu^
@@ -5134,6 +5135,7 @@
 @@||keen.io^
 @@||keep.line.me^
 @@||keepalive.gotinder.com^
+@@||keepersecurity.com^
 @@||keepimg.com^
 @@||keiba.rakuten.co.jp^
 @@||key.us^
@@ -8288,6 +8290,7 @@
 @@||supportdev.cryptopia.co.nz^
 @@||supportuat.xbox.com^
 @@||surf.plus.google.com^
+@@||surfspot.nl^
 @@||survey-blog.line.me^
 @@||survey-ng.indevice.sonymobile.com^
 @@||survey.foreseeresults.com^
@@ -9421,6 +9424,7 @@
 @@||www.bd-pratidin.com^
 @@||www.behance.net^
 @@||www.bemyeyes.com^
+@@||www.bendigobank.com.au^
 @@||www.bestbuy.com^
 @@||www.bestfwdservice.com^
 @@||www.bestmovies.com^
@@ -10033,6 +10037,7 @@
 @@||www.kaspersky.com^
 @@||www.kcsoftwares.com^
 @@||www.keen.io^
+@@||www.keepersecurity.com^
 @@||www.keycdn.com^
 @@||www.kickstarter.com^
 @@||www.kijiji.ca^

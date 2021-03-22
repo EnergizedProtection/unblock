@@ -24,12 +24,12 @@
 ; Title: Energized Basic Protection - Whitelist
 ; Description: Basic list of whitelisted domains.
 ; Format: rpz
-; Version: 21.03.081
-; Release: 081
-; Entries: 10,695
+; Version: 21.03.082
+; Release: 082
+; Entries: 10,700
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Mon, 22 Mar 21 23:46:04
+; Updated: Tue, 23 Mar 21 05:46:06
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -1756,6 +1756,7 @@ behance.net CNAME rpz-passthru.
 behoimi.org CNAME rpz-passthru.
 beian.gov.cn CNAME rpz-passthru.
 bemyeyes.com CNAME rpz-passthru.
+bendigobank.com.au CNAME rpz-passthru.
 bene.flipboard.com CNAME rpz-passthru.
 benefitcosmetics.com CNAME rpz-passthru.
 berkeley.edu CNAME rpz-passthru.
@@ -5141,6 +5142,7 @@ ke.me CNAME rpz-passthru.
 keen.io CNAME rpz-passthru.
 keep.line.me CNAME rpz-passthru.
 keepalive.gotinder.com CNAME rpz-passthru.
+keepersecurity.com CNAME rpz-passthru.
 keepimg.com CNAME rpz-passthru.
 keiba.rakuten.co.jp CNAME rpz-passthru.
 key.us CNAME rpz-passthru.
@@ -8295,6 +8297,7 @@ support2.xbox.com CNAME rpz-passthru.
 supportdev.cryptopia.co.nz CNAME rpz-passthru.
 supportuat.xbox.com CNAME rpz-passthru.
 surf.plus.google.com CNAME rpz-passthru.
+surfspot.nl CNAME rpz-passthru.
 survey-blog.line.me CNAME rpz-passthru.
 survey-ng.indevice.sonymobile.com CNAME rpz-passthru.
 survey.foreseeresults.com CNAME rpz-passthru.
@@ -9428,6 +9431,7 @@ www.bbci.co.uk CNAME rpz-passthru.
 www.bd-pratidin.com CNAME rpz-passthru.
 www.behance.net CNAME rpz-passthru.
 www.bemyeyes.com CNAME rpz-passthru.
+www.bendigobank.com.au CNAME rpz-passthru.
 www.bestbuy.com CNAME rpz-passthru.
 www.bestfwdservice.com CNAME rpz-passthru.
 www.bestmovies.com CNAME rpz-passthru.
@@ -10040,6 +10044,7 @@ www.kano.is CNAME rpz-passthru.
 www.kaspersky.com CNAME rpz-passthru.
 www.kcsoftwares.com CNAME rpz-passthru.
 www.keen.io CNAME rpz-passthru.
+www.keepersecurity.com CNAME rpz-passthru.
 www.keycdn.com CNAME rpz-passthru.
 www.kickstarter.com CNAME rpz-passthru.
 www.kijiji.ca CNAME rpz-passthru.

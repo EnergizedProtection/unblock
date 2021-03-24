@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 21.03.083
 ; Release: 083
-; Entries: 10,700
+; Entries: 10,701
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Wed, 24 Mar 21 11:46:08
+; Updated: Wed, 24 Mar 21 17:46:08
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -6466,6 +6466,7 @@ o8.email.flipboard.com CNAME rpz-passthru.
 oam.huawei.com CNAME rpz-passthru.
 oas.monster.com CNAME rpz-passthru.
 oascentral.dailycaller.com CNAME rpz-passthru.
+oasis.opstatics.com CNAME rpz-passthru.
 oauth.rebrandly.com CNAME rpz-passthru.
 oauth.reddit.com CNAME rpz-passthru.
 oauth.vk.com CNAME rpz-passthru.

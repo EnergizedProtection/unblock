@@ -24,13 +24,13 @@
 ! Title: Energized Basic Protection - Whitelist
 ! Description: Basic list of whitelisted domains.
 ! Format: adblock
-! Version: 21.03.084
-! Release: 084
+! Version: 21.03.085
+! Release: 085
 ! Expires: 7 days (update frequency)
-! Entries: 10,774
+! Entries: 10,796
 ! Pack Code: E84S1C-W
 ! License: MIT, https://energized.pro/license
-! Updated: Thu, 25 Mar 21 23:46:01
+! Updated: Fri, 26 Mar 21 05:46:10
 ! RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/filter
 ! --------------------------------------------
 !
@@ -126,6 +126,8 @@
 @@||17track.net^
 @@||1and1.com^
 @@||1and1.fr^
+@@||1dot0dot0dot1.cloudflare-dns.com^
+@@||1dot1dot1dot1.cloudflare-dns.com^
 @@||1drv.com^
 @@||1drv.ms^
 @@||1e100.net^
@@ -368,6 +370,7 @@
 @@||acumin.typekit.com^
 @@||ad.samsungadhub.com^
 @@||ad.vu^
+@@||ada.support^
 @@||adage.com^
 @@||adameve.com^
 @@||adaware.com^
@@ -1276,6 +1279,7 @@
 @@||api.locize.io^
 @@||api.login.engadget.com^
 @@||api.login.techcrunch.com^
+@@||api.loginhood.io^
 @@||api.luftdaten.info^
 @@||api.mapbox.com^
 @@||api.media.jio.com^
@@ -2257,6 +2261,7 @@
 @@||cdn.livechatinc.com^
 @@||cdn.livefyre.com^
 @@||cdn.livestream.com^
+@@||cdn.loginhood.io^
 @@||cdn.mbl.is^
 @@||cdn.medium.com^
 @@||cdn.mozilla.net^
@@ -2271,6 +2276,7 @@
 @@||cdn.pcbeta.attachment.inimc.com^
 @@||cdn.pcbeta.css.inimc.com^
 @@||cdn.pcbeta.static.inimc.com^
+@@||cdn.pdst.fm^
 @@||cdn.pendo.io^
 @@||cdn.perfdrive.com^
 @@||cdn.polyfill.com^
@@ -2296,6 +2302,7 @@
 @@||cdn.technologyreview.com^
 @@||cdn.theatlantic.com^
 @@||cdn.tinypass.com^
+@@||cdn.transifex.com^
 @@||cdn.ttgtmedia.com^
 @@||cdn.us.playstation.com^
 @@||cdn.viafoura.net^
@@ -3032,6 +3039,7 @@
 @@||device.auth.xboxlive.com^
 @@||deviceapi.micloud.xiaomi.net^
 @@||deviceatlas.com^
+@@||devices.carnivalmobile.com^
 @@||devices.netflix.com^
 @@||devmate.com^
 @@||df.ly^
@@ -3422,6 +3430,7 @@
 @@||epa.gov^
 @@||epaper.dnaindia.com^
 @@||epicgames.com^
+@@||episerver.net^
 @@||epix-ssl.xbox.com^
 @@||epix.xbox.com^
 @@||epl.paypal-communication.com^
@@ -3551,6 +3560,7 @@
 @@||f.kinja-static.com^
 @@||f.youku.com^
 @@||f000.backblazeb2.com^
+@@||f002.backblazeb2.com^
 @@||f1.g.mi.com^
 @@||f1.media.brightcove.com^
 @@||f2.g.mi.com^
@@ -3993,6 +4003,7 @@
 @@||geshopcss.logsss.com^
 @@||gestyy.com^
 @@||get.adobe.com^
+@@||get.blazetv.com^
 @@||get.daum.net^
 @@||get.freshly.com^
 @@||get.net.playstation.net^
@@ -4647,6 +4658,7 @@
 @@||ib.snssdk.com.edgekey.net^
 @@||ib2.hulu.com^
 @@||ib3.hulu.com^
+@@||ibb.co^
 @@||ibm.com^
 @@||ibtimes.co.uk^
 @@||ibtimes.com^
@@ -5101,6 +5113,7 @@
 @@||join.slack.com^
 @@||join.validatedsite.com^
 @@||join.vimeo.com^
+@@||join.worldoftanks.eu^
 @@||joint.reg2t.sandai.net^
 @@||joomla.org^
 @@||jotform.com^
@@ -5193,6 +5206,7 @@
 @@||kissasian.sh^
 @@||kisshentai.net^
 @@||kissmetrics.com^
+@@||kit.fontawesome.com^
 @@||kit.snapchat.com^
 @@||kite.com^
 @@||kiwifarms.net^
@@ -5482,6 +5496,7 @@
 @@||login.web2.wechat.com^
 @@||login.wechat.com^
 @@||login.wikimedia.org^
+@@||loginhood.io^
 @@||loginpoll.wechat.com^
 @@||logins.daum.net^
 @@||logitech.com^
@@ -6811,6 +6826,7 @@
 @@||pilkanozna.pl^
 @@||pimg1.126.net^
 @@||ping.feedburner.com^
+@@||ping.pdst.fm^
 @@||pingdom.com^
 @@||pingwest.com^
 @@||pinimg.com^
@@ -6827,6 +6843,7 @@
 @@||pixel.wp.com^
 @@||pixelsdesign.net^
 @@||pixiv.net^
+@@||pkg.adfinis-sygroup.ch^
 @@||pki.kaspersky.com^
 @@||pki.qualcomm.com^
 @@||pl.gravatar.com^
@@ -7170,6 +7187,7 @@
 @@||radikal.ru^
 @@||radiostacja.pl^
 @@||raidrush.ws^
+@@||raise.ada.support^
 @@||rakuten.co.jp^
 @@||rambler.ru^
 @@||ramp.purch.com^
@@ -9304,6 +9322,7 @@
 @@||wordpress.org^
 @@||world-gen.g.aaplimg.com^
 @@||worldbank.org^
+@@||worldoftanks.eu^
 @@||worldometers.info^
 @@||woshipm.com^
 @@||wp.breitbart.com^
@@ -9388,6 +9407,7 @@
 @@||www.actionnetwork.org^
 @@||www.activistpost.com^
 @@||www.ad-blocker.org^
+@@||www.ada.support^
 @@||www.adameve.com^
 @@||www.addevent.com^
 @@||www.addr.com^
@@ -9681,6 +9701,7 @@
 @@||www.enews.techrepublic.com^
 @@||www.engadget.com^
 @@||www.eonline.com^
+@@||www.episerver.net^
 @@||www.espn.com^
 @@||www.etahub.com^
 @@||www.etoro.com^
@@ -10143,6 +10164,7 @@
 @@||www.locationiq.com^
 @@||www.logbuch-netzpolitik.de^
 @@||www.login.wikimedia.org^
+@@||www.loginhood.io^
 @@||www.logmeinrescue.com^
 @@||www.lolcounter.com^
 @@||www.lotustalk.com^

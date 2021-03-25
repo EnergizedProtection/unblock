@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 21.03.084
 ; Release: 084
-; Entries: 10,701
+; Entries: 10,774
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Thu, 25 Mar 21 17:46:02
+; Updated: Thu, 25 Mar 21 19:22:58
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -315,6 +315,7 @@ accounts-youtube.com CNAME rpz-passthru.
 accounts.adobe.com CNAME rpz-passthru.
 accounts.aliexpress.com CNAME rpz-passthru.
 accounts.api.playstation.com CNAME rpz-passthru.
+accounts.binance.com CNAME rpz-passthru.
 accounts.elephantjournal.com CNAME rpz-passthru.
 accounts.flipboard.com CNAME rpz-passthru.
 accounts.google.com CNAME rpz-passthru.
@@ -434,6 +435,7 @@ ae01.alicdn.com CNAME rpz-passthru.
 ae911truth.org CNAME rpz-passthru.
 aeis.alicdn.com CNAME rpz-passthru.
 aemmobile.adobe.com CNAME rpz-passthru.
+aeropress.com CNAME rpz-passthru.
 aetna.com CNAME rpz-passthru.
 aeu.alicdn.com CNAME rpz-passthru.
 affiliate-program.amazon.com CNAME rpz-passthru.
@@ -1277,6 +1279,7 @@ api.keycdn.com CNAME rpz-passthru.
 api.kinja.com CNAME rpz-passthru.
 api.leanplum.com CNAME rpz-passthru.
 api.line.me CNAME rpz-passthru.
+api.live.bilibili.com CNAME rpz-passthru.
 api.locize.io CNAME rpz-passthru.
 api.login.engadget.com CNAME rpz-passthru.
 api.login.techcrunch.com CNAME rpz-passthru.
@@ -1361,6 +1364,7 @@ api.uaq.xiaomi.net CNAME rpz-passthru.
 api.uca.cloud.unity3d.com CNAME rpz-passthru.
 api.urbandictionary.com CNAME rpz-passthru.
 api.usebutton.com CNAME rpz-passthru.
+api.vc.bilibili.com CNAME rpz-passthru.
 api.viafoura.co CNAME rpz-passthru.
 api.viafoura.com CNAME rpz-passthru.
 api.viber.com CNAME rpz-passthru.
@@ -1373,6 +1377,7 @@ api.vudu.com CNAME rpz-passthru.
 api.vuukle.com CNAME rpz-passthru.
 api.weather.com CNAME rpz-passthru.
 api.wechat.com CNAME rpz-passthru.
+api.winred.com CNAME rpz-passthru.
 api.x.sndcdn.com CNAME rpz-passthru.
 api.xda-developers.com CNAME rpz-passthru.
 api.xk.miui.com CNAME rpz-passthru.
@@ -1422,6 +1427,7 @@ app-uk.huawei.com CNAME rpz-passthru.
 app.adjust.com CNAME rpz-passthru.
 app.alipay.com CNAME rpz-passthru.
 app.bemyeyes.com CNAME rpz-passthru.
+app.bilibili.com CNAME rpz-passthru.
 app.box.com CNAME rpz-passthru.
 app.buy.mi.com CNAME rpz-passthru.
 app.chat.global.xiaomi.net CNAME rpz-passthru.
@@ -1458,6 +1464,7 @@ app.syndicaster.tv CNAME rpz-passthru.
 app.twitch.tv CNAME rpz-passthru.
 app.vsaex.visualstudio.com CNAME rpz-passthru.
 app.wechat.com CNAME rpz-passthru.
+app.winred.com CNAME rpz-passthru.
 app.xiaomi.com CNAME rpz-passthru.
 app4.moovitapp.com CNAME rpz-passthru.
 app4cdn.moovitapp.com CNAME rpz-passthru.
@@ -1532,6 +1539,7 @@ artforfreedom.flipboard.com CNAME rpz-passthru.
 articles.chicagotribune.com CNAME rpz-passthru.
 articles.latimes.com CNAME rpz-passthru.
 arv.us CNAME rpz-passthru.
+as.com CNAME rpz-passthru.
 as.flipboard.com CNAME rpz-passthru.
 asahi.com CNAME rpz-passthru.
 ascii.co.uk CNAME rpz-passthru.
@@ -1694,6 +1702,7 @@ b0.cc CNAME rpz-passthru.
 b6.me CNAME rpz-passthru.
 babybus.com CNAME rpz-passthru.
 back4.2giga.link CNAME rpz-passthru.
+backblazeb2.com CNAME rpz-passthru.
 backpage.com CNAME rpz-passthru.
 backstage.soundcloud.com CNAME rpz-passthru.
 backstage.taboola.com CNAME rpz-passthru.
@@ -2283,6 +2292,7 @@ cdn.samsungcloudsolution.net CNAME rpz-passthru.
 cdn.sc.rockstargames.com CNAME rpz-passthru.
 cdn.segment.com CNAME rpz-passthru.
 cdn.segment.io CNAME rpz-passthru.
+cdn.shopify.com CNAME rpz-passthru.
 cdn.shortpixel.ai CNAME rpz-passthru.
 cdn.speedof.me CNAME rpz-passthru.
 cdn.sstatic.net CNAME rpz-passthru.
@@ -2351,6 +2361,7 @@ ce5.at CNAME rpz-passthru.
 cedexis.net CNAME rpz-passthru.
 cedexispub.cdnetworks.net CNAME rpz-passthru.
 cell.office.naver.com CNAME rpz-passthru.
+ceneo.pl CNAME rpz-passthru.
 census.gov CNAME rpz-passthru.
 cert.halo.part.xbox.com CNAME rpz-passthru.
 cert.mgt.xboxlive.com CNAME rpz-passthru.
@@ -2489,6 +2500,7 @@ chromesyncentities-pa.googleapis.com CNAME rpz-passthru.
 chromesyncpasswords-pa.googleapis.com CNAME rpz-passthru.
 chromewhois.com CNAME rpz-passthru.
 chron.com CNAME rpz-passthru.
+chtbl.com CNAME rpz-passthru.
 ci.rdtcdn.com CNAME rpz-passthru.
 ci3.googleusercontent.com CNAME rpz-passthru.
 ci4.googleusercontent.com CNAME rpz-passthru.
@@ -2553,6 +2565,7 @@ cloud.rovio.com CNAME rpz-passthru.
 cloud.typography.com CNAME rpz-passthru.
 cloudcampus.rnd.huawei.com CNAME rpz-passthru.
 clouddn.com CNAME rpz-passthru.
+cloudflare-dns.com CNAME rpz-passthru.
 cloudflare.com CNAME rpz-passthru.
 cloudflareworkers.com CNAME rpz-passthru.
 cloudfront-app-cdn.spot.im CNAME rpz-passthru.
@@ -2619,6 +2632,7 @@ cognito-identity.us-east-1.amazonaws.com CNAME rpz-passthru.
 coinbase.com CNAME rpz-passthru.
 coinmama.com CNAME rpz-passthru.
 coinmarketcap.com CNAME rpz-passthru.
+coinmine.pl CNAME rpz-passthru.
 coinurl.com CNAME rpz-passthru.
 collateral.medium.com CNAME rpz-passthru.
 collect.media.jio.com CNAME rpz-passthru.
@@ -2695,6 +2709,7 @@ connected.sonymusic.com CNAME rpz-passthru.
 connection.support.playstation.com CNAME rpz-passthru.
 connectivitycheck.android.com CNAME rpz-passthru.
 connectivitycheck.gstatic.com CNAME rpz-passthru.
+connectmozilla.cloudflare-dns.com CNAME rpz-passthru.
 consensu.org CNAME rpz-passthru.
 consent.cmp.oath.com CNAME rpz-passthru.
 consent.cookiebot.com CNAME rpz-passthru.
@@ -2814,6 +2829,7 @@ cs2-stockphotos.adobe.com CNAME rpz-passthru.
 cs8.pikabu.ru CNAME rpz-passthru.
 cs837.wac.edgecastcdn.net CNAME rpz-passthru.
 cs9.wac.phicdn.net CNAME rpz-passthru.
+cs950197015.wpc.systemcdn.net CNAME rpz-passthru.
 csdn.net CNAME rpz-passthru.
 csdnimg.cn CNAME rpz-passthru.
 cse.google.com CNAME rpz-passthru.
@@ -2954,6 +2970,7 @@ dedic.naver.com CNAME rpz-passthru.
 dedipower.eu.playstation.com CNAME rpz-passthru.
 def-vef.xboxlive.com CNAME rpz-passthru.
 definitions.net CNAME rpz-passthru.
+dege.freeweb.hu CNAME rpz-passthru.
 dek.net CNAME rpz-passthru.
 dekhvhai.com CNAME rpz-passthru.
 delicious.com CNAME rpz-passthru.
@@ -3057,6 +3074,7 @@ direct.shots.snap.com CNAME rpz-passthru.
 directdomains.com CNAME rpz-passthru.
 directory.soundcloud.com CNAME rpz-passthru.
 directory.vimeo.com CNAME rpz-passthru.
+directory.winred.com CNAME rpz-passthru.
 directvapplications.hb.omtrdc.net CNAME rpz-passthru.
 directvnow.com CNAME rpz-passthru.
 dirtywarez.com CNAME rpz-passthru.
@@ -3539,6 +3557,7 @@ eztv.re CNAME rpz-passthru.
 f-droid.org CNAME rpz-passthru.
 f.kinja-static.com CNAME rpz-passthru.
 f.youku.com CNAME rpz-passthru.
+f000.backblazeb2.com CNAME rpz-passthru.
 f1.g.mi.com CNAME rpz-passthru.
 f1.media.brightcove.com CNAME rpz-passthru.
 f2.g.mi.com CNAME rpz-passthru.
@@ -3632,6 +3651,7 @@ fi.m.wikipedia.com CNAME rpz-passthru.
 fi.statcounter.com CNAME rpz-passthru.
 fi.wikipedia.com CNAME rpz-passthru.
 fico.i.lithium.com CNAME rpz-passthru.
+fide.com CNAME rpz-passthru.
 fidelity.com CNAME rpz-passthru.
 fifthplay.com CNAME rpz-passthru.
 fig.bbc.co.uk CNAME rpz-passthru.
@@ -4626,9 +4646,12 @@ i3.feedspot.com CNAME rpz-passthru.
 i3.sndcdn.com CNAME rpz-passthru.
 i4.sndcdn.com CNAME rpz-passthru.
 i9.ytimg.com CNAME rpz-passthru.
+ia601203.us.archive.org CNAME rpz-passthru.
+ia801005.us.archive.org CNAME rpz-passthru.
 iadsdk.apple.com CNAME rpz-passthru.
 iadsdk.apple.com.edgekey.net CNAME rpz-passthru.
 ib.hulu.com CNAME rpz-passthru.
+ib.snssdk.com.edgekey.net CNAME rpz-passthru.
 ib2.hulu.com CNAME rpz-passthru.
 ib3.hulu.com CNAME rpz-passthru.
 ibm.com CNAME rpz-passthru.
@@ -4895,6 +4918,7 @@ info.techcrunch.com CNAME rpz-passthru.
 info.viber.com CNAME rpz-passthru.
 infoblox.com CNAME rpz-passthru.
 infoq.com CNAME rpz-passthru.
+ing-diba.de CNAME rpz-passthru.
 ing.fm CNAME rpz-passthru.
 ingest.twitch.tv CNAME rpz-passthru.
 ingress.com CNAME rpz-passthru.
@@ -4923,6 +4947,7 @@ instant-gaming.com CNAME rpz-passthru.
 instant.page CNAME rpz-passthru.
 instantmessaging-pa.googleapis.com CNAME rpz-passthru.
 instantssl.com CNAME rpz-passthru.
+instapaper.com CNAME rpz-passthru.
 institutional.coinbase.com CNAME rpz-passthru.
 intel.com CNAME rpz-passthru.
 inter.youdao.com CNAME rpz-passthru.
@@ -5055,6 +5080,7 @@ jd.com CNAME rpz-passthru.
 jd.mi.com CNAME rpz-passthru.
 jdownloader.org CNAME rpz-passthru.
 jeeng.com CNAME rpz-passthru.
+jei2iedx-android.mobile-sdk-api.intercom.io CNAME rpz-passthru.
 jellyfish.pandora.xiaomi.com CNAME rpz-passthru.
 jenkins.playstation.com CNAME rpz-passthru.
 jenkins.xda-developers.com CNAME rpz-passthru.
@@ -5252,6 +5278,7 @@ launcher.nirsoft.net CNAME rpz-passthru.
 launcher.spot.im CNAME rpz-passthru.
 launcher.twitch.tv CNAME rpz-passthru.
 launchpad.net CNAME rpz-passthru.
+launchpadlibrarian.net CNAME rpz-passthru.
 lazada.co.id CNAME rpz-passthru.
 lb.gravatar.com CNAME rpz-passthru.
 lb.wikipedia.com CNAME rpz-passthru.
@@ -5749,6 +5776,7 @@ mail2.support.snapchat.com CNAME rpz-passthru.
 mailchimp.com CNAME rpz-passthru.
 mailing.cryptopia.co.nz CNAME rpz-passthru.
 mailtrack.io CNAME rpz-passthru.
+main.iam.ad.ext.azure.com CNAME rpz-passthru.
 making.vimeo.com CNAME rpz-passthru.
 mal.ly CNAME rpz-passthru.
 malc0de.com CNAME rpz-passthru.
@@ -6059,6 +6087,7 @@ movie2k.to CNAME rpz-passthru.
 movies.ndtv.com CNAME rpz-passthru.
 movies.netflix.com CNAME rpz-passthru.
 moviesanywhere.com CNAME rpz-passthru.
+mozilla.cloudflare-dns.com CNAME rpz-passthru.
 mozilla.com CNAME rpz-passthru.
 mozilla.net CNAME rpz-passthru.
 mozilla.org CNAME rpz-passthru.
@@ -6671,11 +6700,13 @@ parallels.com CNAME rpz-passthru.
 pardot.com CNAME rpz-passthru.
 parse.ly CNAME rpz-passthru.
 parsely.com CNAME rpz-passthru.
+partner.ceneo.pl CNAME rpz-passthru.
 partner.huawei.com CNAME rpz-passthru.
 partner.microsoft.com CNAME rpz-passthru.
 partner.mylife.com CNAME rpz-passthru.
 partners-office.integration.viber.com CNAME rpz-passthru.
 partners-office.viber.com CNAME rpz-passthru.
+partners.etoro.com CNAME rpz-passthru.
 partners.integration.viber.com CNAME rpz-passthru.
 partners.playstation.com CNAME rpz-passthru.
 partners.soundcloud.com CNAME rpz-passthru.
@@ -6727,6 +6758,7 @@ pdds.ucweb.com CNAME rpz-passthru.
 pdf-archive.com CNAME rpz-passthru.
 pds13.cafe.daum.net CNAME rpz-passthru.
 pds37.cafe.daum.net CNAME rpz-passthru.
+pdst.fm CNAME rpz-passthru.
 pdvs.rts.band.naver.com CNAME rpz-passthru.
 pecl.php.net CNAME rpz-passthru.
 pedr.com CNAME rpz-passthru.
@@ -6754,6 +6786,7 @@ pgl.yoyo.org CNAME rpz-passthru.
 pgyer.com CNAME rpz-passthru.
 ph-in-f14.1e100.net CNAME rpz-passthru.
 phicdn.net CNAME rpz-passthru.
+phidonpens.com CNAME rpz-passthru.
 philadelphia.cbslocal.com CNAME rpz-passthru.
 phishing.mailscanner.info CNAME rpz-passthru.
 phobos.apple.com CNAME rpz-passthru.
@@ -7157,6 +7190,7 @@ rapidvid.to CNAME rpz-passthru.
 rapidvideo.com CNAME rpz-passthru.
 rarbg.to CNAME rpz-passthru.
 rat.rakuten.co.jp CNAME rpz-passthru.
+ratehub.ca CNAME rpz-passthru.
 rates.viber.com CNAME rpz-passthru.
 ravenjs.com CNAME rpz-passthru.
 raw.github.com CNAME rpz-passthru.
@@ -7263,6 +7297,7 @@ restapi.amap.com CNAME rpz-passthru.
 resultspage.com CNAME rpz-passthru.
 retailer.moviesanywhere.com CNAME rpz-passthru.
 retcode-us-west-1.arms.aliyuncs.com CNAME rpz-passthru.
+retro-bit.com CNAME rpz-passthru.
 returnpath.com CNAME rpz-passthru.
 reuters.com CNAME rpz-passthru.
 revdl.com CNAME rpz-passthru.
@@ -7343,6 +7378,7 @@ ru.statcounter.com CNAME rpz-passthru.
 ru.twitch.tv CNAME rpz-passthru.
 ru.wikipedia.com CNAME rpz-passthru.
 rukminim1.flixcart.com CNAME rpz-passthru.
+rumble.com CNAME rpz-passthru.
 rupload.facebook.com CNAME rpz-passthru.
 rush.oneplus.com CNAME rpz-passthru.
 rv2.com CNAME rpz-passthru.
@@ -7582,6 +7618,7 @@ seclists.org CNAME rpz-passthru.
 secode2.hd.xiaomi.com CNAME rpz-passthru.
 secret.É¢oogle.com CNAME rpz-passthru.
 secret.ɢoogle.com CNAME rpz-passthru.
+sectigo.com CNAME rpz-passthru.
 section.blog.naver.com CNAME rpz-passthru.
 secure-cdn.mplxtms.com CNAME rpz-passthru.
 secure-media1.hotstarext.com CNAME rpz-passthru.
@@ -7622,6 +7659,7 @@ secure.twitch.tv CNAME rpz-passthru.
 secure.validatedsite.com CNAME rpz-passthru.
 secure.viber.com CNAME rpz-passthru.
 secure.vimeo.com CNAME rpz-passthru.
+secure.winred.com CNAME rpz-passthru.
 secured.netflix.com CNAME rpz-passthru.
 securehomes.esat.kuleuven.be CNAME rpz-passthru.
 secureitcup.kaspersky.com CNAME rpz-passthru.
@@ -7654,6 +7692,7 @@ sentry.flipboard.com CNAME rpz-passthru.
 sentry.io CNAME rpz-passthru.
 sentry.spot.im CNAME rpz-passthru.
 seo.spot.im CNAME rpz-passthru.
+serial.alcohol-soft.com CNAME rpz-passthru.
 servebbs.net CNAME rpz-passthru.
 servebeer.com CNAME rpz-passthru.
 servepics.com CNAME rpz-passthru.
@@ -7723,6 +7762,7 @@ shockwave.com CNAME rpz-passthru.
 shoes.app-xae.xiaomi.com CNAME rpz-passthru.
 shop-pro.jp CNAME rpz-passthru.
 shop-redapi.daum.net CNAME rpz-passthru.
+shop.alcohol-soft.com CNAME rpz-passthru.
 shop.ca.samsung.com CNAME rpz-passthru.
 shop.dailycaller.com CNAME rpz-passthru.
 shop.ebay.com CNAME rpz-passthru.
@@ -7843,6 +7883,7 @@ snaptu-mini.c10r.facebook.com CNAME rpz-passthru.
 snaptu-mini.facebook.com CNAME rpz-passthru.
 sndcdn.com CNAME rpz-passthru.
 snetroam.mihome.xiaomi.net CNAME rpz-passthru.
+sni.star.xhcdn.com.fpbns.net CNAME rpz-passthru.
 snippets.cdn.mozilla.net CNAME rpz-passthru.
 snipurl.com CNAME rpz-passthru.
 snsapi.relation.xiaomi.net CNAME rpz-passthru.
@@ -8052,6 +8093,7 @@ static.bbc.com CNAME rpz-passthru.
 static.bh-cdn.com CNAME rpz-passthru.
 static.blog.playstation.com CNAME rpz-passthru.
 static.boomkat.com CNAME rpz-passthru.
+static.cdn.responsys.net CNAME rpz-passthru.
 static.clickfunnels.com CNAME rpz-passthru.
 static.coinbase.com CNAME rpz-passthru.
 static.crunchyroll.com CNAME rpz-passthru.
@@ -8118,8 +8160,10 @@ stats.api.xiaomi.net CNAME rpz-passthru.
 stats.gc.fe.apple-dns.net CNAME rpz-passthru.
 stats.lineageos.org CNAME rpz-passthru.
 stats.pusher.com CNAME rpz-passthru.
+stats.stackexchange.com CNAME rpz-passthru.
 stats.streamelements.com CNAME rpz-passthru.
 stats.t-online.de CNAME rpz-passthru.
+stats.uptimerobot.com CNAME rpz-passthru.
 statsandengagement.help.soundcloud.com CNAME rpz-passthru.
 statsfe2.update.microsoft.com.akadns.net CNAME rpz-passthru.
 status.adobe.com CNAME rpz-passthru.
@@ -8274,6 +8318,7 @@ support.hide.me CNAME rpz-passthru.
 support.hitbtc.com CNAME rpz-passthru.
 support.hostgator.com CNAME rpz-passthru.
 support.huawei.com CNAME rpz-passthru.
+support.iam.ad.azure.com CNAME rpz-passthru.
 support.jp.playstation.com CNAME rpz-passthru.
 support.kaspersky.com CNAME rpz-passthru.
 support.microsoft.com CNAME rpz-passthru.
@@ -8381,6 +8426,7 @@ taxi.line.me CNAME rpz-passthru.
 tbcdn.cn CNAME rpz-passthru.
 tc.tradetracker.net CNAME rpz-passthru.
 tcdn.qq.com CNAME rpz-passthru.
+tcrn.ch CNAME rpz-passthru.
 te.deviantart.com CNAME rpz-passthru.
 te.me CNAME rpz-passthru.
 te.wikipedia.com CNAME rpz-passthru.
@@ -8472,6 +8518,7 @@ tiasdk.app.wechat.com CNAME rpz-passthru.
 ticket.rakuten.co.jp CNAME rpz-passthru.
 tier2.ios.skypeassets.com CNAME rpz-passthru.
 tigger-citadel.touchtype-fluency.com CNAME rpz-passthru.
+tiktok.com CNAME rpz-passthru.
 tile-service.weather.microsoft.com CNAME rpz-passthru.
 tiles.mapbox.com CNAME rpz-passthru.
 tiles.services.mozilla.com CNAME rpz-passthru.
@@ -8580,6 +8627,8 @@ travel.latimes.com CNAME rpz-passthru.
 travel.rakuten.co.jp CNAME rpz-passthru.
 travelocity.com CNAME rpz-passthru.
 trbas.com CNAME rpz-passthru.
+trezor.io CNAME rpz-passthru.
+trial.alcohol-soft.com CNAME rpz-passthru.
 trial.api.huangye.miui.com CNAME rpz-passthru.
 trialpay.com CNAME rpz-passthru.
 trials.adobe.com CNAME rpz-passthru.
@@ -8600,6 +8649,7 @@ trustlist.adobe.com CNAME rpz-passthru.
 trustpilot.com CNAME rpz-passthru.
 ts.my CNAME rpz-passthru.
 tsfe.trafficshaping.dsp.mp.microsoft.com CNAME rpz-passthru.
+tuasaude.com CNAME rpz-passthru.
 tuba.fm CNAME rpz-passthru.
 tube8.com CNAME rpz-passthru.
 tuchong.com CNAME rpz-passthru.
@@ -8848,6 +8898,7 @@ userguide-files.sonymobile.com CNAME rpz-passthru.
 userguide.sonymobile.com CNAME rpz-passthru.
 userid.xiaomi.com CNAME rpz-passthru.
 userreplay.net CNAME rpz-passthru.
+users.alcohol-soft.com CNAME rpz-passthru.
 userstream.twitter.com CNAME rpz-passthru.
 usgs.gov CNAME rpz-passthru.
 ushareit.com CNAME rpz-passthru.
@@ -9100,6 +9151,7 @@ web.app CNAME rpz-passthru.
 web.archive.org CNAME rpz-passthru.
 web.beta.facebook.com CNAME rpz-passthru.
 web.binance.com CNAME rpz-passthru.
+web.chtbl.com CNAME rpz-passthru.
 web.com CNAME rpz-passthru.
 web.facebook.com CNAME rpz-passthru.
 web.getmonero.org CNAME rpz-passthru.
@@ -9147,6 +9199,7 @@ weeklyad.target.com CNAME rpz-passthru.
 weeklyad.target.com.edgesuite.net CNAME rpz-passthru.
 weheartit.com CNAME rpz-passthru.
 weibo.com CNAME rpz-passthru.
+welcome.indihome.co.id CNAME rpz-passthru.
 wer.org CNAME rpz-passthru.
 weri.com CNAME rpz-passthru.
 werl.com CNAME rpz-passthru.
@@ -9220,6 +9273,7 @@ winfuture.de CNAME rpz-passthru.
 winhelp2002.mvps.org CNAME rpz-passthru.
 winphone.flipboard.com CNAME rpz-passthru.
 winprod.flipboard.com CNAME rpz-passthru.
+winred.com CNAME rpz-passthru.
 wip3.adobe.com CNAME rpz-passthru.
 wire.com CNAME rpz-passthru.
 wired.co.uk CNAME rpz-passthru.
@@ -9321,6 +9375,9 @@ www.4pda.ru CNAME rpz-passthru.
 www.4shared.com CNAME rpz-passthru.
 www.91mobiles.com CNAME rpz-passthru.
 www.9Anime.to CNAME rpz-passthru.
+www.9anime.at CNAME rpz-passthru.
+www.9anime.pw CNAME rpz-passthru.
+www.9anime.to CNAME rpz-passthru.
 www.9apps.com CNAME rpz-passthru.
 www.a.espncdn.com CNAME rpz-passthru.
 www.a.shifen.com CNAME rpz-passthru.
@@ -9348,8 +9405,10 @@ www.adguard.com CNAME rpz-passthru.
 www.adlice.com CNAME rpz-passthru.
 www.adobe.com CNAME rpz-passthru.
 www.ae911truth.org CNAME rpz-passthru.
+www.aeropress.com CNAME rpz-passthru.
 www.aetna.com CNAME rpz-passthru.
 www.airtable.com CNAME rpz-passthru.
+www.alcohol-soft.com CNAME rpz-passthru.
 www.alexa.com CNAME rpz-passthru.
 www.algolia.com CNAME rpz-passthru.
 www.algolia.com #codepen CNAME rpz-passthru.
@@ -9400,6 +9459,7 @@ www.archive.org CNAME rpz-passthru.
 www.arcor.de CNAME rpz-passthru.
 www.articles.chicagotribune.com CNAME rpz-passthru.
 www.articles.latimes.com CNAME rpz-passthru.
+www.as.com CNAME rpz-passthru.
 www.ashampoo.com CNAME rpz-passthru.
 www.ask.com CNAME rpz-passthru.
 www.askmen.com CNAME rpz-passthru.
@@ -9419,6 +9479,7 @@ www.auslogics.com CNAME rpz-passthru.
 www.auth0.com CNAME rpz-passthru.
 www.autistici.org CNAME rpz-passthru.
 www.avast.com CNAME rpz-passthru.
+www.backblazeb2.com CNAME rpz-passthru.
 www.backpage.com CNAME rpz-passthru.
 www.baidu.com CNAME rpz-passthru.
 www.bandcamp.com CNAME rpz-passthru.
@@ -10008,8 +10069,10 @@ www.indiamart.com CNAME rpz-passthru.
 www.indystar.com CNAME rpz-passthru.
 www.info.internet.org CNAME rpz-passthru.
 www.infoblox.com CNAME rpz-passthru.
+www.ing-diba.de CNAME rpz-passthru.
 www.instagram.com CNAME rpz-passthru.
 www.instant-gaming.com CNAME rpz-passthru.
+www.instapaper.com CNAME rpz-passthru.
 www.internetdownloadmanager.com CNAME rpz-passthru.
 www.interpark.com CNAME rpz-passthru.
 www.interserver.net CNAME rpz-passthru.
@@ -10060,6 +10123,7 @@ www.kopimi.com CNAME rpz-passthru.
 www.kutt.it CNAME rpz-passthru.
 www.latesthackingnews.com CNAME rpz-passthru.
 www.latimes.com CNAME rpz-passthru.
+www.launchpadlibrarian.net CNAME rpz-passthru.
 www.lds.org CNAME rpz-passthru.
 www.lds.org.edgekey.net CNAME rpz-passthru.
 www.leanplum.com CNAME rpz-passthru.
@@ -10247,6 +10311,7 @@ www.peeksoft.co CNAME rpz-passthru.
 www.pendo.io CNAME rpz-passthru.
 www.perksatwork.com CNAME rpz-passthru.
 www.petapixel.com CNAME rpz-passthru.
+www.phidonpens.com CNAME rpz-passthru.
 www.phonearena.com CNAME rpz-passthru.
 www.photobucket.com CNAME rpz-passthru.
 www.picupload.ebay.com CNAME rpz-passthru.
@@ -10297,6 +10362,7 @@ www.rakuten.co.jp CNAME rpz-passthru.
 www.ranker.com CNAME rpz-passthru.
 www.rapidgator.net CNAME rpz-passthru.
 www.rapidvideo.com CNAME rpz-passthru.
+www.ratehub.ca CNAME rpz-passthru.
 www.rcollard.com CNAME rpz-passthru.
 www.reason.com CNAME rpz-passthru.
 www.rebrandly.com CNAME rpz-passthru.
@@ -10311,6 +10377,7 @@ www.reimageplus.com CNAME rpz-passthru.
 www.rentry.co CNAME rpz-passthru.
 www.repo.xposed.info CNAME rpz-passthru.
 www.report-uri.com CNAME rpz-passthru.
+www.retro-bit.com CNAME rpz-passthru.
 www.returnpath.com CNAME rpz-passthru.
 www.revdl.com CNAME rpz-passthru.
 www.roadandtrack.com CNAME rpz-passthru.
@@ -10320,6 +10387,7 @@ www.rogers.com CNAME rpz-passthru.
 www.rsload.net CNAME rpz-passthru.
 www.rt.com CNAME rpz-passthru.
 www.rtm.vint.xbox.com CNAME rpz-passthru.
+www.rumble.com CNAME rpz-passthru.
 www.s.to CNAME rpz-passthru.
 www.sa-blacklist.stearns.org CNAME rpz-passthru.
 www.safelinking.net CNAME rpz-passthru.
@@ -10343,6 +10411,7 @@ www.sdad.guru CNAME rpz-passthru.
 www.sea1.cdn.survey.medallia.com CNAME rpz-passthru.
 www.seal.godaddy.com CNAME rpz-passthru.
 www.searchencrypt.com CNAME rpz-passthru.
+www.sectigo.com CNAME rpz-passthru.
 www.secure.techrepublic.com CNAME rpz-passthru.
 www.security.neustar CNAME rpz-passthru.
 www.sedo.com CNAME rpz-passthru.
@@ -10418,6 +10487,7 @@ www.store.sony.com CNAME rpz-passthru.
 www.stripe.com CNAME rpz-passthru.
 www.stumbleupon.com CNAME rpz-passthru.
 www.suarankri.me CNAME rpz-passthru.
+www.surfspot.nl CNAME rpz-passthru.
 www.surveygizmo.com CNAME rpz-passthru.
 www.syndicaster.tv CNAME rpz-passthru.
 www.synology.com CNAME rpz-passthru.
@@ -10454,6 +10524,7 @@ www.thewindowsclub.com CNAME rpz-passthru.
 www.thewrap.com CNAME rpz-passthru.
 www.threatcrowd.org CNAME rpz-passthru.
 www.thumbzilla.com CNAME rpz-passthru.
+www.tiktok.com CNAME rpz-passthru.
 www.tmublr.com CNAME rpz-passthru.
 www.tomshardware.com CNAME rpz-passthru.
 www.toptenreviews.com CNAME rpz-passthru.
@@ -10463,9 +10534,11 @@ www.trafficrouter.io CNAME rpz-passthru.
 www.trakt.tv CNAME rpz-passthru.
 www.transfer.sh CNAME rpz-passthru.
 www.travelocity.com CNAME rpz-passthru.
+www.trezor.io CNAME rpz-passthru.
 www.trialpay.com CNAME rpz-passthru.
 www.tribpub.com CNAME rpz-passthru.
 www.truecaller.com CNAME rpz-passthru.
+www.tuasaude.com CNAME rpz-passthru.
 www.tucows.com CNAME rpz-passthru.
 www.tumblr.com CNAME rpz-passthru.
 www.turbobit.net CNAME rpz-passthru.

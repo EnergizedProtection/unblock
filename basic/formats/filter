@@ -27,10 +27,10 @@
 ! Version: 21.03.085
 ! Release: 085
 ! Expires: 7 days (update frequency)
-! Entries: 10,813
+! Entries: 10,821
 ! Pack Code: E84S1C-W
 ! License: MIT, https://energized.pro/license
-! Updated: Fri, 26 Mar 21 17:46:04
+! Updated: Fri, 26 Mar 21 23:46:07
 ! RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/filter
 ! --------------------------------------------
 !
@@ -2299,6 +2299,7 @@
 @@||cdn.speedof.me^
 @@||cdn.sstatic.net^
 @@||cdn.staticfile.org^
+@@||cdn.stripst.com^
 @@||cdn.stumbleupon.com^
 @@||cdn.support.sonymobile.com^
 @@||cdn.syndication.twimg.com^
@@ -3469,6 +3470,7 @@
 @@||estream.to^
 @@||etahub.com^
 @@||etao.com^
+@@||etf.com^
 @@||etl.tindersparks.com^
 @@||etl.xlmc.sec.miui.com^
 @@||etoro-cdn.etorostatic.com^
@@ -4356,6 +4358,7 @@
 @@||graph.accountkit.com^
 @@||graph.facebook.com^
 @@||graph.microsoft.com^
+@@||graph.qq.com^
 @@||graphite-sscm.sec.miui.com^
 @@||graphite-ssms.sec.miui.com^
 @@||graphql.api.dailymotion.com^
@@ -4634,6 +4637,7 @@
 @@||i.mi.com^
 @@||i.neoseeker.com^
 @@||i.pcbeta.com^
+@@||i.postimg.cc^
 @@||i.reddit.com^
 @@||i.s-microsoft.com^
 @@||i.scdn.co^
@@ -5807,6 +5811,7 @@
 @@||mangaupdates.com^
 @@||manifest.auditude.com^
 @@||manifest.googlevideo.com^
+@@||manifest.prod.boltdns.net^
 @@||manual-at.line.me^
 @@||map.daum.net^
 @@||map.naver.com^
@@ -6042,6 +6047,7 @@
 @@||mmstat.com^
 @@||mnet.samsung.com^
 @@||mno.snetroam.mihome.xiaomi.net^
+@@||moapi.wps.cn^
 @@||mobi.aliexpress.com^
 @@||mobi.sndcdn.com^
 @@||mobi.soundcloud.com^
@@ -7729,6 +7735,7 @@
 @@||sessioncam.com^
 @@||settings-win.data.microsoft.com^
 @@||settings.data.microsoft.com^
+@@||settingsfd-geo.trafficmanager.net^
 @@||sevenforums.com^
 @@||seznam.cz^
 @@||sf.api.np.km.playstation.net^
@@ -9720,6 +9727,7 @@
 @@||www.episerver.net^
 @@||www.espn.com^
 @@||www.etahub.com^
+@@||www.etf.com^
 @@||www.etoro.com^
 @@||www.eu.cdn.survey.medallia.com^
 @@||www.euronews.com^

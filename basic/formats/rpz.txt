@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 21.03.085
 ; Release: 085
-; Entries: 10,813
+; Entries: 10,821
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Fri, 26 Mar 21 17:46:04
+; Updated: Fri, 26 Mar 21 23:46:07
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -2306,6 +2306,7 @@ cdn.shortpixel.ai CNAME rpz-passthru.
 cdn.speedof.me CNAME rpz-passthru.
 cdn.sstatic.net CNAME rpz-passthru.
 cdn.staticfile.org CNAME rpz-passthru.
+cdn.stripst.com CNAME rpz-passthru.
 cdn.stumbleupon.com CNAME rpz-passthru.
 cdn.support.sonymobile.com CNAME rpz-passthru.
 cdn.syndication.twimg.com CNAME rpz-passthru.
@@ -3476,6 +3477,7 @@ estore.sonymobile.com CNAME rpz-passthru.
 estream.to CNAME rpz-passthru.
 etahub.com CNAME rpz-passthru.
 etao.com CNAME rpz-passthru.
+etf.com CNAME rpz-passthru.
 etl.tindersparks.com CNAME rpz-passthru.
 etl.xlmc.sec.miui.com CNAME rpz-passthru.
 etoro-cdn.etorostatic.com CNAME rpz-passthru.
@@ -4363,6 +4365,7 @@ grammarly.io CNAME rpz-passthru.
 graph.accountkit.com CNAME rpz-passthru.
 graph.facebook.com CNAME rpz-passthru.
 graph.microsoft.com CNAME rpz-passthru.
+graph.qq.com CNAME rpz-passthru.
 graphite-sscm.sec.miui.com CNAME rpz-passthru.
 graphite-ssms.sec.miui.com CNAME rpz-passthru.
 graphql.api.dailymotion.com CNAME rpz-passthru.
@@ -4641,6 +4644,7 @@ i.instagram.com CNAME rpz-passthru.
 i.mi.com CNAME rpz-passthru.
 i.neoseeker.com CNAME rpz-passthru.
 i.pcbeta.com CNAME rpz-passthru.
+i.postimg.cc CNAME rpz-passthru.
 i.reddit.com CNAME rpz-passthru.
 i.s-microsoft.com CNAME rpz-passthru.
 i.scdn.co CNAME rpz-passthru.
@@ -5814,6 +5818,7 @@ manga.line.me CNAME rpz-passthru.
 mangaupdates.com CNAME rpz-passthru.
 manifest.auditude.com CNAME rpz-passthru.
 manifest.googlevideo.com CNAME rpz-passthru.
+manifest.prod.boltdns.net CNAME rpz-passthru.
 manual-at.line.me CNAME rpz-passthru.
 map.daum.net CNAME rpz-passthru.
 map.naver.com CNAME rpz-passthru.
@@ -6049,6 +6054,7 @@ mms.huffingtonpost.com CNAME rpz-passthru.
 mmstat.com CNAME rpz-passthru.
 mnet.samsung.com CNAME rpz-passthru.
 mno.snetroam.mihome.xiaomi.net CNAME rpz-passthru.
+moapi.wps.cn CNAME rpz-passthru.
 mobi.aliexpress.com CNAME rpz-passthru.
 mobi.sndcdn.com CNAME rpz-passthru.
 mobi.soundcloud.com CNAME rpz-passthru.
@@ -7736,6 +7742,7 @@ services.syndicaster.tv CNAME rpz-passthru.
 sessioncam.com CNAME rpz-passthru.
 settings-win.data.microsoft.com CNAME rpz-passthru.
 settings.data.microsoft.com CNAME rpz-passthru.
+settingsfd-geo.trafficmanager.net CNAME rpz-passthru.
 sevenforums.com CNAME rpz-passthru.
 seznam.cz CNAME rpz-passthru.
 sf.api.np.km.playstation.net CNAME rpz-passthru.
@@ -9727,6 +9734,7 @@ www.eonline.com CNAME rpz-passthru.
 www.episerver.net CNAME rpz-passthru.
 www.espn.com CNAME rpz-passthru.
 www.etahub.com CNAME rpz-passthru.
+www.etf.com CNAME rpz-passthru.
 www.etoro.com CNAME rpz-passthru.
 www.eu.cdn.survey.medallia.com CNAME rpz-passthru.
 www.euronews.com CNAME rpz-passthru.

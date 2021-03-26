@@ -26,10 +26,10 @@
 # Format: personalDNSfilter
 # Version: 21.03.085
 # Release: 085
-# Entries: 10,808
+# Entries: 10,813
 # Pack Code: E84S1C-W
 # License: MIT, https://energized.pro/license
-# Updated: Fri, 26 Mar 21 11:46:04
+# Updated: Fri, 26 Mar 21 17:46:04
 # RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/pdnsf.txt
 # --------------------------------------------
 #
@@ -1729,6 +1729,7 @@
 !bapi.flipboard.com
 !barebones.com
 !barnesandnoble.com
+!batch.com
 !battle.net
 !battleforthenet.com
 !battlelog.battlefield.com
@@ -8109,6 +8110,7 @@
 !static.bh-cdn.com
 !static.blog.playstation.com
 !static.boomkat.com
+!static.bunnycdn.ru
 !static.cdn.responsys.net
 !static.clickfunnels.com
 !static.coinbase.com
@@ -8974,6 +8976,7 @@
 !vi-vn.about.flipboard.com
 !vi.gravatar.com
 !vi.wikipedia.com
+!via.batch.com
 !viabtc.com
 !viacom18-res.cloudinary.com
 !viafoura.co
@@ -9351,6 +9354,7 @@
 !ws-mt1.pusher.com
 !ws-zeplin.pusher.com
 !ws.audioscrobbler.com
+!ws.batch.com
 !ws.bitfinex.com
 !ws.coinbase.com
 !ws.mmstat.com
@@ -9509,6 +9513,7 @@
 !www.banggood.com
 !www.bankrate.com
 !www.barebones.com
+!www.batch.com
 !www.battleforthenet.com
 !www.bbc.co.uk
 !www.bbc.com

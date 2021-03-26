@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 21.03.085
 ; Release: 085
-; Entries: 10,808
+; Entries: 10,813
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Fri, 26 Mar 21 11:46:04
+; Updated: Fri, 26 Mar 21 17:46:04
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -1737,6 +1737,7 @@ banners.spiceworks.com CNAME rpz-passthru.
 bapi.flipboard.com CNAME rpz-passthru.
 barebones.com CNAME rpz-passthru.
 barnesandnoble.com CNAME rpz-passthru.
+batch.com CNAME rpz-passthru.
 battle.net CNAME rpz-passthru.
 battleforthenet.com CNAME rpz-passthru.
 battlelog.battlefield.com CNAME rpz-passthru.
@@ -8117,6 +8118,7 @@ static.bbc.com CNAME rpz-passthru.
 static.bh-cdn.com CNAME rpz-passthru.
 static.blog.playstation.com CNAME rpz-passthru.
 static.boomkat.com CNAME rpz-passthru.
+static.bunnycdn.ru CNAME rpz-passthru.
 static.cdn.responsys.net CNAME rpz-passthru.
 static.clickfunnels.com CNAME rpz-passthru.
 static.coinbase.com CNAME rpz-passthru.
@@ -8982,6 +8984,7 @@ vgfiles.nabstudio.com CNAME rpz-passthru.
 vi-vn.about.flipboard.com CNAME rpz-passthru.
 vi.gravatar.com CNAME rpz-passthru.
 vi.wikipedia.com CNAME rpz-passthru.
+via.batch.com CNAME rpz-passthru.
 viabtc.com CNAME rpz-passthru.
 viacom18-res.cloudinary.com CNAME rpz-passthru.
 viafoura.co CNAME rpz-passthru.
@@ -9359,6 +9362,7 @@ ws-feed.pro.coinbase.com CNAME rpz-passthru.
 ws-mt1.pusher.com CNAME rpz-passthru.
 ws-zeplin.pusher.com CNAME rpz-passthru.
 ws.audioscrobbler.com CNAME rpz-passthru.
+ws.batch.com CNAME rpz-passthru.
 ws.bitfinex.com CNAME rpz-passthru.
 ws.coinbase.com CNAME rpz-passthru.
 ws.mmstat.com CNAME rpz-passthru.
@@ -9517,6 +9521,7 @@ www.bandcamp.com CNAME rpz-passthru.
 www.banggood.com CNAME rpz-passthru.
 www.bankrate.com CNAME rpz-passthru.
 www.barebones.com CNAME rpz-passthru.
+www.batch.com CNAME rpz-passthru.
 www.battleforthenet.com CNAME rpz-passthru.
 www.bbc.co.uk CNAME rpz-passthru.
 www.bbc.com CNAME rpz-passthru.

@@ -26,10 +26,10 @@
 # Format: personalDNSfilter
 # Version: 21.03.085
 # Release: 085
-# Entries: 10,796
+# Entries: 10,808
 # Pack Code: E84S1C-W
 # License: MIT, https://energized.pro/license
-# Updated: Fri, 26 Mar 21 05:46:10
+# Updated: Fri, 26 Mar 21 11:46:04
 # RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/pdnsf.txt
 # --------------------------------------------
 #
@@ -386,6 +386,7 @@
 !addr.com
 !adedownload.adobe.com
 !adf.ly
+!adfinis-sygroup.ch
 !adfoc.us
 !adfocus.ru
 !adguard.com
@@ -1410,6 +1411,7 @@
 !apo.st
 !apollo.dl.playstation.net
 !app-301.huawei.com
+!app-ab03.marketo.com
 !app-analytics.snapchat.com
 !app-analyticsv2.snapchat.com
 !app-api.ted.com
@@ -2467,6 +2469,7 @@
 !chats.viber.com
 !chbusiness.samsung.com
 !cheatengine.org
+!check.ddos-guard.net
 !check.ptlogin2.wechat.com
 !check4.facebook.com
 !check6.facebook.com
@@ -2939,6 +2942,7 @@
 !dcs-vod.apis.anvato.net
 !dctrawler.dailycaller.com
 !dd.myapp.com
+!ddos-guard.net
 !ddrk.me
 !de-1.hide.me
 !de-de.about.flipboard.com
@@ -3277,6 +3281,7 @@
 !e4478.a.akamaiedge.net
 !e5298.g.akamaiedge.net
 !e8.org
+!e8318.dsca.akamaiedge.net
 !ea.co
 !ea.com
 !ea1-urlp.secure.skypeassets.com
@@ -3729,6 +3734,7 @@
 !fls-eu.amazon.de
 !fls-na.amazon.com
 !fm.tuba.pl
+!fmovies.to
 !fncstatic.com
 !focus.de
 !fok.nl
@@ -8193,7 +8199,9 @@
 !statusapi.micloud.xiaomi.net
 !statuspage.io
 !steam-chat.com
+!steamcdn-a.akamaihd.net
 !steamcommunity.com
+!steamstore-a.akamaihd.net
 !stern.de
 !stg-account-samsung-com-1073842004.eu-west-1.elb.amazonaws.com
 !stg-account.samsung.com
@@ -8363,6 +8371,7 @@
 !sv.gravatar.com
 !sv.twitch.tv
 !sv.wikipedia.com
+!svc.ms
 !swcdn.apple.com
 !swcdn.apple.com.akadns.net
 !swcdn.g.aaplimg.com
@@ -8445,6 +8454,7 @@
 !team.stumbleupon.com
 !teamviewer.com
 !teaparty.org
+!techcommunity.microsoft.com
 !techcrunch.com
 !techguy.org
 !techmeme.com
@@ -9411,6 +9421,7 @@
 !www.addevent.com
 !www.addr.com
 !www.adf.ly
+!www.adfinis-sygroup.ch
 !www.adfoc.us
 !www.adfocus.ru
 !www.adguard.com
@@ -9739,6 +9750,7 @@
 !www.flaticon.com
 !www.flipkart.com
 !www.flowplayer.com
+!www.fmovies.to
 !www.fncstatic.com
 !www.focus.de
 !www.fok.nl

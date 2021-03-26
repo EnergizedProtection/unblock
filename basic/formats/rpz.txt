@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 21.03.085
 ; Release: 085
-; Entries: 10,796
+; Entries: 10,808
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Fri, 26 Mar 21 05:46:10
+; Updated: Fri, 26 Mar 21 11:46:04
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -394,6 +394,7 @@ addons.prestashop.com CNAME rpz-passthru.
 addr.com CNAME rpz-passthru.
 adedownload.adobe.com CNAME rpz-passthru.
 adf.ly CNAME rpz-passthru.
+adfinis-sygroup.ch CNAME rpz-passthru.
 adfoc.us CNAME rpz-passthru.
 adfocus.ru CNAME rpz-passthru.
 adguard.com CNAME rpz-passthru.
@@ -1418,6 +1419,7 @@ apnupdate.sonymobile.com CNAME rpz-passthru.
 apo.st CNAME rpz-passthru.
 apollo.dl.playstation.net CNAME rpz-passthru.
 app-301.huawei.com CNAME rpz-passthru.
+app-ab03.marketo.com CNAME rpz-passthru.
 app-analytics.snapchat.com CNAME rpz-passthru.
 app-analyticsv2.snapchat.com CNAME rpz-passthru.
 app-api.ted.com CNAME rpz-passthru.
@@ -2475,6 +2477,7 @@ chatrouter-verizon.inq.com CNAME rpz-passthru.
 chats.viber.com CNAME rpz-passthru.
 chbusiness.samsung.com CNAME rpz-passthru.
 cheatengine.org CNAME rpz-passthru.
+check.ddos-guard.net CNAME rpz-passthru.
 check.ptlogin2.wechat.com CNAME rpz-passthru.
 check4.facebook.com CNAME rpz-passthru.
 check6.facebook.com CNAME rpz-passthru.
@@ -2947,6 +2950,7 @@ dcinside.com CNAME rpz-passthru.
 dcs-vod.apis.anvato.net CNAME rpz-passthru.
 dctrawler.dailycaller.com CNAME rpz-passthru.
 dd.myapp.com CNAME rpz-passthru.
+ddos-guard.net CNAME rpz-passthru.
 ddrk.me CNAME rpz-passthru.
 de-1.hide.me CNAME rpz-passthru.
 de-de.about.flipboard.com CNAME rpz-passthru.
@@ -3285,6 +3289,7 @@ e3489.cd.akamaiedge.net CNAME rpz-passthru.
 e4478.a.akamaiedge.net CNAME rpz-passthru.
 e5298.g.akamaiedge.net CNAME rpz-passthru.
 e8.org CNAME rpz-passthru.
+e8318.dsca.akamaiedge.net CNAME rpz-passthru.
 ea.co CNAME rpz-passthru.
 ea.com CNAME rpz-passthru.
 ea1-urlp.secure.skypeassets.com CNAME rpz-passthru.
@@ -3737,6 +3742,7 @@ fls-eu.amazon.com CNAME rpz-passthru.
 fls-eu.amazon.de CNAME rpz-passthru.
 fls-na.amazon.com CNAME rpz-passthru.
 fm.tuba.pl CNAME rpz-passthru.
+fmovies.to CNAME rpz-passthru.
 fncstatic.com CNAME rpz-passthru.
 focus.de CNAME rpz-passthru.
 fok.nl CNAME rpz-passthru.
@@ -8201,7 +8207,9 @@ status.vimeo.com CNAME rpz-passthru.
 statusapi.micloud.xiaomi.net CNAME rpz-passthru.
 statuspage.io CNAME rpz-passthru.
 steam-chat.com CNAME rpz-passthru.
+steamcdn-a.akamaihd.net CNAME rpz-passthru.
 steamcommunity.com CNAME rpz-passthru.
+steamstore-a.akamaihd.net CNAME rpz-passthru.
 stern.de CNAME rpz-passthru.
 stg-account-samsung-com-1073842004.eu-west-1.elb.amazonaws.com CNAME rpz-passthru.
 stg-account.samsung.com CNAME rpz-passthru.
@@ -8371,6 +8379,7 @@ surveymonkey.com CNAME rpz-passthru.
 sv.gravatar.com CNAME rpz-passthru.
 sv.twitch.tv CNAME rpz-passthru.
 sv.wikipedia.com CNAME rpz-passthru.
+svc.ms CNAME rpz-passthru.
 swcdn.apple.com CNAME rpz-passthru.
 swcdn.apple.com.akadns.net CNAME rpz-passthru.
 swcdn.g.aaplimg.com CNAME rpz-passthru.
@@ -8453,6 +8462,7 @@ team.diigo.com CNAME rpz-passthru.
 team.stumbleupon.com CNAME rpz-passthru.
 teamviewer.com CNAME rpz-passthru.
 teaparty.org CNAME rpz-passthru.
+techcommunity.microsoft.com CNAME rpz-passthru.
 techcrunch.com CNAME rpz-passthru.
 techguy.org CNAME rpz-passthru.
 techmeme.com CNAME rpz-passthru.
@@ -9419,6 +9429,7 @@ www.adameve.com CNAME rpz-passthru.
 www.addevent.com CNAME rpz-passthru.
 www.addr.com CNAME rpz-passthru.
 www.adf.ly CNAME rpz-passthru.
+www.adfinis-sygroup.ch CNAME rpz-passthru.
 www.adfoc.us CNAME rpz-passthru.
 www.adfocus.ru CNAME rpz-passthru.
 www.adguard.com CNAME rpz-passthru.
@@ -9747,6 +9758,7 @@ www.flashx.tv CNAME rpz-passthru.
 www.flaticon.com CNAME rpz-passthru.
 www.flipkart.com CNAME rpz-passthru.
 www.flowplayer.com CNAME rpz-passthru.
+www.fmovies.to CNAME rpz-passthru.
 www.fncstatic.com CNAME rpz-passthru.
 www.focus.de CNAME rpz-passthru.
 www.fok.nl CNAME rpz-passthru.

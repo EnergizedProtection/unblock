@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 21.03.086
 ; Release: 086
-; Entries: 10,821
+; Entries: 10,823
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Sat, 27 Mar 21 17:45:59
+; Updated: Sat, 27 Mar 21 23:46:07
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -3687,6 +3687,7 @@ fileapi.micloud.xiaomi.net CNAME rpz-passthru.
 filebin.net CNAME rpz-passthru.
 filecrypt.cc CNAME rpz-passthru.
 filefactory.com CNAME rpz-passthru.
+filehorse.com CNAME rpz-passthru.
 filepicker.io CNAME rpz-passthru.
 files.anedot.com CNAME rpz-passthru.
 files.brightcove.com CNAME rpz-passthru.
@@ -9762,6 +9763,7 @@ www.figshare.com CNAME rpz-passthru.
 www.file-up.org CNAME rpz-passthru.
 www.filecrypt.cc CNAME rpz-passthru.
 www.filefactory.com CNAME rpz-passthru.
+www.filehorse.com CNAME rpz-passthru.
 www.filepicker.io CNAME rpz-passthru.
 www.fileserve.com CNAME rpz-passthru.
 www.financial.org CNAME rpz-passthru.

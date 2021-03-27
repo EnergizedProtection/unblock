@@ -27,10 +27,10 @@
 ! Version: 21.03.086
 ! Release: 086
 ! Expires: 7 days (update frequency)
-! Entries: 10,821
+! Entries: 10,823
 ! Pack Code: E84S1C-W
 ! License: MIT, https://energized.pro/license
-! Updated: Sat, 27 Mar 21 17:45:59
+! Updated: Sat, 27 Mar 21 23:46:07
 ! RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/filter
 ! --------------------------------------------
 !
@@ -3680,6 +3680,7 @@
 @@||filebin.net^
 @@||filecrypt.cc^
 @@||filefactory.com^
+@@||filehorse.com^
 @@||filepicker.io^
 @@||files.anedot.com^
 @@||files.brightcove.com^
@@ -9755,6 +9756,7 @@
 @@||www.file-up.org^
 @@||www.filecrypt.cc^
 @@||www.filefactory.com^
+@@||www.filehorse.com^
 @@||www.filepicker.io^
 @@||www.fileserve.com^
 @@||www.financial.org^

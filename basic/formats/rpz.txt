@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 21.03.087
 ; Release: 087
-; Entries: 10,823
+; Entries: 10,828
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Sun, 28 Mar 21 17:45:59
+; Updated: Sun, 28 Mar 21 23:46:06
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -2696,6 +2696,7 @@ completion.amazon.co.uk CNAME rpz-passthru.
 completion.amazon.com CNAME rpz-passthru.
 complex.com CNAME rpz-passthru.
 computer.howstuffworks.com CNAME rpz-passthru.
+computermediapk.com CNAME rpz-passthru.
 concertads-configs.vox-cdn.com CNAME rpz-passthru.
 conductor-prod.ros.rockstargames.com CNAME rpz-passthru.
 conduit.mailchimpapp.com CNAME rpz-passthru.
@@ -3447,6 +3448,7 @@ epicgames.com CNAME rpz-passthru.
 episerver.net CNAME rpz-passthru.
 epix-ssl.xbox.com CNAME rpz-passthru.
 epix.xbox.com CNAME rpz-passthru.
+epizy.com CNAME rpz-passthru.
 epl.paypal-communication.com CNAME rpz-passthru.
 epochtimes.com CNAME rpz-passthru.
 er.search.naver.com CNAME rpz-passthru.
@@ -7812,6 +7814,7 @@ shopapi.io.mi.com CNAME rpz-passthru.
 shopify.com CNAME rpz-passthru.
 shopping.line.me CNAME rpz-passthru.
 shopping.naver.com CNAME rpz-passthru.
+shoppy.gg CNAME rpz-passthru.
 short.co.uk CNAME rpz-passthru.
 short.ie CNAME rpz-passthru.
 shorte.st CNAME rpz-passthru.
@@ -9450,6 +9453,7 @@ www.adobe.com CNAME rpz-passthru.
 www.ae911truth.org CNAME rpz-passthru.
 www.aeropress.com CNAME rpz-passthru.
 www.aetna.com CNAME rpz-passthru.
+www.aiosearch.com CNAME rpz-passthru.
 www.airtable.com CNAME rpz-passthru.
 www.alcohol-soft.com CNAME rpz-passthru.
 www.alexa.com CNAME rpz-passthru.
@@ -9733,6 +9737,7 @@ www.enews.techrepublic.com CNAME rpz-passthru.
 www.engadget.com CNAME rpz-passthru.
 www.eonline.com CNAME rpz-passthru.
 www.episerver.net CNAME rpz-passthru.
+www.epizy.com CNAME rpz-passthru.
 www.espn.com CNAME rpz-passthru.
 www.etahub.com CNAME rpz-passthru.
 www.etf.com CNAME rpz-passthru.

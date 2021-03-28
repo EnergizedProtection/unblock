@@ -27,10 +27,10 @@
 ! Version: 21.03.087
 ! Release: 087
 ! Expires: 7 days (update frequency)
-! Entries: 10,823
+! Entries: 10,828
 ! Pack Code: E84S1C-W
 ! License: MIT, https://energized.pro/license
-! Updated: Sun, 28 Mar 21 17:45:59
+! Updated: Sun, 28 Mar 21 23:46:06
 ! RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/filter
 ! --------------------------------------------
 !
@@ -2689,6 +2689,7 @@
 @@||completion.amazon.com^
 @@||complex.com^
 @@||computer.howstuffworks.com^
+@@||computermediapk.com^
 @@||concertads-configs.vox-cdn.com^
 @@||conductor-prod.ros.rockstargames.com^
 @@||conduit.mailchimpapp.com^
@@ -3440,6 +3441,7 @@
 @@||episerver.net^
 @@||epix-ssl.xbox.com^
 @@||epix.xbox.com^
+@@||epizy.com^
 @@||epl.paypal-communication.com^
 @@||epochtimes.com^
 @@||er.search.naver.com^
@@ -7805,6 +7807,7 @@
 @@||shopify.com^
 @@||shopping.line.me^
 @@||shopping.naver.com^
+@@||shoppy.gg^
 @@||short.co.uk^
 @@||short.ie^
 @@||shorte.st^
@@ -9443,6 +9446,7 @@
 @@||www.ae911truth.org^
 @@||www.aeropress.com^
 @@||www.aetna.com^
+@@||www.aiosearch.com^
 @@||www.airtable.com^
 @@||www.alcohol-soft.com^
 @@||www.alexa.com^
@@ -9726,6 +9730,7 @@
 @@||www.engadget.com^
 @@||www.eonline.com^
 @@||www.episerver.net^
+@@||www.epizy.com^
 @@||www.espn.com^
 @@||www.etahub.com^
 @@||www.etf.com^

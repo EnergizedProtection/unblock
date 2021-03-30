@@ -24,13 +24,13 @@
 ! Title: Energized Basic Protection - Whitelist
 ! Description: Basic list of whitelisted domains.
 ! Format: adblock
-! Version: 21.03.089
-! Release: 089
+! Version: 21.03.090
+! Release: 090
 ! Expires: 7 days (update frequency)
-! Entries: 10,828
+! Entries: 10,831
 ! Pack Code: E84S1C-W
 ! License: MIT, https://energized.pro/license
-! Updated: Tue, 30 Mar 21 23:46:08
+! Updated: Wed, 31 Mar 21 05:46:05
 ! RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/filter
 ! --------------------------------------------
 !
@@ -2141,6 +2141,7 @@
 @@||cane.com^
 @@||canhaz.com^
 @@||canva.com^
+@@||canyoublockit.com^
 @@||capi-cn.ssl-images-amazon.com^
 @@||capi-eu.ssl-images-amazon.com^
 @@||capi-fe.ssl-images-amazon.com^
@@ -8666,6 +8667,7 @@
 @@||trial.api.huangye.miui.com^
 @@||trialpay.com^
 @@||trials.adobe.com^
+@@||trib.al^
 @@||tribdss.com^
 @@||tribpub.com^
 @@||trickbd.com^
@@ -9596,6 +9598,7 @@
 @@||www.cafemom.com^
 @@||www.cambridge.org^
 @@||www.canva.com^
+@@||www.canyoublockit.com^
 @@||www.cbsnews.com^
 @@||www.cdn-audio-1.medium.com^
 @@||www.cdn-images-1.medium.com^

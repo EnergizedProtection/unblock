@@ -24,12 +24,12 @@
 ; Title: Energized Basic Protection - Whitelist
 ; Description: Basic list of whitelisted domains.
 ; Format: rpz
-; Version: 21.03.089
-; Release: 089
-; Entries: 10,828
+; Version: 21.03.090
+; Release: 090
+; Entries: 10,831
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Tue, 30 Mar 21 23:46:08
+; Updated: Wed, 31 Mar 21 05:46:05
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -2148,6 +2148,7 @@ campaigns.sonymobile.com CNAME rpz-passthru.
 cane.com CNAME rpz-passthru.
 canhaz.com CNAME rpz-passthru.
 canva.com CNAME rpz-passthru.
+canyoublockit.com CNAME rpz-passthru.
 capi-cn.ssl-images-amazon.com CNAME rpz-passthru.
 capi-eu.ssl-images-amazon.com CNAME rpz-passthru.
 capi-fe.ssl-images-amazon.com CNAME rpz-passthru.
@@ -8673,6 +8674,7 @@ trial.alcohol-soft.com CNAME rpz-passthru.
 trial.api.huangye.miui.com CNAME rpz-passthru.
 trialpay.com CNAME rpz-passthru.
 trials.adobe.com CNAME rpz-passthru.
+trib.al CNAME rpz-passthru.
 tribdss.com CNAME rpz-passthru.
 tribpub.com CNAME rpz-passthru.
 trickbd.com CNAME rpz-passthru.
@@ -9603,6 +9605,7 @@ www.cachefly.net CNAME rpz-passthru.
 www.cafemom.com CNAME rpz-passthru.
 www.cambridge.org CNAME rpz-passthru.
 www.canva.com CNAME rpz-passthru.
+www.canyoublockit.com CNAME rpz-passthru.
 www.cbsnews.com CNAME rpz-passthru.
 www.cdn-audio-1.medium.com CNAME rpz-passthru.
 www.cdn-images-1.medium.com CNAME rpz-passthru.

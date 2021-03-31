@@ -24,12 +24,12 @@
 ; Title: Energized Basic Protection - Whitelist
 ; Description: Basic list of whitelisted domains.
 ; Format: rpz
-; Version: 21.03.090
-; Release: 090
-; Entries: 10,831
+; Version: 21.04.091
+; Release: 091
+; Entries: 10,834
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Wed, 31 Mar 21 23:46:09
+; Updated: Thu, 01 Apr 21 05:46:12
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -252,6 +252,7 @@ a.hl.mi.com CNAME rpz-passthru.
 a.huodong.mi.com CNAME rpz-passthru.
 a.kickass.to CNAME rpz-passthru.
 a.ooyala.com CNAME rpz-passthru.
+a.shifen.com CNAME rpz-passthru.
 a.stat.xiaomi.com CNAME rpz-passthru.
 a.tiles.mapbox.com CNAME rpz-passthru.
 a.union.mi.com CNAME rpz-passthru.
@@ -7793,6 +7794,7 @@ sheldonbrown.com CNAME rpz-passthru.
 shell-cdn.marketing.adobe.com CNAME rpz-passthru.
 shellfix.nirsoft.net CNAME rpz-passthru.
 shenghuo.xiaomi.com CNAME rpz-passthru.
+shifen.com CNAME rpz-passthru.
 shimo.im CNAME rpz-passthru.
 shockwave.com CNAME rpz-passthru.
 shoes.app-xae.xiaomi.com CNAME rpz-passthru.
@@ -10479,6 +10481,7 @@ www.services.medium.com CNAME rpz-passthru.
 www.sevenforums.com CNAME rpz-passthru.
 www.seznam.cz CNAME rpz-passthru.
 www.sheldonbrown.com CNAME rpz-passthru.
+www.shifen.com CNAME rpz-passthru.
 www.shots.snap.com CNAME rpz-passthru.
 www.sie.com CNAME rpz-passthru.
 www.similarweb.com CNAME rpz-passthru.

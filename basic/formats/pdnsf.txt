@@ -24,12 +24,12 @@
 # Title: Energized Basic Protection - Whitelist
 # Description: Basic list of whitelisted domains.
 # Format: personalDNSfilter
-# Version: 21.03.090
-# Release: 090
-# Entries: 10,831
+# Version: 21.04.091
+# Release: 091
+# Entries: 10,834
 # Pack Code: E84S1C-W
 # License: MIT, https://energized.pro/license
-# Updated: Wed, 31 Mar 21 23:46:09
+# Updated: Thu, 01 Apr 21 05:46:12
 # RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/pdnsf.txt
 # --------------------------------------------
 #
@@ -244,6 +244,7 @@
 !a.huodong.mi.com
 !a.kickass.to
 !a.ooyala.com
+!a.shifen.com
 !a.stat.xiaomi.com
 !a.tiles.mapbox.com
 !a.union.mi.com
@@ -7785,6 +7786,7 @@
 !shell-cdn.marketing.adobe.com
 !shellfix.nirsoft.net
 !shenghuo.xiaomi.com
+!shifen.com
 !shimo.im
 !shockwave.com
 !shoes.app-xae.xiaomi.com
@@ -10471,6 +10473,7 @@
 !www.sevenforums.com
 !www.seznam.cz
 !www.sheldonbrown.com
+!www.shifen.com
 !www.shots.snap.com
 !www.sie.com
 !www.similarweb.com

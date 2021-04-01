@@ -26,10 +26,10 @@
 # Format: domain list
 # Version: 21.04.091
 # Release: 091
-# Entries: 10,834
+# Entries: 10,838
 # Pack Code: E84S1C-W
 # License: MIT, https://energized.pro/license
-# Updated: Thu, 01 Apr 21 17:45:59
+# Updated: Thu, 01 Apr 21 23:46:08
 # RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/domains.txt
 # --------------------------------------------
 #
@@ -2024,6 +2024,7 @@ brothersoft.com
 brownfarm.game.line.me
 browser-update.org
 browser.cloud.ucweb.com
+browser.pipe.aria.microsoft.com
 browserapi.micloud.xiaomi.net
 bs.gravatar.com
 bshare.me
@@ -4670,6 +4671,7 @@ ia801005.us.archive.org
 iadsdk.apple.com
 iadsdk.apple.com.edgekey.net
 ib.hulu.com
+ib.snssdk.com
 ib.snssdk.com.edgekey.net
 ib2.hulu.com
 ib3.hulu.com
@@ -6129,6 +6131,7 @@ mpay.ssp.samsung.com
 mproxy.zoho.com
 mps.nbcuni.com
 mpsnare.iesnare.com
+mql5.com
 mqtt-mini.facebook.com
 mqtt-p4.facebook.com
 mqtt.c10r.facebook.com
@@ -10260,6 +10263,7 @@ www.movable-ink-2183.com
 www.movie2k.to
 www.movielabs.com
 www.mozilla.org
+www.mql5.com
 www.msftconnecttest.com
 www.msftncsi.com
 www.msn.com

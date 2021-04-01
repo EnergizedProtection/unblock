@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 21.04.091
 ; Release: 091
-; Entries: 10,834
+; Entries: 10,838
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Thu, 01 Apr 21 17:45:59
+; Updated: Thu, 01 Apr 21 23:46:08
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -2032,6 +2032,7 @@ brothersoft.com CNAME rpz-passthru.
 brownfarm.game.line.me CNAME rpz-passthru.
 browser-update.org CNAME rpz-passthru.
 browser.cloud.ucweb.com CNAME rpz-passthru.
+browser.pipe.aria.microsoft.com CNAME rpz-passthru.
 browserapi.micloud.xiaomi.net CNAME rpz-passthru.
 bs.gravatar.com CNAME rpz-passthru.
 bshare.me CNAME rpz-passthru.
@@ -4678,6 +4679,7 @@ ia801005.us.archive.org CNAME rpz-passthru.
 iadsdk.apple.com CNAME rpz-passthru.
 iadsdk.apple.com.edgekey.net CNAME rpz-passthru.
 ib.hulu.com CNAME rpz-passthru.
+ib.snssdk.com CNAME rpz-passthru.
 ib.snssdk.com.edgekey.net CNAME rpz-passthru.
 ib2.hulu.com CNAME rpz-passthru.
 ib3.hulu.com CNAME rpz-passthru.
@@ -6137,6 +6139,7 @@ mpay.ssp.samsung.com CNAME rpz-passthru.
 mproxy.zoho.com CNAME rpz-passthru.
 mps.nbcuni.com CNAME rpz-passthru.
 mpsnare.iesnare.com CNAME rpz-passthru.
+mql5.com CNAME rpz-passthru.
 mqtt-mini.facebook.com CNAME rpz-passthru.
 mqtt-p4.facebook.com CNAME rpz-passthru.
 mqtt.c10r.facebook.com CNAME rpz-passthru.
@@ -10268,6 +10271,7 @@ www.movable-ink-2183.com CNAME rpz-passthru.
 www.movie2k.to CNAME rpz-passthru.
 www.movielabs.com CNAME rpz-passthru.
 www.mozilla.org CNAME rpz-passthru.
+www.mql5.com CNAME rpz-passthru.
 www.msftconnecttest.com CNAME rpz-passthru.
 www.msftncsi.com CNAME rpz-passthru.
 www.msn.com CNAME rpz-passthru.

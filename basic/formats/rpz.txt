@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 21.04.094
 ; Release: 094
-; Entries: 10,838
+; Entries: 10,840
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Sun, 04 Apr 21 17:45:58
+; Updated: Sun, 04 Apr 21 23:46:06
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -226,6 +226,7 @@ $TTL 2h
 76.org CNAME rpz-passthru.
 79423.analytics.edgesuite.net CNAME rpz-passthru.
 7chan.org CNAME rpz-passthru.
+7zap.com CNAME rpz-passthru.
 91mobiles.com CNAME rpz-passthru.
 9Anime.to CNAME rpz-passthru.
 9gag.com CNAME rpz-passthru.
@@ -6011,6 +6012,7 @@ minecraft.cryptopia.co.nz CNAME rpz-passthru.
 minergate.com CNAME rpz-passthru.
 mineshaft1.cryptopia.co.nz CNAME rpz-passthru.
 mingle.kijiji.ca CNAME rpz-passthru.
+mini.7zap.com CNAME rpz-passthru.
 mini.engadget.com CNAME rpz-passthru.
 miningpoolhub.com CNAME rpz-passthru.
 minion.typekit.com CNAME rpz-passthru.

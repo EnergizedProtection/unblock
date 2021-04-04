@@ -26,10 +26,10 @@
 # Format: personalDNSfilter
 # Version: 21.04.094
 # Release: 094
-# Entries: 10,838
+# Entries: 10,840
 # Pack Code: E84S1C-W
 # License: MIT, https://energized.pro/license
-# Updated: Sun, 04 Apr 21 17:45:58
+# Updated: Sun, 04 Apr 21 23:46:06
 # RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/pdnsf.txt
 # --------------------------------------------
 #
@@ -218,6 +218,7 @@
 !76.org
 !79423.analytics.edgesuite.net
 !7chan.org
+!7zap.com
 !91mobiles.com
 !9Anime.to
 !9gag.com
@@ -6003,6 +6004,7 @@
 !minergate.com
 !mineshaft1.cryptopia.co.nz
 !mingle.kijiji.ca
+!mini.7zap.com
 !mini.engadget.com
 !miningpoolhub.com
 !minion.typekit.com

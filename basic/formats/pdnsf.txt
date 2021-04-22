@@ -26,10 +26,10 @@
 # Format: personalDNSfilter
 # Version: 21.04.112
 # Release: 112
-# Entries: 10,840
+# Entries: 10,841
 # Pack Code: E84S1C-W
 # License: MIT, https://energized.pro/license
-# Updated: Thu, 22 Apr 21 11:50:25
+# Updated: Thu, 22 Apr 21 17:46:05
 # RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/pdnsf.txt
 # --------------------------------------------
 #
@@ -8822,6 +8822,7 @@
 !update.micloud.xiaomi.net
 !update.microsoft.com
 !update.miui.com
+!update.pan.baidu.com
 !update.sonymobile.com
 !update.unisdk.easebar.com
 !update.viber.com

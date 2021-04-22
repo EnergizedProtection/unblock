@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 21.04.112
 ; Release: 112
-; Entries: 10,840
+; Entries: 10,841
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Thu, 22 Apr 21 11:50:25
+; Updated: Thu, 22 Apr 21 17:46:05
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -8830,6 +8830,7 @@ update.kies.samsung.com CNAME rpz-passthru.
 update.micloud.xiaomi.net CNAME rpz-passthru.
 update.microsoft.com CNAME rpz-passthru.
 update.miui.com CNAME rpz-passthru.
+update.pan.baidu.com CNAME rpz-passthru.
 update.sonymobile.com CNAME rpz-passthru.
 update.unisdk.easebar.com CNAME rpz-passthru.
 update.viber.com CNAME rpz-passthru.

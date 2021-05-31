@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 21.05.151
 ; Release: 151
-; Entries: 10,841
+; Entries: 10,846
 ; Pack Code: E84S1C-W
 ; License: MIT, https://energized.pro/license
-; Updated: Mon, 31 May 21 17:45:59
+; Updated: Mon, 31 May 21 23:46:08
 ; RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -1311,6 +1311,7 @@ api.opensubtitles.org CNAME rpz-passthru.
 api.opentok.com CNAME rpz-passthru.
 api.ow.ly CNAME rpz-passthru.
 api.paypal.com CNAME rpz-passthru.
+api.perfalytics.com CNAME rpz-passthru.
 api.pinterest.com CNAME rpz-passthru.
 api.pinterest.com.gslb.pinterest.com CNAME rpz-passthru.
 api.pluto.tv CNAME rpz-passthru.
@@ -6005,6 +6006,7 @@ miitbeian.gov.cn CNAME rpz-passthru.
 mijndomein.nl CNAME rpz-passthru.
 milink.pandora.xiaomi.com CNAME rpz-passthru.
 mimc.chat.xiaomi.net CNAME rpz-passthru.
+mimecast.com CNAME rpz-passthru.
 mimobile.esim.mihome.xiaomi.net CNAME rpz-passthru.
 minapp.com CNAME rpz-passthru.
 mine.nu CNAME rpz-passthru.
@@ -7059,6 +7061,7 @@ profile.api.playstation.com CNAME rpz-passthru.
 profile.blog.naver.com CNAME rpz-passthru.
 profile.citrix.com CNAME rpz-passthru.
 profile.d.xiaomi.net CNAME rpz-passthru.
+profile.line.scdn.net CNAME rpz-passthru.
 profile.target.com CNAME rpz-passthru.
 profit.ndtv.com CNAME rpz-passthru.
 proflowers.com CNAME rpz-passthru.
@@ -7175,6 +7178,7 @@ qiniudns.com CNAME rpz-passthru.
 qiniuts.com CNAME rpz-passthru.
 qiuziti.com CNAME rpz-passthru.
 qiye.xiaomi.com CNAME rpz-passthru.
+qm.qq.co CNAME rpz-passthru.
 qme.mydns.jp CNAME rpz-passthru.
 qos.gcloud.qq.com CNAME rpz-passthru.
 qos.hk.gcloudcs.com CNAME rpz-passthru.
@@ -10257,6 +10261,7 @@ www.mewkid.net CNAME rpz-passthru.
 www.mi.com CNAME rpz-passthru.
 www.microg.org CNAME rpz-passthru.
 www.microsoft.com CNAME rpz-passthru.
+www.mimecast.com CNAME rpz-passthru.
 www.minergate.com CNAME rpz-passthru.
 www.minhngoc.net.vn CNAME rpz-passthru.
 www.minutemediacdn.com CNAME rpz-passthru.

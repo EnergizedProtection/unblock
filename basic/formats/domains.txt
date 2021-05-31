@@ -26,10 +26,10 @@
 # Format: domain list
 # Version: 21.05.151
 # Release: 151
-# Entries: 10,841
+# Entries: 10,846
 # Pack Code: E84S1C-W
 # License: MIT, https://energized.pro/license
-# Updated: Mon, 31 May 21 17:45:59
+# Updated: Mon, 31 May 21 23:46:08
 # RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/domains.txt
 # --------------------------------------------
 #
@@ -1303,6 +1303,7 @@ api.opensubtitles.org
 api.opentok.com
 api.ow.ly
 api.paypal.com
+api.perfalytics.com
 api.pinterest.com
 api.pinterest.com.gslb.pinterest.com
 api.pluto.tv
@@ -5997,6 +5998,7 @@ miitbeian.gov.cn
 mijndomein.nl
 milink.pandora.xiaomi.com
 mimc.chat.xiaomi.net
+mimecast.com
 mimobile.esim.mihome.xiaomi.net
 minapp.com
 mine.nu
@@ -7051,6 +7053,7 @@ profile.api.playstation.com
 profile.blog.naver.com
 profile.citrix.com
 profile.d.xiaomi.net
+profile.line.scdn.net
 profile.target.com
 profit.ndtv.com
 proflowers.com
@@ -7167,6 +7170,7 @@ qiniudns.com
 qiniuts.com
 qiuziti.com
 qiye.xiaomi.com
+qm.qq.co
 qme.mydns.jp
 qos.gcloud.qq.com
 qos.hk.gcloudcs.com
@@ -10249,6 +10253,7 @@ www.mewkid.net
 www.mi.com
 www.microg.org
 www.microsoft.com
+www.mimecast.com
 www.minergate.com
 www.minhngoc.net.vn
 www.minutemediacdn.com

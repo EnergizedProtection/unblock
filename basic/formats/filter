@@ -27,10 +27,10 @@
 ! Version: 21.05.151
 ! Release: 151
 ! Expires: 7 days (update frequency)
-! Entries: 10,841
+! Entries: 10,846
 ! Pack Code: E84S1C-W
 ! License: MIT, https://energized.pro/license
-! Updated: Mon, 31 May 21 17:45:59
+! Updated: Mon, 31 May 21 23:46:08
 ! RAW: https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/filter
 ! --------------------------------------------
 !
@@ -1304,6 +1304,7 @@
 @@||api.opentok.com^
 @@||api.ow.ly^
 @@||api.paypal.com^
+@@||api.perfalytics.com^
 @@||api.pinterest.com^
 @@||api.pinterest.com.gslb.pinterest.com^
 @@||api.pluto.tv^
@@ -5998,6 +5999,7 @@
 @@||mijndomein.nl^
 @@||milink.pandora.xiaomi.com^
 @@||mimc.chat.xiaomi.net^
+@@||mimecast.com^
 @@||mimobile.esim.mihome.xiaomi.net^
 @@||minapp.com^
 @@||mine.nu^
@@ -7052,6 +7054,7 @@
 @@||profile.blog.naver.com^
 @@||profile.citrix.com^
 @@||profile.d.xiaomi.net^
+@@||profile.line.scdn.net^
 @@||profile.target.com^
 @@||profit.ndtv.com^
 @@||proflowers.com^
@@ -7168,6 +7171,7 @@
 @@||qiniuts.com^
 @@||qiuziti.com^
 @@||qiye.xiaomi.com^
+@@||qm.qq.co^
 @@||qme.mydns.jp^
 @@||qos.gcloud.qq.com^
 @@||qos.hk.gcloudcs.com^
@@ -10250,6 +10254,7 @@
 @@||www.mi.com^
 @@||www.microg.org^
 @@||www.microsoft.com^
+@@||www.mimecast.com^
 @@||www.minergate.com^
 @@||www.minhngoc.net.vn^
 @@||www.minutemediacdn.com^
